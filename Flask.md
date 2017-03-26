@@ -1,0 +1,27 @@
+# Flask
+
+
+## Intro
+
+- http://flask.pocoo.org/
+
+
+## Issues
+
+### Broken Pipe
+
+#### Use `threaded`
+
+    app.run(threaded=True)
+
+#### Use `gevent.wsgi` 
+
+    from gevent.wsgi import WSGIServer
+    http_server = WSGIServer(('', 5000), app)
+    http_server.serve_forever()
+
+#### Use other WSGI Server
+
+- http://gunicorn.org/
+- http://projects.unbit.it/uwsgi/
+- http://flask.pocoo.org/docs/0.12/deploying/uwsgi/#configuring-nginx

@@ -1,0 +1,33 @@
+# Learning Programming
+
+
+- https://github.com/leachim6/hello-world
+- https://github.com/stanzhai/be-a-professional-programmer
+- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+- https://learnxinyminutes.com/
+- [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
+- [[译文]程序员能力矩阵 Programmer Competency Matrix](http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm)
+- https://github.com/vhf/free-programming-books
+- https://github.com/nemoTyrant/manong
+- [知识库 - 你身边的技术百科全书 - CSDN](http://lib.csdn.net/)
+- [如何定義 "會" XXX 程式語言 - 大貓共和國](http://blog.miaout17.net/2012/04/02/programming-language/)
+- [程序员必读书单 1.0 - Lucida](http://lucida.me/blog/developer-reading-list/)
+- [编程语言的发展趋势及未来方向（1）：历史回顾及趋势概述 - 老赵点滴 - 追求编程之美](http://blog.zhaojie.me/2010/04/trends-and-future-directions-in-programming-languages-by-anders-1-history-and-trends.html)
+- [raph haXx](http://raph.es/blog/2012/04/on-being-senior/)
+- [Aaron Swartz: howtoget](https://aaronsw.jottit.com/howtoget)
+- [20 controversial programming opinions](http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
+- [2016阿里巴巴73款开源产品全向图-云栖社区](https://m.aliyun.com/yunqi/articles/61022)
+- [一些老梗的私房推薦書...](http://www.hksilicon.com/articles/35423)
+- [LearnHacks](http://leochanit.lofter.com/)
+- [Explore · GitBook](https://www.gitbook.com/explore?lang=all)
+- [lk-geimfari/awesomeo](https://github.com/lk-geimfari/awesomeo)
+- [读书雷达 | 公益+互联网篇](http://insights.thoughtworkers.org/reading-radar-p3/)
+- [工程师成长之路：工作1-3年工程师如何突破瓶颈期？](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ%3D%3D&mid=2653547791&idx=1&sn=8a14104ba13cd1ef634c8991f6700566)
+- [驱动力来自哪里--献给迷茫的程序员](http://insights.thoughtworkers.org/how-to-drive-yourself/)
+- [没有了老师，你该如何学习？](http://insights.thoughtworkers.org/how-to-study-without-teacher/)
+- [技术的执念](http://insights.thoughtworkers.org/obsession-og-technology/)
+- [Love Hotels and Unicode](http://blog.reigndesign.com/blog/love-hotels-and-unicode/)
+- [What every programmer should know about memory, Part 1 [LWN.net]](http://lwn.net/Articles/250967/?rss=1)
+- [來亂者，去死！！ | Rex's blah blah blah](http://blog.nutsfactory.net/2008/05/20/how-open-source-projects-survive-poisonous-people/)
+- [Technical Writer 技术文档工程师-文档中 Copyright 的意思和正确写法](http://www.technicalwriter.cn/blog/post/how-to-right-copyright-in-documents.html)
+- [了解Instagram背后的技术](http://www.infoq.com/cn/news/2012/05/instagram)
