@@ -12,6 +12,7 @@
 
 - https://github.com/getgrav/grav
 - https://github.com/mszep/pandoc_resume
+- https://github.com/thlorenz/doctoc
 
 ### Javascript Markdown Editors
 

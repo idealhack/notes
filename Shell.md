@@ -15,10 +15,16 @@
 - http://zh-google-styleguide.readthedocs.io/en/latest/google-shell-styleguide/
 
 
+## Tools
+
+- https://github.com/robbyrussell/oh-my-zsh
+- https://github.com/sorin-ionescu/prezto
+- https://github.com/nojhan/liquidprompt
+
+
 ## Resources
 
 - https://github.com/jlevy/the-art-of-command-line
-- https://github.com/robbyrussell/oh-my-zsh
 - http://explainshell.com/
 - http://www.freeos.com/guides/lsst/
 - http://linuxcommand.org/

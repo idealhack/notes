@@ -15,3 +15,7 @@
 - https://owncloud.org/
 - https://www.plex.tv/
 - https://www.resilio.com/
+
+## HTPC
+
+- http://htpc.io/

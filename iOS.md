@@ -10,6 +10,11 @@
 - https://github.com/dkhamsing/open-source-ios-apps
 
 
+## Videos
+
+- https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift
+
+
 ### Today Extensions
 
 - [https://www.sitepoint.com/building-today-extension-ios-8/](https://www.sitepoint.com/building-today-extension-ios-8/) 
@@ -21,6 +26,11 @@
 - [iOS 开发流程笔记](https://github.com/leecade/ios-dev-flow)
 - [浅谈 iOS 版本号](http://blog.fir.im/ios-version/)
 - https://github.com/Carthage/Carthage
+
+
+## Libraries
+
+- https://github.com/Uncodin/bypass
 
 
 ## Image
@@ -48,8 +58,23 @@
 
 ### Tools
 
+- https://cocoapods.org/
+- https://github.com/Carthage/Carthage
+- https://github.com/venmo/synx
+- https://github.com/dblock/fui
+- https://github.com/realm/jazzy
+- https://github.com/tomaz/appledoc
 - http://oclint.org/
 - https://github.com/questbeat/Lin
+- https://github.com/square/PonyDebugger
+- https://github.com/alcatraz/Alcatraz
+- https://github.com/CanvasPod/Canvas
+- https://github.com/facebook/xctool
+- https://github.com/facebook/Tweaks
+- https://github.com/vpdn/MMLayershots
+- https://github.com/mattstevens/objc-diff
+- https://github.com/facebook/chisel
+- https://github.com/nst/objc_dep
 
 
 ### 文档
@@ -62,3 +87,9 @@
 
 - [https://github.com/tomaz/appledoc](https://github.com/tomaz/appledoc)
 - [https://github.com/tomaz/appledoc/blob/master/XcodeIntegrationScript.markdown](https://github.com/tomaz/appledoc/blob/master/XcodeIntegrationScript.markdown)
+
+
+## Resources
+
+- https://objccn.io/
+- http://swiftguide.cn/

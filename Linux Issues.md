@@ -12,3 +12,7 @@ iptables & nf_conntrack
 mem
 
 - https://www.mawenbao.com/research/linux-ate-my-memory.html
+
+drm:drm_edid_block_valid
+
+- https://access.redhat.com/solutions/321703

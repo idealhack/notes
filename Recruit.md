@@ -5,7 +5,12 @@
 
 - https://github.com/hawx1993/Front-end-Interview-questions
 - https://github.com/h5bp/Front-end-Developer-Interview-Questions
+- https://github.com/lzyy/iOS-Developer-Interview-Questions
+- https://github.com/alex/what-happens-when
+- https://github.com/skyline75489/what-happens-when-zh_CN
+- https://github.com/ChiperSoft/InterviewThis
 - [Excuse me？这个前端面试在搞事！](https://zhuanlan.zhihu.com/p/25407758)
+- https://github.com/poteto/hiring-without-whiteboards
 
 
 ### [美团点评 OpenDoc - 前端简历评级标准](https://gold.xitu.io/post/58b6679461ff4b006ccd825e)

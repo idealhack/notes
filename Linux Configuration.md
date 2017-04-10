@@ -1,7 +1,7 @@
 # Linux Configuration
 
 
-## 无线网络
+## Wireless Network
 
 查询无线网卡名
 
@@ -30,15 +30,9 @@ http://www.killernetworking.com/driver-downloads/knowledge-base?view=topic&id=2
     sudo vim /etc/apt/sources.list
     sudo apt install dpkg-dev bc libssl-dev
 
-## 禁止内核更新
-
-- https://www.cyberciti.biz/faq/prevent-yum-from-updating-kernel-on-centos-rhel-linux/
-- `sudo apt-mark hold linux-image-generic linux-headers-generic`
-
 
 ## Resources
 
-- [Linux 学习笔记：权限](https://blog.laisky.com/p/linux-premission/)
 - [Linux TCP/IP 协议栈调优](http://colobu.com/2014/09/18/linux-tcpip-tuning/)
 - [The Netflix Tech Blog: Linux Performance Analysis in 60,000 Milliseconds](http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html)
 - [全新CentOS 7安装 LNMP（Linux+Nginx+MariaDB+PHP）及多站点配置](https://www.ifshow.com/the-new-centos-7-install-lnmp-linux-nginx-mariadb-php-and-multi-site-configuration/)

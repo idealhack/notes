@@ -18,10 +18,19 @@
 - [为你的深度学习任务挑选性价比最高GPU_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/1318)
 
 
-## Diver Installation
+## NVIDIA Diver Installation
 
-    wget http://cn.download.nvidia.com/XFree86/Linux-x86_64/375.39/NVIDIA-Linux-x86_64-375.39.run
-    chmod +x NVIDIA-Linux-x86_64-375.39.run
-    sudo apt install gcc make
-    sudo ./NVIDIA-Linux-x86_64-375.39.run
-    sudo apt-mark hold linux-image-generic linux-headers-generic
+http://www.nvidia.com/object/linux-amd64-display-archive.html
+
+    sudo yum update -y                  # CentOS
+    sudo apt update && sudo apt upgrade -y  # Ubuntu
+    sudo reboot
+    sudo yum install -y gcc kernel-devel    # CentOS
+    sudo apt install -y gcc make            # Ubuntu
+    curl -O http://cn.download.nvidia.com/XFree86/Linux-x86_64/375.39/NVIDIA-Linux-x86_64-375.39.run    # verison 375.39
+    curl -O http://cn.download.nvidia.com/XFree86/Linux-x86_64/381.09/NVIDIA-Linux-x86_64-381.09.run    # verison 381.09
+    chmod +x NVIDIA-Linux-x86_64-*.run
+    sudo ./NVIDIA-Linux-x86_64-*.run
+    nvidia-smi
+    sudo sh -c 'echo $'\n'"exclude=kernel*" >> /etc/yum.conf'       # CentOS
+    sudo apt-mark hold linux-image-generic linux-headers-generic    # Ubuntu

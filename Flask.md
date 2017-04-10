@@ -6,6 +6,18 @@
 - http://flask.pocoo.org/
 
 
+## Books
+
+- http://exploreflask.com/
+
+
+## Libraries
+
+- https://github.com/coleifer/flask-peewee
+- https://github.com/kennethreitz/flask-sockets
+- https://github.com/flask-restful/flask-restful
+
+
 ## Issues
 
 ### Broken Pipe

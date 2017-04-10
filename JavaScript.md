@@ -13,16 +13,43 @@
 - http://jswiki.org/
 
 
+## Videos
+
+- https://github.com/bolshchikov/js-must-watch
+- https://github.com/AllThingsSmitty/must-watch-javascript
+
+
 ## Build System
 
-- https://github.com/gulpjs/gulp
+- https://github.com/bower/bower
+- https://github.com/yeoman/yeoman
 - https://github.com/webpack/webpack
 - https://facebook.github.io/watchman/
+
+### Gulp
+
+- https://github.com/gulpjs/gulp
+- https://github.com/twolfson/gulp.spritesmith
+
+### Grunt
+
+- https://github.com/gruntjs/grunt
+- https://github.com/gruntjs/grunt-contrib-imagemin
+- https://github.com/Ensighten/grunt-spritesmith
+
+
+## Documents
+
+- https://github.com/senchalabs/jsduck
 
 
 ## ES6
 
+- http://es6-features.org/
+- https://github.com/addyosmani/es6-tools
+- https://github.com/babel/babel
 - https://github.com/JustinDrake/node-es6-examples
+- https://github.com/nzakas/understandinges6
 
 
 ## Parser
@@ -30,9 +57,24 @@
 - http://esprima.org/
 
 
+## Tools
+
+- http://eslint.org/
+- https://github.com/csnover/TraceKit
+
+
+## Examples
+
+- https://github.com/cheeaun/life
+
+
 ## Resources
 
+### Best Practises
+
+- http://jstherightway.org/
 - https://github.com/spy-js/spy-js
+- https://github.com/simongong/js-stackoverflow-highest-votes
 
 
 作用域

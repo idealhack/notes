@@ -20,6 +20,9 @@
 - [[Commands]]
 - [[Monitoring]]
 - [[Linux Configuration]]
+- [[Linux Permissions]]
+- [[Linux Load Balancing]]
+- [[Linux Security]]
 - [[Backup]]
 - [[Linux Issues]]
 

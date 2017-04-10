@@ -8,14 +8,17 @@
 
 - [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
+
 ## Android
 
 - [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases)
 - [Shadowsocks - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
 
+
 ## macOS
 
 - [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/shadowsocksx-ng/releases)
+
 
 ## iOS
 
@@ -32,3 +35,9 @@
 ### Potatso
 
 - [土豆丝 (Potatso) - 强大的网络工具 on the App Store](https://itunes.apple.com/app/id1070901416)
+
+
+## OpenWrt
+
+- https://github.com/softwaredownload/openwrt-fanqiang
+- https://github.com/lifetyper/FreeRouter_V2

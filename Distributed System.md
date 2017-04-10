@@ -4,6 +4,7 @@
 ## Systems
 
 - [ZooKeeper](https://zookeeper.apache.org/)
+- [etcd](https://github.com/coreos/etcd)
 
 
 ## Raft

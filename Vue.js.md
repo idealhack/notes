@@ -12,6 +12,11 @@
 - https://mint-ui.github.io/
 
 
+## Frameworks
+
+- https://github.com/nuxt/nuxt.js
+
+
 ## Resources
 
 - [SegmentFault 技术周刊 Vol.1 - Vue.js 起手式 - 社区周刊 - SegmentFault](https://segmentfault.com/a/1190000006579616)

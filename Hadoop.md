@@ -14,5 +14,11 @@
 - [[Hbase]]
 - [[Hive]]
 - [[Sqoop]]
+- Hue
 - Impala
 - Presto
+
+
+## Issues
+
+- https://wiki.apache.org/hadoop/ConnectionRefused

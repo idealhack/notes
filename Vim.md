@@ -11,6 +11,12 @@
 - https://github.com/mhinz/vim-galore
 
 
+## Common Tasks
+
+- Replace all: `:%s/foo/bar/g`
+- Save as root: `:w !sudo tee %`
+
+
 ## Forks
 
 - https://github.com/neovim/neovim

@@ -10,6 +10,10 @@
 - [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
 - [Theano](https://github.com/Theano/Theano)
 - [keras](https://github.com/fchollet/keras)
+- [H2O](https://www.h2o.ai/)
+- https://github.com/scikit-learn/scikit-learn
+- https://github.com/clips/pattern
+- https://github.com/simpleai-team/simpleai
 
 
 ### TensorFlow

@@ -10,7 +10,7 @@ Using APIs
 Publishing HTTP API
 
 - [[RAML]]
-- [Swagger - The World's Most Popular Framework for APIs.](http://swagger.io/)
+- [Swagger](http://swagger.io/)
 - [lord/slate](https://github.com/lord/slate)
-- [Convertron - The API Transformer](https://apitransformer.com/)
+- [Convertron](https://apitransformer.com/)
 - [[SSL]]

@@ -6,9 +6,30 @@
 - https://git-scm.com/
 
 
-## Extensions
+## Servers
+
+- https://about.gitlab.com/
+- https://gogs.io/
+
+
+## Goodies
 
 - https://github.com/mapmeld/gitjk
+- https://jonas.github.io/tig/
+- https://github.com/FredrikNoren/ungit
+- https://github.com/arnoo/git-deliver
+- https://github.com/mhagger/git-imerge
+- https://github.com/kennethreitz/legit
+
+
+## Configs
+
+    git config --global alias.up 'pull --rebase --autostash'
+
+
+## GitHub
+
+- https://github.com/tiimgreen/github-cheat-sheet
 
 
 ## Resources
@@ -28,3 +49,5 @@
 - [Gource - a software version control visualization tool](http://gource.io/)
 - [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes/)
 - [A collection of useful .gitignore templates](https://github.com/github/gitignore)
+- https://github.com/pcottle/learnGitBranching
+- https://github.com/k88hudson/git-flight-rules

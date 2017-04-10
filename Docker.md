@@ -11,20 +11,12 @@
 - https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
 - http://blog.thonatos.com/dockerizing-a-node-js-web-app/
 
+### [[Docker Installation]]
+
 ### Registry
 
 - https://docs.docker.com/registry/
 - http://int32bit.me/2016/04/18/%E4%BD%BF%E7%94%A8Harbor%E6%9E%84%E5%BB%BA%E7%A7%81%E6%9C%89%E9%95%9C%E5%83%8F%E4%BB%93%E5%BA%93/
-
-### Mirrors
-
-- https://lug.ustc.edu.cn/wiki/mirrors/help/docker
-- https://github.com/DaoCloud/help.daocloud.io/blob/master/src/intro/accelerator.md
-- http://www.datastart.cn/tech/2016/09/28/docker-mirror.html
-
-### GPU
-
-- https://github.com/NVIDIA/nvidia-docker
 
 ### Monitoring
 
@@ -91,6 +83,8 @@ https://book.douban.com/subject/26825958/
 - https://github.com/veggiemonk/awesome-docker
 - http://www.dockerinfo.net/
 - http://dockone.io/
+- http://dokku.viewdocs.io/dokku/
+- https://github.com/portainer/portainer
 
 ### Best Practise
 
@@ -99,7 +93,7 @@ https://book.douban.com/subject/26825958/
 - http://blog.cloud66.com/how-to-get-code-into-a-docker-container/
 
 
-## Commands
+## Common Tasks
 
 ### stop and remove all containers / images
 
@@ -108,3 +102,14 @@ https://book.douban.com/subject/26825958/
     docker rmi  $(docker images -q)
 
 https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
+
+    docker system prune
+
+### Save and load
+
+    docker save -o <save image to path> <image name>
+    docker load -i
+
+or
+
+    docker save <image> | bzip2 | pv | ssh user@host 'bunzip2 | docker load'

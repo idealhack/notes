@@ -1,7 +1,9 @@
 # Tech Blogs
 
 
-## Personal
+## Blogs
+
+### Personal
 
 - https://github.com/nekocode/nekoblog
 - https://pannzh.github.io/
@@ -10,15 +12,27 @@
 - http://jaseywang.me/
 - http://caicai.me/
 - http://blog.thonatos.com/
+- https://nickcraver.com/
 
-## Company
- 
+### Company
+
+- https://github.com/kilimchoi/engineering-blogs
 - http://www.getui.com/cn/industryInfo.html?articleTypeId=1
 - https://zhuanlan.zhihu.com/elemeued
+- https://blog.fogcreek.com/
+- https://robots.thoughtbot.com/
 
-
-## Media
+### Media
 
 - http://www.52cs.org/
 - http://www.devtf.cn/
 - http://tr.colobu.com/
+
+### JavaScript
+
+- https://ponyfoo.com/
+
+
+## Feeds
+
+- https://github.com/paulirish/frontend-feeds

@@ -1,23 +1,59 @@
 # Learning Programming
 
 
+## Books
+
+- https://github.com/vhf/free-programming-books
+- https://github.com/justjavac/free-programming-books-zh_CN
+- [程序员必读书单 1.0 - Lucida](http://lucida.me/blog/developer-reading-list/)
+- [一些老梗的私房推薦書...](http://www.hksilicon.com/articles/35423)
+
+### InfoQ
+
+- 《人件》
+- 《进化》
+- 《凤凰项目》
+- 《黑客与画家》
+- 《软件随想录》
+- 《DevOps实践》
+- 《只是为了好玩》
+- 《系统化思维导论》
+- 《程序员思维修炼》
+- 《软件开发本质论》
+- 《大型网站技术架构》
+- 《系统运维全面解析》
+- 《Linux运维最佳实践》
+- 《高效程序员的45个习惯》
+- 《SRE：Google运维解密》
+
+
+## Resources
+
 - https://github.com/leachim6/hello-world
 - https://github.com/stanzhai/be-a-professional-programmer
+- https://github.com/TeamStuQ/skill-map
+- https://github.com/rxin/db-readings
+- https://man.cx/
+- http://devdocs.io/
+- https://github.com/PharkMillups/beautiful-docs
+- http://techstacks.io/
+- https://stackshare.io/
+- https://github.com/JuanitoFatas/Computer-Science-Glossary/blob/master/dict.textile
+- https://github.com/cjbarber/ToolsOfTheTrade
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - https://learnxinyminutes.com/
+- https://thoughtbot.com/playbook
+- https://github.com/zenany/weekly
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 - [[译文]程序员能力矩阵 Programmer Competency Matrix](http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm)
-- https://github.com/vhf/free-programming-books
 - https://github.com/nemoTyrant/manong
 - [知识库 - 你身边的技术百科全书 - CSDN](http://lib.csdn.net/)
 - [如何定義 "會" XXX 程式語言 - 大貓共和國](http://blog.miaout17.net/2012/04/02/programming-language/)
-- [程序员必读书单 1.0 - Lucida](http://lucida.me/blog/developer-reading-list/)
 - [编程语言的发展趋势及未来方向（1）：历史回顾及趋势概述 - 老赵点滴 - 追求编程之美](http://blog.zhaojie.me/2010/04/trends-and-future-directions-in-programming-languages-by-anders-1-history-and-trends.html)
 - [raph haXx](http://raph.es/blog/2012/04/on-being-senior/)
 - [Aaron Swartz: howtoget](https://aaronsw.jottit.com/howtoget)
 - [20 controversial programming opinions](http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
 - [2016阿里巴巴73款开源产品全向图-云栖社区](https://m.aliyun.com/yunqi/articles/61022)
-- [一些老梗的私房推薦書...](http://www.hksilicon.com/articles/35423)
 - [LearnHacks](http://leochanit.lofter.com/)
 - [Explore · GitBook](https://www.gitbook.com/explore?lang=all)
 - [lk-geimfari/awesomeo](https://github.com/lk-geimfari/awesomeo)

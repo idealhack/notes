@@ -2,6 +2,7 @@
 
 
 - [[Python]]
+- [[Ruby]]
 - [[Node.js]]
 - [[Go]]
 - [[Database]]

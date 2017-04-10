@@ -3,4 +3,6 @@
 
 ## Applications
 
+- BitTorrent
+- BitCoin (Blockchain)
 - https://ipfs.io/

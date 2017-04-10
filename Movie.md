@@ -11,3 +11,4 @@
 
 - [卫西谛：15年来最获好评的150部电影](https://www.douban.com/doulist/675149/)
 - [学建筑需看的150电影](https://www.douban.com/doulist/154684/)
+- [Movies For Hackers](https://github.com/k4m4/movies-for-hackers)
