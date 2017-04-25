@@ -21,6 +21,7 @@
 - https://zhuanlan.zhihu.com/elemeued
 - https://blog.fogcreek.com/
 - https://robots.thoughtbot.com/
+- https://tech.shutterstock.com/blog/
 
 ### Media
 

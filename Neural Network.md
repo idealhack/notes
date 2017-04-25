@@ -12,6 +12,8 @@
 - https://github.com/anishathalye/neural-style
 - https://github.com/davheld/GOTURN
 - https://github.com/kaonashi-tyc/zi2zi
+- https://github.com/koth/kcws
+- https://github.com/luanfujun/deep-photo-styletransfer
 
 
 ## Papers

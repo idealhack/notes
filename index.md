@@ -1,12 +1,5 @@
-# idealhack’s wiki
+# index
 
-
-## Intro
-
-A personal wiki using [[Markdown]], [[nvALT]] and Simplenote.
-
-
-## Topics
 
 - [[Bookmarks]]
 - [[Programming]]
@@ -25,10 +18,3 @@ A personal wiki using [[Markdown]], [[nvALT]] and Simplenote.
 - [[Travel]]
 - [[Games]]
 - [[Life]]
-
-
-## P.S.
-
-Many notes have not been imported yet.
-
-There may be a website later on. As for now, just browse the files.

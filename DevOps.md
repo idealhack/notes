@@ -13,6 +13,7 @@
 - https://puppet.com/
 - https://www.chef.io/chef/
 - http://supervisord.org/
+- https://github.com/shipitjs/shipit
 
 
 ## Resources

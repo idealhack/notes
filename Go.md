@@ -12,6 +12,7 @@
 - https://github.com/benmanns/goworker
 - https://github.com/nareix/joy4
 - http://gonet2.github.io/
+- https://github.com/valyala/fasthttp
 
 
 ## Resources

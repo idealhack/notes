@@ -5,6 +5,7 @@
 
 - https://github.com/desktoppr/wbench
 - https://www.sitespeed.io/
+- https://github.com/addyosmani/psi
 
 
 ## Resources

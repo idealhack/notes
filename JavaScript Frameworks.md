@@ -10,15 +10,27 @@ http://todomvc.com/
 - [[React]]
 - [[React Native]]
 - [[Vue.js]]
+- https://github.com/RubyLouvre/avalon
 - https://weex.apache.org/
 - http://zeptojs.com/
+- http://riotjs.com/
+- http://www.emberjs.com/
 - http://knockoutjs.com/
+- http://amazeui.org/
+- http://brunch.io/
+- https://github.com/BlueSpire/Durandal
+- https://github.com/geddy/geddy
+- https://github.com/twbs/ratchet
 - https://www.polymer-project.org/
 - https://github.com/meteor/meteor
 - https://github.com/nwjs/nw.js
+- https://github.com/flatiron/flatiron
 - https://github.com/01org/appframework
 - http://framework7.io/
 - http://phaser.io/
+- https://github.com/enyojs/enyo
+- https://github.com/derbyjs/derby
+- https://github.com/spine/spine
 
 ### Testing
 

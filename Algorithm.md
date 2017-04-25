@@ -6,6 +6,11 @@
 - http://paperswelove.org/
 
 
+## Libraries
+
+- https://github.com/felipernb/algorithms.js
+
+
 ## Tools
 
 - https://github.com/parkjs814/AlgorithmVisualizer

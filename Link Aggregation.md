@@ -17,5 +17,3 @@ https://www.kernel.org/doc/Documentation/networking/bonding.txt
 - http://www.linuxtechi.com/configure-nic-bonding-in-centos-7-rhel-7/
 - https://www.cyberciti.biz/tips/linux-bond-or-team-multiple-network-interfaces-nic-into-single-interface.html
 - https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Deployment_Guide/s2-networkscripts-interfaces-chan.html
-
-### Ubuntu

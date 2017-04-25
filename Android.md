@@ -19,6 +19,11 @@
 - https://github.com/Uncodin/bypass
 
 
+## Tools
+
+- https://github.com/vladikoff/chromeos-apk
+
+
 ## Resources
 
 - https://github.com/codepath/android_guides

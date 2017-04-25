@@ -5,6 +5,7 @@
 - [[Icons]]
 - [[Mobile Apps Design]]
 - [[Design Tools]]
+- [[Design Resources]]
 
 
 ## Resources

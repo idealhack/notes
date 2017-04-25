@@ -19,6 +19,7 @@
 
 - https://github.com/angular-ui/ui-router
 - https://github.com/rdash/rdash-angular
+- https://github.com/sroze/ngInfiniteScroll
 
 
 ## Resources

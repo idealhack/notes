@@ -5,6 +5,7 @@
 - [ccv](http://libccv.org/)
 - [DIGITS](https://github.com/NVIDIA/DIGITS)
 - [Caffe](http://caffe.berkeleyvision.org/)
+- [Caffe2](https://github.com/caffe2/caffe2)
 - [MXNet](http://mxnet.io/)
 - [dlib](http://dlib.net/)
 - [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)

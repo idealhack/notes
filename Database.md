@@ -3,8 +3,7 @@
 
 - [[MySQL]]
 - [[NoSQL]]
-- https://rethinkdb.com/
-- http://opentsdb.net/
+- [[Time series database]]
 
 
 ## Resources

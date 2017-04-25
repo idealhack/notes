@@ -5,6 +5,7 @@
 
 - https://github.com/vhf/free-programming-books
 - https://github.com/justjavac/free-programming-books-zh_CN
+- https://github.com/it-ebooks/it-ebooks-archive
 - [程序员必读书单 1.0 - Lucida](http://lucida.me/blog/developer-reading-list/)
 - [一些老梗的私房推薦書...](http://www.hksilicon.com/articles/35423)
 

@@ -8,13 +8,18 @@
 - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 
+## Editors
+
+- https://github.com/joemccann/dillinger
+
+
 ## Resources
 
 - https://github.com/getgrav/grav
 - https://github.com/mszep/pandoc_resume
 - https://github.com/thlorenz/doctoc
 
-### Javascript Markdown Editors
+### Javascript Markdown editors
 
 - https://github.com/NextStepWebs/simplemde-markdown-editor
 - https://github.com/OscarGodson/EpicEditor

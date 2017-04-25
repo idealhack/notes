@@ -11,6 +11,7 @@
 - https://github.com/getify/You-Dont-Know-JS
 - https://github.com/no-particular/javascript-patterns
 - http://jswiki.org/
+- https://github.com/marijnh/Eloquent-JavaScript
 
 
 ## Videos
@@ -60,12 +61,19 @@
 ## Tools
 
 - http://eslint.org/
+- http://jshint.com/
+- https://github.com/jsdoc3/jsdoc
+- https://github.com/tj/dox
+- https://github.com/dtao/autodoc
+- https://github.com/mishoo/UglifyJS2
 - https://github.com/csnover/TraceKit
 
 
 ## Examples
 
 - https://github.com/cheeaun/life
+- https://github.com/aosabook/500lines
+- https://github.com/kolodny/exercises
 
 
 ## Resources

@@ -30,6 +30,12 @@ SEO
 - https://github.com/coolwanglu/pdf2htmlEX
 
 
+## Tools
+
+- http://www.initializr.com/
+- http://www.extensionizr.com/
+
+
 ## Resources
 
 - https://github.com/audreyr/favicon-cheat-sheet

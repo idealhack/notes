@@ -31,8 +31,10 @@ Setps on CentOS:
     nvidia-docker run --rm nvidia/cuda nvidia-smi
 
 
-## Config Mirror
+## Configure Mirror
 
-- https://lug.ustc.edu.cn/wiki/mirrors/help/docker
-- https://github.com/DaoCloud/help.daocloud.io/blob/master/src/intro/accelerator.md
-- http://www.datastart.cn/tech/2016/09/28/docker-mirror.html
+    sudo sh -c 'cat > /etc/docker/daemon.json << EOL
+    {
+      "registry-mirrors": ["https://docker.mirrors.ustc.edu.cn"]
+    }
+    EOL'

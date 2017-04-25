@@ -10,6 +10,7 @@
 
 - https://github.com/zeit/next.js
 - https://draftjs.org/
+- https://github.com/facebook/flux
 
 
 ## Resources

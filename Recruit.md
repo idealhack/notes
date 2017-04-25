@@ -9,6 +9,7 @@
 - https://github.com/alex/what-happens-when
 - https://github.com/skyline75489/what-happens-when-zh_CN
 - https://github.com/ChiperSoft/InterviewThis
+- https://github.com/blakeembrey/code-problems
 - [Excuse me？这个前端面试在搞事！](https://zhuanlan.zhihu.com/p/25407758)
 - https://github.com/poteto/hiring-without-whiteboards
 

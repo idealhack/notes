@@ -70,13 +70,16 @@
 - https://github.com/quantopian/zipline
 - https://github.com/gevent/gevent
 - https://github.com/numba/numba
+- https://github.com/pandas-dev/pandas
 - https://github.com/coleifer/peewee
 - https://github.com/joke2k/faker
+- https://github.com/squeaky-pl/japronto
 
 ### scrapy
 
 - https://github.com/scrapy/scrapy
 - https://github.com/scrapinghub/portia
+- https://github.com/xiyouMc/PornHubBot
 
 
 ## Style Guide

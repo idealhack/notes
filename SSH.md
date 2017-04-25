@@ -3,36 +3,42 @@
 
 ## Common Tasks
 
-### 调试方法
+### Debugging
 
     sshd -ddd
     ssh user@host -vvv
 
 
-### 使用 RSA key 认证
+### Use RSA key authentication
 
     ssh-keygen -t rsa
     ssh-copy-id user@host
 
 
-### 禁用密码登录
+### Disable password login
 
     vim /etc/ssh/sshd_config
     systemctl reload sshd
+
+### Show fignerprint
+
+    ssh-keygen -E md5 -lf ~/.ssh/id_rsa.pub
 
 
 ## Tools
 
 - https://github.com/emre/storm
+- http://fitztrev.github.io/shuttle/
+- http://liftoffsoftware.com/Products/GateOne
 
 
 ## Issues
 
-### 禁用 DNS 以免登录缓慢
+### Disable DNS in case of slow login
 
     vim /etc/ssh/sshd_config
     UseDNS no
 
-### 解决 Ubuntu home 目录加密问题
+### Ubuntu encrypted home directory
 
-`authorized_keys` 放在 home 目录外 https://help.ubuntu.com/community/SSH/OpenSSH/Keys#Troubleshooting
+Put `authorized_keys` out of `home` https://help.ubuntu.com/community/SSH/OpenSSH/Keys#Troubleshooting

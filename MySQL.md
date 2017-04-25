@@ -17,7 +17,6 @@
 - https://dev.mysql.com/doc/refman/5.5/en/general-thread-states.html
 - http://imysql.com/2015/06/10/mysql-faq-processlist-thread-states.shtml
 
-
 ### 备份 master 数据库
 
 https://dev.mysql.com/doc/refman/5.7/en/replication-solutions-backups-read-only.html
@@ -29,7 +28,12 @@ https://dev.mysql.com/doc/refman/5.7/en/replication-solutions-backups-read-only.
     mysql -uroot -ppassword --database=database -e "SET GLOBAL read_only = OFF; UNLOCK TABLES;"
 
 
+## Tools
+
+- [MYCAT](http://mycat.io/)
+
+
 ## Resources
 
-[21分钟MySQL基础入门 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000006876419)
-[MYCAT官方网站-中国第一开源分布式数据库中间件](http://mycat.io/)
+- [21分钟MySQL基础入门 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000006876419)
+- http://www.xbitworld.com/?p=919

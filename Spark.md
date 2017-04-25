@@ -26,13 +26,43 @@
 - https://gist.github.com/clakech/4a4568daba1ca108f03c
 
 
+## GPU
+
+### Numba
+
+- https://en.wikipedia.org/wiki/Numba
+- http://numba.pydata.org/
+- https://github.com/numba/numba
+
+- https://www.slideshare.net/continuumio/gpu-computing-with-apache-spark-and-python
+- https://spark-summit.org/2016/events/gpu-computing-with-apache-spark-and-python/
+- http://www.spark.tc/gpu-acceleration-on-apache-spark-2/
+- https://deeplearning4j.org/cn/spark-gpus
+- https://www.youtube.com/watch?v=k6IOWblLQK8
+- https://www.youtube.com/watch?v=PPQRi484bNo
+
+
 ## Books
 
 - https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 
 
+## REST interface
+
+### Livy
+
+- https://github.com/cloudera/livy
+- https://www.slideshare.net/cloudera/building-a-rest-job-server-for-interactive-spark-as-a-service
+
+### spark-jobserver
+
+- https://github.com/spark-jobserver/spark-jobserver
+- https://github.com/spark-jobserver/python-sjsclient
+
+
 ## Resources
 
+- https://sparkhub.databricks.com/
 - http://www.infoq.com/cn/articles/apache-spark-introduction
 - http://vra.github.io/2016/06/16/spark/
 - http://ampcamp.berkeley.edu/big-data-mini-course/index.html

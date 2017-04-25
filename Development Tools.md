@@ -14,6 +14,11 @@
 - [[Notational Velocity]]
 - http://brackets.io/
 
+### Color Schemes
+
+- https://github.com/daylerees/colour-schemes
+- http://chriskempson.com/projects/base16/
+
 
 ## dotfiles
 
@@ -28,6 +33,9 @@
 
 - https://github.com/ripienaar/free-for-dev
 - https://www.vagrantup.com/
+- https://zeit.co/now
+- https://github.com/localtunnel/localtunnel
+- http://novnc.com/info.html
 - https://github.com/afc163/fanyi
 - https://github.com/sparanoid/automator-workflows
 - https://github.com/sindresorhus/quick-look-plugins
@@ -36,7 +44,7 @@
 - https://github.com/dgorissen/coursera-dl
 - https://github.com/tldr-pages/tldr
 - https://github.com/gleitz/howdoi
-- http://fitztrev.github.io/shuttle/
+- https://github.com/btford/write-good
 - https://github.com/stedolan/jq
 - https://github.com/dinedal/textql
 - https://github.com/peco/peco
@@ -49,11 +57,6 @@
 - https://github.com/BBC-News/wraith
 - https://github.com/pickhardt/betty
 - http://beets.io/
-
-
-## Color Schemes
-
-- http://chriskempson.com/projects/base16/
 
 
 ## Resources

@@ -7,6 +7,13 @@
 - [Face perception - Wikipedia](https://en.wikipedia.org/wiki/Face_perception)
 
 
+## Libraries
+
+- https://github.com/cmusatyalab/openface/
+- https://github.com/liuliu/ccv
+- https://github.com/ageitgey/face_recognition
+
+
 ## Resources
 
 - [Face Alignment at 3000 FPS via Regressing Local Binary Features](http://www.jiansun.org/papers/CVPR14_FaceAlignment.pdf)

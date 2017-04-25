@@ -8,7 +8,6 @@
 - [[JavaScript]]
 - [[Canvas]]
 - [[Frontend Style Guide]]
-- [[UI Frameworks]]
 - [[Mobile Web]]
 - [[Browsers]]
 - [[Web Cache]]

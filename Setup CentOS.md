@@ -25,6 +25,11 @@
 
     sudo yum install epel-release
 
+### Remi Repo
+
+    wget http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
+    sudo rpm -Uvh remi-release-7*.rpm
+
 ### CPU benchmark
 
     sudo yum install sysbench lm_sensors

@@ -13,3 +13,8 @@
 ## Docker
 
 - https://github.com/floydhub/dl-docker
+
+
+## Books
+
+- https://exacity.github.io/deeplearningbook-chinese/

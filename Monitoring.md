@@ -16,6 +16,8 @@
 - https://my-netdata.io/
 - https://github.com/prometheus/prometheus
 - http://bosun.org/
+- riemann
+- heka
 - https://github.com/arachnys/cabot
 - https://sensuapp.org/
 - https://github.com/netflix/vector

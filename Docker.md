@@ -10,6 +10,9 @@
 
 - https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
 - http://blog.thonatos.com/dockerizing-a-node-js-web-app/
+- http://www.widuu.com/docker/userguide/index.html
+- https://www.gitbook.com/book/yeasy/docker_practice/details
+- https://www.gitbook.com/book/octowhale/doc2cn_docker/details
 
 ### [[Docker Installation]]
 

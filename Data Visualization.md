@@ -16,3 +16,13 @@
 - https://github.com/square/cubism
 - https://github.com/jlord/sheetsee.js
 - https://github.com/almende/vis
+- https://github.com/gionkunz/chartist-js
+- https://github.com/chartjs/Chart.js
+- https://github.com/mozilla/metrics-graphics
+- https://github.com/shutterstock/rickshaw
+- https://github.com/novus/nvd3
+- https://github.com/dc-js/dc.js
+- https://github.com/mikesall/charted
+- https://github.com/joewalnes/smoothie
+- https://github.com/Quartz/Chartbuilder
+

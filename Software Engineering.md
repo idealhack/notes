@@ -1,6 +1,7 @@
 # Software Engineering
 
 
+- [[System Architect]]
 - [[Design Patterns]]
 - [[Architecture Patterns]]
 
