@@ -1,7 +1,7 @@
 # Sqoop
 
 
-### Intro
+## Overview
 
 - http://sqoop.apache.org/
 

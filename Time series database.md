@@ -1,7 +1,7 @@
 # Time series database
 
 
-## Intro
+## Overview
 
 - https://en.wikipedia.org/wiki/Time_series_database
 

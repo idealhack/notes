@@ -1,7 +1,7 @@
 # Nginx
 
 
-## Intro
+## Overview
 
 - [NGINX](http://nginx.org/)
 

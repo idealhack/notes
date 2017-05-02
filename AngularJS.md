@@ -1,7 +1,7 @@
 # AngularJS
 
 
-## Intro
+## Overview
 
 - https://github.com/angular/angular.js
 - https://github.com/angular/angular-seed

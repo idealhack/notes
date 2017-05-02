@@ -75,6 +75,15 @@
 - https://github.com/joke2k/faker
 - https://github.com/squeaky-pl/japronto
 
+### Scipy
+
+- http://www.numpy.org/
+- https://scipy.org/scipylib/index.html
+- http://matplotlib.org/
+- http://ipython.org/
+- http://www.sympy.org/en/index.html
+- http://pandas.pydata.org/
+
 ### scrapy
 
 - https://github.com/scrapy/scrapy

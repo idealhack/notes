@@ -1,7 +1,7 @@
 # Hive
 
 
-## Intro
+## Overview
 
 - https://hive.apache.org/
 

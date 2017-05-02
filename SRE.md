@@ -1,7 +1,7 @@
 # SRE
 
 
-## Intro
+## Overview
 
 - https://landing.google.com/sre/
 - https://en.wikipedia.org/wiki/Site_reliability_engineering

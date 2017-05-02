@@ -1,5 +1,7 @@
-# Installing Ubuntu on Macbook Pro
+# Ubuntu on Macbook
 
+
+## Installing
 
 - [Install LinuxMint MacBook (LinuxMint 17.3) - Techonia](https://www.techonia.com/960/install-linuxmint-macbook)
 - [Ubuntu 16.04 configurations on Macbook Pro 10,1](https://gist.github.com/0x414A/7b5a24bd23477c6c9f79eb1bde821e22)

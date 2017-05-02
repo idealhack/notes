@@ -1,7 +1,7 @@
 # Open-source Licenses
 
 
-## Intro
+## Overview
 
 - https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses
 

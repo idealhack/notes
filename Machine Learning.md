@@ -10,6 +10,9 @@
 ## [[Machine Learning Frameworks]]
 
 
+## [[Deep Learning Frameworks]]
+
+
 ## Docker
 
 - https://github.com/floydhub/dl-docker
@@ -18,3 +21,10 @@
 ## Books
 
 - https://exacity.github.io/deeplearningbook-chinese/
+
+
+## Resources
+
+- https://github.com/josephmisiti/awesome-machine-learning
+- https://github.com/donnemartin/data-science-ipython-notebooks
+- http://feisky.xyz/machine-learning/index.html

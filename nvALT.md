@@ -1,7 +1,7 @@
 # nvALT
 
 
-## Intro
+## Overview
 
 - http://notational.net/
 - http://brettterpstra.com/projects/nvalt/

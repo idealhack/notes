@@ -1,7 +1,7 @@
 # Cassandra
 
 
-## Intro
+## Overview
 
 - http://cassandra.apache.org/
 - https://en.wikipedia.org/wiki/Apache_Cassandra

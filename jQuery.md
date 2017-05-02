@@ -1,7 +1,7 @@
 # jQuery
 
 
-## Intro
+## Overview
 
 - https://github.com/jquery/jquery
 - https://github.com/jquery/jquery-mobile

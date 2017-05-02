@@ -1,10 +1,21 @@
 # Games
 
 
+## Platforms
+
 - Steam
+- http://openemu.org/
+
+
+## Games
+
 - [[Ingress]]
 - [[Pokémon GO]]
-- [[Games to play]]
 - https://github.com/doublespeakgames/adarkroom
 - https://github.com/fogleman/Craft
-- http://openemu.org/
+
+
+## Resources
+
+- [[Games to play]]
+- https://m.douban.com/page/4sgukia

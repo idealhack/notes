@@ -1,7 +1,7 @@
 # Bootstrap
 
 
-## Intro
+## Overview
 
 - http://getbootstrap.com/
 

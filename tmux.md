@@ -1,7 +1,7 @@
 # tmux
 
 
-## Intro
+## Overview
 
 - https://tmux.github.io/
 - https://en.wikipedia.org/wiki/Tmux

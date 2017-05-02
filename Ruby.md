@@ -1,7 +1,7 @@
 # Ruby
 
 
-## Intro
+## Overview
 
 - https://www.ruby-lang.org/
 - https://github.com/markets/awesome-ruby

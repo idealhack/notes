@@ -1,7 +1,7 @@
 # Git
 
 
-## Intro
+## Overview
 
 - https://git-scm.com/
 

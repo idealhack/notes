@@ -1,7 +1,7 @@
 # Linux Load Balancing
 
 
-## Intro
+## Overview
 
 - http://xstarcd.github.io/wiki/sysadmin/LVS_Nginx_HAProxy_comp.html
 - https://access.redhat.com/documentation/zh-TW/Red_Hat_Enterprise_Linux/7/html/Load_Balancer_Administration/index.html

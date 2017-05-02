@@ -1,7 +1,7 @@
 # DC/OS
 
 
-## Intro
+## Overview
 
 - [DC/OS](https://dcos.io/)
 - [Datacenter Operating System - Wikipedia](https://en.wikipedia.org/wiki/Datacenter_Operating_System)

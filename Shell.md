@@ -1,7 +1,7 @@
 # Shell
 
 
-## Intro
+## Overview
 
 - https://en.wikipedia.org/wiki/Shell_script
 - https://github.com/qinjx/30min_guides/blob/master/shell.md

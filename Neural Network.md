@@ -1,7 +1,7 @@
 # Neural Network
 
 
-## Intro
+## Overview
 
 - [人工神经网络 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
 

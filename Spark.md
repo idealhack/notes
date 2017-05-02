@@ -1,7 +1,7 @@
 # Spark
 
 
-## Intro
+## Overview
 
 - http://spark.apache.org/
 - https://zh.wikipedia.org/wiki/Apache_Spark
@@ -13,20 +13,20 @@
 - http://spark.apache.org/docs/latest/
 
 
-## Mesos
+## Libraries
+
+- https://github.com/intel-analytics/BigDL
+
+### Mesos
 
 - http://spark.apache.org/docs/latest/running-on-mesos.html
 
-
-## Cassandra
+### Cassandra
 
 - https://academy.datastax.com/resources/getting-started-apache-spark-and-cassandra?unit=getting-started-apache-spark-and-cassandra
 - https://github.com/datastax/spark-cassandra-connector
 - https://www.youtube.com/watch?v=_gFgU3phogQ
 - https://gist.github.com/clakech/4a4568daba1ca108f03c
-
-
-## GPU
 
 ### Numba
 
@@ -41,23 +41,30 @@
 - https://www.youtube.com/watch?v=k6IOWblLQK8
 - https://www.youtube.com/watch?v=PPQRi484bNo
 
+### REST interface
+
+#### Livy
+
+- https://github.com/cloudera/livy
+- https://www.slideshare.net/cloudera/building-a-rest-job-server-for-interactive-spark-as-a-service
+
+#### spark-jobserver
+
+- https://github.com/spark-jobserver/spark-jobserver
+- https://github.com/spark-jobserver/python-sjsclient
+
 
 ## Books
 
 - https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
 
 
-## REST interface
+## Applications
 
-### Livy
+### Similarity
 
-- https://github.com/cloudera/livy
-- https://www.slideshare.net/cloudera/building-a-rest-job-server-for-interactive-spark-as-a-service
-
-### spark-jobserver
-
-- https://github.com/spark-jobserver/spark-jobserver
-- https://github.com/spark-jobserver/python-sjsclient
+- https://my.oschina.net/penngo/blog/807810
+- https://github.com/apache/spark/blob/master/examples/src/main/scala/org/apache/spark/examples/mllib/CosineSimilarity.scala
 
 
 ## Resources

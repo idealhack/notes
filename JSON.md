@@ -1,7 +1,7 @@
 # JSON
 
 
-## Intro
+## Overview
 
 - http://json.org/
 - https://github.com/douglascrockford/JSON-js

@@ -1,7 +1,7 @@
 # Redis
 
 
-## Intro
+## Overview
 
 - https://redis.io/
 - http://redisdoc.com/

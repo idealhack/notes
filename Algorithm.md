@@ -1,6 +1,10 @@
 # Algorithm
 
 
+## Algorithms
+
+- [[Cosine similarity]]
+
 ## Papers
 
 - http://paperswelove.org/

@@ -1,7 +1,7 @@
 # Rancher
 
 
-## Intro
+## Overview
 
 - http://rancher.com/
 

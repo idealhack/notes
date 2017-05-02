@@ -1,7 +1,7 @@
 # Designing Restful API
 
 
-## Intro
+## Overview
 
 - [Representational state transfer - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
 

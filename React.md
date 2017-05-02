@@ -1,7 +1,7 @@
 # React
 
 
-## Intro
+## Overview
 
 - https://github.com/facebook/react
 

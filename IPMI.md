@@ -1,7 +1,7 @@
 # IPMI
 
 
-## Intro
+## Overview
 
 - https://zh.wikipedia.org/wiki/IPMI
 - https://en.wikipedia.org/wiki/Intelligent_Platform_Management_Interface

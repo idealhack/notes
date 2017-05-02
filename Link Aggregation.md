@@ -1,7 +1,7 @@
 # Link Aggregation
 
 
-## Intro
+## Overview
 
 - https://zh.wikipedia.org/wiki/%E9%93%BE%E8%B7%AF%E8%81%9A%E5%90%88
 - https://en.wikipedia.org/wiki/Link_aggregation

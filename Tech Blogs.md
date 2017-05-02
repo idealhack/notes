@@ -13,6 +13,7 @@
 - http://caicai.me/
 - http://blog.thonatos.com/
 - https://nickcraver.com/
+- http://blog.microdba.com/Qix/
 
 ### Company
 

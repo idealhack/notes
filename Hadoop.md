@@ -1,7 +1,7 @@
 # Hadoop
 
 
-## Intro
+## Overview
 
 - http://hadoop.apache.org
 - https://en.wikipedia.org/wiki/Apache_Hadoop
@@ -17,6 +17,7 @@
 - Hue
 - Impala
 - Presto
+- Mahout
 
 
 ## Issues

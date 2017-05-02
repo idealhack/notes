@@ -1,7 +1,7 @@
 # HBase
 
 
-## Intro
+## Overview
 
 - https://hbase.apache.org/
 - https://github.com/wbolster/happybase

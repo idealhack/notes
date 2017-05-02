@@ -1,5 +1,7 @@
-# Setup Ubuntu
+# Ubuntu
 
+
+## Setup
 
 ### Add User
 

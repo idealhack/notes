@@ -1,7 +1,7 @@
 # React Native
 
 
-## Intro
+## Overview
 
 - https://github.com/facebook/react-native
 - https://github.com/ptmt/react-native-macos
