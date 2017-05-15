@@ -10,6 +10,6 @@
             tzdata  \
         && apt-get clean && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
-    RUN echo Asia/Shanghai >/etc/timezone && \
-        ln -sf /usr/share/zoneinfo/EAsiaurope/Shanghai /etc/localtime && \
+    RUN echo Asia/Shanghai > /etc/timezone && \
+        ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \
         dpkg-reconfigure -f noninteractive tzdata

@@ -7,3 +7,4 @@
 - http://spark.apache.org/docs/latest/ml-guide.html
 - https://github.com/simpleai-team/simpleai
 - https://github.com/clips/pattern
+- https://github.com/numenta/nupic

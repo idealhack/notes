@@ -47,6 +47,7 @@
 ## ES6
 
 - http://es6-features.org/
+- http://es6.ruanyifeng.com/
 - https://github.com/addyosmani/es6-tools
 - https://github.com/babel/babel
 - https://github.com/JustinDrake/node-es6-examples

@@ -2,5 +2,9 @@
 
 
 - https://www.getpostman.com/
-- https://httpie.org/
 - https://github.com/asciimoo/wuzz
+
+### HTTPie
+
+- https://github.com/jakubroztocil/httpie
+- https://github.com/banteg/httpie-image

@@ -32,6 +32,10 @@
     wget http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
     sudo rpm -Uvh remi-release-7*.rpm
 
+### Disable kernel update
+
+    echo $'\n'"exclude=kernel*" >> /etc/yum.conf
+
 ### CPU benchmark
 
     sudo yum install sysbench lm_sensors

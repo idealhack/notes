@@ -16,10 +16,7 @@
 
 ### [[Docker Installation]]
 
-### Registry
-
-- https://docs.docker.com/registry/
-- http://int32bit.me/2016/04/18/%E4%BD%BF%E7%94%A8Harbor%E6%9E%84%E5%BB%BA%E7%A7%81%E6%9C%89%E9%95%9C%E5%83%8F%E4%BB%93%E5%BA%93/
+### [[Docker Registry]]
 
 ### [[Dockerfile]]
 
@@ -32,19 +29,7 @@
 
 - http://container-solutions.com/understanding-volumes-docker/
 
-### Cluster
-
-- https://docs.docker.com/engine/swarm/
-- [[Mesos]]
-- [[Kubernetes]]
-
-### Resources
-
-- https://www.gitbook.com/book/opskumu/docker/details
-- http://dockone.io/article/1138
-- http://rancher.com/comparing-rancher-orchestration-engine-options/
-- http://blog.outlyer.com/kubernetes-vs.-mesos-vs.-swarm
-- http://techgenix.com/swarm-kubernetes-mesos/
+### [[Docker Cluster]]
 
 
 ## Dive in Articles
@@ -68,6 +53,8 @@ http://www.kancloud.cn/infoq/docker
 - [Docker 实践（四）：Beta 环境容器化 - Tairy's Blog - SegmentFault](https://segmentfault.com/a/1190000006875435)
 - [SegmentFault 技术周刊 Vol.5 - Docker丨Build, Ship, Run, and Monitor - 社区周刊 - SegmentFault](https://segmentfault.com/a/1190000006893394)
 - http://dockone.io/m/article/2127
+- [站在巨人的肩膀上--构建公有云平台上的容器服务](http://www.infoq.com/cn/presentations/building-container-services-on-public-cloud-platforms)
+- [打造百亿级数据处理量的弹性调度容器平台](http://dockone.io/article/1798)
 
 
 ## Books
@@ -87,7 +74,7 @@ https://book.douban.com/subject/26825958/
 
 - https://github.com/veggiemonk/awesome-docker
 - http://www.dockerinfo.net/
-- http://dockone.io/
+- [DockOne](http://dockone.io/)
 - http://dokku.viewdocs.io/dokku/
 - https://github.com/portainer/portainer
 

@@ -8,9 +8,11 @@
 
 ## Benchmarking
 
+- https://github.com/loadimpact/k6
 - https://httpd.apache.org/docs/2.4/programs/ab.html
 - https://github.com/tsenart/vegeta
 - https://github.com/wg/wrk
+- https://github.com/kennethreitz/httpbin
 
 
 ## Resources

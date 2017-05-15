@@ -33,10 +33,16 @@
 - https://github.com/arrayfire/arrayfire
 - http://arrayfire.org/docs/index.htm
 - https://github.com/arrayfire/arrayfire-project-templates
+- https://github.com/arrayfire/arrayfire-docker
 
 ### Tools
 
 - https://github.com/krrishnarraj/clpeak
+
+
+### Compile
+
+    g++ test.cpp -L/opt/arrayfire/lib -lafcpu -I/opt/arrayfire/include -O2
 
 
 ## Distributed System
@@ -51,4 +57,4 @@
 - http://www.soa-world.de/echelon/2014/04/c-accelerator-libraries.html
 - http://arrayfire.com/benchmarking-parallel-vector-libraries/
 - http://stackoverflow.com/questions/20154179/differences-between-vexcl-thrust-and-boost-compute
-- https://solarianprogrammer.com/2012/05/31/matrix-multiplication-cuda-cublas-curand-thrust/
+- http://m.open-open.com/m/lib/view/1415890274039.html

@@ -22,6 +22,12 @@
 
 ## Libraries
 
+### Concurrent
+
+- https://github.com/concurrencykit/ck
+- https://github.com/cameron314/concurrentqueue
+- https://github.com/STEllAR-GROUP/hpx
+
 ### JSON
 
 - https://github.com/nlohmann/json

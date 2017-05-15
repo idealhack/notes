@@ -25,6 +25,7 @@
 - https://github.com/afaqurk/linux-dash
 - https://github.com/Jahaja/psdash
 - http://logio.org/
+- https://github.com/sourcegraph/checkup
 
 ### Agent
 

@@ -151,6 +151,7 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/mikeric/rivets
 - https://github.com/tj/ejs
 - https://github.com/pugjs/pug
+- https://github.com/aui/art-template
 
 ## Flow control
 
@@ -292,6 +293,7 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/knrz/CSV.js
 - https://github.com/3rd-Eden/useragent
 - https://github.com/Valve/fingerprintjs2
+- https://github.com/andrewplummer/Sugar
 
 
 ## Storage
