@@ -16,6 +16,7 @@
 - https://my-netdata.io/
 - https://github.com/prometheus/prometheus
 - http://bosun.org/
+- https://github.com/cockpit-project/cockpit
 - riemann
 - heka
 - https://github.com/arachnys/cabot

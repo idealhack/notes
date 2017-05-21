@@ -241,6 +241,11 @@ Also see [[Markdown]] for JavaScript Markdown editors
 ### Video
 
 - https://github.com/videojs/video.js
+- https://github.com/jwplayer/jwplayer
+- https://github.com/clappr/clappr
+- https://github.com/video-dev/hls.js
+- https://github.com/RReverser/mpegts
+- https://github.com/flowplayer/flowplayer
 
 ### PDF
 

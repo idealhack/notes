@@ -7,5 +7,5 @@
 
 ## Places
 
-[[Hangzhou]]
-[[Wuhan]]
+- [[Hangzhou]]
+- [[Wuhan]]

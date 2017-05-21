@@ -14,6 +14,8 @@
 - http://blog.thonatos.com/
 - https://nickcraver.com/
 - http://blog.microdba.com/Qix/
+- http://akagi201.org/
+- https://gist.github.com/Akagi201
 
 ### Company
 

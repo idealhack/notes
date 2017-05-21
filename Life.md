@@ -1,8 +1,10 @@
 # Life
 
 
-[[Podcasts]]
-[[Shopping]]
+- [[Podcasts]]
+- [[Shopping]]
+- [[Chained-brand Hotels]]
+- [[Credit card]]
 
 
 ## Resources

@@ -3,7 +3,10 @@
 
 ## Network
 
-- [iperf](https://iperf.fr/)
+### [iperf](https://iperf.fr/)
+
+    iperf -s
+    iperf -c server_ip
 
 
 ## Benchmarking

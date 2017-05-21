@@ -9,5 +9,5 @@
 ## Applications
 
 - BitTorrent
-- BitCoin (Blockchain)
+- BitCoin ([[Blockchain]])
 - https://ipfs.io/

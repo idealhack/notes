@@ -3,21 +3,21 @@
 
 ## Installation
 
-- [[Create Bootable USB Drive]]
-- [[Installing Ubuntu on Macbook Pro]]
+- [[System Installation]]
+- [[Ubuntu on Macbook]]
 
 
 ## Setup
 
-- [[Setup CentOS]]
-- [[Setup Ubuntu]]
+- [[CentOS]]
+- [[Ubuntu]]
 - Ansible
 
 
 ## Common Tasks
 
 - [[SSH]]
-- [[Commands]]
+- [[Linux Commands]]
 - [[Monitoring]]
 - [[Linux Configuration]]
 - [[Linux Permissions]]
@@ -26,6 +26,12 @@
 - [[Backup]]
 - [[Linux Issues]]
 
-## Misc
+
+## Softwares
 
 - https://github.com/axkibe/lsyncd
+
+
+## Resources
+
+- http://man.linuxde.net/
