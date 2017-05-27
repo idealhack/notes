@@ -8,7 +8,7 @@
 
 ## Tools
 
-- [Ansible](https://www.ansible.com/)
+- [[Ansible]]
 - http://saltstack.com/
 - https://puppet.com/
 - https://www.chef.io/chef/
@@ -24,3 +24,4 @@
 - http://lock522.b0.upaiyun.com/shy.pdf
 - http://chuansong.me/n/1087943151059
 - http://www.yunweipai.com/archives/10849.html
+- http://teahour.fm/2013/07/22/interview-with-shaohaiyang-about-upyun-devops.html

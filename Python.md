@@ -10,7 +10,9 @@
 
 ## Documents
 
-- https://docs.python.org/3/
+- https://docs.python.org/
+- http://docs.python-guide.org/
+- http://pythonguidecn.readthedocs.io/
 - https://pyformat.info/
 
 
@@ -33,6 +35,8 @@
 
 ## Style Guide
 
+- https://www.python.org/dev/peps/pep-0008/
+- http://pep8.org/
 - http://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/
 
 
@@ -40,6 +44,7 @@
 
 - https://github.com/pyenv/pyenv
 - https://github.com/chriskiehl/Gooey
+- http://doc.devpi.net/latest/
 
 
 ## Resources

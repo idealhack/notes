@@ -8,11 +8,6 @@
 - [IP地址概念 - YS.Zou](https://www.zouyesheng.com/ip.html)
 
 
-## Protocols
-
-- [[TCP]]
-
-
 ## Resources
 
 - [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)

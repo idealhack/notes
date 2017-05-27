@@ -3,6 +3,7 @@
 
 ## Fonts
 
+- https://www.google.com/get/noto/
 - https://github.com/adobe-fonts/source-han-sans
 - https://github.com/haoyuns/EyesAsia
 - https://github.com/chrissimpkins/codeface

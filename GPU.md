@@ -1,13 +1,10 @@
 # GPU
 
 
-## GPU
+## Overview
 
 - [CUDA GPUs](https://developer.nvidia.com/cuda-gpus)
 - [List of Nvidia graphics processing units - Wikipedia](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
-- [cnn-benchmarks](https://github.com/jcjohnson/cnn-benchmarks)
-- [在哪里购买 Tesla 个人超级计算机 HPC GPU | NVIDIA](http://www.nvidia.cn/object/where-to-buy-tesla-cn.html)
-- [【GPU编程系列之一】从深度学习选择什么样的gpu来谈谈gpu的硬件架构](http://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html) 
 
 
 ## DL Workstation
@@ -34,3 +31,11 @@ http://www.nvidia.com/object/linux-amd64-display-archive.html
     nvidia-smi
     sudo sh -c 'echo $'\n'"exclude=kernel*" >> /etc/yum.conf'       # CentOS
     sudo apt-mark hold linux-image-generic linux-headers-generic    # Ubuntu
+
+
+## Resources
+
+- http://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/
+- [cnn-benchmarks](https://github.com/jcjohnson/cnn-benchmarks)
+- [在哪里购买 Tesla 个人超级计算机 HPC GPU | NVIDIA](http://www.nvidia.cn/object/where-to-buy-tesla-cn.html)
+- [【GPU编程系列之一】从深度学习选择什么样的gpu来谈谈gpu的硬件架构](http://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html)

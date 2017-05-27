@@ -22,6 +22,13 @@
 
 ## Libraries
 
+### Async
+
+- http://libevent.org/
+- http://software.schmorp.de/pkg/libev.html
+- http://libuv.org/
+- http://think-async.com/
+
 ### Concurrent
 
 - https://github.com/concurrencykit/ck

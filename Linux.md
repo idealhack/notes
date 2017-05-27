@@ -11,7 +11,6 @@
 
 - [[CentOS]]
 - [[Ubuntu]]
-- Ansible
 
 
 ## Common Tasks

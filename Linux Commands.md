@@ -10,6 +10,12 @@
     tmux
     git
 
+### Files
+
+Count files recursively
+
+    find . -type f | wc -l
+
 ### Processes
 
 查看进程以及占用端口
