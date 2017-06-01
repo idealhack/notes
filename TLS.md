@@ -7,9 +7,7 @@
 - https://en.wikipedia.org/wiki/Transport_Layer_Security
 
 
-## CA
-
-### Let's Encrypt
+## Let's Encrypt
 
 - [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
 - [certbot/certbot](https://github.com/certbot/certbot)
@@ -33,3 +31,4 @@ Auto renew by crontab:
 - [Qualys SSL Labs](https://www.ssllabs.com/)
 - [﻿Security with HTTPS and SSL | Android Developers](https://developer.android.com/training/articles/security-ssl.html)
 - [HTTPS是如何工作的 - 众成翻译](http://www.zcfy.cc/article/how-does-https-work-1280.html)
+- http://blog.m31271n.com/2017/03/17/SSL-TLS-%E6%A6%82%E8%A7%88/

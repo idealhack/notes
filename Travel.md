@@ -9,3 +9,6 @@
 
 - [[Hangzhou]]
 - [[Wuhan]]
+- [[Macau]]
+- [[Taiwan]]
+- [[Japan]]

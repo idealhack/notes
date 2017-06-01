@@ -10,6 +10,14 @@
 
 ## Frameworks
 
+### beanstalk
+
+- http://kr.github.io/beanstalkd/
+- https://github.com/kr/beanstalkd
+
+
+### Others
+
 - http://nsq.io/
 - https://github.com/resque/resque
 - https://github.com/celery/kombu

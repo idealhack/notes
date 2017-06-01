@@ -30,3 +30,8 @@
     RUN echo Asia/Shanghai > /etc/timezone && \
         ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \
         dpkg-reconfigure -f noninteractive tzdata
+
+
+## Resources
+
+- http://www.johnzaccone.io/entrypoint-vs-cmd-back-to-basics/

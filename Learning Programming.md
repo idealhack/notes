@@ -8,6 +8,7 @@
 - https://github.com/it-ebooks/it-ebooks-archive
 - [程序员必读书单 1.0 - Lucida](http://lucida.me/blog/developer-reading-list/)
 - [一些老梗的私房推薦書...](http://www.hksilicon.com/articles/35423)
+- http://blog.m31271n.com/books/
 
 ### InfoQ
 

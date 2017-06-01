@@ -1,4 +1,4 @@
-# Tech Blogs
+# Technology Blogs
 
 
 ## Blogs
@@ -17,6 +17,9 @@
 - http://akagi201.org/
 - https://gist.github.com/Akagi201
 - http://www.qyjohn.net/
+- https://github.com/jasonGeng88/blog
+- http://blog.m31271n.com/
+- http://fleurer-lee.com/
 
 ### Company
 

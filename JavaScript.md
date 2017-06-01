@@ -1,6 +1,12 @@
 # JavaScript
 
 
+## Overview
+
+- https://zh.wikipedia.org/wiki/JavaScript
+- https://en.wikipedia.org/wiki/JavaScript
+
+
 - [[JavaScript Frameworks]]
 - [[JavaScript Libraries]]
 - [[JavaScript Style Guide]]

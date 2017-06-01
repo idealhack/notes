@@ -1,6 +1,12 @@
 # Java
 
 
+## Overview
+
+- https://zh.wikipedia.org/wiki/Java
+- https://en.wikipedia.org/wiki/Java_(programming_language)
+
+
 ## Libraries
 
 - https://github.com/NLPchina/ansj_seg

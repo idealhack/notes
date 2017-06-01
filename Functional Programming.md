@@ -11,4 +11,5 @@
 
 - https://github.com/hemanth/functional-programming-jargon
 - https://github.com/shfshanyue/fp-jargon-zh
+- http://www.ruanyifeng.com/blog/2017/03/pointfree.html
 - [UNIX 与函数式编程 - Random Taste](http://zoomq.qiniudn.com/ZQScrapBook/ZqFLOSS/data/20100322144416/index.html)

@@ -4,7 +4,8 @@
 ## Overview
 
 - https://www.ruby-lang.org/
-- https://github.com/markets/awesome-ruby
+- https://zh.wikipedia.org/wiki/Ruby
+- https://en.wikipedia.org/wiki/Ruby_(programming_language)
 
 
 ## Libraries
@@ -16,3 +17,8 @@
 ## Tools
 
 - https://github.com/rbenv/rbenv
+
+
+## Resources
+
+- https://github.com/markets/awesome-ruby

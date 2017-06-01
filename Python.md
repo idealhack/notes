@@ -4,8 +4,8 @@
 ## Overview
 
 - https://www.python.org/
-- https://en.wikipedia.org/wiki/Python_(programming_language)
 - https://zh.wikipedia.org/wiki/Python
+- https://en.wikipedia.org/wiki/Python_(programming_language)
 
 
 ## Documents
