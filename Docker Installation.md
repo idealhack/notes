@@ -10,7 +10,8 @@ Setps on CentOS:
     sudo yum install -y yum-utils
     sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
     sudo yum makecache fast
-    sudo yum install -y docker-ce
+    sudo yum install -y docker-ce # latest version
+    sudo yum install -y docker-1.12.6 # with k8s
     sudo systemctl start docker
     sudo systemctl enable docker
     sudo gpasswd -a ${USER} docker

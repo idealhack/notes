@@ -7,6 +7,14 @@
 - https://github.com/hehonghui/android-tech-frontier/tree/master/software-architecture-patterns
 
 
+## [[Microservices]]
+
+
+## 12factor
+
+- https://12factor.net/zh_cn/
+
+
 ## Resources
 
 - http://blog.handy.wang/blog/2015/12/10/software-architecture-patterns/

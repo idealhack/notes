@@ -25,8 +25,7 @@ http://www.nvidia.com/object/linux-amd64-display-archive.html
     sudo reboot
     sudo yum install -y gcc kernel-devel    # CentOS
     sudo apt install -y gcc make            # Ubuntu
-    curl -O http://cn.download.nvidia.com/XFree86/Linux-x86_64/375.39/NVIDIA-Linux-x86_64-375.39.run    # verison 375.39
-    curl -O http://cn.download.nvidia.com/XFree86/Linux-x86_64/381.09/NVIDIA-Linux-x86_64-381.09.run    # verison 381.09
+    curl -O http://cn.download.nvidia.com/XFree86/Linux-x86_64/381.22/NVIDIA-Linux-x86_64-381.22.run
     chmod +x NVIDIA-Linux-x86_64-*.run
     sudo ./NVIDIA-Linux-x86_64-*.run
     nvidia-smi

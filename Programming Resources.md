@@ -1,4 +1,4 @@
-# Learning Programming
+# Programming Resources
 
 
 ## Books
@@ -6,27 +6,10 @@
 - https://github.com/vhf/free-programming-books
 - https://github.com/justjavac/free-programming-books-zh_CN
 - https://github.com/it-ebooks/it-ebooks-archive
-- [程序员必读书单 1.0 - Lucida](http://lucida.me/blog/developer-reading-list/)
-- [一些老梗的私房推薦書...](http://www.hksilicon.com/articles/35423)
+- http://lucida.me/blog/developer-reading-list/
+- http://www.hksilicon.com/articles/35423
 - http://blog.m31271n.com/books/
-
-### InfoQ
-
-- 《人件》
-- 《进化》
-- 《凤凰项目》
-- 《黑客与画家》
-- 《软件随想录》
-- 《DevOps实践》
-- 《只是为了好玩》
-- 《系统化思维导论》
-- 《程序员思维修炼》
-- 《软件开发本质论》
-- 《大型网站技术架构》
-- 《系统运维全面解析》
-- 《Linux运维最佳实践》
-- 《高效程序员的45个习惯》
-- 《SRE：Google运维解密》
+- https://wizardforcel.gitbooks.io/flygon-booklist/content/
 
 
 ## Resources

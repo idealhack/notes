@@ -1,7 +1,6 @@
 # Programming
 
 
-- [[Learning Programming]]
 - [[Algorithm]]
 - [[Network]]
 - [[Backend]]
@@ -22,7 +21,7 @@
 - [[Open Data]]
 
 
-## Languages by appeared time
+## Programming languages by appeared time
 
 - 1972: [[C]]
 - 1983: [[C++]]
@@ -34,4 +33,8 @@
 - 1995: [[Ruby]]
 - 2004: [[Scala]]
 - 2009: [[Go]]
+- 2000: [[Rust]]
 - 2011: [[Elixir]]
+
+
+## [[Programming Resources]]

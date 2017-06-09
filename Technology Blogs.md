@@ -20,6 +20,8 @@
 - https://github.com/jasonGeng88/blog
 - http://blog.m31271n.com/
 - http://fleurer-lee.com/
+- http://nanxiao.me/
+- http://blog.fleeto.us/
 
 ### Company
 

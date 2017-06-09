@@ -11,7 +11,7 @@
 ## [[Docker Installation]]
 
 
-## [[Docker Common tasks]]
+## [[Docker Tasks]]
 
 
 ## [[Docker Registry]]
@@ -31,7 +31,7 @@
 - http://container-solutions.com/understanding-volumes-docker/
 
 
-## [[Docker Cluster]]
+## [[Docker orchestration]]
 
 
 ## [[Docker Resources]]

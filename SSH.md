@@ -1,7 +1,7 @@
 # SSH
 
 
-## Common Tasks
+## Tasks
 
 ### Debugging
 

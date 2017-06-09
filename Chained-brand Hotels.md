@@ -20,6 +20,12 @@
 - https://zh.wikipedia.org/wiki/%E5%96%9C%E9%81%94%E5%B1%8B%E9%85%92%E5%BA%97%E5%8F%8A%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97%E5%9C%8B%E9%9A%9B%E9%9B%86%E5%9C%98
 - https://en.wikipedia.org/wiki/Starwood
 
+#### Offers
+
+- http://www.spg-asiapacific.com/worldmastercardgold/cn/
+- https://credit.u51.com/post/159886.html
+- 
+
 ### Hyatt
 
 - https://www.hyatt.com/zh-CN/home
@@ -48,3 +54,4 @@
 ## Resources
 
 - http://ustravelersguide.com/hilton-hyatt-marriott-spg-category-1-hotels-in-china/
+- http://www.duocaish.com/

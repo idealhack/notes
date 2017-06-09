@@ -3,7 +3,7 @@
 
 ## Platforms
 
-- https://jenkins.io/
+- [[Jenkins]]
 - https://travis-ci.org/
 - https://www.jetbrains.com/teamcity/
 - https://fastlane.tools/

@@ -17,6 +17,15 @@
 - https://dev.mysql.com/doc/refman/5.5/en/general-thread-states.html
 - http://imysql.com/2015/06/10/mysql-faq-processlist-thread-states.shtml
 
+### 配置访问权限
+
+    GRANT ALL PRIVILEGES ON *.* TO 'user'@'ip' IDENTIFIED BY 'password' WITH GRANT OPTION;
+    flush privileges;
+    use mysql;
+    SELECT user, host, password FROM user where host = 'ip';
+    delete from user where user = 'user';
+    flush privileges;
+
 ### 备份 master 数据库
 
 https://dev.mysql.com/doc/refman/5.7/en/replication-solutions-backups-read-only.html
@@ -26,6 +35,10 @@ https://dev.mysql.com/doc/refman/5.7/en/replication-solutions-backups-read-only.
     mysqldump -uroot -ppassword database | gzip > database.sql.gz
     mysql -uroot -ppassword --database=database -e "show master status\G" > master-status-afterdump.txt
     mysql -uroot -ppassword --database=database -e "SET GLOBAL read_only = OFF; UNLOCK TABLES;"
+
+### 查询包含时间戳的字段
+
+https://stackoverflow.com/questions/9251561/convert-timestamp-to-date-in-mysql-query
 
 
 ## Tools

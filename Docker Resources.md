@@ -7,7 +7,6 @@
 - http://www.dockerinfo.net/
 - http://dockone.io/
 - http://dokku.viewdocs.io/dokku/
-- https://github.com/portainer/portainer
 
 ### Books
 
@@ -27,6 +26,7 @@ https://book.douban.com/subject/26825958/
 - http://www.widuu.com/docker/userguide/index.html
 - https://www.gitbook.com/book/yeasy/docker_practice/details
 - https://www.gitbook.com/book/octowhale/doc2cn_docker/details
+- https://opskumu.gitbooks.io/docker/content/
 
 ### docker集群化
 
@@ -55,3 +55,4 @@ http://www.kancloud.cn/infoq/docker
 - http://dockone.io/m/article/2127
 - [站在巨人的肩膀上--构建公有云平台上的容器服务](http://www.infoq.com/cn/presentations/building-container-services-on-public-cloud-platforms)
 - [打造百亿级数据处理量的弹性调度容器平台](http://dockone.io/article/1798)
+- https://zhuanlan.zhihu.com/p/26221467

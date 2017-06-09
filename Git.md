@@ -20,6 +20,7 @@
 - https://github.com/arnoo/git-deliver
 - https://github.com/mhagger/git-imerge
 - https://github.com/kennethreitz/legit
+- http://meldmerge.org/
 
 
 ## Configs

@@ -6,10 +6,15 @@
 - https://www.ansible.com/
 
 
-## Common Tasks
+## Tasks
 
     vim /etc/ansible/hosts
-    ansible intel -m ping
-    ansible intel -m shell -a "date"
-    ansible intel -m script -a "script.sh"
-    ansible intel -m copy -a "src=file dest=file"
+    ansible <host-pattern> -m ping
+    ansible <host-pattern> -m shell -a "date"
+    ansible <host-pattern> -m script -a "script.sh"
+    ansible <host-pattern> -m copy -a "src=file dest=file"
+
+
+## Books
+
+- http://ansible-tran.readthedocs.io/en/latest/index.html

@@ -11,7 +11,7 @@
 - https://github.com/mhinz/vim-galore
 
 
-## Common Tasks
+## Tasks
 
 - Replace all: `:%s/foo/bar/g`
 - Save as root: `:w !sudo tee %`

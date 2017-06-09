@@ -13,7 +13,7 @@
 - [[Ubuntu]]
 
 
-## Common Tasks
+## Tasks
 
 - [[SSH]]
 - [[Linux Commands]]
