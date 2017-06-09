@@ -22,6 +22,7 @@
 - http://fleurer-lee.com/
 - http://nanxiao.me/
 - http://blog.fleeto.us/
+- http://blog.christianposta.com/
 
 ### Company
 
@@ -31,6 +32,7 @@
 - https://blog.fogcreek.com/
 - https://robots.thoughtbot.com/
 - https://tech.shutterstock.com/blog/
+- https://blog.docker.com/
 
 ### Media
 

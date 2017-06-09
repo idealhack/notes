@@ -8,7 +8,7 @@
 - https://en.wikipedia.org/wiki/Apache_Spark
 
 
-## Docs
+## Documentation
 
 - http://spark.apache.org/docs/latest/
 

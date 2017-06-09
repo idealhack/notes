@@ -6,7 +6,7 @@
 - http://ffmpeg.org/
 
 
-## Documents
+## Documentation
 
 - https://www.ffmpeg.org/documentation.html
 - https://trac.ffmpeg.org/wiki

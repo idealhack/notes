@@ -9,7 +9,7 @@
 - https://en.wikipedia.org/wiki/Go_(programming_language)
 
 
-## Documents
+## Documentation
 
 - https://golang.org/doc/
 - https://blog.golang.org/

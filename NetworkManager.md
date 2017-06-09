@@ -7,7 +7,7 @@
 - https://en.wikipedia.org/wiki/NetworkManager
 
 
-## Docs
+## Documentation
 
 - https://linux.die.net/man/1/nmcli
 

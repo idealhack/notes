@@ -45,7 +45,7 @@
 - https://github.com/Ensighten/grunt-spritesmith
 
 
-## Documents
+## Documentation
 
 - https://github.com/senchalabs/jsduck
 

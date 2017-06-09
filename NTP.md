@@ -8,7 +8,7 @@
 - https://en.wikipedia.org/wiki/Network_Time_Protocol
 
 
-## Documents
+## Documentation
 
 - https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/s1-Configure_NTP.html
 - https://wiki.archlinux.org/index.php/Network_Time_Protocol_daemon_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)

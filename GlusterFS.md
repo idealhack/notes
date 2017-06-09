@@ -8,6 +8,6 @@
 - https://en.wikipedia.org/wiki/GlusterFS
 
 
-## Documents
+## Documentation
 
 - https://gluster.readthedocs.io/en/latest/

@@ -20,7 +20,7 @@
 - http://chriskempson.com/projects/base16/
 
 
-## Documents
+## Documentation
 
 - https://kapeli.com/dash
 - https://kapeli.com/dash_ios

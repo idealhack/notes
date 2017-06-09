@@ -8,7 +8,7 @@
 - https://en.wikipedia.org/wiki/Python_(programming_language)
 
 
-## Documents
+## Documentation
 
 - https://docs.python.org/
 - http://docs.python-guide.org/

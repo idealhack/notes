@@ -7,14 +7,19 @@ https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 
 ### On master and node (docker 1.12 installed):
 
-    mkdir -p k8s && cd k8s
-    wget http://files.tusdk.com/pkg/k8s/kubeadm-1.6.4-0.x86_64.rpm
-    wget http://files.tusdk.com/pkg/k8s/kubectl-1.6.4-0.x86_64.rpm
-    wget http://files.tusdk.com/pkg/k8s/kubelet-1.6.4-0.x86_64.rpm
-    wget http://files.tusdk.com/pkg/k8s/kubernetes-cni-0.5.1-0.x86_64.rpm
-    sudo yum update -y
-    sudo yum install -y socat
-    sudo rpm -ivh kube*.rpm
+    cat <<EOF > /etc/yum.repos.d/kubernetes.repo
+    [kubernetes]
+    name=Kubernetes
+    baseurl=https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64
+    enabled=1
+    gpgcheck=1
+    repo_gpgcheck=1
+    gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
+            https://packages.cloud.google.com/yum/doc/rpm-package-key.gpg
+    EOF
+    setenforce 0
+    echo 'proxy=http://<host>:<port>/' >> /etc/systemd/system/docker.service.d/http-proxy.conf 
+    yum install -y kubelet kubeadm kubernetes-cni
     sudo systemctl enable kubelet && sudo systemctl start kubelet
     systemctl status kubelet
 

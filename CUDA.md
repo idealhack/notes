@@ -8,7 +8,7 @@
 - https://en.wikipedia.org/wiki/CUDA
 
 
-## Docs
+## Documentation
 
 - http://docs.nvidia.com/cuda/
 

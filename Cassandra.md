@@ -49,7 +49,7 @@ Installing on Ubuntu 14.04:
 - https://github.com/datastax/php-driver
 
 
-## Documents
+## Documentation
 
 - http://cassandra.apache.org/doc/latest/getting_started/index.html
 - http://docs.datastax.com/en/cassandra/latest/
