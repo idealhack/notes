@@ -1,9 +1,9 @@
 # Database
 
 
-- [[MySQL]]
+- [[SQL]]
 - [[NoSQL]]
-- [[Time series database]]
+- [[NewSQL]]
 
 
 ## Resources

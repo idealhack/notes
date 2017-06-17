@@ -11,6 +11,8 @@
 - [[LVS]]
 - [[keepalived]]
 - HAProxy
+- Nginx
+- Vulcan
 
 
 ## Resources

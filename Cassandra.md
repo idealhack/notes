@@ -55,7 +55,13 @@ Installing on Ubuntu 14.04:
 - http://docs.datastax.com/en/cassandra/latest/
 
 
+## Tools
+
+- https://github.com/gianlucaborello/cassandradump
+
+
 ## Resources
 
 - [Cassandra选型介绍 at master · shahuwang/blogposts](https://github.com/shahuwang/blogposts/blob/master/Cassandra%E9%80%89%E5%9E%8B%E4%BB%8B%E7%BB%8D.md)
 - [学习Cassandra](http://teddymaef.github.io/learncassandra/cn/)
+- http://clusterhq.com/2016/03/09/fun-with-swarm-part1/

@@ -16,10 +16,16 @@
 - http://simplefocus.com/flowtype/
 
 
+## Style guides
+
+- https://github.com/sparanoid/chinese-copywriting-guidelines
+- https://github.com/ruanyf/document-style-guide
+
+
 ## Resources
 
 - [有哪些值得推荐的英文字体？ - 设计 - 知乎](https://www.zhihu.com/question/23210530)
 - [有哪些值得推荐的中文字体？ - 设计 - 知乎](https://www.zhihu.com/question/20727176)
 - [A Closer Look At Font Rendering - Smashing Magazine](https://www.smashingmagazine.com/2012/04/a-closer-look-at-font-rendering/)
 - [Web 字体应用指南最佳实践修炼之道（上） - 动感小前端的专栏 - SegmentFault](https://segmentfault.com/a/1190000006673210)
-- [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+

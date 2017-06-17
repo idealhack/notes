@@ -67,3 +67,7 @@
 - [Go语言并发模型：像Unix Pipe那样使用channel - 赵帅虎 - SegmentFault](https://segmentfault.com/a/1190000006261218)
 - https://gocn.io/article/5
 - http://www.alexedwards.net/blog/golang-response-snippets
+
+### Videos
+
+- https://m.youtube.com/playlist?list=PLIbUZ3URbL0Hn-2v6oB9nMfIfJPYDY9Nv

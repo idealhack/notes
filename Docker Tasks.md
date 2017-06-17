@@ -16,7 +16,7 @@ https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
 ### Save and load
 
     docker save -o <save image to path> <image name>
-    docker load -i
+    docker load -i <path to image tar file>
 
 or
 

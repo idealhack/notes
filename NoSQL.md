@@ -11,8 +11,9 @@
 ## Databases
 
 - [[MongoDB]]
-- [[Cassandra]]
 - [[Redis]]
+- [[Cassandra]]
+- [[Scylla]]
 - https://github.com/basho/riak
 - http://sophia.systems/
 

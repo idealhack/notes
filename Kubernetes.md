@@ -20,6 +20,7 @@
 ## Tools
 
 - https://github.com/kubernetes-incubator/kompose
+- https://github.com/kubernetes/helm
 
 
 ## Moniter
@@ -32,6 +33,11 @@
 - https://rootsongjc.gitbooks.io/kubernetes-handbook/content/
 - https://gcpug-tw.gitbooks.io/kuberbetes-in-action/content/
 - https://kubernetes.feisky.xyz/
+
+
+## Videos
+
+- https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ
 
 
 ## Resources
