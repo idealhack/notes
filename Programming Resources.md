@@ -12,6 +12,11 @@
 - https://wizardforcel.gitbooks.io/flygon-booklist/content/
 
 
+## Websites
+
+- https://techterms.com/
+
+
 ## Resources
 
 - https://github.com/leachim6/hello-world

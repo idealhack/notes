@@ -5,6 +5,9 @@
 
 - [[CPU]]
 - [[GPU]]
+- [[HDD]]
+- [[SSD]]
+- [[NAS]]
 - [Arduino](https://www.arduino.cc/)
 
 

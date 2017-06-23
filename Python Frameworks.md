@@ -4,6 +4,7 @@
 
 - [[Flask]]
 - [[Tonado]]
+- [[Twisted]]
 - [Eve](https://github.com/pyeve/eve)
 - [Pyramid](https://github.com/Pylons/pyramid)
 - [Bottle](https://github.com/bottlepy/bottle)

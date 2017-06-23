@@ -1,11 +1,6 @@
 # NAS
 
 
-## Hardware
-
-- [[RAID]]
-
-
 ## System
 
 ### Synology

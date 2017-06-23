@@ -20,6 +20,11 @@
 - Mahout
 
 
+## IndexR
+
+- https://github.com/shunfei/indexr
+
+
 ## Issues
 
 - https://wiki.apache.org/hadoop/ConnectionRefused

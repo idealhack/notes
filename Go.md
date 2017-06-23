@@ -59,6 +59,7 @@
 - https://docs.hacknode.org/gopl-zh/
 - https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/
 - https://nanxiao.gitbooks.io/golang-101-hacks/content/
+- https://tiancaiamao.gitbooks.io/go-internals/content/zh/
 
 ### Articles
 
@@ -71,3 +72,8 @@
 ### Videos
 
 - https://m.youtube.com/playlist?list=PLIbUZ3URbL0Hn-2v6oB9nMfIfJPYDY9Nv
+
+### cgo
+
+- https://golang.org/cmd/cgo/
+- https://stackoverflow.com/questions/32215509/using-go-code-in-an-existing-c-project

@@ -35,6 +35,7 @@ https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
     sudo kubeadm init --pod-network-cidr=10.244.0.0/16
     sudo cp /etc/kubernetes/admin.conf $HOME/
     sudo chown $(id -u):$(id -g) $HOME/admin.conf
+
     export KUBECONFIG=$HOME/admin.conf
 
     kubectl get pods --all-namespaces
@@ -63,6 +64,12 @@ https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 ### On node:
 
     kubeadm reset
+
+### GPU node:
+
+    sudo sed -i '/^ExecStart=\/usr\/bin\/kubelet/ s/$/ --feature-gates="Accelerators=true"/' /etc/systemd/system/kubelet.service.d/*-kubeadm.conf
+    sudo systemctl daemon-reload
+    sudo systemctl restart kubelet
 
 
 ## Resources

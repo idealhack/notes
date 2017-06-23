@@ -62,3 +62,7 @@
 - [google/grumpy](https://github.com/google/grumpy)
 - https://yq.aliyun.com/articles/91140
 
+### Socket
+
+- https://michaelyou.github.io/2015/01/31/python%E7%9A%84socket%E7%BC%96%E7%A8%8B/
+- https://gist.github.com/kevinkindom/108ffd675cb9253f8f71
