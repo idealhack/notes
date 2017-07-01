@@ -41,6 +41,11 @@
 - [keras](https://github.com/fchollet/keras)
 
 
+## Tools
+
+- http://ethereon.github.io/netscope/quickstart.html
+
+
 ## Resources
 
 - http://www.infoq.com/cn/articles/interpretation-of-2016-deeplearning

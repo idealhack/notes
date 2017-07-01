@@ -9,8 +9,12 @@
 
 ## Setup
 
-- [[CentOS]]
 - [[Ubuntu]]
+- [[CentOS]]
+- Debian
+- Arch
+- Kali
+- BlackArch
 
 
 ## Tasks

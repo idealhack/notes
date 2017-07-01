@@ -14,4 +14,4 @@
 
 ### Disable kernel update
 
-    apt-mark hold linux-image-generic linux-headers-generic
+    sudo apt-mark hold linux-image-generic linux-headers-generic

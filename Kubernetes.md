@@ -39,7 +39,7 @@
 - https://github.com/jianhuiz/k8s-client-cpp
 
 
-## Moniter
+## Monitoring
 
 - https://github.com/kubernetes/heapster
 
@@ -78,3 +78,10 @@
 - https://xuxinkun.github.io/2016/10/08/tensorflow-kubernetes/
 - https://medium.com/jim-fleming/running-tensorflow-on-kubernetes-ca00d0e67539
 - https://medium.com/@samnco/latest
+
+### Monitoring
+
+- https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/
+- http://blog.kubernetes.io/2017/05/kubernetes-monitoring-guide.html
+- https://coreos.com/blog/monitoring-kubernetes-with-prometheus.html
+- https://blog.couchbase.com/kubernetes-monitoring-heapster-influxdb-grafana/

@@ -26,3 +26,8 @@
 
 - https://zh.wikipedia.org/wiki/Mali_(GPU)
 - https://en.wikipedia.org/wiki/Mali_(GPU)
+
+
+## Resources
+
+- http://www.xiazaiba.com/jiaocheng/10296.html
