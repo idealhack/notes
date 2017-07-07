@@ -52,11 +52,13 @@
 ## Resources
 
 - https://github.com/avelino/awesome-go
+- https://github.com/Unknwon/go-study-index
 
 ### Books
 
 - http://www.gopl.io/
 - https://docs.hacknode.org/gopl-zh/
+- https://github.com/Unknwon/the-way-to-go_ZH_CN
 - https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/
 - https://nanxiao.gitbooks.io/golang-101-hacks/content/
 - https://tiancaiamao.gitbooks.io/go-internals/content/zh/
@@ -72,7 +74,8 @@
 
 ### Videos
 
-- https://m.youtube.com/playlist?list=PLIbUZ3URbL0Hn-2v6oB9nMfIfJPYDY9Nv
+- https://www.youtube.com/playlist?list=PLIbUZ3URbL0Hn-2v6oB9nMfIfJPYDY9Nv
+- https://github.com/Unknwon/go-fundamental-programming
 
 ### cgo
 

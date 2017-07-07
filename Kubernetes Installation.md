@@ -37,6 +37,7 @@ https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
     sudo chown $(id -u):$(id -g) $HOME/admin.conf
 
     export KUBECONFIG=$HOME/admin.conf
+    kubectl proxy --address='<ip>' --accept-hosts='$*^'
 
     kubectl get pods --all-namespaces
     kubectl create -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel-rbac.yml

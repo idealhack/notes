@@ -18,3 +18,4 @@
 - http://www.infoq.com/cn/architect/
 - http://developer.51cto.com/developer/top10Architect/
 - http://www.codingthearchitecture.com/presentations/archsummit2012-the-frustrated-architect
+- http://www.infoq.com/cn/articles/brown-are-you-a-software-architect

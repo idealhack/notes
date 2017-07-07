@@ -7,6 +7,16 @@
 - https://en.wikipedia.org/wiki/Hard_disk_drive
 
 
+## backblocks
+
+- https://zh.wikipedia.org/wiki/Badblocks
+- https://en.wikipedia.org/wiki/Badblocks
+- https://wiki.archlinux.org/index.php/badblocks
+- http://man.linuxde.net/badblocks
+- https://linux.die.net/man/8/badblocks
+- http://linux.101hacks.com/unix/badblocks/
+
+
 ## [[RAID]]
 
 

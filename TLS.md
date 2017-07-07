@@ -33,6 +33,7 @@ Manual get a certificate:
 
 - https://www.ssllabs.com/ssltest/analyze.html
 - https://mozilla.github.io/server-side-tls/ssl-config-generator/
+- https://github.com/SteveLTN/https-portal
 
 
 ## Resources

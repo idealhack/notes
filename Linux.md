@@ -38,3 +38,4 @@
 ## Resources
 
 - http://man.linuxde.net/
+- http://linux.101hacks.com/

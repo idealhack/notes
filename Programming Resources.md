@@ -15,6 +15,7 @@
 ## Websites
 
 - https://techterms.com/
+- https://www.thoughtworks.com/radar/a-z
 
 
 ## Resources

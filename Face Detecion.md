@@ -23,9 +23,9 @@
 
 ## Resources
 
+- https://mp.weixin.qq.com/s/GeBlfA8O-ORL4boy4RMrFQ
 - [Face Alignment at 3000 FPS via Regressing Local Binary Features](http://www.jiansun.org/papers/CVPR14_FaceAlignment.pdf)
 - http://openbiometrics.org/
 - https://zhuanlan.zhihu.com/p/25335957
 - https://zhuanlan.zhihu.com/p/24837264
 - https://zhuanlan.zhihu.com/p/25025596
-

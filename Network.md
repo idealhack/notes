@@ -19,10 +19,15 @@
 - [[NTP]]
 - [[RTSP]]
 
-
 ### Gateway
 
 - https://onebitbug.me/2014/05/28/building-a-gateway/
+
+
+## Task
+
+    arp-scan -I <interface> -l | grep <ip> | sort -V | less
+
 
 ## Resources
 

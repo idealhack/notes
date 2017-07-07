@@ -49,3 +49,4 @@ Steps using ARM template:
 - [开源DC/OS介绍：容器的最佳运行平台 - DockOne.io](http://dockone.io/article/1231)
 - [基于Mesos DCOS的大数据云计算平台架构: 大数据会议 - Strata Data Conference, 8月 2016, 北京, 中国](https://strata.oreilly.com.cn/hadoop-big-data-cn/public/schedule/detail/52459)
 - [飞驰在Mesos的涡轮引擎上 | MaxLeap - 博客](https://blog.maxleap.cn/archives/1050)
+- http://www.toutiao.com/i6428170905435767297/

@@ -11,6 +11,11 @@
 - [Arduino](https://www.arduino.cc/)
 
 
+## Monitoring
+
+- [[S.M.A.R.T.]]
+
+
 ## Bandwidth
 
 - https://en.wikipedia.org/wiki/Bandwidth_(computing)

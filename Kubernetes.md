@@ -85,3 +85,8 @@
 - http://blog.kubernetes.io/2017/05/kubernetes-monitoring-guide.html
 - https://coreos.com/blog/monitoring-kubernetes-with-prometheus.html
 - https://blog.couchbase.com/kubernetes-monitoring-heapster-influxdb-grafana/
+
+### client-go
+
+- https://developers.redhat.com/blog/2016/11/25/using-the-kubernetes-client-for-go/
+- https://solinea.com/blog/tapping-kubernetes-events

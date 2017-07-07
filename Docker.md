@@ -31,6 +31,11 @@
 - http://container-solutions.com/understanding-volumes-docker/
 
 
+## Tools
+
+- https://github.com/docker-slim/docker-slim
+
+
 ## [[Docker orchestration]]
 
 

@@ -56,3 +56,4 @@ http://www.kancloud.cn/infoq/docker
 - [站在巨人的肩膀上--构建公有云平台上的容器服务](http://www.infoq.com/cn/presentations/building-container-services-on-public-cloud-platforms)
 - [打造百亿级数据处理量的弹性调度容器平台](http://dockone.io/article/1798)
 - https://zhuanlan.zhihu.com/p/26221467
+- https://segmentfault.com/p/1210000009626543/read

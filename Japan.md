@@ -10,3 +10,8 @@
 ## Travel information
 
 - http://www.welcome2japan.cn/
+
+
+## Resources
+
+- https://xiaolife.com/tutorial-for-tokyo-travel/

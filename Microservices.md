@@ -7,6 +7,12 @@
 - https://en.wikipedia.org/wiki/Microservices
 
 
+## Platforms
+
+- [[Kubernetes]]
+- https://istio.io/
+
+
 ## Resources
 
 - https://martinfowler.com/articles/microservices.html

@@ -58,11 +58,6 @@
 - https://www.amon.cx/
 
 
-## S.M.A.R.T.
-
-- https://wiki.archlinux.org/index.php/S.M.A.R.T.
-
-
 ## Resources
 
 - https://www.digitalocean.com/community/tutorials/how-to-install-the-munin-monitoring-tool-on-ubuntu-14-04

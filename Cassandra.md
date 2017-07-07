@@ -27,9 +27,20 @@ https://hub.docker.com/_/cassandra/
     sudo apt-get update
     sudo apt-get install cassandra
 
-### Drivers
+
+## Documentation
+
+- http://cassandra.apache.org/doc/latest/getting_started/index.html
+- http://docs.datastax.com/en/cassandra/latest/
+
+
+## Drivers
 
 - http://cassandra.apache.org/doc/latest/getting_started/drivers.html
+
+### Go
+
+- https://github.com/gocql/gocql
 
 ### C++
 
@@ -47,12 +58,6 @@ Installing on Ubuntu 14.04:
 
 - https://academy.datastax.com/resources/getting-started-apache-cassandra-and-php
 - https://github.com/datastax/php-driver
-
-
-## Documentation
-
-- http://cassandra.apache.org/doc/latest/getting_started/index.html
-- http://docs.datastax.com/en/cassandra/latest/
 
 
 ## Tools

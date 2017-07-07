@@ -8,6 +8,12 @@
 - [Alluxio](http://www.alluxio.org/)
 
 
+## File system
+
+- [[GlusterFS]]
+- [[Ceph]]
+
+
 ## Paxos
 
 - https://en.wikipedia.org/wiki/Paxos_(computer_science)
