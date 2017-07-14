@@ -19,34 +19,12 @@
 - https://www.tutorialspoint.com/go/index.htm
 
 
-## Libraries
+## [[Go Libraries]]
 
-### Microservice
 
-- https://github.com/go-kit/kit
+## Tools
 
-### Web
-
-- https://github.com/astaxie/beego
-- https://github.com/gin-gonic/gin
-- https://github.com/revel/revel
-
-### HTTP
-
-- https://github.com/valyala/fasthttp
-- https://github.com/mholt/caddy
-
-### Database
-
-- https://github.com/go-sql-driver/mysql
-
-### Others
-
-- https://github.com/bradfitz/gomemcache
-- https://github.com/kr/beanstalk
-- https://github.com/benmanns/goworker
-- https://github.com/nareix/joy4
-- http://gonet2.github.io/
+- https://github.com/golang/dep
 
 
 ## Resources
@@ -81,3 +59,8 @@
 
 - https://golang.org/cmd/cgo/
 - https://stackoverflow.com/questions/32215509/using-go-code-in-an-existing-c-project
+
+### Enum
+
+- http://blog.sina.com.cn/s/blog_9be3b8f10101dpt6.html
+- http://www.zenlife.tk/go-enum.md

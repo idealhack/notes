@@ -3,7 +3,8 @@
 
 ## Setup
 
-- [Android NDK | Android Developers](https://developer.android.com/ndk/index.html)
+- [Kotlin Programming Language](https://kotlinlang.org/)
+- [Android NDK](https://developer.android.com/ndk/index.html)
 
 
 ## Style Guide

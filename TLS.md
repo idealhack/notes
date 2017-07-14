@@ -29,6 +29,12 @@ Manual get a certificate:
     certbot certonly -d example.com --manual
 
 
+## HSTS
+
+- https://zh.wikipedia.org/zh-hans/HTTP%E4%B8%A5%E6%A0%BC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8
+- https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security
+
+
 ## Tools
 
 - https://www.ssllabs.com/ssltest/analyze.html

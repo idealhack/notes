@@ -1,11 +1,13 @@
 # Kubernetes Installation
 
 
-## Installing with Kubernetes 1.6.4 with kubeadm
+## Installing with Kubernetes 1.6.4 with kubeadm (docker 1.12 installed)
 
 https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 
-### On master and node (docker 1.12 installed):
+### On master and node:
+
+a. with `yum`:
 
     cat <<EOF > /etc/yum.repos.d/kubernetes.repo
     [kubernetes]
@@ -18,8 +20,15 @@ https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
             https://packages.cloud.google.com/yum/doc/rpm-package-key.gpg
     EOF
     setenforce 0
-    echo 'proxy=http://<host>:<port>/' >> /etc/systemd/system/docker.service.d/http-proxy.conf 
     yum install -y kubelet kubeadm kubernetes-cni
+
+b. with `rpm`:
+
+    sudo yum install socat -y
+    sudo rpm -ivh kube*.rpm
+
+then:
+
     sudo systemctl enable kubelet && sudo systemctl start kubelet
     systemctl status kubelet
 
@@ -68,7 +77,7 @@ https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 
 ### GPU node:
 
-    sudo sed -i '/^ExecStart=\/usr\/bin\/kubelet/ s/$/ --feature-gates="Accelerators=true"/' /etc/systemd/system/kubelet.service.d/*-kubeadm.conf
+    sudo sed -i '/^ExecStart=\/usr\/bin\/kubelet/ s/$/ --feature-gates=Accelerators=true/' /etc/systemd/system/kubelet.service.d/*-kubeadm.conf
     sudo systemctl daemon-reload
     sudo systemctl restart kubelet
 

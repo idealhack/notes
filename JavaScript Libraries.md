@@ -41,6 +41,7 @@
 
 - https://github.com/wavded/humane-js
 - https://github.com/t4t5/sweetalert
+- https://github.com/jaredreich/notie
 
 ### Editor
 
@@ -51,6 +52,7 @@
 - https://github.com/sofish/pen
 - https://github.com/guardian/scribe
 - https://github.com/tholman/zenpen
+- https://github.com/jaredreich/pell
 
 Also see [[Markdown]] for JavaScript Markdown editors
 

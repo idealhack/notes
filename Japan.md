@@ -7,6 +7,11 @@
 - https://en.wikipedia.org/wiki/Japan
 
 
+## Books
+
+- https://book.douban.com/subject/26841390/
+
+
 ## Travel information
 
 - http://www.welcome2japan.cn/

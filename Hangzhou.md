@@ -1,9 +1,19 @@
 # Hangzhou
 
 
-https://book.douban.com/subject/26266981/
+## Overview
 
-## View
+- https://zh.wikipedia.org/wiki/%E6%9D%AD%E5%B7%9E%E5%B8%82
+- https://en.wikipedia.org/wiki/Hangzhou
+
+
+## Books
+
+- https://book.douban.com/subject/25796927/
+- https://book.douban.com/subject/26266981/
+
+
+## Places to go
 
 ### 西湖南线
 
@@ -79,4 +89,4 @@ https://book.douban.com/subject/26266981/
 
 ## Resources
 
-[有氧慢旅行：12小时玩杭州|休闲户外|大粤社区|广东城市生活社区](http://mygd.qq.com/forum.php?mod=viewthread&tid=559549)
+- [有氧慢旅行：12小时玩杭州|休闲户外|大粤社区|广东城市生活社区](http://mygd.qq.com/forum.php?mod=viewthread&tid=559549)

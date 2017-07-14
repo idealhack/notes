@@ -6,35 +6,28 @@
 
 ## Windows
 
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
+- [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows/releases)
 
 
 ## Android
 
-- [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases)
-- [Shadowsocks - Android Apps on Google Play](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+- [shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android/releases)
+- [Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
 
 
 ## macOS
 
-- [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/shadowsocksx-ng/releases)
+- [ShadowsocksX-NG](https://github.com/shadowsocks/shadowsocksx-ng/releases)
+- [Surge](http://nssurge.com/)
+- [flora-kit](https://github.com/huacnlee/flora-kit)
 
 
 ## iOS
 
-### Surge
-
-- [Surge - Web Developer Tool and Proxy Utility on the App Store](https://itunes.apple.com/app/id1040100637)
-- [Surge Mac - Advanced Web Debugging Proxy for Mac & iOS](http://nssurge.com/)
-
-### NEKit
-
-- [Wingy - Free Proxy Utility For Network Debugging on the App Store](https://itunes.apple.com/app/id1148026741)
-- [zhuhaow/SpechtLite](https://github.com/zhuhaow/spechtlite)
-
-### Potatso
-
-- [土豆丝 (Potatso) - 强大的网络工具 on the App Store](https://itunes.apple.com/app/id1070901416)
+- [Surge](https://itunes.apple.com/app/id1040100637)
+- [Wingy](https://itunes.apple.com/app/id1148026741)
+- [SpechtLite](https://github.com/zhuhaow/spechtlite)
+- [Potatso](https://potatso.com/)
 
 
 ## OpenWrt

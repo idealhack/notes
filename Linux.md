@@ -29,6 +29,10 @@
 - [[Backup]]
 - [[Linux Issues]]
 
+### Mounting disk
+
+    mount /dev/sdb1 /mnt -o iocharset=utf8
+
 
 ## Softwares
 

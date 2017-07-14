@@ -7,8 +7,9 @@
 
 ## Places
 
-- [[Hangzhou]]
 - [[Wuhan]]
+- [[Hangzhou]]
+- [[Suzhou]]
 - [[Macau]]
 - [[Taiwan]]
 - [[Japan]]

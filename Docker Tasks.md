@@ -21,3 +21,8 @@ https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
 or
 
     docker save <image> | bzip2 | pv | ssh user@host 'bunzip2 | docker load'
+
+### Remove all exited containers
+
+    docker ps -a | grep Exit | cut -d ' ' -f 1 | xargs docker rm
+    docker images | grep <none>

@@ -23,6 +23,7 @@
 - http://nanxiao.me/
 - http://blog.fleeto.us/
 - http://blog.christianposta.com/
+- http://rootsongjc.github.io/
 
 ### Company
 
@@ -33,6 +34,7 @@
 - https://robots.thoughtbot.com/
 - https://tech.shutterstock.com/blog/
 - https://blog.docker.com/
+- http://io.upyun.com/
 
 ### Media
 
