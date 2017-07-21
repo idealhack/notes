@@ -1,13 +1,13 @@
 # Kubernetes Installation
 
 
-## Installing with Kubernetes 1.6.4 with kubeadm (docker 1.12 installed)
+## Installing with Kubernetes with `kubeadm` (CentOS, Docker 1.12 installed)
 
 https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 
 ### On master and node:
 
-a. with `yum`:
+a. With `yum`:
 
     cat <<EOF > /etc/yum.repos.d/kubernetes.repo
     [kubernetes]
@@ -22,15 +22,17 @@ a. with `yum`:
     setenforce 0
     yum install -y kubelet kubeadm kubernetes-cni
 
-b. with `rpm`:
+b. With `rpm` (and `kube*.rpm` prepared):
 
     sudo yum install socat -y
     sudo rpm -ivh kube*.rpm
 
-then:
+Then:
 
     sudo systemctl enable kubelet && sudo systemctl start kubelet
     systemctl status kubelet
+
+If Proxy is needed:
 
     sudo mkdir /etc/systemd/system/docker.service.d
     sudo sh -c "echo '[Service]' > /etc/systemd/system/docker.service.d/http-proxy.conf"
@@ -41,30 +43,53 @@ then:
 
 ### On master:
 
+Init:
+
     sudo kubeadm init --pod-network-cidr=10.244.0.0/16
+
+Config ENV and test:
+
     sudo cp /etc/kubernetes/admin.conf $HOME/
     sudo chown $(id -u):$(id -g) $HOME/admin.conf
-
     export KUBECONFIG=$HOME/admin.conf
-    kubectl proxy --address='<ip>' --accept-hosts='$*^'
-
     kubectl get pods --all-namespaces
+
+Install Flannel:
+
     kubectl create -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel-rbac.yml
     kubectl create -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
     kubectl create -f https://raw.githubusercontent.com/kubernetes/dashboard/master/src/deploy/kubernetes-dashboard.yaml
+
+Setup kube-proxy to visit from other machine:
+
     kubectl proxy --address='<host>' --accept-hosts='$*^'
-    
+
+Install Heapster:
+
     wget -O heapster-1.3.0.tar.gz https://github.com/kubernetes/heapster/archive/v1.3.0.tar.gz
     tar xzf heapster-* && cd heapster-*
     kubectl create -f deploy/kube-config/influxdb/
 
+### On node has GPU:
+
+    sudo sed -i '/^ExecStart=\/usr\/bin\/kubelet/ s/$/ --feature-gates=Accelerators=true/' /etc/systemd/system/kubelet.service.d/*-kubeadm.conf
+    sudo systemctl daemon-reload
+    sudo systemctl restart kubelet
+
 ### On node:
 
+Init:
+
     sudo kubeadm join --token <token> <host>:6443
+
+To use `kubectl` on node:
 
     sudo cp /etc/kubernetes/kubelet.conf $HOME/
     sudo chown $(id -u):$(id -g) $HOME/kubelet.conf
     export KUBECONFIG=$HOME/kubelet.conf
+
+
+## Remove node
 
 ### On master:
 
@@ -74,12 +99,6 @@ then:
 ### On node:
 
     kubeadm reset
-
-### GPU node:
-
-    sudo sed -i '/^ExecStart=\/usr\/bin\/kubelet/ s/$/ --feature-gates=Accelerators=true/' /etc/systemd/system/kubelet.service.d/*-kubeadm.conf
-    sudo systemctl daemon-reload
-    sudo systemctl restart kubelet
 
 
 ## Resources

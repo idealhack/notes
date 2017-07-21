@@ -4,8 +4,8 @@
 ## Overview
 
 - http://cassandra.apache.org/
-- https://en.wikipedia.org/wiki/Apache_Cassandra
 - https://zh.wikipedia.org/wiki/Cassandra
+- https://en.wikipedia.org/wiki/Apache_Cassandra
 
 
 ## Installing
@@ -16,16 +16,11 @@ https://hub.docker.com/_/cassandra/
 
     docker pull cassandra
 
-### Ubuntu 14.04:
+### Kubernetes
 
-    sudo add-apt-repository ppa:webupd8team/java
-    sudo apt-get update
-    sudo apt-get install oracle-java8-set-default
-    java -version
-    echo "deb http://www.apache.org/dist/cassandra/debian 310x main" | sudo tee -a /etc/apt/sources.list.d/cassandra.sources.list
-    curl https://www.apache.org/dist/cassandra/KEYS | sudo apt-key add -
-    sudo apt-get update
-    sudo apt-get install cassandra
+https://console.cloud.google.com/gcr/images/google-samples/GLOBAL/cassandra
+
+    docker pull gcr.io/google-samples/cassandra:v12
 
 
 ## Documentation
@@ -63,6 +58,7 @@ Installing on Ubuntu 14.04:
 ## Tools
 
 - https://github.com/gianlucaborello/cassandradump
+- https://www.ecyrd.com/cassandracalculator/
 
 
 ## Resources

@@ -14,7 +14,7 @@
 - https://github.com/jekyll/jekyll
 - https://github.com/segmentio/metalsmith
 - https://github.com/jnordberg/wintersmith
-- https://docpad.org/
+- https://github.com/docpad/docpad
 - https://github.com/mkdocs/mkdocs
 - https://github.com/sintaxi/harp
 - https://github.com/middleman/middleman
@@ -27,6 +27,7 @@
 - https://github.com/InkProject/ink
 - https://github.com/GitbookIO/gitbook
 - https://github.com/spf13/hugo
+- https://github.com/gatsbyjs/gatsby
 
 ### Jekyll Template
 

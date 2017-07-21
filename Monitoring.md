@@ -17,8 +17,7 @@
 - https://github.com/prometheus/prometheus
 - http://bosun.org/
 - https://github.com/cockpit-project/cockpit
-- riemann
-- heka
+- https://github.com/riemann/riemann
 - https://github.com/arachnys/cabot
 - https://sensuapp.org/
 - https://github.com/netflix/vector
@@ -27,6 +26,7 @@
 - https://github.com/Jahaja/psdash
 - http://logio.org/
 - https://github.com/sourcegraph/checkup
+- https://github.com/XiaoMi/open-falcon
 
 ### Agent
 
@@ -48,6 +48,7 @@
 
 - https://github.com/allinurl/goaccess
 - https://github.com/jamesrwhite/minicron
+- https://github.com/facebook/osquery
 
 
 ## SaaS

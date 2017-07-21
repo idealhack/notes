@@ -9,6 +9,7 @@
 ## Tools
 
 - [[Ansible]]
+- Terraform
 - http://saltstack.com/
 - https://puppet.com/
 - https://www.chef.io/chef/

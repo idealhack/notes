@@ -10,3 +10,5 @@
 ## Resources
 
 - http://www.toutiao.com/i6424085526021669378/
+- https://github.com/rootsongjc/awesome-cloud-native
+- http://www.dockone.io/article/688

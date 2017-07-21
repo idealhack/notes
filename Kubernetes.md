@@ -31,6 +31,7 @@
 - https://github.com/k8sp/sextant
 - https://github.com/kubernetes-incubator/kompose
 - https://github.com/johanhaleby/kubetail
+- https://github.com/Azure/draft
 
 
 ## Client
@@ -69,6 +70,8 @@
 - http://www.infoq.com/cn/presentations/template-application-layout-based-on-kubernetes
 - http://www.infoq.com/cn/profile/%E7%8E%8B%E6%98%95
 - http://blog.fleeto.us/translation/advanced-scheduling-kubernetes
+- https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694241&idx=1&sn=cb425963ed1fba6df0231336811d913b
+- https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694121&idx=1&sn=ce34029776eef49bf1842b76730bd0f5
 
 ### GPU
 
@@ -85,6 +88,16 @@
 - http://blog.kubernetes.io/2017/05/kubernetes-monitoring-guide.html
 - https://coreos.com/blog/monitoring-kubernetes-with-prometheus.html
 - https://blog.couchbase.com/kubernetes-monitoring-heapster-influxdb-grafana/
+- https://mp.weixin.qq.com/s?__biz=MzA4OTMxODQwNA==&mid=2650979194&idx=1&sn=7be1a3db2bebdf2ca7a69cefc2d8d26f
+
+### Network
+
+- https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694234&idx=1&sn=570e950ed4ed3f9edfac05378014544d
+- http://blog.yiyun.pro/midonet-cni-kubernetes-sdn/
+
+### CI
+
+- https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649693456&idx=1&sn=b36ed8057c23113da2396b77208689f1
 
 ### client-go
 

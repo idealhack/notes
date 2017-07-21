@@ -4,6 +4,7 @@
 - [[System Architect]]
 - [[Design Patterns]]
 - [[Architecture Patterns]]
+- [[After action review]]
 
 
 ## Resources

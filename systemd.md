@@ -9,6 +9,8 @@
 
 
 ## Commands
+    
+    systemctl list-units
 
     systemctl enable service-name.service
     systemctl disable service-name.service

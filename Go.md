@@ -31,6 +31,7 @@
 
 - https://github.com/avelino/awesome-go
 - https://github.com/Unknwon/go-study-index
+- https://appliedgo.net/
 
 ### Books
 
@@ -49,6 +50,7 @@
 - https://gocn.io/article/5
 - http://www.alexedwards.net/blog/golang-response-snippets
 - https://yuyang0.github.io/notes/golang.html
+- https://about.sourcegraph.com/go/idiomatic-go
 
 ### Videos
 

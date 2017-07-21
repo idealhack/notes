@@ -25,6 +25,11 @@
 - https://github.com/go-sql-driver/mysql
 
 
+## Utils
+
+- https://github.com/sirupsen/logrus
+
+
 ## Others
 
 - https://github.com/bradfitz/gomemcache

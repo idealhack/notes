@@ -14,13 +14,25 @@
 - [[Ceph]]
 
 
-## Paxos
+## CAP
+
+- https://zh.wikipedia.org/wiki/CAP%E5%AE%9A%E7%90%86
+- https://en.wikipedia.org/wiki/CAP_theorem
+
+
+## Algorithm
+
+### Quorum
+
+- https://zh.wikipedia.org/wiki/Quorum_(%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F)
+- https://en.wikipedia.org/wiki/Quorum_(distributed_computing)
+
+### Paxos
 
 - https://en.wikipedia.org/wiki/Paxos_(computer_science)
 - https://zh.wikipedia.org/wiki/Paxos%E7%AE%97%E6%B3%95
 
-
-## Raft
+### Raft
 
 - https://en.wikipedia.org/wiki/Raft_(computer_science)
 - http://thesecretlivesofdata.com/raft/
