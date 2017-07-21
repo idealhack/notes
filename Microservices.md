@@ -17,3 +17,4 @@
 
 - https://martinfowler.com/articles/microservices.html
 - https://opensource.com/resources/what-are-microservices
+- http://blog.christianposta.com/microservices/the-hardest-part-of-microservices-calling-your-services/

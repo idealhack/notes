@@ -14,6 +14,8 @@
 - [[HAProxy]]
 - [[Nginx]]
 - Vulcan
+- https://github.com/lyft/envoy
+- https://github.com/linkerd/linkerd
 - https://github.com/containous/traefik
 
 

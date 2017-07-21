@@ -38,3 +38,8 @@
 - http://thesecretlivesofdata.com/raft/
 - http://www.cnblogs.com/mindwind/p/5231986.html
 - https://docs.docker.com/engine/swarm/raft/
+
+
+## Resources
+
+- http://go-talks.appspot.com/github.com/mhausenblas/fallacies-of-distributed-gomputing/main.slide

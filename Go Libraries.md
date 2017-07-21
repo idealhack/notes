@@ -12,6 +12,8 @@
 - https://github.com/gin-gonic/gin
 - https://github.com/revel/revel
 - https://github.com/valyala/quicktemplate
+- https://github.com/kataras/iris
+- https://github.com/go-siris/siris
 
 
 ## HTTP
@@ -28,6 +30,7 @@
 ## Utils
 
 - https://github.com/sirupsen/logrus
+- https://github.com/emirpasic/gods
 
 
 ## Others

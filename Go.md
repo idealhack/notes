@@ -51,11 +51,16 @@
 - http://www.alexedwards.net/blog/golang-response-snippets
 - https://yuyang0.github.io/notes/golang.html
 - https://about.sourcegraph.com/go/idiomatic-go
+- http://xargin.com/pprof-he-huo-yan-tu/
 
 ### Videos
 
 - https://www.youtube.com/playlist?list=PLIbUZ3URbL0Hn-2v6oB9nMfIfJPYDY9Nv
 - https://github.com/Unknwon/go-fundamental-programming
+
+### Slides
+
+- https://www.slideshare.net/nats_io/writing-networking-clients-in-go-gophercon-2017-talk
 
 ### cgo
 
