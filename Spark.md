@@ -54,6 +54,11 @@
 - https://github.com/spark-jobserver/python-sjsclient
 
 
+## Tools
+
+- https://zeppelin.apache.org/
+
+
 ## Books
 
 - https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details

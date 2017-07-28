@@ -12,6 +12,10 @@
 - https://tox.chat/
 - https://github.com/sqlmapproject/sqlmap
 
+### Wi-Fi
+
+- https://github.com/brannondorsey/wifi-cracking
+
 
 ## Resources
 

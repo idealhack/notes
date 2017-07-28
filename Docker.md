@@ -34,6 +34,7 @@
 ## Tools
 
 - https://github.com/docker-slim/docker-slim
+- https://github.com/coreos/clair
 
 
 ## [[Docker orchestration]]

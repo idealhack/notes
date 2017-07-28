@@ -39,6 +39,7 @@
 - [dlib](http://dlib.net/)
 - [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
 - [keras](https://github.com/fchollet/keras)
+- https://github.com/Tencent/ncnn
 
 
 ## Tools

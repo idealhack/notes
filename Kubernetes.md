@@ -28,6 +28,7 @@
 ## Tools
 
 - https://github.com/kubernetes/helm
+- https://kubeapps.com/
 - https://github.com/k8sp/sextant
 - https://github.com/kubernetes-incubator/kompose
 - https://github.com/johanhaleby/kubetail

@@ -3,8 +3,9 @@
 
 ## Scriptable browser
 
-- http://phantomjs.org/
-- http://slimerjs.org/
+- https://github.com/ariya/phantomjs
+- https://github.com/laurentj/slimerjs
+- https://github.com/mozilla/chromeless
 
 
 ## Resources

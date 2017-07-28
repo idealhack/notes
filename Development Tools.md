@@ -63,6 +63,7 @@
 - https://github.com/BBC-News/wraith
 - https://github.com/pickhardt/betty
 - http://beets.io/
+- https://segmentfault.com/a/1190000010103386
 
 
 ## Resources

@@ -10,3 +10,6 @@
 ## Resources
 
 - https://github.com/kamranahmedse/design-patterns-for-humans
+- https://github.com/tmrts/go-patterns
+- https://github.com/faif/python-patterns
+- https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md

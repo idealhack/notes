@@ -7,13 +7,13 @@
 - [[Ubuntu on Macbook]]
 
 
-## Setup
+## Distributionss
 
 - [[Ubuntu]]
 - [[CentOS]]
 - Debian
 - Arch
-- Kali
+- [Kali](https://www.kali.org/)
 - BlackArch
 
 

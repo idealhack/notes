@@ -14,6 +14,8 @@
 - https://github.com/poteto/hiring-without-whiteboards
 - https://yushuangqi.com/blog/2017/golang-mian-shi-ti-da-an-yujie-xi.html
 - http://xargin.com/backend-engineer-interview/
+- https://segmentfault.com/a/1190000010114505
+- [如何面试工程师？](http://www.infoq.com/cn/articles/how-to-interview-engineers)
 
 
 ### [美团点评 OpenDoc - 前端简历评级标准](https://gold.xitu.io/post/58b6679461ff4b006ccd825e)

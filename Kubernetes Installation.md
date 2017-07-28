@@ -70,6 +70,10 @@ Install Heapster:
     tar xzf heapster-* && cd heapster-*
     kubectl create -f deploy/kube-config/influxdb/
 
+Get tokens:
+    
+    sudo kubeadm token list
+
 ### On node has GPU:
 
     sudo sed -i '/^ExecStart=\/usr\/bin\/kubelet/ s/$/ --feature-gates=Accelerators=true/' /etc/systemd/system/kubelet.service.d/*-kubeadm.conf

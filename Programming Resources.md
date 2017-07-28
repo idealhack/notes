@@ -16,6 +16,8 @@
 
 - https://techterms.com/
 - https://www.thoughtworks.com/radar/a-z
+- https://learn-anything.xyz/
+- https://gxnotes.com/
 
 
 ## Resources
@@ -58,3 +60,6 @@
 - [來亂者，去死！！ | Rex's blah blah blah](http://blog.nutsfactory.net/2008/05/20/how-open-source-projects-survive-poisonous-people/)
 - [Technical Writer 技术文档工程师-文档中 Copyright 的意思和正确写法](http://www.technicalwriter.cn/blog/post/how-to-right-copyright-in-documents.html)
 - [了解Instagram背后的技术](http://www.infoq.com/cn/news/2012/05/instagram)
+- https://segmentfault.com/a/1190000004612590
+- https://segmentfault.com/a/1190000008921805
+- https://segmentfault.com/a/1190000010128001
