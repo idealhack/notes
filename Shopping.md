@@ -1,6 +1,8 @@
 # Shopping
 
 
+## Resources
+
 - [电动牙刷推荐&选购指南 | 电动牙刷哪个牌子好_飞利浦电动牙刷哪个型号好_什么值得买](http://post.smzdm.com/p/481338)
 - [如果求婚一定要买钻戒，那这样可以省一点钱](http://daily.zhihu.com/story/3421892)
 - [私家珠宝心得：求婚时如果要买钻石，最好镶成项链](http://daily.zhihu.com/story/3837945)

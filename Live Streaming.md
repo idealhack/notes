@@ -3,24 +3,25 @@
 
 ## Clients
 
-- [FFmpeg] [[FFmpeg]]
+- [[FFmpeg]]
 - [LaiFengiOS/LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit)
 - [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea)
 - [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
-
-
-## Best Practices
-
-- [osrtss/awesome-livestreaming](https://github.com/osrtss/awesome-livestreaming)
-- [七牛直播云技术白皮书](https://developer.qiniu.com/pili/manual/live-the-core-function)
-- [大规模实时流媒体服务网络架构演进](https://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=2652190710&idx=1&sn=f451dbd902d8a0e35dc7f964b96af33a)
-- [大规模实时流处理平台架构](https://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=2652190799&idx=1&sn=007cce0db1ebb1b8711b442160042ca2)
 
 
 ## Libraries
 
 - https://github.com/AnyRTC/AnyRTC-RTMP
 
+
+## Resources
+
+### Best Practices
+
+- [osrtss/awesome-livestreaming](https://github.com/osrtss/awesome-livestreaming)
+- [七牛直播云技术白皮书](https://developer.qiniu.com/pili/manual/live-the-core-function)
+- [大规模实时流媒体服务网络架构演进](https://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=2652190710&idx=1&sn=f451dbd902d8a0e35dc7f964b96af33a)
+- [大规模实时流处理平台架构](https://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=2652190799&idx=1&sn=007cce0db1ebb1b8711b442160042ca2)
 
 ### 综述
 

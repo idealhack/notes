@@ -10,6 +10,9 @@
 ## [[Stocks]]
 
 
+## [[Real property]]
+
+
 ## Resources
 
 - http://www.investopedia.com/

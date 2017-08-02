@@ -58,6 +58,9 @@ Install Flannel:
 
     kubectl create -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel-rbac.yml
     kubectl create -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
+
+Install Dashboard:
+
     kubectl create -f https://raw.githubusercontent.com/kubernetes/dashboard/master/src/deploy/kubernetes-dashboard.yaml
 
 Setup kube-proxy to visit from other machine:
@@ -66,12 +69,13 @@ Setup kube-proxy to visit from other machine:
 
 Install Heapster:
 
-    wget -O heapster-1.3.0.tar.gz https://github.com/kubernetes/heapster/archive/v1.3.0.tar.gz
-    tar xzf heapster-* && cd heapster-*
-    kubectl create -f deploy/kube-config/influxdb/
+    kubectl create -f https://raw.githubusercontent.com/kubernetes/heapster/master/deploy/kube-config/influxdb/influxdb.yaml
+    kubectl create -f https://raw.githubusercontent.com/kubernetes/heapster/master/deploy/kube-config/influxdb/grafana.yaml
+    kubectl create -f https://raw.githubusercontent.com/kubernetes/heapster/master/deploy/kube-config/influxdb/heapster.yaml
+    kubectl create -f https://raw.githubusercontent.com/kubernetes/heapster/master/deploy/kube-config/rbac/heapster-rbac.yaml
 
 Get tokens:
-    
+
     sudo kubeadm token list
 
 ### On node has GPU:

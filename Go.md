@@ -32,6 +32,7 @@
 - https://github.com/avelino/awesome-go
 - https://github.com/Unknwon/go-study-index
 - https://appliedgo.net/
+- https://go-proverbs.github.io/
 
 ### Books
 
@@ -61,6 +62,7 @@
 ### Slides
 
 - https://www.slideshare.net/nats_io/writing-networking-clients-in-go-gophercon-2017-talk
+- https://github.com/gopherchina/conference
 
 ### cgo
 
