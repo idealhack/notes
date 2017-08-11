@@ -26,3 +26,4 @@
 - http://chuansong.me/n/1087943151059
 - http://www.yunweipai.com/archives/10849.html
 - http://teahour.fm/2013/07/22/interview-with-shaohaiyang-about-upyun-devops.html
+- https://medium.com/devopslinks/10-great-books-for-aspiring-devops-sre-engineers-76536c7c4909

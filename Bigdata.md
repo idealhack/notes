@@ -3,6 +3,7 @@
 
 - [[Hadoop]]
 - [[Spark]]
+- [[Kafka]]
 - Greenplum
 - http://www.fluentd.org/
 - http://airflow.incubator.apache.org/

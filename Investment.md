@@ -7,7 +7,7 @@
 - https://en.wikipedia.org/wiki/Investment
 
 
-## [[Stocks]]
+## [[Stock]]
 
 
 ## [[Real property]]
@@ -16,4 +16,7 @@
 ## Resources
 
 - http://www.investopedia.com/
+- http://www.pptfinance.com/
+- https://www.stockfeel.com.tw/
+- https://valueandgrowthinvesting.com/
 - http://mobile.bbwc.cn/article/10075116/1/

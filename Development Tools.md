@@ -64,6 +64,7 @@
 - https://github.com/pickhardt/betty
 - http://beets.io/
 - https://segmentfault.com/a/1190000010103386
+- https://tika.apache.org/
 
 
 ## Resources

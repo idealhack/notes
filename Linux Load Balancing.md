@@ -13,9 +13,9 @@
 - [[keepalived]]
 - [[HAProxy]]
 - [[Nginx]]
-- Vulcan
-- https://github.com/lyft/envoy
 - https://github.com/containous/traefik
+- https://github.com/lyft/envoy
+- https://github.com/vulcand/vulcand
 
 
 ## Resources

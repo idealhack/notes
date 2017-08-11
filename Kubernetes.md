@@ -90,6 +90,7 @@
 - https://coreos.com/blog/monitoring-kubernetes-with-prometheus.html
 - https://blog.couchbase.com/kubernetes-monitoring-heapster-influxdb-grafana/
 - https://mp.weixin.qq.com/s?__biz=MzA4OTMxODQwNA==&mid=2650979194&idx=1&sn=7be1a3db2bebdf2ca7a69cefc2d8d26f
+- https://blog.codedellemc.com/2017/07/25/standing-zop-stack-kubernetes/?cmp=soc-cor-glbl-us-sprinklr-TWITTER--codeDellEMC-1001768203
 
 ### Network
 

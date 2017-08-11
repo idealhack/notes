@@ -30,6 +30,7 @@
 ## Resources
 
 - https://github.com/avelino/awesome-go
+- https://github.com/hackstoic/golang-open-source-projects
 - https://github.com/Unknwon/go-study-index
 - https://appliedgo.net/
 - https://go-proverbs.github.io/
@@ -53,6 +54,7 @@
 - https://yuyang0.github.io/notes/golang.html
 - https://about.sourcegraph.com/go/idiomatic-go
 - http://xargin.com/pprof-he-huo-yan-tu/
+- http://colobu.com/2017/06/30/idiomatic-go-references/
 
 ### Videos
 

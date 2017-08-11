@@ -7,6 +7,6 @@
 - https://en.wikipedia.org/wiki/Ceph_(software)
 
 
-## Documents
+## Documentation
 
 - http://docs.ceph.org.cn/

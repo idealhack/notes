@@ -55,3 +55,4 @@
 
 - http://ustravelersguide.com/hilton-hyatt-marriott-spg-category-1-hotels-in-china/
 - http://www.duocaish.com/
+- https://rewarded.life/

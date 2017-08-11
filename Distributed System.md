@@ -40,6 +40,14 @@
 - https://docs.docker.com/engine/swarm/raft/
 
 
+## Tracing
+
+- http://opentracing.io/
+- http://zipkin.io/
+- https://wu-sheng.gitbooks.io/opentracing-io/content/
+- https://medium.com/@Pinterest_Engineering/applications-of-pin-trace-data-3b9e6dc2744b
+
+
 ## Resources
 
 - http://go-talks.appspot.com/github.com/mhausenblas/fallacies-of-distributed-gomputing/main.slide

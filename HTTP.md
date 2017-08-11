@@ -12,4 +12,10 @@
 - https://http2.github.io/
 
 
-[[HTTP API]]
+## [[HTTP API]]
+
+
+## HTTP/2
+
+- https://zh.wikipedia.org/wiki/HTTP/2
+- https://en.wikipedia.org/wiki/HTTP/2

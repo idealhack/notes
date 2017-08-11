@@ -34,10 +34,6 @@
 - https://github.com/etsy/statsd
 - https://github.com/influxdata/telegraf
 
-### Datastore
-
-- https://github.com/influxdata/influxdb
-
 ### Graph
 
 - http://grafana.org/
