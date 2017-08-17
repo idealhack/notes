@@ -37,8 +37,9 @@
 - https://learnxinyminutes.com/
 - https://thoughtbot.com/playbook
 - https://github.com/zenany/weekly
+- http://hyperpolyglot.org/
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
-- [[译文]程序员能力矩阵 Programmer Competency Matrix](http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm)
+- [程序员能力矩阵 Programmer Competency Matrix](http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm)
 - https://github.com/nemoTyrant/manong
 - [知识库 - 你身边的技术百科全书 - CSDN](http://lib.csdn.net/)
 - [如何定義 "會" XXX 程式語言 - 大貓共和國](http://blog.miaout17.net/2012/04/02/programming-language/)
@@ -56,7 +57,7 @@
 - [没有了老师，你该如何学习？](http://insights.thoughtworkers.org/how-to-study-without-teacher/)
 - [技术的执念](http://insights.thoughtworkers.org/obsession-og-technology/)
 - [Love Hotels and Unicode](http://blog.reigndesign.com/blog/love-hotels-and-unicode/)
-- [What every programmer should know about memory, Part 1 [LWN.net]](http://lwn.net/Articles/250967/?rss=1)
+- [What every programmer should know about memory, Part 1](http://lwn.net/Articles/250967/?rss=1)
 - [來亂者，去死！！ | Rex's blah blah blah](http://blog.nutsfactory.net/2008/05/20/how-open-source-projects-survive-poisonous-people/)
 - [Technical Writer 技术文档工程师-文档中 Copyright 的意思和正确写法](http://www.technicalwriter.cn/blog/post/how-to-right-copyright-in-documents.html)
 - [了解Instagram背后的技术](http://www.infoq.com/cn/news/2012/05/instagram)

@@ -43,6 +43,7 @@
 - https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/
 - https://nanxiao.gitbooks.io/golang-101-hacks/content/
 - https://tiancaiamao.gitbooks.io/go-internals/content/zh/
+- https://bingohuang.gitbooks.io/effective-go-zh-en/content/
 
 ### Articles
 

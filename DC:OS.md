@@ -50,3 +50,4 @@ Steps using ARM template:
 - [基于Mesos DCOS的大数据云计算平台架构: 大数据会议 - Strata Data Conference, 8月 2016, 北京, 中国](https://strata.oreilly.com.cn/hadoop-big-data-cn/public/schedule/detail/52459)
 - [飞驰在Mesos的涡轮引擎上 | MaxLeap - 博客](https://blog.maxleap.cn/archives/1050)
 - http://www.toutiao.com/i6428170905435767297/
+- [DC/OS关键技术与应用场景](https://mp.weixin.qq.com/s/iSeGtWmHVM5Jqx3QSh3PSQ)

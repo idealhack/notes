@@ -1,6 +1,13 @@
 # CentOS
 
 
+## Overview
+
+- https://www.centos.org/
+- https://zh.wikipedia.org/wiki/CentOS
+- https://en.wikipedia.org/wiki/CentOS
+
+
 ## Setup
 
 使用 `CentOS-7-x86_64-Minimal-1611.iso` 安装后的配置流程如下

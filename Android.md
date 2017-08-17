@@ -18,6 +18,7 @@
 - https://github.com/square/picasso
 - https://github.com/alibaba/atlas
 - https://github.com/Uncodin/bypass
+- https://github.com/square/okhttp
 
 
 ## Tools

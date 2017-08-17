@@ -15,7 +15,4 @@
 ## [[HTTP API]]
 
 
-## HTTP/2
-
-- https://zh.wikipedia.org/wiki/HTTP/2
-- https://en.wikipedia.org/wiki/HTTP/2
+## [[HTTP/2]]

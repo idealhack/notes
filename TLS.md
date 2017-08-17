@@ -55,3 +55,4 @@ Manual get a certificate:
 - http://blog.m31271n.com/2017/03/17/SSL-TLS-%E6%A6%82%E8%A7%88/
 - https://github.com/k8sp/tls
 - https://weakdh.org/
+- https://istlsfastyet.com/

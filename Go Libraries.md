@@ -27,6 +27,10 @@
 - https://github.com/go-sql-driver/mysql
 - https://github.com/mattes/migrate
 
+### Email
+
+- https://github.com/matcornic/hermes
+
 ### Utils
 
 - https://github.com/sirupsen/logrus

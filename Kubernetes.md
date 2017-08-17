@@ -44,6 +44,7 @@
 ## Monitoring
 
 - https://github.com/kubernetes/heapster
+- https://github.com/coreos/prometheus-operator
 
 
 ## Books

@@ -11,13 +11,20 @@
 ## Editor
 
 - [[Vim]]
-- [[Notational Velocity]]
+- [[nvALT]]
 - http://brackets.io/
+- Sublime Text
+- VS Code
 
 ### Color Schemes
 
 - https://github.com/daylerees/colour-schemes
 - http://chriskempson.com/projects/base16/
+
+
+## Graphics
+
+- https://www.processon.com/
 
 
 ## Documentation

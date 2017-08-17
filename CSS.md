@@ -47,9 +47,9 @@
 ## Resources
 
 - https://github.com/you-dont-need/You-Dont-Need-Javascript
-- [【前端知识】Flexbox，更优雅的布局 - GitCafe - SegmentFault](https://segmentfault.com/a/1190000002490633)
+- [Flexbox，更优雅的布局 - GitCafe - SegmentFault](https://segmentfault.com/a/1190000002490633)
 - [CSS3 Flexible Box Layout Explained - Smashing Magazine](https://www.smashingmagazine.com/2011/09/css3-flexible-box-layout-explained/)
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css)
 - [anthonyshort/idiomatic-sass](https://github.com/anthonyshort/idiomatic-sass)
-- [[譯] CSS 載入機制的未來趨勢 - andyyou 程序猿生活 - SegmentFault](https://segmentfault.com/a/1190000004454799)
+- [CSS 載入機制的未來趨勢 - andyyou 程序猿生活 - SegmentFault](https://segmentfault.com/a/1190000004454799)
 - [CSS创建竖排文字的简单方法 - 网页制作 - 蓝色理想](http://www.blueidea.com/tech/web/2010/8140.asp)
