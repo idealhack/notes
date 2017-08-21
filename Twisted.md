@@ -10,5 +10,5 @@
 ## Books
 
 - http://twistedmatrix.com/documents/current/core/howto/index.html
-- https://likebeta.gitbooks.io/twisted-intro-cn/content/zh/
+- https://likebeta.gitbooks.io/twisted-intro-cn/zh/
 

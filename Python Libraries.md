@@ -16,12 +16,15 @@
 - http://www.sympy.org/en/index.html
 - http://pandas.pydata.org/
 
+### Network
+
+- [python-hyper/hyper-h2: HTTP/2 State-Machine based protocol implementation](https://github.com/python-hyper/hyper-h2)
+
 ### scrapy
 
 - https://github.com/scrapy/scrapy
 - https://github.com/scrapinghub/portia
 - https://github.com/xiyouMc/PornHubBot
-
 
 ### Others
 

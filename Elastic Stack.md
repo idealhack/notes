@@ -15,4 +15,4 @@
 
 ## Resources
 
-- https://kibana.logstash.es/content/
+- https://kibana.logstash.es/

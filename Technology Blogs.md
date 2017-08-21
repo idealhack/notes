@@ -36,6 +36,8 @@
 - https://blog.docker.com/
 - http://io.upyun.com/
 - https://addops.cn/
+- https://tech.meituan.com/
+- http://tech.dianwoda.com/
 
 ### Media
 

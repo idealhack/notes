@@ -3,7 +3,7 @@
 
 ## Overview
 
-- [DevOps - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh-hans/DevOps)
+- [DevOps - 维基百科](https://zh.wikipedia.org/zh-hans/DevOps)
 
 
 ## Tools

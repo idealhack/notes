@@ -3,7 +3,7 @@
 
 ## Overview
 
-- [人脸识别 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB)
+- [人脸识别 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB)
 - [Face perception - Wikipedia](https://en.wikipedia.org/wiki/Face_perception)
 
 

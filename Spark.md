@@ -24,7 +24,7 @@
 ### Cassandra
 
 - https://academy.datastax.com/resources/getting-started-apache-spark-and-cassandra?unit=getting-started-apache-spark-and-cassandra
-- https://github.com/datastax/spark-cassandra-connector
+- [datastax/spark-cassandra-connector: DataStax Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector)
 - https://www.youtube.com/watch?v=_gFgU3phogQ
 - https://gist.github.com/clakech/4a4568daba1ca108f03c
 
@@ -57,11 +57,12 @@
 ## Tools
 
 - https://zeppelin.apache.org/
+- [spark-jobserver/spark-jobserver: REST job server for Apache Spark](https://github.com/spark-jobserver/spark-jobserver)
 
 
 ## Books
 
-- https://www.gitbook.com/book/jaceklaskowski/mastering-apache-spark/details
+- [Mastering Apache Spark 2 (Spark 2.2+)](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 
 
 ## Applications
@@ -83,3 +84,9 @@
 - https://www.zhihu.com/question/26568496
 - https://www.gitbook.com/book/grzegorzgajda/spark-examples/details
 - http://blog.ditullio.fr/2016/11/09/docker-spark-analyse-cassandra-data/
+
+
+## Beyond Spark
+
+- [filodb/FiloDB: Distributed. Columnar. Versioned. Streaming. SQL.](https://github.com/filodb/FiloDB)
+- [SnappyDataInc/snappydata: SnappyData - The Spark Database. Stream, Transact, Analyze, Predict in one cluster](https://github.com/SnappyDataInc/snappydata)

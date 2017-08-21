@@ -16,6 +16,7 @@
 - https://github.com/valyala/quicktemplate
 - https://github.com/kataras/iris
 - https://github.com/go-siris/siris
+- [labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
 
 ### HTTP
 
@@ -35,6 +36,13 @@
 
 - https://github.com/sirupsen/logrus
 - https://github.com/emirpasic/gods
+
+### Data
+
+- [gonum](https://github.com/gonum)
+- [pilosa/pilosa: Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.](https://github.com/pilosa/pilosa)
+- [chrislusf/glow: Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc.](https://github.com/chrislusf/glow)
+- [chrislusf/gleam: Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.](https://github.com/chrislusf/gleam)
 
 ### Others
 

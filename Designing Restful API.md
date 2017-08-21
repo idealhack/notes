@@ -3,7 +3,7 @@
 
 ## Overview
 
-- [Representational state transfer - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
+- [Representational state transfer - Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
 
 ## Resources

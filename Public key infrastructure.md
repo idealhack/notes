@@ -33,3 +33,10 @@
 - http://blog.m31271n.com/2017/03/17/%E8%87%AA%E5%BB%BA-CA-%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/
 - http://seanlook.com/2015/01/18/openssl-self-sign-ca/
 - http://www.scalaone.com/?p=309
+
+### Certificate Pinning
+
+- [Certificate and Public Key Pinning - OWASP](https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning)
+- [Certificate pinning for Android and iOS: Man-in-the-middle attack prevention | NowSecure Blog](https://www.nowsecure.com/blog/2017/06/15/certificate-pinning-for-android-and-ios-mobile-man-in-the-middle-attack-prevention/)
+- [Bypassing OpenSSL Certificate Pinning in iOS Apps](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2015/january/bypassing-openssl-certificate-pinning-in-ios-apps/)
+- [iphone - How to pin the Public key of a certificate on iOS - Stack Overflow](https://stackoverflow.com/questions/15728636/how-to-pin-the-public-key-of-a-certificate-on-ios?answertab=votes)

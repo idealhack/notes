@@ -1,9 +1,10 @@
 # Security
 
 
-## Frontend
+## [[Web Security]]
 
-- https://github.com/cure53/H5SC
+
+## [[Linux Security]]
 
 
 ## Softwares

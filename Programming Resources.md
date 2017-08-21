@@ -9,7 +9,7 @@
 - http://lucida.me/blog/developer-reading-list/
 - http://www.hksilicon.com/articles/35423
 - http://blog.m31271n.com/books/
-- https://wizardforcel.gitbooks.io/flygon-booklist/content/
+- https://wizardforcel.gitbooks.io/flygon-booklist/
 
 
 ## Websites

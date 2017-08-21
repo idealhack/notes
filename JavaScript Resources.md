@@ -17,7 +17,7 @@
 
 ### 闭包
 
-- [闭包 (计算机科学) - 维基百科，自由的百科全书](https://zh.wikipedia.org/zh/%E9%97%AD%E5%8C%85_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6))
+- [闭包 (计算机科学) - 维基百科](https://zh.wikipedia.org/zh/%E9%97%AD%E5%8C%85_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6))
 - [理解 JavaScript 闭包 (引用于http://www.cn-cuckoo.com/2007/08/01/understand-javascript-closures-72.html) - huxin1的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/huxin1/article/details/3370381)
 - [JavaScript闭包的详细解释 深入理解javascript闭包 - 绝对秋香 - ITeye技术网站](http://liqita.iteye.com/blog/1214325)
 

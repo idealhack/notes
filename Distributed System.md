@@ -5,7 +5,12 @@
 
 - [[ZooKeeper]]
 - [etcd](https://github.com/coreos/etcd)
-- [Alluxio](http://www.alluxio.org/)
+
+
+## Memory Storage
+
+- [Alluxio - Open Source Memory Speed Virtual Distributed Storage](http://www.alluxio.org/)
+- [Open Source Memory-Centric Data Platform - Apache Ignite](https://ignite.apache.org/index.html)
 
 
 ## File system
@@ -44,7 +49,7 @@
 
 - http://opentracing.io/
 - http://zipkin.io/
-- https://wu-sheng.gitbooks.io/opentracing-io/content/
+- https://wu-sheng.gitbooks.io/opentracing-io/
 - https://medium.com/@Pinterest_Engineering/applications-of-pin-trace-data-3b9e6dc2744b
 
 

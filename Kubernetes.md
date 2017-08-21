@@ -49,8 +49,8 @@
 
 ## Books
 
-- https://rootsongjc.gitbooks.io/kubernetes-handbook/content/
-- https://gcpug-tw.gitbooks.io/kuberbetes-in-action/content/
+- https://rootsongjc.gitbooks.io/kubernetes-handbook/
+- https://gcpug-tw.gitbooks.io/kuberbetes-in-action/
 - https://kubernetes.feisky.xyz/
 
 
@@ -65,7 +65,7 @@
 - https://github.com/ramitsurana/awesome-kubernetes
 - http://k8s.bingohuang.com/
 - http://dockone.io/article/932
-- https://yeasy.gitbooks.io/docker_practice/content/kubernetes/
+- https://yeasy.gitbooks.io/docker_practice/kubernetes/
 - http://dockone.io/article/2011
 - http://www.jianshu.com/u/9182cb57eb10
 - https://pbs.twimg.com/media/DBzjTTKUIAA1OvE.jpg

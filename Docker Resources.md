@@ -26,7 +26,7 @@ https://book.douban.com/subject/26825958/
 - http://www.widuu.com/docker/userguide/index.html
 - https://www.gitbook.com/book/yeasy/docker_practice/details
 - https://www.gitbook.com/book/octowhale/doc2cn_docker/details
-- https://opskumu.gitbooks.io/docker/content/
+- https://opskumu.gitbooks.io/docker/
 
 ### docker集群化
 

@@ -4,7 +4,7 @@
 ## Overview
 
 - [WebRTC](https://webrtc.org/)
-- [WebRTC - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/WebRTC)
+- [WebRTC - 维基百科](https://zh.wikipedia.org/wiki/WebRTC)
 - [WebRTC - Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
 
 
