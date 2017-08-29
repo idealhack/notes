@@ -19,11 +19,6 @@
 ## [[Kubernetes]]
 
 
-## Consul
-
-- https://github.com/hashicorp/consul
-
-
 ## Resources
 
 - https://www.gitbook.com/book/opskumu/docker/details

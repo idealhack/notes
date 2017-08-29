@@ -5,6 +5,7 @@
 
 - [[ZooKeeper]]
 - [etcd](https://github.com/coreos/etcd)
+- [Consul](https://github.com/hashicorp/consul)
 
 
 ## Memory Storage

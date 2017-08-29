@@ -25,6 +25,7 @@
 ## Tools
 
 - [golang/dep: Go dependency management tool](https://github.com/golang/dep)
+- [goreleaser/goreleaser: Deliver Go binaries as fast and easily as possible](https://github.com/goreleaser/goreleaser)
 
 
 ## Resources

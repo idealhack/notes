@@ -22,9 +22,15 @@ a. With `yum`:
     setenforce 0
     yum install -y kubelet kubeadm kubernetes-cni
 
-b. With `rpm` (and `kube*.rpm` prepared):
+b. With `rpm` (version 1.7.4):
 
     sudo yum install socat -y
+    wget https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/primary.xml
+    # Get .rpm file URL of certain version
+    # grep pool primary.xml | grep 1.7.4-0
+    wget -O kubeadm-1.7.4-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/f0a51fcde5e3b329050d7a6cf70f04a6cdf09eacfbad55f4324bfa2ea4312d0e-kubeadm-1.7.4-0.x86_64.rpm
+    wget -O kubectl-1.7.4-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/041d5a6813dab590b160865fea7259bc2db762a9667379d03aca8d4596a3cccd-kubectl-1.7.4-0.x86_64.rpm
+    wget -O kubelet-1.7.4-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/4f60c17a926175fb9abcfdd487cebafbbbce0e2248d2b99c189ae0877376b88d-kubelet-1.7.4-0.x86_64.rpm
     sudo rpm -ivh kube*.rpm
 
 Then:
@@ -107,6 +113,27 @@ To use `kubectl` on node:
 ### On node:
 
     kubeadm reset
+
+
+## Upgrading kubeadm clusters (from 1.6 to 1.7)
+
+https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-7/
+
+With `rpm` (and `kube*.rpm` prepared):
+
+    sudo yum remove -y kubelet kubectl kubeadm
+    sudo rpm -ivh kube*.rpm
+    sudo systemctl daemon-reload
+    sudo systemctl restart kubelet
+
+On master:
+
+    sudo KUBECONFIG=/etc/kubernetes/admin.conf kubectl delete daemonset kube-proxy -n kube-system
+    sudo kubeadm init --pod-network-cidr=10.244.0.0/16 --skip-preflight-checks --kubernetes-version <DESIRED_VERSION>
+
+With `docker load -i` (and `kube*.tar` images prepared):
+
+    docker load -i kube*.tar
 
 
 ## Resources
