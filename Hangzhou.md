@@ -4,7 +4,6 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E6%9D%AD%E5%B7%9E%E5%B8%82
-- https://en.wikipedia.org/wiki/Hangzhou
 
 
 ## Books

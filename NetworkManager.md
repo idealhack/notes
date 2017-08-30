@@ -4,7 +4,6 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/NetworkManager
-- https://en.wikipedia.org/wiki/NetworkManager
 
 
 ## Documentation

@@ -5,7 +5,6 @@
 
 - [CUDA GPUs](https://developer.nvidia.com/cuda-gpus)
 - [NVIDIA显示核心列表 - 维基百科](https://zh.wikipedia.org/wiki/NVIDIA%E9%A1%AF%E7%A4%BA%E6%A0%B8%E5%BF%83%E5%88%97%E8%A1%A8)
-- [List of Nvidia graphics processing units - Wikipedia](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
 
 
 ## DL Workstation

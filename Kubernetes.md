@@ -5,7 +5,7 @@
 
 - http://kubernetes.io/
 - http://blog.kubernetes.io/
-- https://en.wikipedia.org/wiki/Kubernetes
+- [Kubernetes - 维基百科](https://zh.wikipedia.org/wiki/Kubernetes)
 
 
 ## Documentation

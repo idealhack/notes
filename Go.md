@@ -6,7 +6,6 @@
 - [The Go Programming Language](https://golang.org/)
 - [Go 编程语言](https://go-zh.org/)
 - [Go - 维基百科](https://zh.wikipedia.org/wiki/Go)
-- [Go (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))
 
 
 ## Documentation

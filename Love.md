@@ -3,7 +3,7 @@
 
 ## Overview
 
-- [Love - Wikipedia](https://en.wikipedia.org/wiki/Love)
+- [爱 - 维基百科](https://zh.wikipedia.org/wiki/%E6%84%9B)
 
 
 ## Resources

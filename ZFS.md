@@ -4,7 +4,6 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/ZFS
-- https://en.wikipedia.org/wiki/ZFS
 
 
 ## Documentation

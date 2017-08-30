@@ -3,7 +3,7 @@
 
 ## Overview
 
-- [Representational state transfer - Wikipedia](https://en.wikipedia.org/wiki/Representational_state_transfer)
+- [REST - 维基百科](https://zh.wikipedia.org/wiki/REST)
 
 
 ## Resources

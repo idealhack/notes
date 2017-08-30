@@ -4,7 +4,6 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E6%8A%95%E8%B5%84
-- https://en.wikipedia.org/wiki/Investment
 
 
 ## [[Stock]]

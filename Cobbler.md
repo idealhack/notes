@@ -1,11 +1,10 @@
 # Cobbler
 
 
-## Overview 
+## Overview
 
-- https://zh.wikipedia.org/wiki/Cobbler_(软件)
-- https://en.wikipedia.org/wiki/Cobbler_(software)
 - http://cobbler.github.io/
+- https://zh.wikipedia.org/wiki/Cobbler_(软件)
 
 
 ## Manual

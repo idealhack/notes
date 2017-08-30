@@ -5,7 +5,6 @@
 
 - https://zeronet.io/
 - https://zh.wikipedia.org/wiki/ZeroNet
-- https://en.wikipedia.org/wiki/ZeroNet
 
 
 ## Documentation

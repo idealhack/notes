@@ -5,7 +5,6 @@
 
 - https://www.wireshark.org/
 - https://zh.wikipedia.org/wiki/Wireshark
-- https://en.wikipedia.org/wiki/Wireshark
 
 
 ## Filters

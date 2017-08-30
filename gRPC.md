@@ -18,7 +18,6 @@
 
 - [Protocol Buffers | Google Developers](https://developers.google.com/protocol-buffers/)
 - [Protocol Buffers - 维基百科](https://zh.wikipedia.org/wiki/Protocol_Buffers)
-- [Protocol Buffers - Wikipedia](https://en.wikipedia.org/wiki/Protocol_Buffers)
 
 
 ## Resources

@@ -4,7 +4,6 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/NoSQL
-- https://en.wikipedia.org/wiki/NoSQL
 - http://nosql-database.org/
 
 

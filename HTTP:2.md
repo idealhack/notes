@@ -5,7 +5,6 @@
 
 - [HTTP/2](https://http2.github.io/)
 - [HTTP/2 - 维基百科](https://zh.wikipedia.org/wiki/HTTP/2)
-- [HTTP/2 - Wikipedia](https://en.wikipedia.org/wiki/HTTP/2)
 
 
 ## Books

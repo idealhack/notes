@@ -4,7 +4,6 @@
 ## Overview
 
 - [链路聚合 - 维基百科](https://zh.wikipedia.org/wiki/%E9%93%BE%E8%B7%AF%E8%81%9A%E5%90%88)
-- [Link aggregation - Wikipedia](https://en.wikipedia.org/wiki/Link_aggregation)
 
 
 ## Linux Ethernet Bonding

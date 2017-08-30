@@ -3,7 +3,6 @@
 
 ## Overview
 
-- https://en.wikipedia.org/wiki/Message_queue
 - https://zh.wikipedia.org/zh-hans/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97
 - http://queues.io/
 

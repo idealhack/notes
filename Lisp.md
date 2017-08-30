@@ -4,9 +4,7 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/LISP
-- https://en.wikipedia.org/wiki/Lisp_(programming_language)
 - https://zh.wikipedia.org/wiki/Common_Lisp
-- https://en.wikipedia.org/wiki/Common_Lisp
 - https://common-lisp.net/
 - http://lisp-lang.org/
 

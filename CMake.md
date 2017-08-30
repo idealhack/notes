@@ -4,7 +4,6 @@
 ## Overview
 
 - https://cmake.org/
-- https://en.wikipedia.org/wiki/CMake
 - https://zh.wikipedia.org/wiki/CMake
 
 

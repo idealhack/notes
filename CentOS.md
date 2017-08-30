@@ -5,7 +5,6 @@
 
 - https://www.centos.org/
 - https://zh.wikipedia.org/wiki/CentOS
-- https://en.wikipedia.org/wiki/CentOS
 
 
 ## Setup

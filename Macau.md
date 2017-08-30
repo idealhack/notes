@@ -3,8 +3,7 @@
 
 ## Overview
 
-- https://zh.wikipedia.org/wiki/澳門
-- https://en.wikipedia.org/wiki/Macau
+- [澳门 - 维基百科](https://zh.wikipedia.org/wiki/%E6%BE%B3%E9%96%80)
 
 
 ## Travel

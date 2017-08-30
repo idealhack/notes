@@ -5,7 +5,6 @@
 
 - https://www.python.org/
 - https://zh.wikipedia.org/wiki/Python
-- https://en.wikipedia.org/wiki/Python_(programming_language)
 
 
 ## Documentation

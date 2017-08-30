@@ -4,7 +4,6 @@
 ## Airlines
 
 - [航空公司 - 维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8)
-- [Airline - Wikipedia](https://en.wikipedia.org/wiki/Airline)
 
 ### MU
 
@@ -30,37 +29,31 @@
 ## Airline alliances
 
 - [航空联盟 - 维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E8%81%AF%E7%9B%9F)
-- [Airline alliance - Wikipedia](https://en.wikipedia.org/wiki/Airline_alliance)
 
 ### Star Alliance
 
 - [Star Alliance](http://www.staralliance.com/zh/home)
 - [星空联盟 - 维基百科](https://zh.wikipedia.org/wiki/%E6%98%9F%E7%A9%BA%E8%81%AF%E7%9B%9F)
-- [Star Alliance - Wikipedia](https://en.wikipedia.org/wiki/Star_Alliance)
 
 ### SkyTeam
 
 - [天合联盟](https://www.skyteam.com/zh)
 - [天合联盟 - 维基百科](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%90%88%E8%81%AF%E7%9B%9F)
-- [SkyTeam - Wikipedia](https://en.wikipedia.org/wiki/SkyTeam)
 
 ### oneworld
 
 - [oneworld](https://zh.oneworld.com/)
 - [寰宇一家 - 维基百科](https://zh.wikipedia.org/wiki/%E5%AF%B0%E5%AE%87%E4%B8%80%E5%AE%B6)
-- [Oneworld - Wikipedia](https://en.wikipedia.org/wiki/Oneworld)
 
 ### Value Alliance
 
 - [value-alliance](http://www.valuealliance.com/)
-- [价值联盟 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E4%BB%B7%E5%80%BC%E8%81%94%E7%9B%9F)
-- [Value Alliance - Wikipedia](https://en.wikipedia.org/wiki/Value_Alliance)
+- [价值联盟 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BB%B7%E5%80%BC%E8%81%94%E7%9B%9F)
 
 ### U-FLY Alliance
 
 - [优行联盟](http://www.uflyalliance.com/zh-cn)
-- [优行联盟 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%84%AA%E8%A1%8C%E8%81%AF%E7%9B%9F)
-- [U-FLY Alliance - Wikipedia](https://en.wikipedia.org/wiki/U-FLY_Alliance)
+- [优行联盟 - 维基百科](https://zh.wikipedia.org/wiki/%E5%84%AA%E8%A1%8C%E8%81%AF%E7%9B%9F)
 
 
 ## Resources

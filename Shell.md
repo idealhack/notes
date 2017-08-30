@@ -3,7 +3,7 @@
 
 ## Overview
 
-- https://en.wikipedia.org/wiki/Shell_script
+- [Shell脚本 - 维基百科](https://zh.wikipedia.org/wiki/Shell%E8%84%9A%E6%9C%AC)
 - https://github.com/qinjx/30min_guides/blob/master/shell.md
 - https://www.shellscript.sh/
 - https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/

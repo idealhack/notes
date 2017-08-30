@@ -4,7 +4,6 @@
 ## Overview
 
 - http://hadoop.apache.org
-- https://en.wikipedia.org/wiki/Apache_Hadoop
 - https://zh.wikipedia.org/zh-hans/Apache_Hadoop
 
 

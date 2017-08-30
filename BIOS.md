@@ -3,8 +3,7 @@
 
 ## Overview
 
-- https://zh.wikipedia.org/zh/BIOS
-- https://en.wikipedia.org/wiki/BIOS
+- https://zh.wikipedia.org/wiki/BIOS
 
 
 ## Resources

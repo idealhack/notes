@@ -16,5 +16,4 @@
 ## Resources
 
 - https://zh.wikipedia.org/wiki/%E5%9B%BE%E7%81%B5%E6%B5%8B%E8%AF%95
-- https://en.wikipedia.org/wiki/Turing_test
 - https://dzone.com/articles/ai-glossary

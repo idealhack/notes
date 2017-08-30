@@ -4,7 +4,6 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E5%AD%97%E5%9E%8B
-- https://en.wikipedia.org/wiki/Font
 
 
 ## Fonts
@@ -16,12 +15,10 @@
 ### Roboto
 
 - https://zh.wikipedia.org/wiki/Roboto
-- https://en.wikipedia.org/wiki/Roboto
 
 ### Noto
 
 - https://zh.wikipedia.org/wiki/Noto
-- https://en.wikipedia.org/wiki/Noto_fonts
 
 
 ## Webfonts

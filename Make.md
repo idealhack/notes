@@ -5,7 +5,6 @@
 
 - https://www.gnu.org/software/make/
 - https://zh.wikipedia.org/wiki/Make
-- https://en.wikipedia.org/wiki/Make_(software)
 
 
 ## Resources

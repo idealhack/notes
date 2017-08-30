@@ -4,7 +4,6 @@
 ## Chinese
 
 - https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD
-- https://en.wikipedia.org/wiki/Chinese_language
 
 ### Dialects
 

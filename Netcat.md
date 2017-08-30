@@ -4,7 +4,6 @@
 ## Overview
 
 - http://netcat.sourceforge.net/
-- https://en.wikipedia.org/wiki/Netcat
 - https://zh.wikipedia.org/wiki/Netcat
 
 

@@ -5,11 +5,10 @@
 
 - https://www.freedesktop.org/wiki/Software/systemd/
 - https://zh.wikipedia.org/wiki/Systemd
-- https://en.wikipedia.org/wiki/Systemd
 
 
 ## Commands
-    
+
     systemctl list-units
 
     systemctl enable service-name.service

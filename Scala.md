@@ -6,7 +6,6 @@
 - https://www.scala-lang.org/
 - https://github.com/scala/scala
 - https://zh.wikipedia.org/wiki/Scala
-- https://en.wikipedia.org/wiki/Scala_(programming_language)
 
 
 ## Resources

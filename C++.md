@@ -4,7 +4,6 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/C%2B%2B
-- https://en.wikipedia.org/wiki/C%2B%2B
 
 
 ## Documentation
@@ -12,7 +11,6 @@
 ### STD
 
 - https://zh.wikipedia.org/wiki/%E6%A0%87%E5%87%86%E6%A8%A1%E6%9D%BF%E5%BA%93
-- https://en.wikipedia.org/wiki/Standard_Template_Library
 
 
 ## Style Guide
@@ -58,4 +56,3 @@
 ## Resources
 
 - https://zh.wikipedia.org/wiki/%E6%A0%87%E5%87%86%E6%A8%A1%E6%9D%BF%E5%BA%93
-- https://en.wikipedia.org/wiki/Standard_Template_Library

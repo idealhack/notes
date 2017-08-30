@@ -3,7 +3,7 @@
 
 ## Mesos
 
-- [Apache Mesos - Wikipedia](https://en.wikipedia.org/wiki/Apache_Mesos)
+- [Apache Mesos - 维基百科](https://zh.wikipedia.org/wiki/Apache_Mesos)
 - [Apache Mesos](http://mesos.apache.org/)
 
 

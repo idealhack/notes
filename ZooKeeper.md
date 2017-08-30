@@ -6,7 +6,6 @@
 - https://zookeeper.apache.org/
 - https://github.com/apache/zookeeper
 - https://zh.wikipedia.org/wiki/Apache_ZooKeeper
-- https://en.wikipedia.org/wiki/Apache_ZooKeeper
 
 
 ## Resources

@@ -5,7 +5,6 @@
 
 - https://www.khronos.org/opengles/
 - https://zh.wikipedia.org/wiki/OpenGL_ES
-- https://en.wikipedia.org/wiki/OpenGL_ES
 - http://opengles-book.com/
 
 

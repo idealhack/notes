@@ -5,7 +5,6 @@
 
 - https://www.php.net/
 - https://zh.wikipedia.org/wiki/PHP
-- https://en.wikipedia.org/wiki/PHP
 
 
 ## Videos

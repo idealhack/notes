@@ -4,7 +4,6 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E8%82%A1%E7%A5%A8
-- https://en.wikipedia.org/wiki/Stock
 
 
 ## Tools

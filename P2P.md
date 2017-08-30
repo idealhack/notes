@@ -4,7 +4,6 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E5%B0%8D%E7%AD%89%E7%B6%B2%E8%B7%AF
-- https://en.wikipedia.org/wiki/Peer-to-peer
 
 
 ## Libraries

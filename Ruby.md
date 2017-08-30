@@ -5,7 +5,6 @@
 
 - https://www.ruby-lang.org/
 - https://zh.wikipedia.org/wiki/Ruby
-- https://en.wikipedia.org/wiki/Ruby_(programming_language)
 
 
 ## Libraries

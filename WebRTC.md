@@ -5,7 +5,6 @@
 
 - [WebRTC](https://webrtc.org/)
 - [WebRTC - 维基百科](https://zh.wikipedia.org/wiki/WebRTC)
-- [WebRTC - Wikipedia](https://en.wikipedia.org/wiki/WebRTC)
 
 
 ## Resources

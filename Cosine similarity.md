@@ -3,7 +3,6 @@
 
 ## Overview
 
-- https://en.wikipedia.org/wiki/Cosine_similarity
 - https://zh.wikipedia.org/wiki/%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E6%80%A7
 
 

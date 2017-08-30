@@ -5,7 +5,6 @@
 
 - http://cassandra.apache.org/
 - https://zh.wikipedia.org/wiki/Cassandra
-- https://en.wikipedia.org/wiki/Apache_Cassandra
 
 
 ## Installing

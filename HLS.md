@@ -5,7 +5,6 @@
 
 - https://developer.apple.com/streaming/
 - https://zh.wikipedia.org/wiki/HTTP_Live_Streaming
-- https://en.wikipedia.org/wiki/HTTP_Live_Streaming
 
 
 ## Resources

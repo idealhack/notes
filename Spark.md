@@ -5,7 +5,6 @@
 
 - http://spark.apache.org/
 - https://zh.wikipedia.org/wiki/Apache_Spark
-- https://en.wikipedia.org/wiki/Apache_Spark
 
 
 ## Documentation

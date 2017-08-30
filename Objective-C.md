@@ -4,7 +4,6 @@
 ## Overview
 
 - https://zh.wikipedia.org/wiki/Objective-C
-- https://en.wikipedia.org/wiki/Objective-C
 
 
 ## Style Guide

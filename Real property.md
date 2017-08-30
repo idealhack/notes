@@ -3,7 +3,6 @@
 
 ## Overview
 
-- https://en.wikipedia.org/wiki/Real_property
 - https://zh.wikipedia.org/wiki/%E6%88%BF%E5%9C%B0%E4%BA%A7
 
 

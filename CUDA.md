@@ -5,7 +5,6 @@
 
 - https://developer.nvidia.com/cuda-zone
 - https://zh.wikipedia.org/wiki/CUDA
-- https://en.wikipedia.org/wiki/CUDA
 
 
 ## Documentation
