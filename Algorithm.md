@@ -37,3 +37,5 @@
 - https://github.com/soulmachine/leetcode
 - https://github.com/billryan/algorithm-exercise
 - https://github.com/coells/100days
+- https://github.com/rainliu/algorithms
+- https://github.com/donnemartin/interactive-coding-challenges
