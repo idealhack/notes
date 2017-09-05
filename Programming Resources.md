@@ -8,7 +8,8 @@
 - https://github.com/it-ebooks/it-ebooks-archive
 - http://lucida.me/blog/developer-reading-list/
 - http://www.hksilicon.com/articles/35423
-- http://blog.m31271n.com/books/
+- https://blog.m31271n.com/cs-books/
+- https://jysperm.me/booklist/
 - https://wizardforcel.gitbooks.io/flygon-booklist/
 
 

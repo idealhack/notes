@@ -18,3 +18,4 @@
 - http://developer.51cto.com/developer/top10Architect/
 - http://www.codingthearchitecture.com/presentations/archsummit2012-the-frustrated-architect
 - http://www.infoq.com/cn/articles/brown-are-you-a-software-architect
+- [史上最全的架构师图谱-软件开发云-华为云论坛](http://forum.hwclouds.com/forum.php?mod=viewthread&tid=308&extra=page%3D1)

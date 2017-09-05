@@ -5,7 +5,7 @@
 
 https://docs.docker.com/engine/installation/
 
-Setps on CentOS:
+Steps on CentOS: [Get Docker CE for CentOS | Docker Documentation](https://docs.docker.com/engine/installation/linux/docker-ce/centos/)
 
     sudo yum install -y yum-utils
     sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
@@ -16,6 +16,8 @@ Setps on CentOS:
     sudo systemctl enable docker
     sudo gpasswd -a ${USER} docker
     docker run hello-world
+
+Steps on Ubuntu: [Get Docker CE for Ubuntu | Docker Documentation](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
 
 
 ## Install nvidia-docker Plugin

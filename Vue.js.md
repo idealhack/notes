@@ -13,6 +13,7 @@
 - http://element.eleme.io/
 - https://mint-ui.github.io/
 - http://www.muse-ui.org/
+- [Vue.js 2 Material Component Framework | Vuetify.js](https://vuetifyjs.com/)
 
 ### Others
 
