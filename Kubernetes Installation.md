@@ -119,6 +119,10 @@ To use `kubectl` on node:
 
 https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-7/
 
+With `docker load -i` (and `kube*.tar` images prepared):
+
+    docker load -i kube*.tar
+
 With `rpm` (and `kube*.rpm` prepared):
 
     sudo yum remove -y kubelet kubectl kubeadm
@@ -130,10 +134,6 @@ On master:
 
     sudo KUBECONFIG=/etc/kubernetes/admin.conf kubectl delete daemonset kube-proxy -n kube-system
     sudo kubeadm init --pod-network-cidr=10.244.0.0/16 --skip-preflight-checks --kubernetes-version <DESIRED_VERSION>
-
-With `docker load -i` (and `kube*.tar` images prepared):
-
-    docker load -i kube*.tar
 
 
 ## Resources

@@ -24,6 +24,7 @@
 ## Resources
 
 - https://github.com/leachim6/hello-world
+- https://github.com/mr-mig/every-programmer-should-know
 - https://github.com/stanzhai/be-a-professional-programmer
 - https://github.com/TeamStuQ/skill-map
 - https://github.com/rxin/db-readings
@@ -34,6 +35,7 @@
 - https://stackshare.io/
 - https://github.com/JuanitoFatas/Computer-Science-Glossary/blob/master/dict.textile
 - https://github.com/cjbarber/ToolsOfTheTrade
+- [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - https://learnxinyminutes.com/
 - https://thoughtbot.com/playbook

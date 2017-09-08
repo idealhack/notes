@@ -25,6 +25,11 @@
 - [厦门航空](http://www.xiamenair.com/zh-cn/)
 - [厦门航空 - 维基百科](https://zh.wikipedia.org/wiki/%E5%BB%88%E9%96%80%E8%88%AA%E7%A9%BA)
 
+### ANA
+
+- [全日空航空公司](http://www.ana.co.jp/asw/wws/cn/c/)
+- [全日空航空 - 维基百科](https://zh.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E7%A9%BA%E8%BC%B8)
+
 
 ## Airline alliances
 

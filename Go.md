@@ -24,6 +24,7 @@
 ## Tools
 
 - [golang/dep: Go dependency management tool](https://github.com/golang/dep)
+- [nathany/looper: Go autotesting tool with readline support.](https://github.com/nathany/looper)
 - [goreleaser/goreleaser: Deliver Go binaries as fast and easily as possible](https://github.com/goreleaser/goreleaser)
 
 

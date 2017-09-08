@@ -33,6 +33,15 @@
 
     mount /dev/sdb1 /mnt -o iocharset=utf8
 
+### AutoFS
+
+- https://wiki.archlinux.org/index.php/autofs
+
+### udevil
+
+- [udevil Homepage](http://ignorantguru.github.io/udevil/)
+- [username/udevil Copr](https://copr.fedorainfracloud.org/coprs/username/udevil/)
+
 
 ## Softwares
 

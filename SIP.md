@@ -11,7 +11,7 @@
 - [会话描述协议 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BC%9A%E8%AF%9D%E6%8F%8F%E8%BF%B0%E5%8D%8F%E8%AE%AE)
 
 
-## GB/T28181
+## GB/T 28181-2016
 
 - [国家标准|GB/T 28181-2016](http://www.gb688.cn/bzgk/gb/newGbInfo?hcno=469659DC56B9B8187671FF08748CEC89)
 - [视频监控GB28181测试参考 - 袜子和衬衣 - 博客园](http://www.cnblogs.com/socksandshirt/articles/GB28181_Test.html)

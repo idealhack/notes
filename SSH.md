@@ -1,6 +1,11 @@
 # SSH
 
 
+## Client config
+
+[ssh_config(5) Mac OS X Manual Page](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man5/ssh_config.5.html)
+
+
 ## Tasks
 
 ### Debugging

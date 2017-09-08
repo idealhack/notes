@@ -168,6 +168,7 @@ Also see [[Markdown]] for JavaScript Markdown editors
 ## Network
 
 - https://github.com/request/request
+- https://github.com/mikeal/r2
 - https://github.com/visionmedia/superagent
 - https://github.com/mzabriskie/axios
 - https://github.com/faye/faye
