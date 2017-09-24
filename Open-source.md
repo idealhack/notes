@@ -22,8 +22,12 @@ https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organization
 
 - http://www.fsf.org/
 - https://www.linuxfoundation.org/
-- https://www.cncf.io/
 - https://www.opencontainers.org/
+
+### CNCF
+
+- https://www.cncf.io/
+- https://github.com/cncf/landscape
 
 
 ## [[Open-source Licenses]]

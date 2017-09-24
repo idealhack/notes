@@ -4,7 +4,7 @@
 ## Systems
 
 - [[ZooKeeper]]
-- [etcd](https://github.com/coreos/etcd)
+- [[etcd]]
 - [Consul](https://github.com/hashicorp/consul)
 
 

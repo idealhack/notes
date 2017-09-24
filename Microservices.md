@@ -13,8 +13,8 @@
 
 ## Service mesh
 
-- https://github.com/linkerd/linkerd
-- https://github.com/istio/istio
+- [[linkerd]]
+- [[Istio]]
 
 
 ## Resources

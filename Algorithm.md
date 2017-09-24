@@ -28,6 +28,12 @@
 - [被忽视的 partition 算法 - Just For Fun - SegmentFault](https://segmentfault.com/a/1190000006771980)
 - [Python数据结构--AVL树的实现 - Geek情怀 - SegmentFault](https://segmentfault.com/a/1190000007054898)
 
+### Bitmap
+
+- [漫画：什么是 Bitmap 算法？](https://mp.weixin.qq.com/s?__biz=MzI1MTIzMzI2MA==&mid=2650561293&idx=1&sn=272e44757914c38b739c8d929afb9c19)
+- [漫画：Bitmap算法（进阶篇）](https://mp.weixin.qq.com/s?__biz=MzI1MTIzMzI2MA==&mid=2650561333&idx=1&sn=654c214c204c708e7a9d559cec12c69e)
+- [Roaring Bitmaps](http://roaringbitmap.org/)
+
 ### Exercises
 
 - https://github.com/nzakas/computer-science-in-javascript

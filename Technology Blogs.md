@@ -38,6 +38,7 @@
 - https://addops.cn/
 - https://tech.meituan.com/
 - http://tech.dianwoda.com/
+- [GitHub Engineering | The Blog of the GitHub Engineering Team](https://githubengineering.com/)
 
 ### Media
 

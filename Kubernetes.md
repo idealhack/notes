@@ -59,6 +59,11 @@
 - https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ
 
 
+## Real world
+
+- [Kubernetes at GitHub | GitHub Engineering](https://githubengineering.com/kubernetes-at-github/)
+
+
 ## Resources
 
 - https://www.kubernetes.org.cn/
