@@ -3,7 +3,11 @@
 
 ## Tools
 
-- rsync
+### rsync
+
+rsync through ssh tunnel:
+
+    rsync -av -e "ssh -A root@proxy ssh" ./src root@target:/dst
 
 
 ## Resources

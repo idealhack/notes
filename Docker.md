@@ -34,6 +34,7 @@
 
 - https://github.com/docker-slim/docker-slim
 - https://github.com/coreos/clair
+- [spotify/docker-gc: Docker garbage collection of containers and images](https://github.com/spotify/docker-gc)
 
 
 ## [[Docker orchestration]]

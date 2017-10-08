@@ -12,6 +12,7 @@
 ## Benchmarking
 
 - https://github.com/loadimpact/k6
+- [Locust - A modern load testing framework](https://locust.io/)
 - https://httpd.apache.org/docs/2.4/programs/ab.html
 - https://github.com/tsenart/vegeta
 - https://github.com/wg/wrk

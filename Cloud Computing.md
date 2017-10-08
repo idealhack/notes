@@ -9,5 +9,5 @@
 ## Resources
 
 - http://www.toutiao.com/i6424085526021669378/
-- https://github.com/rootsongjc/awesome-cloud-native
+- [rootsongjc/awesome-cloud-native: Awesome cloud native architectures http://jimmysong.io/awesome-cloud-native/](https://github.com/rootsongjc/awesome-cloud-native)
 - http://www.dockone.io/article/688

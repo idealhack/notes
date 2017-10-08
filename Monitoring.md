@@ -62,3 +62,4 @@
 - http://liubin.org/blog/2016/04/24/how-to-choose-a-docker-monitor-solution/
 - http://www.brendangregg.com/blog/2015-06-23/netflix-instance-analysis-requirements.html
 - http://www.brendangregg.com/flamegraphs.html
+- [htop explained | peteris.rocks](https://peteris.rocks/blog/htop/)

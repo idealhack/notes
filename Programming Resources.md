@@ -27,6 +27,7 @@
 - https://github.com/mr-mig/every-programmer-should-know
 - https://github.com/stanzhai/be-a-professional-programmer
 - https://github.com/TeamStuQ/skill-map
+- [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 - https://github.com/rxin/db-readings
 - https://man.cx/
 - http://devdocs.io/

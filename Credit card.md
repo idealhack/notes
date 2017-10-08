@@ -33,11 +33,13 @@
 
 ### 招商银行
 
-- https://mp.weixin.qq.com/s?__biz=MzI3MDE3MTg0OQ==&mid=2743454960&idx=1&sn=157df2bcdb66e4ec402db61bf5fd4aad
 - [招商银行经典版白金卡](http://market.cmbchina.com/ccard/vip/platinum1/)
 - [Booking.com缤客全币种联名卡](http://market.cmbchina.com/ccard/bookingbk/)
 
 ### 建设银行
+
+- [全球热购信用卡](http://creditcard.ccb.com/cn/creditcard/cards/20160719_1468893603.html)
+- [龙卡日本旅行信用卡](http://creditcard.ccb.com/cn/creditcard/cards/20150108_1420704810.html)
 
 ### 浦发银行
 
@@ -48,3 +50,8 @@
 ### 上海银行
 
 ### 渣打银行
+
+
+## Resources
+
+- [招行玩卡汇总 | 入门 or 升级白金，看这一篇就够了](https://mp.weixin.qq.com/s?__biz=MzI3MDE3MTg0OQ==&mid=2743454960&idx=1&sn=157df2bcdb66e4ec402db61bf5fd4aad)
