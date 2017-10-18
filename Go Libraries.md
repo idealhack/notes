@@ -31,7 +31,8 @@
 
 ### Email
 
-- https://github.com/matcornic/hermes
+- [matcornic/hermes: Golang package that generates clean, responsive HTML e-mails for sending transactional mail](https://github.com/matcornic/hermes)
+- [sdwolfe32/trumail: A Fast and Free Email Verification API written in Go](https://github.com/sdwolfe32/trumail)
 
 ### Utils
 

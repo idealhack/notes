@@ -38,6 +38,6 @@ Setps on CentOS:
 
     sudo sh -c 'cat > /etc/docker/daemon.json << EOL
     {
-      "registry-mirrors": ["https://docker.mirrors.ustc.edu.cn"]
+      "registry-mirrors": ["https://registry.docker-cn.com"]
     }
     EOL'

@@ -3,16 +3,16 @@
 
 ## Overview
 
-- http://kubernetes.io/
+- [Kubernetes - Production-Grade Container Orchestration](https://kubernetes.io/)
 - http://blog.kubernetes.io/
 - [Kubernetes - 维基百科](https://zh.wikipedia.org/wiki/Kubernetes)
 
 
 ## Documentation
 
-- https://kubernetes.io/docs/home/
+- [Kubernetes Documentation - Kubernetes](https://kubernetes.io/docs/home/)
+- [Kubernetes Documentation | Kubernetes](https://k8smeetup.github.io/docs/home/)
 - https://www.kubernetes.org.cn/docs
-- https://kubernetes.io/docs/api-reference/v1.6/
 
 
 ## [[Kubernetes Installation]]

@@ -5,7 +5,6 @@
 
 - https://github.com/facebookarchive/origami
 - https://github.com/sketchplugins/plugin-directory
-- https://www.quora.com/Whats-the-easiest-solution-to-create-software-architecture-diagrams
 
 
 ### OmniGraffle

@@ -7,6 +7,10 @@
 
 ## Task
 
+### Database
+
+    drop database <database>
+
 ### JOIN
 
     select a.name, b.id, b.name

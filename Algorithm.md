@@ -3,6 +3,7 @@
 
 ## Algorithms
 
+- [[Bit manipulation]]
 - [[Cosine similarity]]
 
 ## Papers
