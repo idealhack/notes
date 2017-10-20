@@ -69,3 +69,4 @@
 - https://segmentfault.com/a/1190000008921805
 - https://segmentfault.com/a/1190000010128001
 - http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
+- [xitu/gold-miner: 掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)

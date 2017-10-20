@@ -16,3 +16,8 @@
 ## Frameworks
 
 - https://github.com/sparkle-project/Sparkle
+
+
+## Resources
+
+- [MacOS 的安全和隐私指南 · xitu/macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)

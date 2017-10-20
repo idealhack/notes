@@ -19,7 +19,7 @@
 
 http://www.nvidia.com/object/linux-amd64-display-archive.html
 
-    sudo yum update -y                  # CentOS
+    sudo yum update -y                      # CentOS
     sudo apt update && sudo apt upgrade -y  # Ubuntu
     sudo reboot
     sudo yum install -y gcc kernel-devel    # CentOS

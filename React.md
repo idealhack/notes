@@ -31,3 +31,4 @@
 - http://www.laispace.com/react-explore/
 - https://github.com/callemall/material-ui
 - https://segmentfault.com/a/1190000006055973
+- [xitu/Under-the-hood-ReactJS: Entire ReactJS code base explanation by visual block schemes (Stack+Fiber versions)](https://github.com/xitu/Under-the-hood-ReactJS)
