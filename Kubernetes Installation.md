@@ -22,15 +22,16 @@ a. With `yum`:
     setenforce 0
     yum install -y kubelet kubeadm kubernetes-cni
 
-b. With `rpm` (version 1.7.4):
+b. With `rpm` (version 1.8.1):
 
     sudo yum install socat -y
     wget https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/primary.xml
     # Get .rpm file URL of certain version
-    # grep pool primary.xml | grep 1.7.4-0
-    wget -O kubeadm-1.7.4-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/f0a51fcde5e3b329050d7a6cf70f04a6cdf09eacfbad55f4324bfa2ea4312d0e-kubeadm-1.7.4-0.x86_64.rpm
-    wget -O kubectl-1.7.4-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/041d5a6813dab590b160865fea7259bc2db762a9667379d03aca8d4596a3cccd-kubectl-1.7.4-0.x86_64.rpm
-    wget -O kubelet-1.7.4-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/4f60c17a926175fb9abcfdd487cebafbbbce0e2248d2b99c189ae0877376b88d-kubelet-1.7.4-0.x86_64.rpm
+    # grep pool primary.xml | grep 1.8.1-0
+    wget -O kubeadm-1.8.1-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/0f7d8ea10144399f3d60446fab5469395afb809c175bdc0eae4d12c1fcc3cb62-kubeadm-1.8.1-0.x86_64.rpm
+    wget -O kubectl-1.8.1-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/0ee48e6b4033fdf520f5893759b0665090ffb83eefdbe3f0b41edf54f2247ee4-kubectl-1.8.1-0.x86_64.rpm
+    wget -O kubelet-1.8.1-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/a35571037b554243d386436ff729c90a3cb270f5797b7cd254ef0afbd4e706bf-kubelet-1.8.1-0.x86_64.rpm
+    wget -O kubernetes-cni-0.5.1-1.x86_64.rpm https://packages.cloud.google.com/yum/pool/79f9ba89dbe7000e7dfeda9b119f711bb626fe2c2d56abeb35141142cda00342-kubernetes-cni-0.5.1-1.x86_64.rpm
     sudo rpm -ivh kube*.rpm
 
 Then:
@@ -115,7 +116,7 @@ To use `kubectl` on node:
     kubeadm reset
 
 
-## Upgrading kubeadm clusters (from 1.6 to 1.7)
+## Upgrading kubeadm clusters from 1.6 to 1.7
 
 https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-7/
 
@@ -134,6 +135,11 @@ On master:
 
     sudo KUBECONFIG=/etc/kubernetes/admin.conf kubectl delete daemonset kube-proxy -n kube-system
     sudo kubeadm init --pod-network-cidr=10.244.0.0/16 --skip-preflight-checks --kubernetes-version <DESIRED_VERSION>
+
+
+## Upgrading kubeadm clusters from 1.7 to 1.8
+
+https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-8/
 
 
 ## Resources

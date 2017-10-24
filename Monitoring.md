@@ -27,6 +27,7 @@
 - http://logio.org/
 - https://github.com/sourcegraph/checkup
 - https://github.com/XiaoMi/open-falcon
+- [Snap A powerful open telemetry framework](http://snap-telemetry.io/)
 
 ### Agent
 

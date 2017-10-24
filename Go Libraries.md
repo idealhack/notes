@@ -7,6 +7,7 @@
 
 - https://github.com/go-kit/kit
 - https://github.com/TykTechnologies/tyk
+- [goadesign/goa: Design-based APIs and microservices in Go](https://github.com/goadesign/goa)
 
 ### Web
 

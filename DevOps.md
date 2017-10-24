@@ -15,6 +15,7 @@
 - https://www.chef.io/chef/
 - http://supervisord.org/
 - https://github.com/shipitjs/shipit
+- [Habitat - Automation That Travels with the App](https://www.habitat.sh/)
 
 
 ## Resources

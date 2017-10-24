@@ -73,3 +73,4 @@
 - http://justspamjustin.github.com/junior
 - http://imulus.github.io/retinajs/
 - https://github.com/SlexAxton/css-colorguard
+- [CSS ICON -- project by Wenting Zhang](http://cssicon.space/)

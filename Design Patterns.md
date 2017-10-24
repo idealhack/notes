@@ -8,7 +8,7 @@
 
 ## Resources
 
-- https://github.com/kamranahmedse/design-patterns-for-humans
+- [kamranahmedse/design-patterns-for-humans: Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
 - https://github.com/tmrts/go-patterns
 - https://github.com/faif/python-patterns
 - https://github.com/yogykwan/design-patterns-py

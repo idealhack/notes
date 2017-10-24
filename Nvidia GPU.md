@@ -31,6 +31,8 @@ http://www.nvidia.com/object/linux-amd64-display-archive.html
     sudo sh -c 'echo $'\n'"exclude=kernel*" >> /etc/yum.conf'       # CentOS
     sudo apt-mark hold linux-image-generic linux-headers-generic    # Ubuntu
 
+If nouveau was installed first: https://askubuntu.com/questions/841876/how-to-disable-nouveau-kernel-driver
+
 
 ## Resources
 

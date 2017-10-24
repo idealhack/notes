@@ -8,6 +8,7 @@
 
 or
 
+    docker save <image> | ssh <user>@<host> 'docker load'
     docker save <image> | bzip2 | pv | ssh <user>@<host> 'bunzip2 | docker load'
 
 ### stop and remove all containers / images

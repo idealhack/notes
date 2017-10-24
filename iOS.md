@@ -58,6 +58,7 @@
 - https://github.com/mattstevens/objc-diff
 - https://github.com/facebook/chisel
 - https://github.com/nst/objc_dep
+- [cyanzhong/Retriever: Retrieving InfoPlist without Jailbreaking on iOS Devices](https://github.com/cyanzhong/Retriever)
 
 
 ### 文档

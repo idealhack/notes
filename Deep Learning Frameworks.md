@@ -27,7 +27,6 @@
 ### Torch
 
 - [Torch](http://torch.ch/)
-- https://github.com/nagadomi/waifu2x
 
 ### Others
 

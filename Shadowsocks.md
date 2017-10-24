@@ -17,9 +17,9 @@
 
 ## macOS
 
-- [ShadowsocksX-NG](https://github.com/shadowsocks/shadowsocksx-ng/releases)
-- [Surge](http://nssurge.com/)
-- [flora-kit](https://github.com/huacnlee/flora-kit)
+- [shadowsocks/ShadowsocksX-NG: Next Generation of ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG)
+- [Surge Mac - Advanced Web Debugging Proxy for Mac & iOS](http://nssurge.com/)
+- [huacnlee/flora-kit: 💐 基于 shadowsocks-go 做的完善实现，自动网络分流，完全兼容 Surge 的配置文件。](https://github.com/huacnlee/flora-kit)
 
 
 ## iOS

@@ -9,11 +9,9 @@
 ## Tools
 
 - [draw.io](https://www.draw.io/)
-
-### mermaid
-
-- [mermaid · GitBook](https://mermaidjs.github.io/)
-- [mermaidjs](https://github.com/mermaidjs)
+- [mermaid](https://mermaidjs.github.io/)
+- [flowchart.js](http://flowchart.js.org/)
+- [js-sequence-diagrams by bramp](https://bramp.github.io/js-sequence-diagrams/)
 
 
 ## Resources

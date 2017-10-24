@@ -72,6 +72,8 @@
 - http://beets.io/
 - https://segmentfault.com/a/1190000010103386
 - https://tika.apache.org/
+- [sharkdp/fd: A simple, fast and user-friendly alternative to find.](https://github.com/sharkdp/fd)
+- [so-fancy/diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs.](https://github.com/so-fancy/diff-so-fancy)
 
 
 ## Resources

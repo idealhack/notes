@@ -8,9 +8,10 @@
 
 ## Fonts
 
-- https://github.com/adobe-fonts/source-han-sans
-- https://github.com/haoyuns/EyesAsia
-- https://github.com/chrissimpkins/codeface
+- [adobe-fonts/source-han-sans: Source Han Sans | 思源黑体 | 思源黑體 | 源ノ角ゴシック | 본고딕](https://github.com/adobe-fonts/source-han-sans)
+- [chrissimpkins/codeface: Typefaces for source code beautification](https://github.com/chrissimpkins/codeface)
+- [Inter UI font family](https://rsms.me/inter/)
+- [haoyuns/EyesAsia: A font if you need tiny shapes for China's provinces or east Asian countries as a design element.](https://github.com/haoyuns/EyesAsia)
 
 ### Roboto
 
