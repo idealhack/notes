@@ -46,6 +46,7 @@
 - [pilosa/pilosa: Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.](https://github.com/pilosa/pilosa)
 - [chrislusf/glow: Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc.](https://github.com/chrislusf/glow)
 - [chrislusf/gleam: Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.](https://github.com/chrislusf/gleam)
+- [go-ego/riot: Go Open Source, Distributed, Simple and efficient Search Engine](https://github.com/go-ego/riot)
 
 ### Others
 
@@ -54,6 +55,7 @@
 - https://github.com/benmanns/goworker
 - https://github.com/nareix/joy4
 - http://gonet2.github.io/
+- [go-vgo/robotgo: RobotGo, Go Native cross-platform system automation](https://github.com/go-vgo/robotgo)
 
 
 ## Resources

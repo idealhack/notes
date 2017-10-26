@@ -19,10 +19,9 @@ or
 
 https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
 
+### Remove all exited containers and orphaned images
+
     docker system prune
-
-### Remove all exited containers
-
     docker ps -a | grep Exit | cut -d ' ' -f 1 | xargs docker rm
     docker images | grep \<none\> | awk '{ print $3 }' | xargs docker rmi
 

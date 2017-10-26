@@ -68,7 +68,7 @@ Install Flannel:
 
 Install Dashboard:
 
-    kubectl create -f https://raw.githubusercontent.com/kubernetes/dashboard/master/src/deploy/kubernetes-dashboard.yaml
+    kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/master/src/deploy/recommended/kubernetes-dashboard.yaml
 
 Setup kube-proxy to visit from other machine:
 
