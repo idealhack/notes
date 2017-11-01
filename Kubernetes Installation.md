@@ -3,7 +3,8 @@
 
 ## Installing with Kubernetes with `kubeadm` (CentOS, Docker 1.12 installed)
 
-https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
+- https://kubernetes.io/docs/setup/independent/install-kubeadm/
+- https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
 
 ### On master and node:
 

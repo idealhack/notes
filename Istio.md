@@ -8,6 +8,17 @@
 - [Istio官方文档中文版](https://doczhcn.gitbooks.io/istio/content/)
 
 
+## Install
+
+https://istio.io/docs/setup/kubernetes/quick-start.html
+
+### Caution
+
+1. Append `--feature-gates=AllAlpha=true` flag to `/etc/systemd/system/kubelet.service.d/10-kubeadm.conf`
+2. Append `--runtime-config=admissionregistration.k8s.io/v1alpha1` flag to `/etc/kubernetes/manifests/kube-apiserver.yaml`
+3. `sudo systemctl daemon-reload && sudo systemctl restart kubelet`
+
+
 ## Resources
 
 - [Istio：用于微服务的服务啮合层](http://www.infoq.com/cn/news/2017/05/istio)

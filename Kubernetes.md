@@ -33,6 +33,7 @@
 - https://github.com/kubernetes-incubator/kompose
 - https://github.com/johanhaleby/kubetail
 - https://github.com/Azure/draft
+- [Azure/brigade: Event-based Scripting for Kubernetes.](https://github.com/Azure/brigade)
 
 
 ## Client
@@ -106,6 +107,10 @@
 ### CI
 
 - https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649693456&idx=1&sn=b36ed8057c23113da2396b77208689f1
+
+### Ingress
+
+- [kubernetes/ingress-nginx: Ingress controller for nginx](https://github.com/kubernetes/ingress-nginx)
 
 ### client-go
 

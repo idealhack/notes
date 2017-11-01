@@ -15,6 +15,7 @@
 - [Microsoft/api-guidelines](https://github.com/Microsoft/api-guidelines)
 - [interagent/http-api-design](https://github.com/interagent/http-api-design)
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification)
+- [API Design Guide | Cloud APIs | Google Cloud Platform](https://cloud.google.com/apis/design/)
 - https://github.com/WhiteHouse/api-standards
 - http://www.sitepen.com/blog/2008/03/25/rest-and-rpc-relationship/
 - http://effbot.org/zone/rest-vs-rpc.htm
