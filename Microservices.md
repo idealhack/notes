@@ -11,10 +11,7 @@
 - [[Kubernetes]]
 
 
-## Service mesh
-
-- [[linkerd]]
-- [[Istio]]
+## [[Service Mesh]]
 
 
 ## Resources
@@ -24,4 +21,3 @@
 - http://blog.christianposta.com/microservices/the-hardest-part-of-microservices-calling-your-services/
 - http://12572290.blog.51cto.com/12562290/1948156
 - [一个更好的可视化微服务架构的方式](http://dockone.io/article/2495)
-- [聊聊Service Mesh：linkerd](http://dockone.io/article/2485)
