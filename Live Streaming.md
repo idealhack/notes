@@ -1,6 +1,11 @@
 # Live Streaming
 
 
+## Media Codec
+
+- [H.264/MPEG-4 AVC - 维基百科](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC)
+
+
 ## Clients
 
 - [[FFmpeg]]

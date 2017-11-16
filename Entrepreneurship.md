@@ -1,6 +1,13 @@
 # Entrepreneurship
 
 
+## Books
+
+- [Getting Real](http://gettingreal.37signals.com/GR_chn.php)
+- [REWORK](https://www.v2ex.com/rework)
+- [Remote](http://www.jianshu.com/nb/41672)
+
+
 ## 创业
 
 - [如何才能去做喜欢的事情](http://www.wanglianghome.org/zh_CN/translation/HowToDoWhatYouLove.html)

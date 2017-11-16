@@ -58,3 +58,4 @@
 - http://arrayfire.com/benchmarking-parallel-vector-libraries/
 - http://stackoverflow.com/questions/20154179/differences-between-vexcl-thrust-and-boost-compute
 - http://m.open-open.com/m/lib/view/1415890274039.html
+- [高并发和高可用的一点思考 - Kris的博客 | Kris' Blog](http://kriszhang.com/high_performance/)

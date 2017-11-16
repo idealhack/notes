@@ -35,6 +35,10 @@
 - [漫画：Bitmap算法（进阶篇）](https://mp.weixin.qq.com/s?__biz=MzI1MTIzMzI2MA==&mid=2650561333&idx=1&sn=654c214c204c708e7a9d559cec12c69e)
 - [Roaring Bitmaps](http://roaringbitmap.org/)
 
+### Geohash
+
+- [高效的多维空间点索引算法 — Geohash 和 Google S2 - 简书](http://www.jianshu.com/p/7332dcb978b2)
+
 ### Exercises
 
 - https://github.com/nzakas/computer-science-in-javascript

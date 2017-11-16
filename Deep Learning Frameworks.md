@@ -19,11 +19,7 @@
 - https://github.com/ZhengRui/caffe-android-lib
 - https://github.com/tzutalin/Android-Object-Detection
 
-### TensorFlow
-
-- [TensorFlow](https://www.tensorflow.org/)
-- http://www.tensorfly.cn/
-
+### [[TensorFlow]]
 ### Torch
 
 - [Torch](http://torch.ch/)

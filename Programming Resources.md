@@ -11,6 +11,7 @@
 - https://blog.m31271n.com/cs-books/
 - https://jysperm.me/booklist/
 - https://wizardforcel.gitbooks.io/flygon-booklist/
+- [GitHub 上有哪些值得推荐的开源电子书？ - 知乎](https://www.zhihu.com/question/38836382)
 
 
 ## Websites

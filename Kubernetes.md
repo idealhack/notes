@@ -4,15 +4,14 @@
 ## Overview
 
 - [Kubernetes - Production-Grade Container Orchestration](https://kubernetes.io/)
-- http://blog.kubernetes.io/
 - [Kubernetes - 维基百科](https://zh.wikipedia.org/wiki/Kubernetes)
+- [Kubernetes Blog](http://blog.kubernetes.io/)
 
 
 ## Documentation
 
 - [Kubernetes Documentation - Kubernetes](https://kubernetes.io/docs/home/)
 - [Kubernetes Documentation | Kubernetes](https://k8smeetup.github.io/docs/home/)
-- https://www.kubernetes.org.cn/docs
 
 
 ## [[Kubernetes Installation]]
@@ -27,6 +26,7 @@
 
 ## Tools
 
+- [kubernetes/minikube: Run Kubernetes locally](https://github.com/kubernetes/minikube)
 - https://github.com/kubernetes/helm
 - https://kubeapps.com/
 - https://github.com/k8sp/sextant
@@ -36,28 +36,23 @@
 - [Azure/brigade: Event-based Scripting for Kubernetes.](https://github.com/Azure/brigade)
 
 
-## Client
-
-- https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md
-- https://github.com/jianhuiz/k8s-client-cpp
-
-
 ## Monitoring
 
 - https://github.com/kubernetes/heapster
 - https://github.com/coreos/prometheus-operator
+- [weaveworks/scope: Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)
 
 
 ## Books
 
-- https://rootsongjc.gitbooks.io/kubernetes-handbook/
-- https://gcpug-tw.gitbooks.io/kuberbetes-in-action/
-- https://kubernetes.feisky.xyz/
+- [Kubernetes指南](https://kubernetes.feisky.xyz/)
+- [Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)
+- [Kuberbetes學習筆記](https://gcpug-tw.gitbooks.io/kuberbetes-in-action/)
 
 
 ## Videos
 
-- https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ
+- [Kubernetes Webinars - YouTube](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ)
 
 
 ## Real world
@@ -67,9 +62,9 @@
 
 ## Resources
 
-- https://www.kubernetes.org.cn/
 - https://github.com/ramitsurana/awesome-kubernetes
-- http://k8s.bingohuang.com/
+- [K8sMeetup：Kubernetes中国站](http://www.k8smeetup.com/)
+- [Kubernetes中文社区](https://www.kubernetes.org.cn/)
 - http://dockone.io/article/932
 - https://yeasy.gitbooks.io/docker_practice/kubernetes/
 - http://dockone.io/article/2011
@@ -80,15 +75,6 @@
 - http://blog.fleeto.us/translation/advanced-scheduling-kubernetes
 - https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694241&idx=1&sn=cb425963ed1fba6df0231336811d913b
 - https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694121&idx=1&sn=ce34029776eef49bf1842b76730bd0f5
-
-### GPU
-
-- http://dockone.io/article/1959
-- https://github.com/Langhalsdino/Kubernetes-GPU-Guide
-- https://www.jiqizhixin.com/articles/4be4bbdd-5fba-478b-bdbd-11ff1865b40a
-- https://xuxinkun.github.io/2016/10/08/tensorflow-kubernetes/
-- https://medium.com/jim-fleming/running-tensorflow-on-kubernetes-ca00d0e67539
-- https://medium.com/@samnco/latest
 
 ### Monitoring
 

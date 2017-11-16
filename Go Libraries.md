@@ -18,10 +18,12 @@
 - https://github.com/kataras/iris
 - https://github.com/go-siris/siris
 - [labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
+- [ory/hydra: OAuth2 server with OpenID Connect - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.](https://github.com/ory/hydra)
 
 ### Network
 
 - https://github.com/valyala/fasthttp
+- [imroc/req: a golang http request library for humans](https://github.com/imroc/req)
 - https://github.com/mholt/caddy
 - [henrylee2cn/teleport: Teleport is a versatile, high-performance and flexible TCP socket framework.](https://github.com/henrylee2cn/teleport)
 
@@ -39,14 +41,16 @@
 
 - https://github.com/sirupsen/logrus
 - https://github.com/emirpasic/gods
+- [matryer/vice: Go channels at horizontal scale (powered by message queues)](https://github.com/matryer/vice)
 
 ### Data
 
-- [gonum](https://github.com/gonum)
+- [gonum/gonum: Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more](https://github.com/gonum/gonum)
 - [pilosa/pilosa: Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.](https://github.com/pilosa/pilosa)
 - [chrislusf/glow: Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc.](https://github.com/chrislusf/glow)
 - [chrislusf/gleam: Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.](https://github.com/chrislusf/gleam)
 - [go-ego/riot: Go Open Source, Distributed, Simple and efficient Search Engine](https://github.com/go-ego/riot)
+- [montanaflynn/stats: A statistics package with common functions that are missing from the Golang standard library.](https://github.com/montanaflynn/stats)
 
 ### Others
 

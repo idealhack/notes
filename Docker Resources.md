@@ -57,3 +57,4 @@ http://www.kancloud.cn/infoq/docker
 - [打造百亿级数据处理量的弹性调度容器平台](http://dockone.io/article/1798)
 - https://zhuanlan.zhihu.com/p/26221467
 - https://segmentfault.com/p/1210000009626543/read
+- [理解Docker的多阶段镜像构建 | Tony Bai](http://tonybai.com/2017/11/11/multi-stage-image-build-in-docker/)
