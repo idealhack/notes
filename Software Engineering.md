@@ -11,6 +11,7 @@
 
 - https://stateofdev.com/
 - http://conversationaldevelopment.com/
+- [Agile Development Cheat Sheet](http://cheatsheetworld.com/programming/agile-development-cheat-sheet/)
 - [敏捷宣言到底有几句？](http://insights.thoughtworkers.org/how-many-words-in-agile-manifesto/) 
 - [敏捷软件测试常见的七个误区](http://insights.thoughtworkers.org/agile-testing-misunderstanding/) 
 - [不做代码审查又怎样？](http://insights.thoughtworkers.org/without-code-review/) 

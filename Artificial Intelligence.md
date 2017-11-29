@@ -12,6 +12,7 @@
 
 - http://www.tuling123.com/
 - [Dialogflow](https://dialogflow.com/)
+- [Algorithmia - Open Marketplace for Algorithms](https://algorithmia.com/)
 
 
 ## Resources

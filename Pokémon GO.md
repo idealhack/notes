@@ -8,3 +8,4 @@
 - https://pokemongo.gamepress.gg/
 - https://github.com/pokeweak/pokemon-weakness-ios
 - https://github.com/PokemonGoF/PokemonGo-Bot
+- [Pokemon Go Evolution Chart](http://www.pokemongoevolution.com/)

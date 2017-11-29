@@ -52,3 +52,4 @@ https://stackoverflow.com/questions/9251561/convert-timestamp-to-date-in-mysql-q
 - [21分钟MySQL基础入门 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000006876419)
 - http://www.xbitworld.com/?p=919
 - https://segmentfault.com/q/1010000010173985
+- [我必须得告诉大家的MySQL优化原理 - 简书](http://www.jianshu.com/p/d7665192aaaf)

@@ -17,6 +17,10 @@
 - https://tiancaiamao.gitbooks.io/go-internals/zh/
 - https://bingohuang.gitbooks.io/effective-go-zh-en/
 
+### Blogs
+
+- [golangspec – Medium](https://medium.com/golangspec)
+
 ### Articles
 
 - http://www.infoq.com/cn/articles/go-language-introduction

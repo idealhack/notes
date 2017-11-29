@@ -15,7 +15,7 @@
 - [为你的深度学习任务挑选性价比最高GPU_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/1318)
 
 
-## NVIDIA Diver Installation (version 387.12)
+## NVIDIA Diver Installation (version 384.98)
 
 http://www.nvidia.com/object/linux-amd64-display-archive.html
 
@@ -24,7 +24,7 @@ http://www.nvidia.com/object/linux-amd64-display-archive.html
     sudo reboot
     sudo yum install -y gcc kernel-devel    # CentOS
     sudo apt install -y gcc make            # Ubuntu
-    curl -O http://cn.download.nvidia.com/XFree86/Linux-x86_64/387.12/NVIDIA-Linux-x86_64-387.12.run
+    curl -O http://cn.download.nvidia.com/XFree86/Linux-x86_64/384.98/NVIDIA-Linux-x86_64-384.98.run
     chmod +x NVIDIA-Linux-x86_64-*.run
     sudo ./NVIDIA-Linux-x86_64-*.run
     nvidia-smi

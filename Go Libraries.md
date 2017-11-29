@@ -52,9 +52,13 @@
 - [go-ego/riot: Go Open Source, Distributed, Simple and efficient Search Engine](https://github.com/go-ego/riot)
 - [montanaflynn/stats: A statistics package with common functions that are missing from the Golang standard library.](https://github.com/montanaflynn/stats)
 
-### Others
+### Cache
 
 - https://github.com/bradfitz/gomemcache
+- [golang/groupcache: groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.](https://github.com/golang/groupcache)
+
+### Others
+
 - https://github.com/kr/beanstalk
 - https://github.com/benmanns/goworker
 - https://github.com/nareix/joy4

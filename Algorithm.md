@@ -6,6 +6,12 @@
 - [[Bit manipulation]]
 - [[Cosine similarity]]
 
+
+## Complexities
+
+- [Big-O Algorithm Complexity Cheat Sheet](http://www.bigocheatsheet.com/)
+
+
 ## Papers
 
 - http://paperswelove.org/
@@ -28,6 +34,7 @@
 - [高阶函数 - 维基百科](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0)
 - [被忽视的 partition 算法 - Just For Fun - SegmentFault](https://segmentfault.com/a/1190000006771980)
 - [Python数据结构--AVL树的实现 - Geek情怀 - SegmentFault](https://segmentfault.com/a/1190000007054898)
+- [几个有趣的算法题目 - hacker之路 - SegmentFault](https://segmentfault.com/a/1190000011929259?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly#articleHeader38)
 
 ### Bitmap
 

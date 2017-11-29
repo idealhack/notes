@@ -58,3 +58,4 @@ http://www.kancloud.cn/infoq/docker
 - https://zhuanlan.zhihu.com/p/26221467
 - https://segmentfault.com/p/1210000009626543/read
 - [理解Docker的多阶段镜像构建 | Tony Bai](http://tonybai.com/2017/11/11/multi-stage-image-build-in-docker/)
+- [Linux容器技术演化史](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485792&idx=1&sn=c06e97a8e5a91591a3d327a36320d56c&chksm=e8d7f6a2dfa07fb46c6511eac080a8b7f888ee00602966a303291cda92831f462ac03d276b25)
