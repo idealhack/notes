@@ -17,6 +17,7 @@
 - https://github.com/tsenart/vegeta
 - https://github.com/wg/wrk
 - https://github.com/kennethreitz/httpbin
+- https://github.com/rakyll/hey
 
 
 ## Resources

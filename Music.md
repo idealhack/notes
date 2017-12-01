@@ -1,7 +1,7 @@
 # Music
 
 
-- [[Classical]]
+- [[Classical Music]]
 
 
 ## Resources

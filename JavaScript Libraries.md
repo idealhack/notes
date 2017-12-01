@@ -276,7 +276,6 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/adobe-webplatform/Snap.svg
 - https://github.com/qrohlf/trianglify
 - https://github.com/svgdotjs/svg.js
-- https://github.com/bramp/js-sequence-diagrams
 
 ### Others
 
@@ -303,6 +302,7 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/3rd-Eden/useragent
 - https://github.com/Valve/fingerprintjs2
 - https://github.com/andrewplummer/Sugar
+- [mrdoob/stats.js: JavaScript Performance Monitor](https://github.com/mrdoob/stats.js)
 
 
 ## Storage

@@ -6,7 +6,7 @@
 - https://zh.wikipedia.org/wiki/%E8%82%A1%E7%A5%A8
 
 
-## Tools
+## Platforms
 
 - https://finance.yahoo.com/
 

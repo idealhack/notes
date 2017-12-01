@@ -6,7 +6,7 @@
 - https://docs.docker.com/registry/
 
 
-## Softwares
+## Tools
 
 ### GitLab
 

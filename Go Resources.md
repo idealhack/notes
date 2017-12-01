@@ -20,6 +20,7 @@
 ### Blogs
 
 - [golangspec – Medium](https://medium.com/golangspec)
+- [Go, the unwritten parts](https://rakyll.org/)
 
 ### Articles
 

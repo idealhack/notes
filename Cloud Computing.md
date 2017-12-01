@@ -20,3 +20,4 @@
 
 - http://www.toutiao.com/i6424085526021669378/
 - http://www.dockone.io/article/688
+- [世界主流雲計算廠商服務器節點檢測 | Siege](https://ky0n.xyz/cloudspeed/)

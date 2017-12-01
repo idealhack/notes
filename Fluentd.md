@@ -3,5 +3,5 @@
 
 ## Overview
 
-- http://www.fluentd.org/
-- https://github.com/fluent/fluentd
+- [Fluentd](https://www.fluentd.org/)
+- [fluent/fluentd: Fluentd: Unified Logging Layer](https://github.com/fluent/fluentd)

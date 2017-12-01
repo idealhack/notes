@@ -7,6 +7,7 @@
 - https://github.com/cobyism/ghost-on-heroku
 - https://anchorcms.com/
 - https://getkirby.com/
+- [gmemstr/pogo: Podcast RSS/CMS in Golang](https://github.com/gmemstr/pogo)
 
 
 ## Forum

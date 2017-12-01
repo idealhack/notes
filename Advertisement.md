@@ -1,6 +1,0 @@
-# Advertisement
-
-
-## Examples
-
-- [[Starbucks]]

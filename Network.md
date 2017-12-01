@@ -38,7 +38,7 @@
 [传输层 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E5%B1%82)
 
 - [[TCP]]
-- [[KCP]]
+- https://github.com/skywind3000/kcp
 
 ### Network Layer
 

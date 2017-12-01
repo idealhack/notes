@@ -7,10 +7,13 @@
 ## [[Linux Security]]
 
 
-## Softwares
+## Tools
 
 - https://sourceforge.net/projects/dban/
 - https://tox.chat/
+
+### Penetration
+
 - https://github.com/sqlmapproject/sqlmap
 
 ### Wi-Fi

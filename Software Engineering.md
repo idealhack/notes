@@ -1,10 +1,24 @@
 # Software Engineering
 
 
-- [[System Architect]]
+## Overview
+
+- [软件工程 - 维基百科](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
+
+
+## Topics
+
 - [[Design Patterns]]
+- [[System Architecture]]
 - [[Architecture Patterns]]
-- [[After action review]]
+- [[Continuous Integration]]
+- [[Continuous Delivery]]
+- [[Project Management]]
+
+
+## Methodologies
+
+- [After-action review - Wikipedia](https://en.wikipedia.org/wiki/After-action_review)
 
 
 ## Resources

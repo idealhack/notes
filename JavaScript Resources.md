@@ -1,8 +1,6 @@
 # JavaScript Resources
 
 
-### Best Practises
-
 - http://jstherightway.org/
 - https://github.com/spy-js/spy-js
 - https://github.com/simongong/js-stackoverflow-highest-votes

@@ -25,6 +25,12 @@
 ## [[Docker Monitoring]]
 
 
+## Images
+
+- [GoogleCloudPlatform/distroless: 🥑 Language focused docker images, minus the operating system.](https://github.com/GoogleCloudPlatform/distroless)
+- [理解Docker的多阶段镜像构建 | Tony Bai](http://tonybai.com/2017/11/11/multi-stage-image-build-in-docker/)
+
+
 ## Volumes
 
 - http://container-solutions.com/understanding-volumes-docker/

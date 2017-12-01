@@ -1,4 +1,4 @@
-# Classical
+# Classical Music
 
 
 ## Resources

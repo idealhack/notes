@@ -13,12 +13,22 @@
 - https://github.com/thoughtbot/laptop
 
 
-## Softwares
+## Apps
 
 - [Project IINA - 现代的 macOS 视频播放器](https://lhc70000.github.io/iina/zh-cn/)
 
+### Programming
 
-## Frameworks
+- PyCharm CE
+- Gogland
+- CLion
+
+### Not released yet
+
+- [Mailpile](https://www.mailpile.is/)
+
+
+## Development
 
 - https://github.com/sparkle-project/Sparkle
 - [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electron.atom.io/)

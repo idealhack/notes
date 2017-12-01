@@ -24,6 +24,8 @@
 
 ## Resources
 
+- https://awesome.re
+- https://github.com/bayandin/awesome-awesomeness
 - https://github.com/leachim6/hello-world
 - https://github.com/mr-mig/every-programmer-should-know
 - https://github.com/stanzhai/be-a-professional-programmer

@@ -1,7 +1,7 @@
 # Password Management
 
 
-## Tools
+## Apps
 
 - [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
 - [Elecpass - A password manager based on GPG and Git compatible with pass](http://elecpass.io/)

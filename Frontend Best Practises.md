@@ -33,4 +33,3 @@
 - [2015 年末必备前端工具集 - 掘金](http://gold.xitu.io/entry/56cee8afc24aa800545f73bb)
 - https://gitmark.igevin.info/user/collections/58cb7ccecc860c001dba50a6/detail/
 - [xitu/front-end-handbook-2017: 2017 edition of our front-end development guide](https://github.com/xitu/front-end-handbook-2017)
-

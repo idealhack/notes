@@ -1,12 +1,29 @@
 # Bigdata
 
 
+## Overivew
+
+- [大數據 - 维基百科](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%B8%E6%93%9A)
+
+
+## Stack
+
+- [[HDFS]]
 - [[Hadoop]]
+- [[HBase]]
+- [[Hive]]
+- [[Sqoop]]
 - [[Spark]]
 - [[Kafka]]
-- Greenplum
-- http://www.fluentd.org/
-- http://airflow.incubator.apache.org/
+- [[Fluentd]]
+- [Phoenix](https://phoenix.apache.org/index.html)
+- [Greenplum](http://greenplum.org/)
+- [Airflow](https://github.com/apache/incubator-airflow)
+- [Hue](http://gethue.com/)
+- [Impala](https://impala.apache.org/)
+- [Presto](https://prestodb.io/)
+- [Mahout](http://mahout.apache.org/)
+- [IndexR](https://github.com/shunfei/indexr)
 
 
 ## Resources
