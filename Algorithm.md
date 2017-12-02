@@ -3,7 +3,7 @@
 
 ## Algorithms
 
-- [[Bit manipulation]]
+- [Bit manipulation - Wikipedia](https://en.wikipedia.org/wiki/Bit_manipulation)
 - [[Cosine similarity]]
 
 

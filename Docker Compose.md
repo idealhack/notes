@@ -3,8 +3,8 @@
 
 ## Overview
 
-- https://github.com/docker/compose
-- https://github.com/eywalker/nvidia-docker-compose
+- [docker/compose: Define and run multi-container applications with Docker](https://github.com/docker/compose)
+- [eywalker/nvidia-docker-compose: Simple wrapper for docker-compose to use GPU enabled docker under nvidia-docker](https://github.com/eywalker/nvidia-docker-compose)
 
 
 ## Docker Compose Installation
@@ -17,8 +17,3 @@
 ## UI
 
 - https://github.com/francescou/docker-compose-ui
-
-
-## Resources
-
-- http://chloerei.com/2017/04/24/docker-compose-for-rails-development/

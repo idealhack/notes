@@ -13,6 +13,7 @@
 - 1995: [[JavaScript]]
 - 1995: [[Ruby]]
 - 2004: [[Scala]]
+- 2007: [[Clojure]]
 - 2009: [[Go]]
 - 2010: [[Rust]]
 - 2011: [[Elixir]]

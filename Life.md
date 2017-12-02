@@ -1,7 +1,8 @@
 # Life
 
 
-- [[Podcasts]]
+## Topics
+
 - [[Shopping]]
 - [[Chained-brand Hotels]]
 - [[Credit card]]

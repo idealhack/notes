@@ -18,3 +18,4 @@
 
 - https://cmake.org/cmake-tutorial/
 - http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf
+- [How to use Xcode with almost any C++ project](https://www.outcoldman.com/en/archive/2014/05/02/xcode-and-cmake/)

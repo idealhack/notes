@@ -3,15 +3,11 @@
 
 ## Overview
 
-- https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html
+- [Apache Hadoop 2.9.0 – HDFS Users Guide](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html)
 
 
-## Python
+## Libraries
 
 - https://github.com/mtth/hdfs
 - https://github.com/spotify/snakebite
-
-
-## PHP
-
 - https://github.com/simpleenergy/php-WebHDFS

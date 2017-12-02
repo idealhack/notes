@@ -3,9 +3,9 @@
 
 ## Overview
 
-- https://en.wikipedia.org/wiki/Employee_stock_option
+- [員工認股權 - 维基百科](https://zh.wikipedia.org/wiki/%E5%93%A1%E5%B7%A5%E8%AA%8D%E8%82%A1%E6%AC%8A)
 
 
 ## Resources
 
-- https://tldroptions.io/
+- [TLDR Stock Options](https://tldroptions.io/)

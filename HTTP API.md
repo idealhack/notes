@@ -1,14 +1,13 @@
 # HTTP API
 
 
-[[Designing Restful API]]
-
-Using APIs
+## Using APIs
 
 - [apis.guru](https://apis.guru/)
 
-Publishing HTTP API
+## Publishing APIs
 
+- [[Designing Restful API]]
 - [[RAML]]
 - [Swagger](http://swagger.io/)
 - [lord/slate](https://github.com/lord/slate)

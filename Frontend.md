@@ -1,13 +1,12 @@
 # Frontend
 
 
-## Knowledge
+## Topics
 
 - [[HTML]]
 - [[CSS]]
 - [[JavaScript]]
 - [[Canvas]]
-- [[Frontend Style Guide]]
 - [[Mobile Web]]
 - [[Browsers]]
 - [[Web Cache]]

@@ -11,8 +11,8 @@
 - [[Hangzhou]]
 - [[Suzhou]]
 - [[Macau]]
-- [[Taiwan]]
 - [[Japan]]
+- [[Taiwan]]
 
 
 ## Resources
