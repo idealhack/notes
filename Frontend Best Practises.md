@@ -18,7 +18,6 @@
 
 ## Resources
 
-- [[Frontend in Real World]]
 - https://github.com/miripiruni/frontdesk
 - https://github.com/dypsilon/frontend-dev-bookmarks
 - https://github.com/icepy/Front-End-Develop-Guide

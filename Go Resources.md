@@ -1,5 +1,8 @@
 # Go Resources
 
+
+## Resouces
+
 - https://github.com/avelino/awesome-go
 - https://github.com/hackstoic/golang-open-source-projects
 - https://github.com/Unknwon/go-study-index
@@ -9,6 +12,7 @@
 
 ### Books
 
+- [dariubs/GoBooks: List of Golang books](https://github.com/dariubs/GoBooks)
 - http://www.gopl.io/
 - https://docs.hacknode.org/gopl-zh/
 - https://github.com/Unknwon/the-way-to-go_ZH_CN
