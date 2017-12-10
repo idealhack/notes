@@ -21,6 +21,12 @@
 
 ### [[TensorFlow]]
 
+### keras
+
+- [keras](https://github.com/fchollet/keras)
+- [Keras中文文档](http://keras-cn.readthedocs.io/en/latest/)
+- [Keras Documentation](https://keras.io/)
+
 ### Torch
 
 - [Torch](http://torch.ch/)
@@ -34,7 +40,6 @@
 - [DIGITS](https://github.com/NVIDIA/DIGITS)
 - [dlib](http://dlib.net/)
 - [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
-- [keras](https://github.com/fchollet/keras)
 - https://github.com/Tencent/ncnn
 
 

@@ -6,6 +6,11 @@
 - [TensorFlow](https://www.tensorflow.org/)
 
 
+## Tools
+
+- [tensorflow/serving: A flexible, high-performance serving system for machine learning models](https://github.com/tensorflow/serving)
+
+
 ## Resources
 
 - [TensorFlow中文社区](http://www.tensorfly.cn/)

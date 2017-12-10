@@ -3,7 +3,7 @@
 
 ## Chinese
 
-- https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD
+- [汉语 - 维基百科](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD)
 
 ### Dialects
 
@@ -18,4 +18,4 @@
 
 ## [[Japanese]]
 
-## French
+## [[French]]

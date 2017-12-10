@@ -7,6 +7,11 @@
 - https://github.com/ptmt/react-native-macos
 
 
+## Libraries
+
+- [hectahertz/react-native-typography: Pixel–perfect, native–looking typographic styles for React Native ✒️](https://github.com/hectahertz/react-native-typography)
+
+
 ## Resources
 
 - https://facebook.github.io/react-native/docs/tutorial.html
