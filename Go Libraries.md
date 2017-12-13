@@ -12,13 +12,15 @@
 ### Web
 
 - https://github.com/astaxie/beego
-- https://github.com/gin-gonic/gin
+- [gin-gonic/gin: Gin is a HTTP web framework written in Go](https://github.com/gin-gonic/gin)
+- [urfave/negroni: Idiomatic HTTP Middleware for Golang](https://github.com/urfave/negroni)
 - https://github.com/revel/revel
 - https://github.com/valyala/quicktemplate
 - https://github.com/kataras/iris
 - https://github.com/go-siris/siris
 - [labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
 - [ory/hydra: OAuth2 server with OpenID Connect - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.](https://github.com/ory/hydra)
+- [Gorilla, the golang web toolkit](http://www.gorillatoolkit.org/)
 
 ### Network
 

@@ -10,3 +10,4 @@
 ## Books
 
 - [Rust 程序设计语言（第二版）](https://kaisery.gitbooks.io/trpl-zh-cn/)
+- [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/)

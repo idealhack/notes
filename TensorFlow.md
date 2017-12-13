@@ -8,7 +8,7 @@
 
 ## Tools
 
-- [tensorflow/serving: A flexible, high-performance serving system for machine learning models](https://github.com/tensorflow/serving)
+- [google/kubeflow: Machine Learning Toolkit for Kubernetes](https://github.com/google/kubeflow)
 
 
 ## Resources
