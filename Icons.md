@@ -1,12 +1,12 @@
 # Icons
 
-- https://simpleicons.org/
-- https://github.com/alrra/browser-logos
-- http://ionicons.com/
-- https://www.mapbox.com/maki-icons/
-- https://icomoon.io/
-- http://fontello.com/
-- https://www.iconfinder.com/
-- https://erikflowers.github.io/weather-icons/
-- https://github.com/reduxframework/elusive-iconfont
-- https://feathericons.com/
+- [Simple Icons](https://simpleicons.org/)
+- [alrra/browser-logos: 🗂 High resolution web browser logos](https://github.com/alrra/browser-logos)
+- [Ionicons: The premium icon font for Ionic Framework](http://ionicons.com/)
+- [Maki Icons | By Mapbox](https://www.mapbox.com/maki-icons/)
+- [Icon Font & SVG Icon Sets ❍ IcoMoon](https://icomoon.io/)
+- [Fontello - icon fonts generator](http://fontello.com/)
+- [2,075,000+ free and premium vector icons. SVG, PNG, AI, CSH and PNG format.](https://www.iconfinder.com/)
+- [Weather Icons - 222 font icons inspired by Font Awesome and designed for Bootstrap](https://erikflowers.github.io/weather-icons/)
+- [reduxframework/elusive-iconfont: Open-Source Iconfont.](https://github.com/reduxframework/elusive-iconfont)
+- [Feather – Simply beautiful open source icons](https://feathericons.com/)

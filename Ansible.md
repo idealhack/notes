@@ -2,7 +2,7 @@
 
 ## Overview
 
-- https://www.ansible.com/
+- [Ansible is Simple IT Automation](https://www.ansible.com/)
 
 ## Tasks
 
@@ -14,4 +14,4 @@
 
 ## Books
 
-- http://ansible-tran.readthedocs.io/en/latest/index.html
+- [Ansible中文权威指南 — 国内最专业的Ansible中文官方学习手册](http://ansible-tran.readthedocs.io/en/latest/index.html)

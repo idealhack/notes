@@ -2,7 +2,7 @@
 
 ## WSL
 
-- https://msdn.microsoft.com/en-us/commandline/wsl/faq
+- [Frequently Asked Questions (FAQ) | Microsoft Docs](https://msdn.microsoft.com/en-us/commandline/wsl/faq)
 
 ## Resources
 

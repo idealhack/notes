@@ -16,7 +16,7 @@ or
     docker rm   $(docker ps -a -q)
     docker rmi  $(docker images -q)
 
-https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
+[Stop / remove all Docker containers (Example)](https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers)
 
 ### Remove all exited containers and orphaned images
 

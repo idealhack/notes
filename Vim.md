@@ -7,7 +7,7 @@
 - ![](https://s3-us-west-2.amazonaws.com/notion-static/bFdWNA9S2b9QKEWEPgZS_Untitled)
 - ![](https://s3-us-west-2.amazonaws.com/notion-static/RLxBusbAQiagbx29RdaT_Untitled)
 - ![](https://s3-us-west-2.amazonaws.com/notion-static/3CEFgdtPRuGU0XMS0vVU_Untitled)
-- https://github.com/mhinz/vim-galore
+- [mhinz/vim-galore: All things Vim!](https://github.com/mhinz/vim-galore)
 
 ## Tasks
 
@@ -16,4 +16,4 @@
 
 ## Forks
 
-- https://github.com/neovim/neovim
+- [neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)

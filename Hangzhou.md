@@ -2,12 +2,12 @@
 
 ## Overview
 
-- https://zh.wikipedia.org/wiki/%E6%9D%AD%E5%B7%9E%E5%B8%82
+- [杭州市 - 维基百科](https://zh.wikipedia.org/wiki/%E6%9D%AD%E5%B7%9E%E5%B8%82)
 
 ## Books
 
-- https://book.douban.com/subject/25796927/
-- https://book.douban.com/subject/26266981/
+- [Lonely Planet:浙江(2013年全新版) (豆瓣)](https://book.douban.com/subject/25796927/)
+- [Lonely Planet “IN”系列：杭州 (豆瓣)](https://book.douban.com/subject/26266981/)
 
 ## Places to go
 

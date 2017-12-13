@@ -11,13 +11,6 @@
 
 [Install DC/OS with Vagrant](https://dcos.io/docs/1.8/administration/installing/local/)
 
-    yum install git
-    wget https://releases.hashicorp.com/vagrant/1.9.3/vagrant_1.9.3_x86_64.rpm
-    wget http://download.virtualbox.org/virtualbox/5.1.18/VirtualBox-5.1-5.1.18_114002_el7-1.x86_64.rpm
-    wget https://codeload.github.com/dcos/dcos-vagrant/zip/v1.1.0
-    # blah blah
-    vagrant up
-
 ### Azure
 
 - [Install DC/OS on Azure](https://dcos.io/docs/1.8/administration/installing/cloud/azure/)
@@ -46,5 +39,5 @@ Steps using ARM template:
 - [开源DC/OS介绍：容器的最佳运行平台 - DockOne.io](http://dockone.io/article/1231)
 - [基于Mesos DCOS的大数据云计算平台架构: 大数据会议 - Strata Data Conference, 8月 2016, 北京, 中国](https://strata.oreilly.com.cn/hadoop-big-data-cn/public/schedule/detail/52459)
 - [飞驰在Mesos的涡轮引擎上 | MaxLeap - 博客](https://blog.maxleap.cn/archives/1050)
-- http://www.toutiao.com/i6428170905435767297/
+- [DCOS中的容器网络与IP-per-container解决方案](http://www.toutiao.com/i6428170905435767297/)
 - [DC/OS关键技术与应用场景](https://mp.weixin.qq.com/s/iSeGtWmHVM5Jqx3QSh3PSQ)

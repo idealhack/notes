@@ -2,7 +2,7 @@
 
 ## Overview
 
-- https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0
+- [傳輸層安全性協定 - 维基百科](https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0)
 
 ## Let's Encrypt
 
@@ -39,10 +39,10 @@ Manual get a certificate:
 
 ## Tools
 
-- https://www.ssllabs.com/ssltest/analyze.html
-- https://mozilla.github.io/server-side-tls/ssl-config-generator/
-- https://github.com/SteveLTN/https-portal
-- https://github.com/square/certstrap
+- [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/analyze.html)
+- [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
+- [SteveLTN/https-portal: A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.](https://github.com/SteveLTN/https-portal)
+- [square/certstrap: Tools to bootstrap CAs, certificate requests, and signed certificates.](https://github.com/square/certstrap)
 
 ## Resources
 
@@ -53,7 +53,7 @@ Manual get a certificate:
 - [Qualys SSL Labs](https://www.ssllabs.com/)
 - [﻿Security with HTTPS and SSL | Android Developers](https://developer.android.com/training/articles/security-ssl.html)
 - [HTTPS是如何工作的 - 众成翻译](http://www.zcfy.cc/article/how-does-https-work-1280.html)
-- http://blog.m31271n.com/2017/03/17/SSL-TLS-%E6%A6%82%E8%A7%88/
-- https://github.com/k8sp/tls
-- https://weakdh.org/
-- https://istlsfastyet.com/
+- [SSL/TLS 概览 | 自言自语](http://blog.m31271n.com/2017/03/17/SSL-TLS-%E6%A6%82%E8%A7%88/)
+- [k8sp/tls: TLS完全指南](https://github.com/k8sp/tls)
+- [Weak Diffie-Hellman and the Logjam Attack](https://weakdh.org/)
+- [Is TLS Fast Yet?](https://istlsfastyet.com/)

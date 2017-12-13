@@ -2,17 +2,17 @@
 
 ## Overview
 
-- http://json.org/
-- https://github.com/douglascrockford/JSON-js
+- [JSON](http://json.org/)
+- [douglascrockford/JSON-js: JSON in JavaScript](https://github.com/douglascrockford/JSON-js)
 
 ## Style Guide
 
-- https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md
+- [google-styleguide/JSONStyleGuide.md at master · darcyliu/google-styleguide · GitHub](https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md)
 
 ## Tools
 
-- http://trentm.com/json/
+- [json(1) - JSON love for your command line](http://trentm.com/json/)
 
 ## Resources
 
-- http://www.jsonlint.com/
+- [JSONLint - The JSON Validator](http://www.jsonlint.com/)

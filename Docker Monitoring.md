@@ -2,16 +2,16 @@
 
 ## Libraries
 
-- https://github.com/weaveworks/scope
-- https://bcicen.github.io/ctop/
-- https://github.com/google/cadvisor
-- http://sematext.com/docker/
+- [weaveworks/scope: Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)
+- [ctop](https://bcicen.github.io/ctop/)
+- [google/cadvisor: Analyzes resource usage and performance characteristics of running containers.](https://github.com/google/cadvisor)
+- [Docker Monitoring & Logging](http://sematext.com/docker/)
 
 ## Resources
 
-- https://github.com/jasonGeng88/blog/blob/master/201705/cadvisor.md
-- http://www.infoq.com/cn/news/2015/12/dockercon-docker-monitoring
-- http://liubin.org/blog/2016/04/24/how-to-choose-a-docker-monitor-solution/
+- [blog/cadvisor.md at master · jasonGeng88/blog · GitHub](https://github.com/jasonGeng88/blog/blob/master/201705/cadvisor.md)
+- [Docker监控：最佳实践以及cAdvisor和Prometheus监控工具的对比](http://www.infoq.com/cn/news/2015/12/dockercon-docker-monitoring)
+- [如何选择Docker监控方案 - 自言自语](http://liubin.org/blog/2016/04/24/how-to-choose-a-docker-monitor-solution/)
 
 ### Logs
 

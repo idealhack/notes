@@ -26,5 +26,5 @@
 
 ## OpenWrt
 
-- https://github.com/softwaredownload/openwrt-fanqiang
-- https://github.com/lifetyper/FreeRouter_V2
+- [softwaredownload/openwrt-fanqiang: OpenWrt shadowsocks路由器智能、自动翻墙教程](https://github.com/softwaredownload/openwrt-fanqiang)
+- [lifetyper/FreeRouter_V2: 一个适用于OpenWRT的全平台翻墙路由方案](https://github.com/lifetyper/FreeRouter_V2)

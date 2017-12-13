@@ -7,4 +7,4 @@
 
 ## Setup
 
-- https://www.unixmen.com/setting-nfs-server-client-centos-7/
+- [Setting Up NFS Server And Client On CentOS 7 | Unixmen](https://www.unixmen.com/setting-nfs-server-client-centos-7/)

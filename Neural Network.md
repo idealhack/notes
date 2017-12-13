@@ -6,13 +6,13 @@
 
 ## Frameworks
 
-- https://github.com/rbgirshick/py-faster-rcnn
-- https://github.com/anishathalye/neural-style
-- https://github.com/davheld/GOTURN
-- https://github.com/kaonashi-tyc/zi2zi
-- https://github.com/koth/kcws
-- https://github.com/luanfujun/deep-photo-styletransfer
-- https://github.com/tonybeltramelli/pix2code
+- [rbgirshick/py-faster-rcnn: Faster R-CNN (Python implementation) -- see https://github.com/ShaoqingRen/faster_rcnn for the official MATLAB version](https://github.com/rbgirshick/py-faster-rcnn)
+- [anishathalye/neural-style: Neural style in TensorFlow!](https://github.com/anishathalye/neural-style)
+- [davheld/GOTURN: Source code for paper: Learning to Track at 100 FPS with Deep Regression Networks, Held, et al. ECCV 2016](https://github.com/davheld/GOTURN)
+- [kaonashi-tyc/zi2zi: Learning Chinese Character style with conditional GAN](https://github.com/kaonashi-tyc/zi2zi)
+- [koth/kcws: Deep Learning Chinese Word Segment](https://github.com/koth/kcws)
+- [luanfujun/deep-photo-styletransfer: Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511](https://github.com/luanfujun/deep-photo-styletransfer)
+- [tonybeltramelli/pix2code: pix2code: Generating Code from a Graphical User Interface Screenshot](https://github.com/tonybeltramelli/pix2code)
 - [satoshiiizuka/siggraph2016_colorization: Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.](https://github.com/satoshiiizuka/siggraph2016_colorization)
 - [nagadomi/waifu2x: Image Super-Resolution for Anime-Style Art](https://github.com/nagadomi/waifu2x)
 - [lllyasviel/style2paints: sketch + style = paints](https://github.com/lllyasviel/style2paints)

@@ -2,7 +2,7 @@
 
 ## Install Docker
 
-https://docs.docker.com/engine/installation/
+[Install Docker | Docker Documentation](https://docs.docker.com/engine/installation/)
 
 Steps on CentOS: [Get Docker CE for CentOS | Docker Documentation](https://docs.docker.com/engine/installation/linux/docker-ce/centos/)
 
@@ -20,7 +20,7 @@ Steps on Ubuntu: [Get Docker CE for Ubuntu | Docker Documentation](https://docs.
 
 ## Install nvidia-docker Plugin
 
-https://github.com/NVIDIA/nvidia-docker
+[NVIDIA/nvidia-docker: Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
 
 Setps on CentOS:
 

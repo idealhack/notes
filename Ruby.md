@@ -2,18 +2,18 @@
 
 ## Overview
 
-- https://www.ruby-lang.org/
-- https://zh.wikipedia.org/wiki/Ruby
+- [Ruby Programming Language](https://www.ruby-lang.org/)
+- [Ruby - 维基百科](https://zh.wikipedia.org/wiki/Ruby)
 
 ## Libraries
 
-- http://www.nokogiri.org/
-- https://github.com/basecamp/pow
+- [Tutorials - Nokogiri 鋸](http://www.nokogiri.org/)
+- [basecamp/pow: Zero-configuration Rack server for Mac OS X](https://github.com/basecamp/pow)
 
 ## Tools
 
-- https://github.com/rbenv/rbenv
+- [rbenv/rbenv: Groom your app’s Ruby environment](https://github.com/rbenv/rbenv)
 
 ## Resources
 
-- https://github.com/markets/awesome-ruby
+- [markets/awesome-ruby: A collection of awesome Ruby libraries, tools, frameworks and software](https://github.com/markets/awesome-ruby)

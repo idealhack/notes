@@ -2,9 +2,9 @@
 
 ## Overview
 
-- https://kafka.apache.org/
-- https://zh.wikipedia.org/wiki/Kafka
+- [Apache Kafka](https://kafka.apache.org/)
+- [Kafka - 维基百科](https://zh.wikipedia.org/wiki/Kafka)
 
 ## Resources
 
-- http://www.jasongj.com/tags/Kafka/
+- [标签: Kafka | 技术世界](http://www.jasongj.com/tags/Kafka/)

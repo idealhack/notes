@@ -24,7 +24,7 @@ Count files recursively
     pwdx $pid
     which $process
 
-ps 排序 http://alvinalexander.com/linux/unix-linux-process-memory-sort-ps-command-cpu
+ps 排序 [Linux process memory usage: How to sort ‘ps’ command output | alvinalexander.com](http://alvinalexander.com/linux/unix-linux-process-memory-sort-ps-command-cpu)
 
 ### Hardware information
 
@@ -43,7 +43,7 @@ HDD:
     sudo fdisk -l
     hdparm -i /dev/device (for example sda1, hda3...)
 
-- https://github.com/smxi/inxi
+- [smxi/inxi: inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and also runs somewhat on BSDs.](https://github.com/smxi/inxi)
 
 ### Server status
 
@@ -73,10 +73,10 @@ HDD:
 
 ## Resources
 
-- https://i.linuxtoy.org/files/pdf/fwunixref.pdf
-- https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/
-- https://www.cyberciti.biz/faq/linux-command-to-find-the-system-configuration-and-hardware-information/
-- http://www.binarytides.com/linux-commands-hardware-info/
-- https://www.maketecheasier.com/check-hardware-information-linux/
-- http://www.thegeekstuff.com/2008/11/how-to-get-hardware-information-on-linux-using-dmidecode-command/
+- [https://i.linuxtoy.org/files/pdf/fwunixref.pdf](https://i.linuxtoy.org/files/pdf/fwunixref.pdf)
+- [10 Useful Commands to Collect System and Hardware Information in Linux](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/)
+- [Linux Command To Find the System Configuration And Hardware Information – nixCraft](https://www.cyberciti.biz/faq/linux-command-to-find-the-system-configuration-and-hardware-information/)
+- [16 commands to check hardware information on Linux](http://www.binarytides.com/linux-commands-hardware-info/)
+- [Check Hardware Information On Linux via Command Line](https://www.maketecheasier.com/check-hardware-information-linux/)
+- [How To Get Hardware Information On Linux Using dmidecode Command](http://www.thegeekstuff.com/2008/11/how-to-get-hardware-information-on-linux-using-dmidecode-command/)
 - [mv操作深入浅出 - 百度技术博客 - 51CTO技术博客](http://baidutech.blog.51cto.com/4114344/743731)

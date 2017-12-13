@@ -2,8 +2,8 @@
 
 ## Tools
 
-- https://github.com/facebookarchive/origami
-- https://github.com/sketchplugins/plugin-directory
+- [facebookarchive/origami: A Quartz Composer framework that enables interactive design prototyping without programming.](https://github.com/facebookarchive/origami)
+- [sketchplugins/plugin-directory: An official directory of Sketch Plugins](https://github.com/sketchplugins/plugin-directory)
 
 ### OmniGraffle
 

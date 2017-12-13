@@ -11,15 +11,15 @@
 
 ## Papers
 
-- http://paperswelove.org/
+- [Papers We Love](http://paperswelove.org/)
 
 ## Libraries
 
-- https://github.com/felipernb/algorithms.js
+- [felipernb/algorithms.js: Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript](https://github.com/felipernb/algorithms.js)
 
 ## Tools
 
-- https://github.com/parkjs814/AlgorithmVisualizer
+- [parkjs814/AlgorithmVisualizer: Algorithm Visualizer](https://github.com/parkjs814/AlgorithmVisualizer)
 
 ## Resources
 
@@ -42,11 +42,11 @@
 
 ### Exercises
 
-- https://github.com/nzakas/computer-science-in-javascript
-- https://github.com/liuxinyu95/AlgoXY
-- https://github.com/julycoding/The-Art-Of-Programming-By-July
-- https://github.com/soulmachine/leetcode
-- https://github.com/billryan/algorithm-exercise
-- https://github.com/coells/100days
-- https://github.com/rainliu/algorithms
-- https://github.com/donnemartin/interactive-coding-challenges
+- [nzakas/computer-science-in-javascript: Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.](https://github.com/nzakas/computer-science-in-javascript)
+- [liuxinyu95/AlgoXY: Book of Elementary Algorithms and Data structures](https://github.com/liuxinyu95/AlgoXY)
+- [julycoding/The-Art-Of-Programming-By-July: 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+- [soulmachine/leetcode: LeetCode题解，151道题完整版](https://github.com/soulmachine/leetcode)
+- [billryan/algorithm-exercise: Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/](https://github.com/billryan/algorithm-exercise)
+- [coells/100days: 100 days of algorithms](https://github.com/coells/100days)
+- [rainliu/algorithms: Algorithms (4th Edition) in Go](https://github.com/rainliu/algorithms)
+- [donnemartin/interactive-coding-challenges: Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.](https://github.com/donnemartin/interactive-coding-challenges)

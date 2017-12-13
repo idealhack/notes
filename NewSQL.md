@@ -2,7 +2,7 @@
 
 ## Overview
 
-- https://en.wikipedia.org/wiki/NewSQL
+- [NewSQL - Wikipedia](https://en.wikipedia.org/wiki/NewSQL)
 
 ## Databases
 

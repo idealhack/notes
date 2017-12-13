@@ -11,20 +11,20 @@
 
 ## Libraries
 
-- https://github.com/google/grafika
-- https://github.com/square/picasso
-- https://github.com/alibaba/atlas
-- https://github.com/Uncodin/bypass
-- https://github.com/square/okhttp
+- [google/grafika: Grafika test app](https://github.com/google/grafika)
+- [square/picasso: A powerful image downloading and caching library for Android](https://github.com/square/picasso)
+- [alibaba/atlas: A powerful Android Dynamic Component Framework.](https://github.com/alibaba/atlas)
+- [Uncodin/bypass: Skip the HTML, Bypass takes markdown and renders it directly on Android and iOS.](https://github.com/Uncodin/bypass)
+- [square/okhttp: An HTTP+HTTP/2 client for Android and Java applications.](https://github.com/square/okhttp)
 
 ## Tools
 
-- https://github.com/vladikoff/chromeos-apk
+- [vladikoff/chromeos-apk: ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.](https://github.com/vladikoff/chromeos-apk)
 
 ## Resources
 
-- https://github.com/codepath/android_guides
-- https://github.com/pcqpcq/open-source-android-apps
+- [codepath/android_guides: Extensive Open-Source Guides for Android Developers](https://github.com/codepath/android_guides)
+- [pcqpcq/open-source-android-apps: Open-Source Android Apps](https://github.com/pcqpcq/open-source-android-apps)
 - [SegmentFault 技术周刊 Vol.4 - 这份 Android 有点甜 - 社区周刊 - SegmentFault](https://segmentfault.com/a/1190000006827148)
 - [【译】Android 应用架构演变史 - 掘金](http://gold.xitu.io/entry/566fdbe160b20fc9117f4453)
 - [小米盒子3(MDZ-16-AA)root成功_8乱舞春秋8_新浪博客](http://blog.sina.com.cn/s/blog_51b16bbe0102wacc.html)

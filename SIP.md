@@ -6,10 +6,10 @@
 
 ### Libraries
 
-- http://www.gnu.org/software/osip/
-- http://sofia-sip.sourceforge.net
-- https://www.resiprocate.org/Main_Page
-- https://github.com/StefanKopieczek/gossip
+- [The GNU oSIP library - GNU Project - Free Software Foundation (FSF)](http://www.gnu.org/software/osip/)
+- [Sofia-SIP Library](http://sofia-sip.sourceforge.net)
+- [reSIProcate](https://www.resiprocate.org/Main_Page)
+- [StefanKopieczek/gossip: SIP stack in Golang](https://github.com/StefanKopieczek/gossip)
 
 ## SDP
 

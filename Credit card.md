@@ -2,29 +2,29 @@
 
 ## Overview
 
-- https://zh.wikipedia.org/wiki/%E4%BF%A1%E7%94%A8%E5%8D%A1
+- [信用卡 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BF%A1%E7%94%A8%E5%8D%A1)
 
 ## Issuer associations
 
 ### China UnionPay
 
-- https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%81%94
+- [中国银联 - 维基百科](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E9%93%B6%E8%81%94)
 
 ### Visa
 
-- https://zh.wikipedia.org/wiki/Visa
+- [Visa - 维基百科](https://zh.wikipedia.org/wiki/Visa)
 
 ### MasterCard
 
-- https://zh.wikipedia.org/wiki/%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%8D%A1
+- [万事达卡 - 维基百科](https://zh.wikipedia.org/wiki/%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%8D%A1)
 
 ### American Express
 
-- https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E9%81%8B%E9%80%9A
+- [美國運通 - 维基百科](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E9%81%8B%E9%80%9A)
 
 ### JCB
 
-- https://zh.wikipedia.org/wiki/JCB
+- [JCB - 维基百科](https://zh.wikipedia.org/wiki/JCB)
 
 ## Banks
 

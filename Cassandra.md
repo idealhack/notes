@@ -2,53 +2,47 @@
 
 ## Overview
 
-- http://cassandra.apache.org/
-- https://zh.wikipedia.org/wiki/Cassandra
+- [Apache Cassandra](http://cassandra.apache.org/)
+- [Cassandra - 维基百科](https://zh.wikipedia.org/wiki/Cassandra)
 
 ## Installing
 
 ### Docker
 
-https://hub.docker.com/_/cassandra/
+[library/cassandra - Docker Hub](https://hub.docker.com/_/cassandra/)
 
     docker pull cassandra
 
 ### Kubernetes
 
-https://console.cloud.google.com/gcr/images/google-samples/GLOBAL/cassandra
+[Google Cloud Platform](https://console.cloud.google.com/gcr/images/google-samples/GLOBAL/cassandra)
 
     docker pull gcr.io/google-samples/cassandra:v12
 
 ## Documentation
 
-- http://cassandra.apache.org/doc/latest/getting_started/index.html
-- http://docs.datastax.com/en/cassandra/latest/
+- [Documentation](http://cassandra.apache.org/doc/latest/getting_started/index.html)
+- [Apache Cassandra™ 3.0 for DSE 5.0 (Supported)](http://docs.datastax.com/en/cassandra/latest/)
 
 ## Drivers
 
-- http://cassandra.apache.org/doc/latest/getting_started/drivers.html
+- [Documentation](http://cassandra.apache.org/doc/latest/getting_started/drivers.html)
 
 ### Go
 
-- https://github.com/gocql/gocql
-- https://academy.datastax.com/resources/getting-started-apache-cassandra-and-go
+- [gocql/gocql: Package gocql implements a fast and robust Cassandra client for the Go programming language.](https://github.com/gocql/gocql)
+- [Getting Started with Apache Cassandra and Go | DataStax Academy: Free Cassandra Tutorials and Training](https://academy.datastax.com/resources/getting-started-apache-cassandra-and-go)
 
 ### C++
 
-- https://academy.datastax.com/resources/getting-started-cpp-driver
-- https://github.com/datastax/cpp-driver
-- http://docs.datastax.com/en/developer/cpp-driver/2.6/
-
-Installing on Ubuntu 14.04:
-
-    wget http://ftp.br.debian.org/debian/pool/main/o/openssl1.0/libssl1.0.2_1.0.2k-1_amd64.deb
-    wget http://downloads.datastax.com/cpp-driver/ubuntu/14.04/dependencies/libuv/v1.11.0/libuv_1.11.0-1_amd64.deb
-    wget http://downloads.datastax.com/cpp-driver/ubuntu/14.04/cassandra/v2.6.0/cassandra-cpp-driver_2.6.0-1_amd64.deb
+- [Getting Started with Apache Cassandra and C++ | DataStax Academy: Free Cassandra Tutorials and Training](https://academy.datastax.com/resources/getting-started-cpp-driver)
+- [datastax/cpp-driver: DataStax C/C++ Driver for Apache Cassandra](https://github.com/datastax/cpp-driver)
+- [DataStax C/C++ Driver - Home](http://docs.datastax.com/en/developer/cpp-driver/2.6/)
 
 ### PHP
 
-- https://academy.datastax.com/resources/getting-started-apache-cassandra-and-php
-- https://github.com/datastax/php-driver
+- [Getting Started with Apache Cassandra and PHP | DataStax Academy: Free Cassandra Tutorials and Training](https://academy.datastax.com/resources/getting-started-apache-cassandra-and-php)
+- [datastax/php-driver: DataStax PHP Driver for Apache Cassandra](https://github.com/datastax/php-driver)
 
 ## Books
 
@@ -56,8 +50,8 @@ Installing on Ubuntu 14.04:
 
 ## Tools
 
-- https://github.com/gianlucaborello/cassandradump
-- https://www.ecyrd.com/cassandracalculator/
+- [gianlucaborello/cassandradump: A data exporting tool for Cassandra inspired from mysqldump, with some additional slice and dice capabilities](https://github.com/gianlucaborello/cassandradump)
+- [Cassandra Parameters for Dummies](https://www.ecyrd.com/cassandracalculator/)
 
 ## Resources
 

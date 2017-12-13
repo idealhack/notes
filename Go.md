@@ -8,12 +8,12 @@
 
 ## Documentation
 
-- https://golang.org/doc/
-- https://blog.golang.org/
+- [Documentation - The Go Programming Language](https://golang.org/doc/)
+- [The Go Programming Language Blog](https://blog.golang.org/)
 - [Go 指南](https://tour.go-zh.org/welcome/1)
-- https://gobyexample.com/
-- https://www.dotnetperls.com/s#go~top!/
-- https://www.tutorialspoint.com/go/index.htm
+- [Go by Example](https://gobyexample.com/)
+- [Dot Net Perls](https://www.dotnetperls.com/s#go~top!/)
+- [Go Tutorial](https://www.tutorialspoint.com/go/index.htm)
 
 ## [[Go Libraries]]
 

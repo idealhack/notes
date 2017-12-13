@@ -2,14 +2,14 @@
 
 ## Overview
 
-- https://github.com/facebook/react
+- [facebook/react: A declarative, efficient, and flexible JavaScript library for building user interfaces.](https://github.com/facebook/react)
 
 ## Frameworks
 
-- https://github.com/zeit/next.js
-- https://draftjs.org/
-- https://github.com/facebook/flux
-- https://github.com/storybooks/storybook
+- [zeit/next.js: Framework for server-rendered or statically-exported React apps](https://github.com/zeit/next.js)
+- [Draft.js | Rich Text Editor Framework for React](https://draftjs.org/)
+- [facebook/flux: Application Architecture for Building User Interfaces](https://github.com/facebook/flux)
+- [storybooks/storybook: Interactive development & testing environment for React, React-Native, Vue UI components](https://github.com/storybooks/storybook)
 
 ## UI
 
@@ -17,14 +17,13 @@
 
 ## Resources
 
-- https://github.com/petehunt/react-howto/blob/master/README
-- https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
-- https://facebook.github.io/react/docs/tutorial.html
-- https://github.com/petehunt/react-howto
-- https://github.com/enaqx/awesome-react
-- https://egghead.io/series/getting-started-with-redux
-- https://twitter.com/thekitze/status/727821044308967425
-- http://www.laispace.com/react-explore/
-- https://github.com/callemall/material-ui
-- https://segmentfault.com/a/1190000006055973
+- [如何学习 React](https://github.com/petehunt/react-howto/blob/master/README-zh.md)
+- [Hello World - React](https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm)
+- [Tutorial: Intro To React - React](https://facebook.github.io/react/docs/tutorial.html)
+- [petehunt/react-howto: Your guide to the (sometimes overwhelming!) React ecosystem.](https://github.com/petehunt/react-howto)
+- [enaqx/awesome-react: A collection of awesome things regarding React ecosystem.](https://github.com/enaqx/awesome-react)
+- [Getting Started with Redux from @dan_abramov on @eggheadio](https://egghead.io/series/getting-started-with-redux)
+- [Kitzeさんのツイート: "Redux flow explained visually. Looks so pretty."](https://twitter.com/thekitze/status/727821044308967425)
+- [mui-org/material-ui: React components that implement Google's Material Design.](https://github.com/callemall/material-ui)
+- [使用Facebook的create-react-app快速构建React开发环境 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000006055973)
 - [xitu/Under-the-hood-ReactJS: Entire ReactJS code base explanation by visual block schemes (Stack+Fiber versions)](https://github.com/xitu/Under-the-hood-ReactJS)

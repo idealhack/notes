@@ -2,15 +2,14 @@
 
 ## Sphinx
 
-- http://sphinx-doc.org/
-- http://zh-sphinx-doc.readthedocs.org/
-- http://www.tangrucheng.com/restructuredtext-syntax-rules.html
-- https://github.com/ryan-roemer/sphinx-bootstrap-theme
-- http://bootswatch.com/
+- [Overview — Sphinx 1.6.6+ documentation](http://sphinx-doc.org/)
+- [Sphinx 使用手册](http://zh-sphinx-doc.readthedocs.org/)
+- [ryan-roemer/sphinx-bootstrap-theme: Sphinx Bootstrap Theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme)
+- [Bootswatch: Free themes for Bootstrap](http://bootswatch.com/)
 
 ## Apps
 
-- https://github.com/sundy-li/wechat_spider
+- [sundy-li/wechat_spider: 基于中间人截获的微信公众号爬虫](https://github.com/sundy-li/wechat_spider)
 
 ## Resources
 

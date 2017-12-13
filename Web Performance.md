@@ -2,9 +2,9 @@
 
 ## Tools
 
-- https://github.com/desktoppr/wbench
-- https://www.sitespeed.io/
-- https://github.com/addyosmani/psi
+- [desktoppr/wbench: It benchmarks websites, YO!](https://github.com/desktoppr/wbench)
+- [Sitespeed.io - Welcome to the wonderful world of Web Performance](https://www.sitespeed.io/)
+- [addyosmani/psi: PageSpeed Insights with reporting](https://github.com/addyosmani/psi)
 
 ## Resources
 

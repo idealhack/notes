@@ -2,12 +2,12 @@
 
 ## Overview
 
-- https://redis.io/
-- http://redisdoc.com/
+- [Redis](https://redis.io/)
+- [Redis 命令参考 — Redis 命令参考](http://redisdoc.com/)
 
 ## Tools
 
-- https://github.com/steelThread/redmon
+- [steelThread/redmon: A web interface for managing redis: cli, admin, and live monitoring](https://github.com/steelThread/redmon)
 
 ## Resources
 

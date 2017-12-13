@@ -14,5 +14,5 @@
 
 ## Resources
 
-- http://lukechesser.github.io/Popular-UIs/
-- https://github.com/MengTo/AppStoreSketch
+- [Popular UIs | Free PSDs of popular Web Interfaces](http://lukechesser.github.io/Popular-UIs/)
+- [MengTo/AppStoreSketch: A quick App Store template for Sketch](https://github.com/MengTo/AppStoreSketch)

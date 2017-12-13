@@ -31,4 +31,4 @@
 
 ## Resources
 
-- http://www.johnzaccone.io/entrypoint-vs-cmd-back-to-basics/
+- [ENTRYPOINT vs CMD: Back to Basics](http://www.johnzaccone.io/entrypoint-vs-cmd-back-to-basics/)

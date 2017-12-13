@@ -36,7 +36,7 @@
 [传输层 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BC%A0%E8%BE%93%E5%B1%82)
 
 - [[TCP]]
-- https://github.com/skywind3000/kcp
+- [skywind3000/kcp: KCP - A Fast and Reliable ARQ Protocol](https://github.com/skywind3000/kcp)
 
 ### Network Layer
 
@@ -52,7 +52,7 @@
 
 ## Gateway
 
-- https://onebitbug.me/2014/05/28/building-a-gateway/
+- [搭建网关系列—— 预告篇 - Stephen Zhang](https://onebitbug.me/2014/05/28/building-a-gateway/)
 
 ## Task
 
@@ -60,4 +60,4 @@
 
 ## Resources
 
-- https://github.com/clowwindy/Awesome-Networking
+- [clowwindy/Awesome-Networking: A curated list of awesome networking libraries, resources and shiny things](https://github.com/clowwindy/Awesome-Networking)

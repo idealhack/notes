@@ -2,7 +2,7 @@
 
 ## Overview
 
-- https://zh.wikipedia.org/wiki/IPMI
+- [IPMI - 维基百科](https://zh.wikipedia.org/wiki/IPMI)
 
 ## IPMI / BMC 默认用户名密码
 
@@ -12,10 +12,10 @@
 
 ## SuperMicro
 
-- https://www.supermicro.com/products/nfo/IPMI.cfm
-- https://www.supermicro.com/products/nfo/SMS_IPMI.cfm
-- https://leavingwithnothing.blogspot.com/2016/06/ipmiview-for-mac.html
-- https://martincarstenbach.wordpress.com/2012/08/02/lights-out-management-console-on-supermicro-boards/
+- [Supermicro Intelligent Management | Supermicro Server Management Utilities | Products - Super Micro Computer, Inc.](https://www.supermicro.com/products/nfo/IPMI.cfm)
+- [Supermicro IPMI Utilities | Supermicro Server Management Utilities | Products - Super Micro Computer, Inc.](https://www.supermicro.com/products/nfo/SMS_IPMI.cfm)
+- [Leaving with Nothing: IPMIView for Mac](https://leavingwithnothing.blogspot.com/2016/06/ipmiview-for-mac.html)
+- [Lights-out management console on Supermicro boards | Martins Blog](https://martincarstenbach.wordpress.com/2012/08/02/lights-out-management-console-on-supermicro-boards/)
 
 ## Resources
 

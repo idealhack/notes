@@ -2,9 +2,9 @@
 
 ## Overview
 
-- https://landing.google.com/sre/
-- https://en.wikipedia.org/wiki/Site_reliability_engineering
-- https://book.douban.com/subject/26875239/
+- [Google - Site Reliability Engineering](https://landing.google.com/sre/)
+- [Site reliability engineering - Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+- [SRE: Google运维解密 (豆瓣)](https://book.douban.com/subject/26875239/)
 
 ## Section
 
@@ -20,6 +20,6 @@
 
 ## Resources
 
-- https://github.com/kahun/awesome-sysadmin
-- https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c
-- https://s905060.gitbooks.io/site-reliability-engineer-handbook/
+- [kahun/awesome-sysadmin: A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.](https://github.com/kahun/awesome-sysadmin)
+- [So you want to be an SRE? – Hacker Noon](https://hackernoon.com/so-you-want-to-be-an-sre-34e832357a8c)
+- [Introduction · Site Reliability Engineer HandBook](https://s905060.gitbooks.io/site-reliability-engineer-handbook/)

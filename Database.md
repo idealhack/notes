@@ -12,4 +12,4 @@
 
 ## Resources
 
-- https://github.com/rxin/db-readings
+- [rxin/db-readings: Readings in Databases](https://github.com/rxin/db-readings)

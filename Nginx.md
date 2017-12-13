@@ -6,8 +6,8 @@
 
 ## OpenResty
 
-- https://openresty.org/cn/
-- https://github.com/alexazhou/VeryNginx
+- [OpenResty® - 中文官方站](https://openresty.org/cn/)
+- [alexazhou/VeryNginx: A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.](https://github.com/alexazhou/VeryNginx)
 
 ## Books
 
@@ -16,5 +16,5 @@
 ## Resources
 
 - [Nginx基本配置备忘](https://zhuanlan.zhihu.com/p/24524057)
-- https://github.com/nginx-boilerplate/nginx-boilerplate
-- https://github.com/pagespeed/ngx_pagespeed
+- [nginx-boilerplate/nginx-boilerplate: Awesome Nginx configuration template](https://github.com/nginx-boilerplate/nginx-boilerplate)
+- [pagespeed/ngx_pagespeed: Automatic PageSpeed optimization module for Nginx](https://github.com/pagespeed/ngx_pagespeed)

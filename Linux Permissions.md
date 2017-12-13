@@ -2,7 +2,7 @@
 
 ## Nginx
 
-- http://nginxlibrary.com/403-forbidden-error/
+- [Resolving "403 Forbidden" error - Nginx Library](http://nginxlibrary.com/403-forbidden-error/)
 
 ## Resources
 

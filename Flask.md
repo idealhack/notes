@@ -6,13 +6,13 @@
 
 ## Books
 
-- http://exploreflask.com/
+- [Explore Flask — Explore Flask 1.0 documentation](http://exploreflask.com/)
 
 ## Libraries
 
-- https://github.com/coleifer/flask-peewee
-- https://github.com/kennethreitz/flask-sockets
-- https://github.com/flask-restful/flask-restful
+- [coleifer/flask-peewee: flask integration for peewee, including admin, authentication, rest api and more](https://github.com/coleifer/flask-peewee)
+- [kennethreitz/flask-sockets: Elegant WebSockets for your Flask apps.](https://github.com/kennethreitz/flask-sockets)
+- [flask-restful/flask-restful: Simple framework for creating REST APIs](https://github.com/flask-restful/flask-restful)
 
 ## Issues
 
@@ -30,6 +30,6 @@
 
 #### Use other WSGI Server
 
-- http://gunicorn.org/
-- http://projects.unbit.it/uwsgi/
-- http://flask.pocoo.org/docs/0.12/deploying/uwsgi/#configuring-nginx
+- [Gunicorn - Python WSGI HTTP Server for UNIX](http://gunicorn.org/)
+- [The uWSGI project — uWSGI 2.0 documentation](http://projects.unbit.it/uwsgi/)
+- [uWSGI — Flask Documentation (0.12)](http://flask.pocoo.org/docs/0.12/deploying/uwsgi/#configuring-nginx)

@@ -7,11 +7,11 @@
 
 ## Scriptable browsers
 
-- https://github.com/ariya/phantomjs
-- https://github.com/laurentj/slimerjs
-- https://github.com/mozilla/chromeless
+- [ariya/phantomjs: Scriptable Headless WebKit](https://github.com/ariya/phantomjs)
+- [laurentj/slimerjs: A scriptable browser like PhantomJS, based on Firefox](https://github.com/laurentj/slimerjs)
+- [mozilla/chromeless: Build desktop applications with web technologies.](https://github.com/mozilla/chromeless)
 
 ## Resources
 
-- http://w3c.github.io/clreq/
+- [Requirements for Chinese Text Layout 中文排版需求](http://w3c.github.io/clreq/)
 - [浏览器如何渲染文本](http://blog.jjgod.org/2011/04/09/how-do-browsers-render-text/)

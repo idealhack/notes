@@ -2,8 +2,8 @@
 
 ## Overview
 
-- https://www.centos.org/
-- https://zh.wikipedia.org/wiki/CentOS
+- [CentOS Project](https://www.centos.org/)
+- [CentOS - 维基百科](https://zh.wikipedia.org/wiki/CentOS)
 
 ## Setup
 

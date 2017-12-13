@@ -13,4 +13,4 @@
 
 ## UI
 
-- https://github.com/francescou/docker-compose-ui
+- [francescou/docker-compose-ui: web interface for Docker Compose](https://github.com/francescou/docker-compose-ui)

@@ -2,9 +2,9 @@
 
 ## Overview
 
-- https://zh.wikipedia.org/wiki/%E9%81%A0%E7%A8%8B%E9%81%8E%E7%A8%8B%E8%AA%BF%E7%94%A8
+- [遠程過程調用 - 维基百科](https://zh.wikipedia.org/wiki/%E9%81%A0%E7%A8%8B%E9%81%8E%E7%A8%8B%E8%AA%BF%E7%94%A8)
 
 ## Frameworks
 
 - [[gRPC]]
-- https://thrift.apache.org/
+- [Apache Thrift - Home](https://thrift.apache.org/)

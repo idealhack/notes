@@ -32,7 +32,7 @@
 
 ### AutoFS
 
-- https://wiki.archlinux.org/index.php/autofs
+- [Autofs - ArchWiki](https://wiki.archlinux.org/index.php/autofs)
 
 ### udevil
 
@@ -41,11 +41,11 @@
 
 ## Softwares
 
-- https://github.com/axkibe/lsyncd
+- [axkibe/lsyncd: Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets](https://github.com/axkibe/lsyncd)
 
 ## Resources
 
-- http://man.linuxde.net/
-- http://linux.101hacks.com/
+- [Linux命令大全(手册)_Linux常用命令行实例详解_Linux命令学习手册](http://man.linuxde.net/)
+- [Linux 101 Hacks — Free eBook to Build a Strong Foundation in UNIX / Linux](http://linux.101hacks.com/)
 - [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 - [Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally](https://github.com/Kickball/awesome-selfhosted)

@@ -2,28 +2,28 @@
 
 ## Libraries
 
-- https://github.com/showcases/data-visualization
-- https://github.com/d3/d3
-- https://github.com/square/cube
-- https://github.com/square/cubism
-- https://github.com/mikesall/charted
-- https://github.com/philogb/jit
-- https://github.com/facebookresearch/visdom
-- https://github.com/morrisjs/morris.js
-- https://github.com/epochjs/epoch
-- https://github.com/benpickles/peity
-- https://github.com/vega/vega
-- https://github.com/square/cube
-- https://github.com/square/cubism
-- https://github.com/jlord/sheetsee.js
-- https://github.com/almende/vis
-- https://github.com/gionkunz/chartist-js
-- https://github.com/chartjs/Chart.js
-- https://github.com/mozilla/metrics-graphics
-- https://github.com/shutterstock/rickshaw
-- https://github.com/novus/nvd3
-- https://github.com/dc-js/dc.js
-- https://github.com/mikesall/charted
-- https://github.com/joewalnes/smoothie
-- https://github.com/Quartz/Chartbuilder
+- [Data visualization · GitHub](https://github.com/showcases/data-visualization)
+- [d3/d3: Bring data to life with SVG, Canvas and HTML.](https://github.com/d3/d3)
+- [square/cube: Cube: A system for time series visualization.](https://github.com/square/cube)
+- [square/cubism: Cubism.js: A JavaScript library for time series visualization.](https://github.com/square/cubism)
+- [charted-co/charted: A charting tool that produces automatic, shareable charts from any data file](https://github.com/mikesall/charted)
+- [philogb/jit: The JavaScript InfoVis Toolkit provides tools for creating Interactive Data Visualizations for the Web](https://github.com/philogb/jit)
+- [facebookresearch/visdom: A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.](https://github.com/facebookresearch/visdom)
+- [morrisjs/morris.js: Pretty time-series line graphs](https://github.com/morrisjs/morris.js)
+- [epochjs/epoch: A general purpose, real-time visualization library.](https://github.com/epochjs/epoch)
+- [benpickles/peity: Progressive <svg> pie, donut, bar and line charts](https://github.com/benpickles/peity)
+- [vega/vega: A visualization grammar.](https://github.com/vega/vega)
+- [square/cube: Cube: A system for time series visualization.](https://github.com/square/cube)
+- [square/cubism: Cubism.js: A JavaScript library for time series visualization.](https://github.com/square/cubism)
+- [jlord/sheetsee.js: Visualize Data from a Google Spreadsheet](https://github.com/jlord/sheetsee.js)
+- [almende/vis: vis.js is a dynamic, browser-based visualization library](https://github.com/almende/vis)
+- [gionkunz/chartist-js: Simple responsive charts](https://github.com/gionkunz/chartist-js)
+- [chartjs/Chart.js: Simple HTML5 Charts using the <canvas> tag](https://github.com/chartjs/Chart.js)
+- [mozilla/metrics-graphics: A library optimized for concise and principled data graphics and layouts.](https://github.com/mozilla/metrics-graphics)
+- [shutterstock/rickshaw: JavaScript toolkit for creating interactive real-time graphs](https://github.com/shutterstock/rickshaw)
+- [novus/nvd3: A reusable charting library written in d3.js](https://github.com/novus/nvd3)
+- [dc-js/dc.js: Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js](https://github.com/dc-js/dc.js)
+- [charted-co/charted: A charting tool that produces automatic, shareable charts from any data file](https://github.com/mikesall/charted)
+- [joewalnes/smoothie: Smoothie Charts: smooooooth JavaScript charts for realtime streaming data](https://github.com/joewalnes/smoothie)
+- [Quartz/Chartbuilder: A front-end charting application that facilitates easy creation of simple beautiful charts](https://github.com/Quartz/Chartbuilder)
 

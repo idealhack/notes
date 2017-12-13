@@ -6,9 +6,9 @@
 
 ## Travel
 
-- http://www.macaotourism.gov.mo/
-- http://www.dsat.gov.mo/
+- [Macao Government Tourist Office](http://www.macaotourism.gov.mo/)
+- [DSAT - 澳門特別行政區 交通事務局](http://www.dsat.gov.mo/)
 
 ## Books
 
-- https://book.douban.com/subject/27040863/
+- [Lonely Planet 孤独星球 IN系列：香港和澳门（2017年版） (豆瓣)](https://book.douban.com/subject/27040863/)

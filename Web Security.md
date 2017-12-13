@@ -6,7 +6,7 @@
 
 ## Frontend
 
-- https://github.com/cure53/H5SC
+- [cure53/H5SC: HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors](https://github.com/cure53/H5SC)
 
 ## Resources
 

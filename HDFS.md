@@ -6,6 +6,6 @@
 
 ## Libraries
 
-- https://github.com/mtth/hdfs
-- https://github.com/spotify/snakebite
-- https://github.com/simpleenergy/php-WebHDFS
+- [mtth/hdfs: API and command line interface for HDFS](https://github.com/mtth/hdfs)
+- [spotify/snakebite: A pure python HDFS client](https://github.com/spotify/snakebite)
+- [simpleenergy/php-WebHDFS: A PHP client for WebHDFS](https://github.com/simpleenergy/php-WebHDFS)

@@ -2,7 +2,7 @@
 
 ## Overview
 
-- https://zh.wikipedia.org/wiki/%E5%AD%97%E5%9E%8B
+- [字型 - 维基百科](https://zh.wikipedia.org/wiki/%E5%AD%97%E5%9E%8B)
 
 ## Fonts
 
@@ -13,11 +13,11 @@
 
 ### Roboto
 
-- https://zh.wikipedia.org/wiki/Roboto
+- [Roboto - 维基百科](https://zh.wikipedia.org/wiki/Roboto)
 
 ### Noto
 
-- https://zh.wikipedia.org/wiki/Noto
+- [Noto - 维基百科](https://zh.wikipedia.org/wiki/Noto)
 
 ### Others
 
@@ -25,15 +25,15 @@
 
 ## Webfonts
 
-- https://fonts.google.com/
-- https://edgewebfonts.adobe.com/
-- http://font-spider.org/
-- http://brick.im/
-- http://simplefocus.com/flowtype/
+- [Google Fonts](https://fonts.google.com/)
+- [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/)
+- [字蛛（FontSpider）](http://font-spider.org/)
+- [Brick: Webfonts that actually look good](http://brick.im/)
+- [FlowType.JS — Responsive web typography at its finest: font-size and line-height based on element width. | Simple Focus](http://simplefocus.com/flowtype/)
 
 ## Resources
 
-- https://www.fontsquirrel.com/
+- [Free Fonts! Legit Free & Quality » Font Squirrel](https://www.fontsquirrel.com/)
 - [有哪些值得推荐的英文字体？ - 设计 - 知乎](https://www.zhihu.com/question/23210530)
 - [有哪些值得推荐的中文字体？ - 设计 - 知乎](https://www.zhihu.com/question/20727176)
 - [A Closer Look At Font Rendering - Smashing Magazine](https://www.smashingmagazine.com/2012/04/a-closer-look-at-font-rendering/)

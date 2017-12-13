@@ -1,10 +1,10 @@
 # JavaScript Style Guide
 
-- https://github.com/alivebao/clean-code-js
-- https://github.com/airbnb/javascript
-- https://google.github.io/styleguide/jsguide.html
-- https://github.com/rwaldron/idiomatic.js
-- https://github.com/standard/standard
+- [alivebao/clean-code-js: JavaScript风格指南](https://github.com/alivebao/clean-code-js)
+- [airbnb/javascript: JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+- [rwaldron/idiomatic.js: Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
+- [standard/standard: 🌟 JavaScript Style Guide, with linter & automatic code fixer](https://github.com/standard/standard)
 
 ## Resources
 

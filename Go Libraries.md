@@ -4,34 +4,34 @@
 
 ### Microservice
 
-- https://github.com/go-kit/kit
-- https://github.com/TykTechnologies/tyk
+- [go-kit/kit: A standard library for microservices.](https://github.com/go-kit/kit)
+- [TykTechnologies/tyk: Tyk Open Source API Gateway written in Go](https://github.com/TykTechnologies/tyk)
 - [goadesign/goa: Design-based APIs and microservices in Go](https://github.com/goadesign/goa)
 
 ### Web
 
-- https://github.com/astaxie/beego
+- [astaxie/beego: beego is an open-source, high-performance web framework for the Go programming language.](https://github.com/astaxie/beego)
 - [gin-gonic/gin: Gin is a HTTP web framework written in Go](https://github.com/gin-gonic/gin)
 - [urfave/negroni: Idiomatic HTTP Middleware for Golang](https://github.com/urfave/negroni)
-- https://github.com/revel/revel
-- https://github.com/valyala/quicktemplate
-- https://github.com/kataras/iris
-- https://github.com/go-siris/siris
+- [revel/revel: A high productivity, full-stack web framework for the Go language.](https://github.com/revel/revel)
+- [valyala/quicktemplate: Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template](https://github.com/valyala/quicktemplate)
+- [kataras/iris: The fastest web framework for Go in (THIS) Universe. HTTP/2 & MVC fully featured. Real-time support](https://github.com/kataras/iris)
+- [go-siris/siris: The community driven fork of Iris. The fastest web framework for Golang!](https://github.com/go-siris/siris)
 - [labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
 - [ory/hydra: OAuth2 server with OpenID Connect - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.](https://github.com/ory/hydra)
 - [Gorilla, the golang web toolkit](http://www.gorillatoolkit.org/)
 
 ### Network
 
-- https://github.com/valyala/fasthttp
+- [valyala/fasthttp: Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http](https://github.com/valyala/fasthttp)
 - [imroc/req: a golang http request library for humans](https://github.com/imroc/req)
-- https://github.com/mholt/caddy
+- [mholt/caddy: Fast, cross-platform HTTP/2 web server with automatic HTTPS](https://github.com/mholt/caddy)
 - [henrylee2cn/teleport: Teleport is a versatile, high-performance and flexible TCP socket framework.](https://github.com/henrylee2cn/teleport)
 
 ### Database
 
-- https://github.com/go-sql-driver/mysql
-- https://github.com/mattes/migrate
+- [go-sql-driver/mysql: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package](https://github.com/go-sql-driver/mysql)
+- [mattes/migrate: Database migrations. CLI and Golang library.](https://github.com/mattes/migrate)
 
 ### Email
 
@@ -40,8 +40,8 @@
 
 ### Utils
 
-- https://github.com/sirupsen/logrus
-- https://github.com/emirpasic/gods
+- [sirupsen/logrus: Structured, pluggable logging for Go.](https://github.com/sirupsen/logrus)
+- [emirpasic/gods: GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON](https://github.com/emirpasic/gods)
 - [matryer/vice: Go channels at horizontal scale (powered by message queues)](https://github.com/matryer/vice)
 
 ### Data
@@ -55,17 +55,17 @@
 
 ### Cache
 
-- https://github.com/bradfitz/gomemcache
+- [bradfitz/gomemcache: Go Memcached client library #golang](https://github.com/bradfitz/gomemcache)
 - [golang/groupcache: groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.](https://github.com/golang/groupcache)
 
 ### Others
 
-- https://github.com/kr/beanstalk
-- https://github.com/benmanns/goworker
-- https://github.com/nareix/joy4
-- http://gonet2.github.io/
+- [kr/beanstalk: Go client for beanstalkd](https://github.com/kr/beanstalk)
+- [benmanns/goworker: goworker is a Go-based background worker that runs 10 to 100,000* times faster than Ruby-based workers.](https://github.com/benmanns/goworker)
+- [nareix/joy4: Golang audio/video library and streaming server](https://github.com/nareix/joy4)
+- [gonet/2 by gonet2](http://gonet2.github.io/)
 - [go-vgo/robotgo: RobotGo, Go Native cross-platform system automation](https://github.com/go-vgo/robotgo)
 
 ## Resources
 
-- https://yushuangqi.com/blog/2017/you-xiu-de-go-cun-chu-kai-yuan-xiang-mu-he-ku.html
+- [优秀的 Go存储开源项目和库 |虞双齐的博客](https://yushuangqi.com/blog/2017/you-xiu-de-go-cun-chu-kai-yuan-xiang-mu-he-ku.html)

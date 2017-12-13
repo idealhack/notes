@@ -6,8 +6,8 @@
 
 ## Libraries
 
-- https://github.com/google/re2
+- [google/re2: RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.](https://github.com/google/re2)
 
 ## Tools
 
-- http://jex.im/regulex/
+- [Regulex：JavaScript Regular Expression Visualizer](http://jex.im/regulex/)

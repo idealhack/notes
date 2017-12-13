@@ -14,7 +14,7 @@
 
 ## NVIDIA Diver Installation (version 384.98)
 
-http://www.nvidia.com/object/linux-amd64-display-archive.html
+[Linux AMD64 Display Driver Archive|NVIDIA](http://www.nvidia.com/object/linux-amd64-display-archive.html)
 
     sudo yum update -y                      # CentOS
     sudo apt update && sudo apt upgrade -y  # Ubuntu
@@ -28,11 +28,11 @@ http://www.nvidia.com/object/linux-amd64-display-archive.html
     sudo sh -c 'echo $'\n'"exclude=kernel*" >> /etc/yum.conf'       # CentOS
     sudo apt-mark hold linux-image-generic linux-headers-generic    # Ubuntu
 
-If nouveau was installed first: https://askubuntu.com/questions/841876/how-to-disable-nouveau-kernel-driver
+If nouveau was installed first: [16.04 - How to disable Nouveau kernel driver - Ask Ubuntu](https://askubuntu.com/questions/841876/how-to-disable-nouveau-kernel-driver)
 
 ## Resources
 
-- http://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/
+- [Matching SM architectures (CUDA arch and CUDA gencode) for various NVIDIA cards - Blame Arnon](http://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/)
 - [cnn-benchmarks](https://github.com/jcjohnson/cnn-benchmarks)
 - [在哪里购买 Tesla 个人超级计算机 HPC GPU | NVIDIA](http://www.nvidia.cn/object/where-to-buy-tesla-cn.html)
 - [【GPU编程系列之一】从深度学习选择什么样的gpu来谈谈gpu的硬件架构](http://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html)

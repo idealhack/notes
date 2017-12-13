@@ -8,7 +8,7 @@
 
 ## Resources
 
-- https://github.com/ElaWorkshop/awesome-cn-cafe
+- [ElaWorkshop/awesome-cn-cafe: A curated list of awesome café places in China.](https://github.com/ElaWorkshop/awesome-cn-cafe)
 - [梁文道：有夢想，但夢想什麼？](http://www.commentshk.com/2011/12/blog-post_9193.html)
 - [龙应台：我们为什么要学习文史哲？_读书频道_凤凰网](http://book.ifeng.com/shuhua/detail_2011_10/02/9626918_0.shtml)
 - [【Whereas I was blind, now I see.】 （使看不见的东西被看见）](https://www.douban.com/note/179299837/)

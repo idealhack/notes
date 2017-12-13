@@ -2,8 +2,8 @@
 
 ## Installing with Kubernetes with `kubeadm` (CentOS, Docker 1.12 installed)
 
-- https://kubernetes.io/docs/setup/independent/install-kubeadm/
-- https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/
+- [Installing kubeadm | Kubernetes](https://kubernetes.io/docs/setup/independent/install-kubeadm/)
+- [Using kubeadm to Create a Cluster | Kubernetes](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
 
 ### On master and node:
 
@@ -116,7 +116,7 @@ To use `kubectl` on node:
 
 ## Upgrading kubeadm clusters from 1.6 to 1.7
 
-https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-7/
+[Upgrading kubeadm clusters from 1.6 to 1.7 | Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-7/)
 
 With `docker load -i` (and `kube*.tar` images prepared):
 
@@ -136,11 +136,11 @@ On master:
 
 ## Upgrading kubeadm clusters from 1.7 to 1.8
 
-https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-8/
+[Upgrading kubeadm clusters from 1.7 to 1.8 | Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-8/)
 
 ## Resources
 
-- https://k8s-install.opsnull.com/
-- https://mritd.me/2017/02/27/how-to-download-kubernetes-images-and-rpm/
-- https://github.com/qianlei90/Blog/issues/28
-- http://blog.frognew.com/2017/04/kubeadm-install-kubernetes-1.6.html
+- [Introduction · follow-me-install-kubernetes-cluster](https://k8s-install.opsnull.com/)
+- [如何下载 Kubernetes 镜像和 rpm — 漠然](https://mritd.me/2017/02/27/how-to-download-kubernetes-images-and-rpm/)
+- [在Centos7上部署kubernetes集群 · Issue #28 · qianlei90/Blog · GitHub](https://github.com/qianlei90/Blog/issues/28)
+- [使用kubeadm安装Kubernetes 1.6 — 青蛙小白](http://blog.frognew.com/2017/04/kubeadm-install-kubernetes-1.6.html)

@@ -6,4 +6,4 @@
 
 ## Resources
 
-- https://zhuanlan.zhihu.com/p/28084866
+- [生啤、熟啤、原浆、纯生、干啤、冰啤、扎啤到底是啥？](https://zhuanlan.zhihu.com/p/28084866)

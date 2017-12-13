@@ -6,8 +6,8 @@
 
 ## Tools
 
-- http://www.synoboost.com
-- https://github.com/SynoCommunity/spksrc
+- [SynoBoost - Download Station Search Modules for Synology NAS](http://www.synoboost.com)
+- [SynoCommunity/spksrc: Cross compilation framework to create native packages for the Synology's NAS](https://github.com/SynoCommunity/spksrc)
 
 ## API
 

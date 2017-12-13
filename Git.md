@@ -6,18 +6,18 @@
 
 ## Servers
 
-- https://about.gitlab.com/
-- https://gogs.io/
+- [The leading product for integrated software development - GitLab | GitLab](https://about.gitlab.com/)
+- [Gogs](https://gogs.io/)
 
 ## Goodies
 
-- https://github.com/mapmeld/gitjk
-- https://jonas.github.io/tig/
-- https://github.com/FredrikNoren/ungit
-- https://github.com/arnoo/git-deliver
-- https://github.com/mhagger/git-imerge
-- https://github.com/kennethreitz/legit
-- http://meldmerge.org/
+- [mapmeld/gitjk: Undo what you just did in git](https://github.com/mapmeld/gitjk)
+- [Introduction · Tig - Text-mode interface for Git](https://jonas.github.io/tig/)
+- [FredrikNoren/ungit: The easiest way to use git. On any platform. Anywhere.](https://github.com/FredrikNoren/ungit)
+- [arnoo/git-deliver: Delivery system based on git push and ssh](https://github.com/arnoo/git-deliver)
+- [mhagger/git-imerge: Incremental merge for git](https://github.com/mhagger/git-imerge)
+- [kennethreitz/legit: Git for Humans, Inspired by GitHub for Mac™.](https://github.com/kennethreitz/legit)
+- [Meld](http://meldmerge.org/)
 
 ## Configs
 
@@ -25,7 +25,7 @@
 
 ## GitHub
 
-- https://github.com/tiimgreen/github-cheat-sheet
+- [tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
 
 ## Resources
 
@@ -44,5 +44,5 @@
 - [Gource - a software version control visualization tool](http://gource.io/)
 - [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes/)
 - [A collection of useful .gitignore templates](https://github.com/github/gitignore)
-- https://github.com/pcottle/learnGitBranching
-- https://github.com/k88hudson/git-flight-rules
+- [pcottle/learnGitBranching: An interactive git visualization to challenge and educate!](https://github.com/pcottle/learnGitBranching)
+- [k88hudson/git-flight-rules: Flight rules for git](https://github.com/k88hudson/git-flight-rules)

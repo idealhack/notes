@@ -6,27 +6,27 @@
 
 ## Develop Guide
 
-- https://github.com/vsouza/awesome-ios
-- https://github.com/dkhamsing/open-source-ios-apps
+- [vsouza/awesome-ios: A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects](https://github.com/vsouza/awesome-ios)
+- [dkhamsing/open-source-ios-apps: Collaborative List of Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
 
 ## Videos
 
-- https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift
+- [SwiftGGTeam/Developing-iOS-9-Apps-with-Swift: Stanford 公开课，Developing iOS 9 Apps with Swift 字幕翻译](https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift)
 
 ### Today Extensions
 
-- https://www.sitepoint.com/building-today-extension-ios-8/
-- https://www.raywenderlich.com/83809/ios-8-today-extension-tutorial
+- [Building a Today Extension for iOS 8](https://www.sitepoint.com/building-today-extension-ios-8/)
+- [Today Extensions Tutorial: Getting Started](https://www.raywenderlich.com/83809/ios-8-today-extension-tutorial)
 
 ### 开发与发布
 
 - [iOS 开发流程笔记](https://github.com/leecade/ios-dev-flow)
 - [浅谈 iOS 版本号](http://blog.fir.im/ios-version/)
-- https://github.com/Carthage/Carthage
+- [Carthage/Carthage: A simple, decentralized dependency manager for Cocoa](https://github.com/Carthage/Carthage)
 
 ## Libraries
 
-- https://github.com/Uncodin/bypass
+- [Uncodin/bypass: Skip the HTML, Bypass takes markdown and renders it directly on Android and iOS.](https://github.com/Uncodin/bypass)
 
 ## Image
 
@@ -35,37 +35,37 @@
 
 ### Tools
 
-- https://cocoapods.org/
-- https://github.com/Carthage/Carthage
-- https://github.com/venmo/synx
-- https://github.com/dblock/fui
-- https://github.com/realm/jazzy
-- https://github.com/tomaz/appledoc
-- http://oclint.org/
-- https://github.com/questbeat/Lin
-- https://github.com/square/PonyDebugger
-- https://github.com/alcatraz/Alcatraz
-- https://github.com/CanvasPod/Canvas
-- https://github.com/facebook/xctool
-- https://github.com/facebook/Tweaks
-- https://github.com/vpdn/MMLayershots
-- https://github.com/mattstevens/objc-diff
-- https://github.com/facebook/chisel
-- https://github.com/nst/objc_dep
+- [CocoaPods.org](https://cocoapods.org/)
+- [Carthage/Carthage: A simple, decentralized dependency manager for Cocoa](https://github.com/Carthage/Carthage)
+- [venmo/synx: A command-line tool that reorganizes your Xcode project folder to match your Xcode groups](https://github.com/venmo/synx)
+- [dblock/fui: Find unused Objective-C imports.](https://github.com/dblock/fui)
+- [realm/jazzy: Soulful docs for Swift & Objective-C](https://github.com/realm/jazzy)
+- [tomaz/appledoc: Objective-c code Apple style documentation set generator.](https://github.com/tomaz/appledoc)
+- [OCLint](http://oclint.org/)
+- [questbeat/Lin: Xcode plugin that provides auto-completion for NSLocalizedString.](https://github.com/questbeat/Lin)
+- [square/PonyDebugger: Remote network and data debugging for your native iOS app using Chrome Developer Tools](https://github.com/square/PonyDebugger)
+- [alcatraz/Alcatraz: Package manager for Xcode](https://github.com/alcatraz/Alcatraz)
+- [CanvasPod/Canvas: Animate in Xcode without code](https://github.com/CanvasPod/Canvas)
+- [facebook/xctool: An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.](https://github.com/facebook/xctool)
+- [facebook/Tweaks: An easy way to fine-tune, and adjust parameters for iOS apps in development.](https://github.com/facebook/Tweaks)
+- [vpdn/MMLayershots: Layershots converts your iOS screenshot into a layered photoshop (PSD) file.](https://github.com/vpdn/MMLayershots)
+- [mattstevens/objc-diff: An Objective-C API diff report generator](https://github.com/mattstevens/objc-diff)
+- [facebook/chisel: Chisel is a collection of LLDB commands to assist debugging iOS apps.](https://github.com/facebook/chisel)
+- [nst/objc_dep: Graph the import dependancies in an Objective-C project](https://github.com/nst/objc_dep)
 - [cyanzhong/Retriever: Retrieving InfoPlist without Jailbreaking on iOS Devices](https://github.com/cyanzhong/Retriever)
 
 ### 文档
 
 写文档工具
 
-- https://github.com/onevcat/VVDocumenter-Xcode
+- [onevcat/VVDocumenter-Xcode: Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.](https://github.com/onevcat/VVDocumenter-Xcode)
 
 输出文档工具
 
-- https://github.com/tomaz/appledoc
-- https://github.com/tomaz/appledoc/blob/master/XcodeIntegrationScript.markdown
+- [tomaz/appledoc: Objective-c code Apple style documentation set generator.](https://github.com/tomaz/appledoc)
+- [appledoc/XcodeIntegrationScript.markdown at master · tomaz/appledoc · GitHub](https://github.com/tomaz/appledoc/blob/master/XcodeIntegrationScript.markdown)
 
 ## Resources
 
-- https://objccn.io/
-- http://swiftguide.cn/
+- [ObjC 中国](https://objccn.io/)
+- [Swift 学习指引](http://swiftguide.cn/)

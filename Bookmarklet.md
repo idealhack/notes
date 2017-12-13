@@ -2,7 +2,7 @@
 
 ## Bookmarklets
 
-- https://coderwall.com/p/gukbzw/bookmarklet-generate-a-markdown-link-for-current-page
+- [Bookmarklet - Generate a Markdown link for current page (Example)](https://coderwall.com/p/gukbzw/bookmarklet-generate-a-markdown-link-for-current-page)
 
 ## Resources
 

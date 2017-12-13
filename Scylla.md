@@ -2,13 +2,13 @@
 
 ## Overview
 
-- http://www.scylladb.com/
-- https://github.com/scylladb/scylla
+- [Home - ScyllaDB](http://www.scylladb.com/)
+- [scylladb/scylla: NoSQL data store using the seastar framework, compatible with Apache Cassandra](https://github.com/scylladb/scylla)
 
 ## Installing
 
 ### Docker
 
-https://hub.docker.com/r/scylladb/scylla/
+[scylladb/scylla - Docker Hub](https://hub.docker.com/r/scylladb/scylla/)
 
     docker pull scylladb/scylla

@@ -2,8 +2,8 @@
 
 ## Overview
 
-- https://zh.wikipedia.org/wiki/NoSQL
-- http://nosql-database.org/
+- [NoSQL - 维基百科](https://zh.wikipedia.org/wiki/NoSQL)
+- [NOSQL Databases](http://nosql-database.org/)
 
 ## Databases
 
@@ -11,8 +11,8 @@
 - [[Redis]]
 - [[Cassandra]]
 - [[Scylla]]
-- https://github.com/basho/riak
-- http://sophia.systems/
+- [basho/riak: Riak is a decentralized datastore from Basho Technologies.](https://github.com/basho/riak)
+- [sophia - modern transactional key-value/row storage library.](http://sophia.systems/)
 
 ## Resources
 

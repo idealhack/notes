@@ -2,14 +2,10 @@
 
 ## Overview
 
-- https://www.khronos.org/opengles/
-- https://zh.wikipedia.org/wiki/OpenGL_ES
-- http://opengles-book.com/
+- [OpenGL ES Overview - The Khronos Group Inc](https://www.khronos.org/opengles/)
+- [OpenGL ES - 维基百科](https://zh.wikipedia.org/wiki/OpenGL_ES)
+- [OpenGL ES 3.0 Programming Guide](http://opengles-book.com/)
 
 ## Android
 
-- https://developer.android.com/guide/topics/graphics/opengl.html
-
-## Resources
-
-- http://www.jianshu.com/p/0c0713b78f4c
+- [OpenGL ES | Android Developers](https://developer.android.com/guide/topics/graphics/opengl.html)

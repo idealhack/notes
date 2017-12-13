@@ -4,7 +4,7 @@
 
 ### Layout
 
-- http://zh.learnlayout.com/
+- [学习CSS布局](http://zh.learnlayout.com/)
 
 ### 知识点
 
@@ -25,21 +25,21 @@
 
 ## Videos
 
-- https://github.com/AllThingsSmitty/must-watch-css
+- [AllThingsSmitty/must-watch-css: A useful list of must-watch talks about CSS](https://github.com/AllThingsSmitty/must-watch-css)
 
 ## [[CSS Frameworks]]
 
 ## Tools
 
-- https://github.com/CSSLint/csslint
-- https://github.com/t32k/stylestats
-- https://github.com/oyvindeh/ucss
-- https://github.com/purifycss/purifycss
-- https://github.com/Automattic/juice
+- [CSSLint/csslint: Automated linting of Cascading Stylesheets](https://github.com/CSSLint/csslint)
+- [t32k/stylestats: StyleStats is a library to collect CSS statistics.](https://github.com/t32k/stylestats)
+- [oyvindeh/ucss: Find unused and duplicate CSS](https://github.com/oyvindeh/ucss)
+- [purifycss/purifycss: Remove unused CSS. Also works with single-page apps.](https://github.com/purifycss/purifycss)
+- [Automattic/juice: Juice inlines CSS stylesheets into your HTML source.](https://github.com/Automattic/juice)
 
 ## Resources
 
-- https://github.com/you-dont-need/You-Dont-Need-Javascript
+- [you-dont-need/You-Dont-Need-JavaScript: CSS is powerful, you can do a lot of things without JS.](https://github.com/you-dont-need/You-Dont-Need-Javascript)
 - [Flexbox，更优雅的布局 - GitCafe - SegmentFault](https://segmentfault.com/a/1190000002490633)
 - [CSS3 Flexible Box Layout Explained - Smashing Magazine](https://www.smashingmagazine.com/2011/09/css3-flexible-box-layout-explained/)
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css)

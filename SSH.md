@@ -27,9 +27,9 @@
 
 ## Tools
 
-- https://github.com/emre/storm
-- http://fitztrev.github.io/shuttle/
-- http://liftoffsoftware.com/Products/GateOne
+- [emre/storm: Manage your SSH like a boss.](https://github.com/emre/storm)
+- [Shuttle | A simple SSH shortcut menu for OS X](http://fitztrev.github.io/shuttle/)
+- [Gate One ✈ Web Terminal Emulator and SSH Client | Liftoff Software](http://liftoffsoftware.com/Products/GateOne)
 
 ## Issues
 
@@ -40,4 +40,4 @@
 
 ### Ubuntu encrypted home directory
 
-Put `authorized_keys` out of `home` https://help.ubuntu.com/community/SSH/OpenSSH/Keys#Troubleshooting
+Put `authorized_keys` out of `home` [SSH/OpenSSH/Keys - Community Help Wiki](https://help.ubuntu.com/community/SSH/OpenSSH/Keys#Troubleshooting)

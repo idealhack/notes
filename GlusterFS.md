@@ -2,12 +2,12 @@
 
 ## Overview
 
-- https://www.gluster.org/
-- https://zh.wikipedia.org/wiki/GlusterFS
+- [Gluster](https://www.gluster.org/)
+- [GlusterFS - 维基百科](https://zh.wikipedia.org/wiki/GlusterFS)
 
 ## Documentation
 
-- https://gluster.readthedocs.io/en/latest/
+- [Gluster Docs](https://gluster.readthedocs.io/en/latest/)
 
 ## Resources
 

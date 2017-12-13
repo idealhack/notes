@@ -13,20 +13,20 @@
 ## Style Guide
 
 - [necolas/idiomatic-html](https://github.com/necolas/idiomatic-html)
-- http://codeguide.co/
-- http://zoomzhao.github.io/code-guide/
-- http://codeguide.bootcss.com/
-- http://juanitofatas.github.io/code-guide/
+- [Code Guide by @mdo](http://codeguide.co/)
+- [编码规范 by @mdo](http://zoomzhao.github.io/code-guide/)
+- [编码规范 by @mdo](http://codeguide.bootcss.com/)
+- [程式碼準則 by @mdo](http://juanitofatas.github.io/code-guide/)
 
 ## Libraries
 
-- https://github.com/iandevlin/html5bones
-- https://github.com/coolwanglu/pdf2htmlEX
+- [iandevlin/html5bones: The HTML5 template that goes back to basics](https://github.com/iandevlin/html5bones)
+- [coolwanglu/pdf2htmlEX: Convert PDF to HTML without losing text or format.](https://github.com/coolwanglu/pdf2htmlEX)
 
 ## Tools
 
-- http://www.initializr.com/
-- http://www.extensionizr.com/
+- [Initializr - Start an HTML5 Boilerplate project in 15 seconds!](http://www.initializr.com/)
+- [Extensionizr - boilerplate for your chrome extension](http://www.extensionizr.com/)
 
 ## Resources
 

@@ -14,4 +14,4 @@
 
 ## Resources
 
-- [[Games to play]]
+- [Games to play.md](https://gist.github.com/idealhack/b5d03cdd6e1e901c8195399abac36be7)

@@ -2,49 +2,48 @@
 
 ## Books
 
-- https://github.com/vhf/free-programming-books
-- https://github.com/justjavac/free-programming-books-zh_CN
-- https://github.com/it-ebooks/it-ebooks-archive
-- http://lucida.me/blog/developer-reading-list/
-- http://www.hksilicon.com/articles/35423
-- https://blog.m31271n.com/cs-books/
-- https://jysperm.me/booklist/
-- https://wizardforcel.gitbooks.io/flygon-booklist/
+- [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/vhf/free-programming-books)
+- [justjavac/free-programming-books-zh_CN: 免费的计算机编程类中文书籍，欢迎投稿](https://github.com/justjavac/free-programming-books-zh_CN)
+- [it-ebooks/it-ebooks-archive: 计算机开放电子书（不完全）汇总](https://github.com/it-ebooks/it-ebooks-archive)
+- [程序员必读书单 1.0 | Lucida](http://lucida.me/blog/developer-reading-list/)
+- [一些老梗的私房推薦書… | 香港矽谷](https://www.hksilicon.com/articles/35423)
+- [CS 书单 | 自言自语](https://blog.m31271n.com/cs-books/)
+- [推荐书单 | 王子亭的博客](https://jysperm.me/booklist/)
+- [介紹 | 飞龙的程序员书单](https://wizardforcel.gitbooks.io/flygon-booklist/)
 - [GitHub 上有哪些值得推荐的开源电子书？ - 知乎](https://www.zhihu.com/question/38836382)
 
 ## Websites
 
-- https://techterms.com/
-- https://www.thoughtworks.com/radar/a-z
-- https://learn-anything.xyz/
-- https://gxnotes.com/
+- [The Tech Terms Computer Dictionary](https://techterms.com/)
+- [A-Z | Technology Radar | ThoughtWorks](https://www.thoughtworks.com/radar/a-z)
+- [Learn Anything](https://learn-anything.xyz/)
 
 ## Resources
 
-- https://awesome.re
-- https://github.com/bayandin/awesome-awesomeness
-- https://github.com/leachim6/hello-world
-- https://github.com/mr-mig/every-programmer-should-know
-- https://github.com/stanzhai/be-a-professional-programmer
+- [sindresorhus/awesome: Curated list of awesome lists](https://awesome.re)
+- [bayandin/awesome-awesomeness: A curated list of awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [leachim6/hello-world: Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!](https://github.com/leachim6/hello-world)
+- [mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know)
+- [stanzhai/be-a-professional-programmer: 成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer)
 - [TeamStuQ/skill-map: StuQ 程序员技能图谱](https://github.com/TeamStuQ/skill-map)
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
-- https://github.com/rxin/db-readings
-- https://man.cx/
-- http://devdocs.io/
-- https://github.com/PharkMillups/beautiful-docs
-- http://techstacks.io/
-- https://stackshare.io/
-- https://github.com/JuanitoFatas/Computer-Science-Glossary/blob/master/dict.textile
-- https://github.com/cjbarber/ToolsOfTheTrade
+- [rxin/db-readings: Readings in Databases](https://github.com/rxin/db-readings)
+- [Linux Manpages Online - man.cx manual pages](https://man.cx/)
+- [DevDocs API Documentation](http://devdocs.io/)
+- [PharkMillups/beautiful-docs: Pointers to useful, well-written, and otherwise beautiful documentation.](https://github.com/PharkMillups/beautiful-docs)
+- [TechStacks](http://techstacks.io/)
+- [Software and technology stacks used by top companies | StackShare](https://stackshare.io/)
+- [Computer-Science-Glossary/dict.textile at master · JuanitoFatas/Computer-Science-Glossary · GitHub](https://github.com/JuanitoFatas/Computer-Science-Glossary/blob/master/dict.textile)
+- [cjbarber/ToolsOfTheTrade: Tools of The Trade, from Hacker News.](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
-- https://learnxinyminutes.com/
-- https://thoughtbot.com/playbook
-- https://github.com/zenany/weekly
-- http://hyperpolyglot.org/
+- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+- [Playbook for software design and development - By thoughtbot](https://thoughtbot.com/playbook)
+- [zenany/weekly: 汇总平时看到的好文章，技术、产品、管理均有，尽量保证一周汇总一篇](https://github.com/zenany/weekly)
+- [Programming Languages - Hyperpolyglot](http://hyperpolyglot.org/)
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
 - [程序员能力矩阵 Programmer Competency Matrix](http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm)
-- https://github.com/nemoTyrant/manong
+- [nemoTyrant/manong: 码农周刊整理](https://github.com/nemoTyrant/manong)
 - [知识库 - 你身边的技术百科全书 - CSDN](http://lib.csdn.net/)
 - [如何定義 "會" XXX 程式語言 - 大貓共和國](http://blog.miaout17.net/2012/04/02/programming-language/)
 - [编程语言的发展趋势及未来方向（1）：历史回顾及趋势概述 - 老赵点滴 - 追求编程之美](http://blog.zhaojie.me/2010/04/trends-and-future-directions-in-programming-languages-by-anders-1-history-and-trends.html)
@@ -65,8 +64,8 @@
 - [來亂者，去死！！ | Rex's blah blah blah](http://blog.nutsfactory.net/2008/05/20/how-open-source-projects-survive-poisonous-people/)
 - [Technical Writer 技术文档工程师-文档中 Copyright 的意思和正确写法](http://www.technicalwriter.cn/blog/post/how-to-right-copyright-in-documents.html)
 - [了解Instagram背后的技术](http://www.infoq.com/cn/news/2012/05/instagram)
-- https://segmentfault.com/a/1190000004612590
-- https://segmentfault.com/a/1190000008921805
-- https://segmentfault.com/a/1190000010128001
-- http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to
+- [我的编程之路——知识管理与知识体系 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000004612590)
+- [《Web全栈工程师的自我修养》浓缩笔记（上） - 做工程师不做码农 - SegmentFault](https://segmentfault.com/a/1190000008921805)
+- [《Web全栈工程师的自我修养》浓缩笔记（下） - 做工程师不做码农 - SegmentFault](https://segmentfault.com/a/1190000010128001)
+- [Write code that is easy to delete, not easy to... — programming is terrible](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 - [xitu/gold-miner: 掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)

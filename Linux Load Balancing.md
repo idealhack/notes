@@ -2,8 +2,8 @@
 
 ## Overview
 
-- http://xstarcd.github.io/wiki/sysadmin/LVS_Nginx_HAProxy_comp.html
-- https://access.redhat.com/documentation/zh-TW/Red_Hat_Enterprise_Linux/7/html/Load_Balancer_Administration/index.html
+- [软件级负载均衡器(LVS/HAProxy/Nginx)的特点简介和对比](http://xstarcd.github.io/wiki/sysadmin/LVS_Nginx_HAProxy_comp.html)
+- [Load Balancer 管理 - Red Hat Customer Portal](https://access.redhat.com/documentation/zh-TW/Red_Hat_Enterprise_Linux/7/html/Load_Balancer_Administration/index.html)
 
 ## Load balancers
 
@@ -11,9 +11,9 @@
 - [[keepalived]]
 - [[HAProxy]]
 - [[Nginx]]
-- https://github.com/containous/traefik
-- https://github.com/lyft/envoy
-- https://github.com/vulcand/vulcand
+- [containous/traefik: Træfik, a modern reverse proxy](https://github.com/containous/traefik)
+- [envoyproxy/envoy: C++ front/service proxy](https://github.com/lyft/envoy)
+- [vulcand/vulcand: Programmatic load balancer backed by Etcd](https://github.com/vulcand/vulcand)
 
 ## Resources
 

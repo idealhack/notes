@@ -2,24 +2,24 @@
 
 ## Overview
 
-- https://www.ethereum.org/
-- https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%A4%AA%E5%9D%8A
+- [Ethereum Project](https://www.ethereum.org/)
+- [以太坊 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BB%A5%E5%A4%AA%E5%9D%8A)
 
 ## Pool
 
-- http://dwarfpool.com/eth
-- http://pool.ethfans.org/
+- [DwarfPool](http://dwarfpool.com/eth)
+- [星火矿池](http://pool.ethfans.org/)
 
 ## Mining
 
-- https://github.com/Atrides/eth-proxy
-- https://github.com/Genoil/cpp-ethereum/
+- [Atrides/eth-proxy: Stratum proxy for Ethereum](https://github.com/Atrides/eth-proxy)
+- [Genoil/cpp-ethereum: Ethereum GPU miner with OpenCL, CUDA and stratum support](https://github.com/Genoil/cpp-ethereum/)
 
 ## ENS
 
-- https://registrar.ens.domains/
+- [ENS Registrar](https://registrar.ens.domains/)
 
 ## Resources
 
-- http://ethfans.org/
-- https://github.com/ethereum/mist/releases
+- [EthFans | 以太坊爱好者](http://ethfans.org/)
+- [Releases · ethereum/mist · GitHub](https://github.com/ethereum/mist/releases)

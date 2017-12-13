@@ -2,7 +2,7 @@
 
 ## Overview
 
-- https://github.com/hz-ingress/ingress-tutorial
+- [hz-ingress/ingress-tutorial: Ingress 中文游戏指南](https://github.com/hz-ingress/ingress-tutorial)
 
 ## Glyphs
 
@@ -18,5 +18,5 @@
 
 ## Fielding
 
-- https://youtu.be/fkhtelzxgtg
+- [ingress fan field - YouTube](https://www.youtube.com/results?search_query=ingress+fan+field)
 - [关于ingress多重的一点感想（进阶篇）](https://mp.weixin.qq.com/s/LfcYZtQ8XfIGfY6JtkHD5w)
