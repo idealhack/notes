@@ -1,6 +1,5 @@
 # Password Management
 
-
 ## Apps
 
 - [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)

@@ -1,26 +1,21 @@
 # Entrepreneurship
 
-
 ## Overview
 
 - [創業 - 维基百科](https://zh.wikipedia.org/wiki/%E5%89%B5%E6%A5%AD)
 
-
 ## [[Marketing]]
-
 
 ## Biography
 
 - [[Elon Musk]]
 - [[Einstein]]
 
-
 ## Books
 
 - [Getting Real](http://gettingreal.37signals.com/GR_chn.php)
 - [REWORK](https://www.v2ex.com/rework)
 - [Remote](http://www.jianshu.com/nb/41672)
-
 
 ## Articles
 

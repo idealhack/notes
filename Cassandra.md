@@ -1,11 +1,9 @@
 # Cassandra
 
-
 ## Overview
 
 - http://cassandra.apache.org/
 - https://zh.wikipedia.org/wiki/Cassandra
-
 
 ## Installing
 
@@ -21,12 +19,10 @@ https://console.cloud.google.com/gcr/images/google-samples/GLOBAL/cassandra
 
     docker pull gcr.io/google-samples/cassandra:v12
 
-
 ## Documentation
 
 - http://cassandra.apache.org/doc/latest/getting_started/index.html
 - http://docs.datastax.com/en/cassandra/latest/
-
 
 ## Drivers
 
@@ -54,17 +50,14 @@ Installing on Ubuntu 14.04:
 - https://academy.datastax.com/resources/getting-started-apache-cassandra-and-php
 - https://github.com/datastax/php-driver
 
-
 ## Books
 
 - [学习Cassandra](http://teddymaef.github.io/learncassandra/cn/)
-
 
 ## Tools
 
 - https://github.com/gianlucaborello/cassandradump
 - https://www.ecyrd.com/cassandracalculator/
-
 
 ## Resources
 

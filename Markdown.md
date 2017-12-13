@@ -1,22 +1,18 @@
 # Markdown
 
-
 ## Overview
 
 - https://daringfireball.net/projects/markdown/syntax
 - https://zh.wikipedia.org/wiki/Markdown
 - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-
 ## Editors
 
 - https://github.com/joemccann/dillinger
 
-
 ## Tools
 
 - [HackMD - Collaborative markdown notes](https://hackmd.io/)
-
 
 ## Resources
 

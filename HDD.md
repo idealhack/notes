@@ -1,10 +1,8 @@
 # HDD
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E7%A1%AC%E7%9B%98
-
 
 ## backblocks
 
@@ -14,9 +12,7 @@
 - https://linux.die.net/man/8/badblocks
 - http://linux.101hacks.com/unix/badblocks/
 
-
 ## [[RAID]]
-
 
 ## Resources
 

@@ -1,11 +1,9 @@
 # HLS
 
-
 ## Overview
 
 - https://developer.apple.com/streaming/
 - https://zh.wikipedia.org/wiki/HTTP_Live_Streaming
-
 
 ## Resources
 

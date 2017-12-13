@@ -1,16 +1,13 @@
 # Git
 
-
 ## Overview
 
 - [Git](https://git-scm.com/)
-
 
 ## Servers
 
 - https://about.gitlab.com/
 - https://gogs.io/
-
 
 ## Goodies
 
@@ -22,25 +19,22 @@
 - https://github.com/kennethreitz/legit
 - http://meldmerge.org/
 
-
 ## Configs
 
     git config --global alias.up 'pull --rebase --autostash'
-
 
 ## GitHub
 
 - https://github.com/tiimgreen/github-cheat-sheet
 
-
 ## Resources
 
-- [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html) 
-- [基础知识（幻灯片）](https://speakerdeck.com/idealhack/introduction-to-git) 
-- [Windows 客户端](http://git-scm.com/download/win) 
-- [类似 TortoiseSVN 的 TortoiseGit](https://code.google.com/p/tortoisegit/) 
-- [SourceTree （GUI 客户端）](http://www.sourcetreeapp.com/) 
-- [Git Book 中文版](https://git-scm.com/book/zh/v2) 
+- [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [基础知识（幻灯片）](https://speakerdeck.com/idealhack/introduction-to-git)
+- [Windows 客户端](http://git-scm.com/download/win)
+- [类似 TortoiseSVN 的 TortoiseGit](https://code.google.com/p/tortoisegit/)
+- [SourceTree （GUI 客户端）](http://www.sourcetreeapp.com/)
+- [Git Book 中文版](https://git-scm.com/book/zh/v2)
 - [First Aid git](http://ricardofilipe.com/projects/firstaidgit/)
 - [常用 Git 命令清单 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 - [A few git tips you didn't know about](http://mislav.net/2010/07/git-tips/)

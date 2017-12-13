@@ -1,6 +1,5 @@
 # Go Libraries
 
-
 ## Libraries
 
 ### Microservice
@@ -66,7 +65,6 @@
 - https://github.com/nareix/joy4
 - http://gonet2.github.io/
 - [go-vgo/robotgo: RobotGo, Go Native cross-platform system automation](https://github.com/go-vgo/robotgo)
-
 
 ## Resources
 

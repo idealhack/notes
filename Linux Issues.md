@@ -1,6 +1,5 @@
 # Linux Issues
 
-
 ### iptables & nf_conntrack
 
 - https://blog.yorkgu.me/2012/02/09/kernel-nf_conntrack-table-full-dropping-packet/

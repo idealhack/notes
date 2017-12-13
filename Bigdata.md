@@ -1,10 +1,8 @@
 # Bigdata
 
-
 ## Overivew
 
 - [大數據 - 维基百科](https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%95%B8%E6%93%9A)
-
 
 ## Stack
 
@@ -24,7 +22,6 @@
 - [Presto](https://prestodb.io/)
 - [Mahout](http://mahout.apache.org/)
 - [IndexR](https://github.com/shunfei/indexr)
-
 
 ## Resources
 

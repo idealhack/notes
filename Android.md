@@ -1,16 +1,13 @@
 # Android
 
-
 ## Setup
 
 - [Kotlin Programming Language](https://kotlinlang.org/)
 - [Android NDK](https://developer.android.com/ndk/index.html)
 
-
 ## Style Guide
 
 - 文档工具和规范按照 [Javadoc](http://en.wikipedia.org/wiki/Javadoc) 标准
-
 
 ## Libraries
 
@@ -20,11 +17,9 @@
 - https://github.com/Uncodin/bypass
 - https://github.com/square/okhttp
 
-
 ## Tools
 
 - https://github.com/vladikoff/chromeos-apk
-
 
 ## Resources
 

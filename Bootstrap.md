@@ -1,10 +1,8 @@
 # Bootstrap
 
-
 ## Overview
 
 - http://getbootstrap.com/
-
 
 ## Libraries
 

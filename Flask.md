@@ -1,22 +1,18 @@
 # Flask
 
-
 ## Overview
 
 - [Welcome | Flask (A Python Microframework)](http://flask.pocoo.org/)
 
-
 ## Books
 
 - http://exploreflask.com/
-
 
 ## Libraries
 
 - https://github.com/coleifer/flask-peewee
 - https://github.com/kennethreitz/flask-sockets
 - https://github.com/flask-restful/flask-restful
-
 
 ## Issues
 
@@ -26,7 +22,7 @@
 
     app.run(threaded=True)
 
-#### Use `gevent.wsgi` 
+#### Use `gevent.wsgi`
 
     from gevent.wsgi import WSGIServer
     http_server = WSGIServer(('', 5000), app)

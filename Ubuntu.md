@@ -1,6 +1,5 @@
 # Ubuntu
 
-
 ## Setup
 
 ### Add User

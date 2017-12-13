@@ -1,6 +1,5 @@
 # Lisp
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/LISP
@@ -8,11 +7,9 @@
 - https://common-lisp.net/
 - http://lisp-lang.org/
 
-
 ## Books
 
 - http://acl.readthedocs.io/en/latest/index.html
-
 
 ## Resources
 

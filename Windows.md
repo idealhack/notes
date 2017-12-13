@@ -1,10 +1,8 @@
 # Windows
 
-
 ## WSL
 
 - https://msdn.microsoft.com/en-us/commandline/wsl/faq
-
 
 ## Resources
 

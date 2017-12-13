@@ -1,8 +1,6 @@
 # Typography
 
-
 ## [[Fonts]]
-
 
 ## Style guides
 

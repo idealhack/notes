@@ -1,17 +1,14 @@
 # HTML
 
-
 ## Overview
 
 - [HTML - 维基百科](https://zh.wikipedia.org/wiki/HTML)
 - [HTML（超文本标记语言） | MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTML)
 - [W3C HTML](https://www.w3.org/html/)
 
-
 ## Specs
 
 - [[Canvas]]
-
 
 ## Style Guide
 
@@ -21,18 +18,15 @@
 - http://codeguide.bootcss.com/
 - http://juanitofatas.github.io/code-guide/
 
-
 ## Libraries
 
 - https://github.com/iandevlin/html5bones
 - https://github.com/coolwanglu/pdf2htmlEX
 
-
 ## Tools
 
 - http://www.initializr.com/
 - http://www.extensionizr.com/
-
 
 ## Resources
 

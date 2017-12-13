@@ -1,6 +1,5 @@
 # Deep Learning Frameworks
 
-
 ## Frameworks
 
 ### Caffe
@@ -42,11 +41,9 @@
 - [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
 - https://github.com/Tencent/ncnn
 
-
 ## Tools
 
 - http://ethereon.github.io/netscope/quickstart.html
-
 
 ## Resources
 

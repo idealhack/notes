@@ -1,6 +1,5 @@
 # KVM
 
-
 ## Commands
 
     virsh list --all
@@ -8,7 +7,6 @@
     virsh undefine VM_NAME
     virsh snapshot-list --domain VM_NAME
     virsh snapshot-delete --domain VM_NAME --snapshotname SNAPSHOT_NAME
-
 
 ## Resources
 

@@ -1,6 +1,5 @@
 # HTTP API
 
-
 ## Using APIs
 
 - [apis.guru](https://apis.guru/)

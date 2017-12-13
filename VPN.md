@@ -1,6 +1,5 @@
 # VPN
 
-
 ## Resources
 
 - https://github.com/jlund/streisand

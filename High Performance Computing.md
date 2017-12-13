@@ -1,12 +1,10 @@
 # High Performance Computing
 
-
 ## Overview
 
 - [[CUDA]]
 - OpenCL
 - OpenMP
-
 
 ## Accelerated libraries
 
@@ -39,16 +37,13 @@
 
 - https://github.com/krrishnarraj/clpeak
 
-
 ### Compile
 
     g++ test.cpp -L/opt/arrayfire/lib -lafcpu -I/opt/arrayfire/include -O2
 
-
 ## Distributed System
 
 [[Spark]]
-
 
 ## Resources
 

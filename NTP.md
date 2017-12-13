@@ -1,11 +1,9 @@
 # NTP
 
-
 ## Overview
 
 - http://www.ntp.org/
 - https://zh.wikipedia.org/wiki/%E7%B6%B2%E8%B7%AF%E6%99%82%E9%96%93%E5%8D%94%E5%AE%9A
-
 
 ## Documentation
 

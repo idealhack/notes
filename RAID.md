@@ -1,10 +1,8 @@
 # RAID
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/RAID
-
 
 ## Resources
 

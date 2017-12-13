@@ -1,11 +1,9 @@
 # AngularJS
 
-
 ## Overview
 
 - https://github.com/angular/angular.js
 - https://github.com/angular/angular-seed
-
 
 ## Ionic
 
@@ -14,13 +12,11 @@
 - http://codepen.io/ionic/public-list/
 - http://ionicframework.com/blog/pull-to-refresh-directive/
 
-
 ## Libraries
 
 - https://github.com/angular-ui/ui-router
 - https://github.com/rdash/rdash-angular
 - https://github.com/sroze/ngInfiniteScroll
-
 
 ## Resources
 

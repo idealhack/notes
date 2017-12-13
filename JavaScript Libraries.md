@@ -1,6 +1,5 @@
 # JavaScript Libraries
 
-
 ## UI
 
 ### Layout
@@ -102,7 +101,6 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/qTip2/qTip2
 - https://github.com/viljamis/ResponsiveSlides.js
 
-
 ## UX
 
 ### Events
@@ -136,14 +134,12 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/zeroclipboard/zeroclipboard
 - https://github.com/dieulot/instantclick
 
-
 ## DOM
 
 - https://github.com/ded/qwery
 - https://github.com/ractivejs/ractive
 - https://github.com/jquery/sizzle
 - https://github.com/wilsonpage/fastdom
-
 
 ## Template
 
@@ -164,7 +160,6 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/caolan/async
 - https://github.com/cujojs/when
 
-
 ## Network
 
 - https://github.com/request/request
@@ -176,12 +171,10 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/node-xmpp/node-xmpp
 - https://github.com/sockjs/sockjs-client
 
-
 ## Storage
 
 - https://github.com/brianleroux/lawnchair
 - https://github.com/typicode/lowdb
-
 
 ## Cookies
 
@@ -189,14 +182,12 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/samyk/evercookie
 - https://github.com/codejoust/session.js
 
-
 ## Modules
 
 - https://github.com/substack/node-browserify
 - https://github.com/requirejs/requirejs
 - https://github.com/stealjs/steal
 - https://github.com/broccolijs/broccoli
-
 
 ## Compatibility
 
@@ -207,13 +198,11 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/scottjehl/picturefill
 - https://github.com/matthewhudson/device.js
 
-
 ## Authentication
 
 - https://github.com/jaredhanson/passport
 - https://github.com/MrSwitch/hello.js
 - https://github.com/ciaranj/node-oauth
-
 
 ## Multimedia
 
@@ -281,7 +270,6 @@ Also see [[Markdown]] for JavaScript Markdown editors
 
 - https://github.com/processing/p5.js
 
-
 ## Utils
 
 - https://github.com/lodash/lodash/
@@ -304,24 +292,20 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - https://github.com/andrewplummer/Sugar
 - [mrdoob/stats.js: JavaScript Performance Monitor](https://github.com/mrdoob/stats.js)
 
-
 ## Storage
 
 - https://github.com/marcuswestin/store.js
 - https://github.com/localForage/localForage
-
 
 ## Router
 
 - https://github.com/flatiron/director
 - https://github.com/visionmedia/page.js
 
-
 ## Testing
 
 - https://github.com/Marak/faker.js
 - https://github.com/segmentio/nightmare
-
 
 ## Others
 

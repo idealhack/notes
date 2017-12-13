@@ -1,11 +1,9 @@
 # Moby
 
-
 ## Overview
 
 - https://mobyproject.org/
 - https://github.com/moby/moby
-
 
 ## Resources
 

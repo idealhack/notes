@@ -1,6 +1,5 @@
 # Mobile Apps Design
 
-
 ## Resources
 
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)

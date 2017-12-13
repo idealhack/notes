@@ -1,10 +1,8 @@
 # NewSQL
 
-
 ## Overview
 
 - https://en.wikipedia.org/wiki/NewSQL
-
 
 ## Databases
 

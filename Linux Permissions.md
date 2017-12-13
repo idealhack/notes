@@ -1,10 +1,8 @@
 # Linux Permissions
 
-
 ## Nginx
 
 - http://nginxlibrary.com/403-forbidden-error/
-
 
 ## Resources
 

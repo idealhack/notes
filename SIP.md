@@ -1,10 +1,8 @@
 # SIP
 
-
 ## SIP
 
 - [会话发起协议 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BC%9A%E8%AF%9D%E5%8F%91%E8%B5%B7%E5%8D%8F%E8%AE%AE)
-
 
 ### Libraries
 
@@ -13,11 +11,9 @@
 - https://www.resiprocate.org/Main_Page
 - https://github.com/StefanKopieczek/gossip
 
-
 ## SDP
 
 - [会话描述协议 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BC%9A%E8%AF%9D%E6%8F%8F%E8%BF%B0%E5%8D%8F%E8%AE%AE)
-
 
 ## GB/T 28181-2016
 

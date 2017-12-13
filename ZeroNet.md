@@ -1,17 +1,14 @@
 # ZeroNet
 
-
 ## Overview
 
 - https://zeronet.io/
 - https://zh.wikipedia.org/wiki/ZeroNet
 
-
 ## Documentation
 
 - https://zeronet.readthedocs.io/en/latest/
 - https://github.com/HelloZeroNet/ZeroNet
-
 
 ## Sites (click with ZeroNet installed)
 

@@ -23,7 +23,6 @@ In the order of most to least useful:
 | ⌘ P    | Print the selected note(s)                           |
 | ⌘ E    | Export the selected note(s) to other formats         |
 
-
 Text formatting shortcuts:
 
 |:------|:------------------------------------------------|

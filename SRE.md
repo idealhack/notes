@@ -1,12 +1,10 @@
 # SRE
 
-
 ## Overview
 
 - https://landing.google.com/sre/
 - https://en.wikipedia.org/wiki/Site_reliability_engineering
 - https://book.douban.com/subject/26875239/
-
 
 ## Section
 
@@ -19,7 +17,6 @@
 - [[Distributed System]]
 - [[Docker]]
 - [[macOS]]
-
 
 ## Resources
 

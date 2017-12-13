@@ -1,10 +1,8 @@
 # Architecture
 
-
 ## Overview
 
 - [建筑 - 维基百科](https://zh.wikipedia.org/wiki/%E5%BB%BA%E7%AD%91)
-
 
 ## Books
 

@@ -1,16 +1,13 @@
 # Java
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/Java
-
 
 ## Libraries
 
 - https://github.com/NLPchina/ansj_seg
 - https://github.com/huichen/wukong
-
 
 ## Resources
 

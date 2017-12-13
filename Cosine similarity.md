@@ -1,15 +1,12 @@
 # Cosine similarity
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E4%BD%99%E5%BC%A6%E7%9B%B8%E4%BC%BC%E6%80%A7
 
-
 # Implements
 
 - http://scipy.github.io/devdocs/generated/scipy.spatial.distance.cosine.html
-
 
 ## Resources
 

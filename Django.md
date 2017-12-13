@@ -1,10 +1,8 @@
 # Django
 
-
 ## Overview
 
 - [Django](https://www.djangoproject.com/)
-
 
 ## Libraries
 

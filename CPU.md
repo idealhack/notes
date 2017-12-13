@@ -1,10 +1,8 @@
 # CPU
 
-
 ## Overview
 
 - [中央处理器 - 维基百科](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E5%A4%84%E7%90%86%E5%99%A8)
-
 
 ## Resources
 

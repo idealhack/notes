@@ -1,10 +1,8 @@
 # IPMI
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/IPMI
-
 
 ## IPMI / BMC 默认用户名密码
 
@@ -12,14 +10,12 @@
 - 华硕主板 用户名：admin 密码：admin
 - 泰安主板 用户名：root  密码：superuser
 
-
 ## SuperMicro
 
 - https://www.supermicro.com/products/nfo/IPMI.cfm
 - https://www.supermicro.com/products/nfo/SMS_IPMI.cfm
 - https://leavingwithnothing.blogspot.com/2016/06/ipmiview-for-mac.html
 - https://martincarstenbach.wordpress.com/2012/08/02/lights-out-management-console-on-supermicro-boards/
-
 
 ## Resources
 

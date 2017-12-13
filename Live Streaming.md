@@ -1,10 +1,8 @@
 # Live Streaming
 
-
 ## Media Codec
 
 - [H.264/MPEG-4 AVC - 维基百科](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC)
-
 
 ## Clients
 
@@ -13,11 +11,9 @@
 - [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea)
 - [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 
-
 ## Libraries
 
 - https://github.com/AnyRTC/AnyRTC-RTMP
-
 
 ## Resources
 
@@ -67,7 +63,7 @@
 ### 质量测试
 
 - [RTC实录|视频直播质量的评测和实现分享](http://mp.weixin.qq.com/s?__biz=MzIwNzA1OTA2OQ==&mid=2657207574&idx=1&sn=2c846ef319a8e7103bdd1170636684c1)
-- [视频质量测试样本 bipbop](http://devimages.apple.com/iphone/samples/bipbop/gear4/prog_index.m3u8) 
+- [视频质量测试样本 bipbop](http://devimages.apple.com/iphone/samples/bipbop/gear4/prog_index.m3u8)
 - [打造实用的视频流媒体质量评估工具](http://www.infoq.com/cn/articles/a-quality-assessment-tool-for-video-streaming-media)
 - [Netflix/vmaf](https://github.com/Netflix/vmaf)
 - [移动直播技术上的坑与优化经验](http://www.infoq.com/cn/presentations/pit-and-optimization-experience-of-mobile-live-technology)

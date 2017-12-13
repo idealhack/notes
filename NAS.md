@@ -1,6 +1,5 @@
 # NAS
 
-
 ## System
 
 ### [[Synology]]
@@ -14,7 +13,6 @@
 - http://htpc.io/
 - https://hub.docker.com/r/linuxserver/htpcmanager/
 
-
 ## Tools
 
 - https://github.com/Sonarr/Sonarr
@@ -22,7 +20,6 @@
 - https://github.com/beetbox/beets
 - https://github.com/jmathai/elodie
 - https://github.com/pyload/pyload
-
 
 ## Resources
 

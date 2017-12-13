@@ -1,8 +1,6 @@
 # Health
 
-
 [[Physical Examination]]
-
 
 ## Resources
 

@@ -1,6 +1,5 @@
 # Python Frameworks
 
-
 - [[Django]]
 - [[Flask]]
 - [Pyramid](https://github.com/Pylons/pyramid)

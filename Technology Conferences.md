@@ -1,16 +1,12 @@
 # Technology Conferences
 
-
 ## Google IO
 
-
 ## WWDC
-
 
 ## QCon
 
 - http://www.infoq.com/cn/qcon/
-
 
 ## @Conf
 

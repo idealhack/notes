@@ -1,18 +1,14 @@
 # Microservices
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E5%BE%AE%E6%9C%8D%E5%8B%99
-
 
 ## Platforms
 
 - [[Kubernetes]]
 
-
 ## [[Service Mesh]]
-
 
 ## Resources
 

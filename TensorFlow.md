@@ -1,15 +1,12 @@
 # TensorFlow
 
-
 ## Overview
 
 - [TensorFlow](https://www.tensorflow.org/)
 
-
 ## Tools
 
 - [google/kubeflow: Machine Learning Toolkit for Kubernetes](https://github.com/google/kubeflow)
-
 
 ## Resources
 

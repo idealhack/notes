@@ -1,6 +1,5 @@
 # Dockerfile
 
-
 ## Example
 
 ### Ubuntu
@@ -16,7 +15,6 @@
         ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \
         dpkg-reconfigure -f noninteractive tzdata
 
-
 ### Nginx
 
     FROM nginx
@@ -30,7 +28,6 @@
     RUN echo Asia/Shanghai > /etc/timezone && \
         ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \
         dpkg-reconfigure -f noninteractive tzdata
-
 
 ## Resources
 

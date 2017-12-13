@@ -1,10 +1,8 @@
 # France
 
-
 ## Overview
 
 - [法国 - 维基百科](https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9B%BD)
-
 
 ## Visa
 

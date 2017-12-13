@@ -1,6 +1,5 @@
 # Hardware
 
-
 ## Components
 
 - [[CPU]]
@@ -10,11 +9,9 @@
 - [[NAS]]
 - [Arduino](https://www.arduino.cc/)
 
-
 ## Monitoring
 
 - [[S.M.A.R.T.]]
-
 
 ## Bandwidth
 

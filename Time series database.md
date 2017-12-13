@@ -1,16 +1,13 @@
 # Time series database
 
-
 ## Overview
 
 - https://en.wikipedia.org/wiki/Time_series_database
-
 
 ## Databases
 
 - https://github.com/influxdata/influxdb
 - https://github.com/OpenTSDB/opentsdb
-
 
 ## Resources
 

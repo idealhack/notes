@@ -1,17 +1,14 @@
 # Cobbler
 
-
 ## Overview
 
 - http://cobbler.github.io/
 - https://zh.wikipedia.org/wiki/Cobbler_(软件)
 
-
 ## Manual
 
 - http://cobbler.github.io/manuals/quickstart/
 - http://cobbler.github.io/manuals/
-
 
 ## Resources
 

@@ -1,6 +1,5 @@
 # Open-source
 
-
 ## Overview
 
 ### Open-source
@@ -15,7 +14,6 @@
 
 - https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E8%BD%AF%E4%BB%B6
 
-
 ## Foundations
 
 https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organizations
@@ -28,6 +26,5 @@ https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_organization
 
 - https://www.cncf.io/
 - https://github.com/cncf/landscape
-
 
 ## [[Open-source Licenses]]

@@ -1,10 +1,8 @@
 # Functional Programming
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E5%87%BD%E6%95%B8%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80
-
 
 ## Resources
 

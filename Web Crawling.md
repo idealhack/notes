@@ -1,6 +1,5 @@
 # Web Crawling
 
-
 ## Sphinx
 
 - http://sphinx-doc.org/
@@ -9,11 +8,9 @@
 - https://github.com/ryan-roemer/sphinx-bootstrap-theme
 - http://bootswatch.com/
 
-
 ## Apps
 
 - https://github.com/sundy-li/wechat_spider
-
 
 ## Resources
 

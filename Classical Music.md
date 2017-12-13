@@ -1,6 +1,5 @@
 # Classical Music
 
-
 ## Resources
 
 - [纽约文化沙龙：在二十一世纪听古典音乐](http://nyshalong.com/event/96)

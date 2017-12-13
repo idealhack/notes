@@ -1,10 +1,8 @@
 # Vue.js
 
-
 ## Overview
 
 - https://vuejs.org/
-
 
 ## Libararies
 
@@ -19,11 +17,9 @@
 
 - https://github.com/vuejs/vuex
 
-
 ## Frameworks
 
 - https://github.com/nuxt/nuxt.js
-
 
 ## Resources
 

@@ -1,12 +1,10 @@
 # CSS
 
-
 ## Overview
 
 ### Layout
 
 - http://zh.learnlayout.com/
-
 
 ### 知识点
 
@@ -14,7 +12,6 @@
 - CSS 选择器优先级
 - IE Hacks
 - CSS3
-
 
 ### 一些易混淆概念
 
@@ -26,14 +23,11 @@
 - 块级上下文
 - 行内上下文
 
-
 ## Videos
 
 - https://github.com/AllThingsSmitty/must-watch-css
 
-
 ## [[CSS Frameworks]]
-
 
 ## Tools
 
@@ -42,7 +36,6 @@
 - https://github.com/oyvindeh/ucss
 - https://github.com/purifycss/purifycss
 - https://github.com/Automattic/juice
-
 
 ## Resources
 

@@ -1,15 +1,12 @@
 # NetworkManager
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/NetworkManager
 
-
 ## Documentation
 
 - https://linux.die.net/man/1/nmcli
-
 
 ## Resources
 

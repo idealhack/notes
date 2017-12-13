@@ -1,12 +1,10 @@
 # Life
 
-
 ## Topics
 
 - [[Shopping]]
 - [[Chained-brand Hotels]]
 - [[Credit card]]
-
 
 ## Resources
 

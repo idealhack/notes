@@ -1,19 +1,16 @@
 # Artificial Intelligence
 
-
 - [[Neural Network]]
 - [[Machine Learning]]
 - [[Face Detecion]]
 - [[Pedestrian Detection]]
 - [[Pornographic Detection]]
 
-
 ## Services
 
 - http://www.tuling123.com/
 - [Dialogflow](https://dialogflow.com/)
 - [Algorithmia - Open Marketplace for Algorithms](https://algorithmia.com/)
-
 
 ## Resources
 

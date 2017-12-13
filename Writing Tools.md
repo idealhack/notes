@@ -1,11 +1,9 @@
 # Writing Tools
 
-
 ## Books
 
 - [rstudio/bookdown: Authoring Books and Technical Documents with R Markdown](https://github.com/rstudio/bookdown)
 - [Pandoc](http://pandoc.org/)
-
 
 ## Websites
 
@@ -34,11 +32,9 @@
 - https://kasperisager.github.io/picnic/
 - https://github.com/migreyes/hazelnut
 
-
 ## Documentations
 
 - http://ricostacruz.com/flatdoc/
-
 
 ## Wiki
 

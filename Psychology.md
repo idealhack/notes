@@ -1,10 +1,8 @@
 # Psychology
 
-
 ## Overview
 
 - [心理学 - 维基百科](https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%AD%A6)
-
 
 ## Emotions
 

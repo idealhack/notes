@@ -1,16 +1,13 @@
 # Synology
 
-
 ## Overview
 
 - [Synology Inc.](https://www.synology.com/zh-cn)
-
 
 ## Tools
 
 - http://www.synoboost.com
 - https://github.com/SynoCommunity/spksrc
-
 
 ## API
 

@@ -1,16 +1,13 @@
 # Hangzhou
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E6%9D%AD%E5%B7%9E%E5%B8%82
-
 
 ## Books
 
 - https://book.douban.com/subject/25796927/
 - https://book.douban.com/subject/26266981/
-
 
 ## Places to go
 
@@ -71,7 +68,6 @@
 - 青芝坞 P183
 - 西溪湿地 P208
 
-
 ## Food
 
 - 东坡肉 P107、P137
@@ -84,7 +80,6 @@
 - 外婆家 P141
 - 绿茶 P107
 - 新白鹿 P140
-
 
 ## Resources
 

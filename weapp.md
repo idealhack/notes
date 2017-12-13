@@ -1,6 +1,5 @@
 # weapp
 
-
 - https://github.com/justjavac/awesome-wechat-weapp
 - https://github.com/opendigg/awesome-github-wechat-weapp
 - https://github.com/Aufree/awesome-wechat-weapp

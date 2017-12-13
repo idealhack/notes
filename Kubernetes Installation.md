@@ -1,6 +1,5 @@
 # Kubernetes Installation
 
-
 ## Installing with Kubernetes with `kubeadm` (CentOS, Docker 1.12 installed)
 
 - https://kubernetes.io/docs/setup/independent/install-kubeadm/
@@ -104,7 +103,6 @@ To use `kubectl` on node:
     sudo chown $(id -u):$(id -g) $HOME/kubelet.conf
     export KUBECONFIG=$HOME/kubelet.conf
 
-
 ## Remove node
 
 ### On master:
@@ -115,7 +113,6 @@ To use `kubectl` on node:
 ### On node:
 
     kubeadm reset
-
 
 ## Upgrading kubeadm clusters from 1.6 to 1.7
 
@@ -137,11 +134,9 @@ On master:
     sudo KUBECONFIG=/etc/kubernetes/admin.conf kubectl delete daemonset kube-proxy -n kube-system
     sudo kubeadm init --pod-network-cidr=10.244.0.0/16 --skip-preflight-checks --kubernetes-version <DESIRED_VERSION>
 
-
 ## Upgrading kubeadm clusters from 1.7 to 1.8
 
 https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-8/
-
 
 ## Resources
 

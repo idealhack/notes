@@ -1,31 +1,25 @@
 # Algorithm
 
-
 ## Algorithms
 
 - [Bit manipulation - Wikipedia](https://en.wikipedia.org/wiki/Bit_manipulation)
 - [[Cosine similarity]]
 
-
 ## Complexities
 
 - [Big-O Algorithm Complexity Cheat Sheet](http://www.bigocheatsheet.com/)
-
 
 ## Papers
 
 - http://paperswelove.org/
 
-
 ## Libraries
 
 - https://github.com/felipernb/algorithms.js
 
-
 ## Tools
 
 - https://github.com/parkjs814/AlgorithmVisualizer
-
 
 ## Resources
 

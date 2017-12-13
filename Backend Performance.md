@@ -1,13 +1,11 @@
 # Backend Performance
 
-
 ## Network
 
 ### [iperf](https://iperf.fr/)
 
     iperf -s
     iperf -c server_ip
-
 
 ## Benchmarking
 
@@ -18,7 +16,6 @@
 - https://github.com/wg/wrk
 - https://github.com/kennethreitz/httpbin
 - https://github.com/rakyll/hey
-
 
 ## Resources
 

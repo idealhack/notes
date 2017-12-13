@@ -1,28 +1,23 @@
 # Kubernetes
 
-
 ## Overview
 
 - [Kubernetes - Production-Grade Container Orchestration](https://kubernetes.io/)
 - [Kubernetes - 维基百科](https://zh.wikipedia.org/wiki/Kubernetes)
 - [Kubernetes Blog](http://blog.kubernetes.io/)
 
-
 ## Documentation
 
 - [Kubernetes Documentation - Kubernetes](https://kubernetes.io/docs/home/)
 - [Kubernetes Documentation | Kubernetes](https://k8smeetup.github.io/docs/home/)
 
-
 ## [[Kubernetes Installation]]
-
 
 ## Examples
 
 - https://kubernetes.io/docs/samples/
 - https://github.com/kubernetes/kubernetes/tree/master/examples
 - http://kubernetesbyexample.com/
-
 
 ## Tools
 
@@ -35,13 +30,11 @@
 - https://github.com/Azure/draft
 - [Azure/brigade: Event-based Scripting for Kubernetes.](https://github.com/Azure/brigade)
 
-
 ## Monitoring
 
 - https://github.com/kubernetes/heapster
 - https://github.com/coreos/prometheus-operator
 - [weaveworks/scope: Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)
-
 
 ## Books
 
@@ -49,16 +42,13 @@
 - [Kubernetes Handbook](https://jimmysong.io/kubernetes-handbook/)
 - [Kuberbetes學習筆記](https://gcpug-tw.gitbooks.io/kuberbetes-in-action/)
 
-
 ## Videos
 
 - [Kubernetes Webinars - YouTube](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ)
 
-
 ## Real world
 
 - [Kubernetes at GitHub | GitHub Engineering](https://githubengineering.com/kubernetes-at-github/)
-
 
 ## Resources
 

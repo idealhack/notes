@@ -1,11 +1,8 @@
 # Security
 
-
 ## [[Web Security]]
 
-
 ## [[Linux Security]]
-
 
 ## Tools
 
@@ -20,7 +17,6 @@
 ### Wi-Fi
 
 - https://github.com/brannondorsey/wifi-cracking
-
 
 ## Resources
 

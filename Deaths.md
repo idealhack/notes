@@ -1,10 +1,8 @@
 # Deaths
 
-
 ## Overview
 
 - [历年逝世人物列表](https://zh.wikipedia.org/wiki/%E6%AD%B7%E5%B9%B4%E9%80%9D%E4%B8%96%E4%BA%BA%E7%89%A9%E5%88%97%E8%A1%A8)
-
 
 ## Deaths
 

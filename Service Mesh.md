@@ -1,10 +1,8 @@
 # Service Mesh
 
-
 - [[linkerd]]
 - [[Istio]]
 - [Conduit](https://conduit.io/)
-
 
 ## Resources
 

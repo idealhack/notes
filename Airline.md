@@ -1,6 +1,5 @@
 # Airline
 
-
 ## Airlines
 
 - [航空公司 - 维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8)
@@ -30,7 +29,6 @@
 - [全日空航空公司](http://www.ana.co.jp/asw/wws/cn/c/)
 - [全日空航空 - 维基百科](https://zh.wikipedia.org/wiki/%E5%85%A8%E6%97%A5%E6%9C%AC%E7%A9%BA%E8%BC%B8)
 
-
 ## Airline alliances
 
 - [航空联盟 - 维基百科](https://zh.wikipedia.org/wiki/%E8%88%AA%E7%A9%BA%E8%81%AF%E7%9B%9F)
@@ -59,7 +57,6 @@
 
 - [优行联盟](http://www.uflyalliance.com/zh-cn)
 - [优行联盟 - 维基百科](https://zh.wikipedia.org/wiki/%E5%84%AA%E8%A1%8C%E8%81%AF%E7%9B%9F)
-
 
 ## Resources
 

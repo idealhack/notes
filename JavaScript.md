@@ -1,15 +1,12 @@
 # JavaScript
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/JavaScript
 
-
 - [[JavaScript Frameworks]]
 - [[JavaScript Libraries]]
 - [[JavaScript Style Guide]]
-
 
 ## Books
 
@@ -19,12 +16,10 @@
 - https://github.com/marijnh/Eloquent-JavaScript
 - https://github.com/bpesquet/thejsway
 
-
 ## Videos
 
 - https://github.com/bolshchikov/js-must-watch
 - https://github.com/AllThingsSmitty/must-watch-javascript
-
 
 ## Build System
 
@@ -44,11 +39,9 @@
 - https://github.com/gruntjs/grunt-contrib-imagemin
 - https://github.com/Ensighten/grunt-spritesmith
 
-
 ## Documentation
 
 - https://github.com/senchalabs/jsduck
-
 
 ## ES6
 
@@ -59,11 +52,9 @@
 - https://github.com/JustinDrake/node-es6-examples
 - https://github.com/nzakas/understandinges6
 
-
 ## Parser
 
 - http://esprima.org/
-
 
 ## Tools
 
@@ -75,12 +66,10 @@
 - https://github.com/mishoo/UglifyJS2
 - https://github.com/csnover/TraceKit
 
-
 ## Examples
 
 - https://github.com/cheeaun/life
 - https://github.com/aosabook/500lines
 - https://github.com/kolodny/exercises
-
 
 ## [[JavaScript Resources]]

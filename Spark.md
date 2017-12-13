@@ -1,16 +1,13 @@
 # Spark
 
-
 ## Overview
 
 - http://spark.apache.org/
 - https://zh.wikipedia.org/wiki/Apache_Spark
 
-
 ## Documentation
 
 - http://spark.apache.org/docs/latest/
-
 
 ## Libraries
 
@@ -52,17 +49,14 @@
 - https://github.com/spark-jobserver/spark-jobserver
 - https://github.com/spark-jobserver/python-sjsclient
 
-
 ## Tools
 
 - https://zeppelin.apache.org/
 - [spark-jobserver/spark-jobserver: REST job server for Apache Spark](https://github.com/spark-jobserver/spark-jobserver)
 
-
 ## Books
 
 - [Mastering Apache Spark 2 (Spark 2.2+)](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
-
 
 ## Applications
 
@@ -70,7 +64,6 @@
 
 - https://my.oschina.net/penngo/blog/807810
 - https://github.com/apache/spark/blob/master/examples/src/main/scala/org/apache/spark/examples/mllib/CosineSimilarity.scala
-
 
 ## Resources
 
@@ -83,7 +76,6 @@
 - https://www.zhihu.com/question/26568496
 - https://www.gitbook.com/book/grzegorzgajda/spark-examples/details
 - http://blog.ditullio.fr/2016/11/09/docker-spark-analyse-cassandra-data/
-
 
 ## Beyond Spark
 

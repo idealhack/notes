@@ -1,10 +1,8 @@
 # HBase
 
-
 ## Overview
 
 - [HBase](https://hbase.apache.org/)
-
 
 ## Libraries
 

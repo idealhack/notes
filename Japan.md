@@ -1,10 +1,8 @@
 # Japan
 
-
 ## Overview
 
 - [日本 - 维基百科](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC)
-
 
 ## Resources
 

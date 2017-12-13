@@ -1,22 +1,18 @@
 # CUDA
 
-
 ## Overview
 
 - https://developer.nvidia.com/cuda-zone
 - https://zh.wikipedia.org/wiki/CUDA
 
-
 ## Documentation
 
 - http://docs.nvidia.com/cuda/
-
 
 ## Libraries
 
 - https://github.com/lebedov/scikit-cuda
 - https://github.com/dmlc/mshadow
-
 
 ## Resources
 

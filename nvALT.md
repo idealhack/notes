@@ -1,11 +1,9 @@
 # nvALT
 
-
 ## Overview
 
 - http://notational.net/
 - http://brettterpstra.com/projects/nvalt/
-
 
 ## Tips
 

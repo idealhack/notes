@@ -1,10 +1,8 @@
 # Face Detecion
 
-
 ## Overview
 
 - [人脸识别 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB)
-
 
 ## Libraries
 
@@ -13,12 +11,10 @@
 - https://github.com/ageitgey/face_recognition
 - https://github.com/seetaface/SeetaFaceEngine
 
-
 ## Networks
 
 - CFAN
 - MTCNN
-
 
 ## Resources
 

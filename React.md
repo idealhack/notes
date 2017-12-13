@@ -1,10 +1,8 @@
 # React
 
-
 ## Overview
 
 - https://github.com/facebook/react
-
 
 ## Frameworks
 
@@ -13,11 +11,9 @@
 - https://github.com/facebook/flux
 - https://github.com/storybooks/storybook
 
-
 ## UI
 
 - [Ant Design - 一个 UI 设计语言](http://ant.design/index-cn)
-
 
 ## Resources
 

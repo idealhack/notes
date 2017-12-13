@@ -1,11 +1,9 @@
 # systemd
 
-
 ## Overview
 
 - https://www.freedesktop.org/wiki/Software/systemd/
 - https://zh.wikipedia.org/wiki/Systemd
-
 
 ## Commands
 
@@ -19,7 +17,6 @@
     systemctl status service-name.service
 
     journalctl -u service-name.service
-
 
 ## Resources
 

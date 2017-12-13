@@ -1,11 +1,9 @@
 # Ceph
 
-
 ## Overview
 
 - [Ceph](http://ceph.com/)
 - [Ceph (software) - Wikipedia](https://en.wikipedia.org/wiki/Ceph_(software))
-
 
 ## Documentation
 

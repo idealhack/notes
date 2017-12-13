@@ -1,11 +1,9 @@
 # NoSQL
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/NoSQL
 - http://nosql-database.org/
-
 
 ## Databases
 
@@ -15,7 +13,6 @@
 - [[Scylla]]
 - https://github.com/basho/riak
 - http://sophia.systems/
-
 
 ## Resources
 

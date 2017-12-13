@@ -1,6 +1,5 @@
 # HAProxy
 
-
 ## Overview
 
 - [HAProxy](http://www.haproxy.org/)

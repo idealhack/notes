@@ -1,11 +1,9 @@
 # RTSP
 
-
 ## Overview
 
 - https://www.ietf.org/rfc/rfc2326.txt
 - https://zh.wikipedia.org/wiki/%E5%8D%B3%E6%99%82%E4%B8%B2%E6%B5%81%E5%8D%94%E5%AE%9A
-
 
 ## Resources
 

@@ -1,6 +1,5 @@
 # Clojure
 
-
 ## Overview
 
 - [Clojure](https://clojure.org/)

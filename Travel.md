@@ -1,9 +1,7 @@
 # Travel
 
-
 - [[Passport]]
 - [[Travel Tips]]
-
 
 ## Places
 
@@ -13,7 +11,6 @@
 - [[Macau]]
 - [[Japan]]
 - [[Taiwan]]
-
 
 ## Resources
 

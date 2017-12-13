@@ -1,10 +1,8 @@
 # Samba
 
-
 ## Overview
 
 - [Samba - 维基百科](https://zh.wikipedia.org/wiki/Samba)
-
 
 ## Resources
 

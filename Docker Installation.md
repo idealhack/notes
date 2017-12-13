@@ -1,6 +1,5 @@
 # Docker Installation
 
-
 ## Install Docker
 
 https://docs.docker.com/engine/installation/
@@ -19,7 +18,6 @@ Steps on CentOS: [Get Docker CE for CentOS | Docker Documentation](https://docs.
 
 Steps on Ubuntu: [Get Docker CE for Ubuntu | Docker Documentation](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
 
-
 ## Install nvidia-docker Plugin
 
 https://github.com/NVIDIA/nvidia-docker
@@ -32,7 +30,6 @@ Setps on CentOS:
     sudo systemctl start nvidia-docker
     sudo systemctl enable nvidia-docker
     nvidia-docker run --rm nvidia/cuda nvidia-smi
-
 
 ## Configure Mirror
 

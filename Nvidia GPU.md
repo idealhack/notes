@@ -1,11 +1,9 @@
 # Nvidia GPU
 
-
 ## Overview
 
 - [CUDA GPUs](https://developer.nvidia.com/cuda-gpus)
 - [NVIDIA显示核心列表 - 维基百科](https://zh.wikipedia.org/wiki/NVIDIA%E9%A1%AF%E7%A4%BA%E6%A0%B8%E5%BF%83%E5%88%97%E8%A1%A8)
-
 
 ## DL Workstation
 
@@ -13,7 +11,6 @@
 - [深度学习开发环境配置：Ubuntu1 6.04+Nvidia GTX 1080+CUDA 8.0](http://cn.soulmachine.me/2016-08-17-deep-learning-cuda-development-environment/)
 - [深度学习主机攒机小记](http://www.52nlp.cn/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%BB%E6%9C%BA%E6%94%92%E6%9C%BA%E5%B0%8F%E8%AE%B0)
 - [为你的深度学习任务挑选性价比最高GPU_专业的人工智能媒体和产业服务平台](http://www.jiqizhixin.com/article/1318)
-
 
 ## NVIDIA Diver Installation (version 384.98)
 
@@ -32,7 +29,6 @@ http://www.nvidia.com/object/linux-amd64-display-archive.html
     sudo apt-mark hold linux-image-generic linux-headers-generic    # Ubuntu
 
 If nouveau was installed first: https://askubuntu.com/questions/841876/how-to-disable-nouveau-kernel-driver
-
 
 ## Resources
 

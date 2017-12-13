@@ -1,6 +1,5 @@
 # Docker Tasks
 
-
 ### Save and load
 
     docker save -o <save image to path> <image name>

@@ -1,6 +1,5 @@
 # Distributed System
 
-
 ## Systems
 
 - [[ZooKeeper]]
@@ -8,23 +7,19 @@
 - [Consul](https://github.com/hashicorp/consul)
 - [xuxueli/xxl-job: A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）](https://github.com/xuxueli/xxl-job)
 
-
 ## Memory Storage
 
 - [Alluxio - Open Source Memory Speed Virtual Distributed Storage](http://www.alluxio.org/)
 - [Open Source Memory-Centric Data Platform - Apache Ignite](https://ignite.apache.org/index.html)
-
 
 ## File system
 
 - [[GlusterFS]]
 - [[Ceph]]
 
-
 ## CAP
 
 - https://zh.wikipedia.org/wiki/CAP%E5%AE%9A%E7%90%86
-
 
 ## Algorithm
 
@@ -43,14 +38,12 @@
 - http://www.cnblogs.com/mindwind/p/5231986.html
 - https://docs.docker.com/engine/swarm/raft/
 
-
 ## Tracing
 
 - http://opentracing.io/
 - http://zipkin.io/
 - https://wu-sheng.gitbooks.io/opentracing-io/
 - https://medium.com/@Pinterest_Engineering/applications-of-pin-trace-data-3b9e6dc2744b
-
 
 ## Resources
 

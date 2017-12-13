@@ -1,24 +1,20 @@
 # gRPC
 
-
 ## Overview
 
 - https://grpc.io
 - https://github.com/grpc/
 - https://github.com/grpc-ecosystem
 
-
 ## Documentation
 
 - https://grpc.io/docs/
 - https://doc.oschina.net/grpc?t=56831
 
-
 ## Protocol buffers
 
 - [Protocol Buffers | Google Developers](https://developers.google.com/protocol-buffers/)
 - [Protocol Buffers - 维基百科](https://zh.wikipedia.org/wiki/Protocol_Buffers)
-
 
 ## Resources
 

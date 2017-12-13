@@ -1,6 +1,5 @@
 # Pokémon GO
 
-
 ## Resources
 
 - [Pokémon GO 新人手册.pdf](https://s3-us-west-2.amazonaws.com/notion-static/kru8odMJQdWllGd4Yi4Z_Pokemon%20GO%20.pdf)

@@ -1,10 +1,8 @@
 # Love
 
-
 ## Overview
 
 - [爱 - 维基百科](https://zh.wikipedia.org/wiki/%E6%84%9B)
-
 
 ## Resources
 

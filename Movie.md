@@ -1,11 +1,9 @@
 # Movie
 
-
 ## Setup
 
 - [[NAS]]
 - [Streama](http://dularion.github.io/streama/)
-
 
 ## List
 

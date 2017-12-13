@@ -1,10 +1,8 @@
 # DevOps
 
-
 ## Overview
 
 - [DevOps - 维基百科](https://zh.wikipedia.org/zh-hans/DevOps)
-
 
 ## Tools
 
@@ -16,7 +14,6 @@
 - http://supervisord.org/
 - https://github.com/shipitjs/shipit
 - [Habitat - Automation That Travels with the App](https://www.habitat.sh/)
-
 
 ## Resources
 

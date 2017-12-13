@@ -1,6 +1,5 @@
 # Icons
 
-
 - https://simpleicons.org/
 - https://github.com/alrra/browser-logos
 - http://ionicons.com/

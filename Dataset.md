@@ -1,10 +1,8 @@
 # Dataset
 
-
 ## Overview
 
 - [Data set - Wikipedia](https://en.wikipedia.org/wiki/Data_set)
-
 
 ## Datasets
 
@@ -16,7 +14,6 @@
 - https://www.bioid.com/About/BioID-Face-Database
 - http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 - http://www.cs.columbia.edu/CAVE/databases/pubfig/
-
 
 ## Resources
 

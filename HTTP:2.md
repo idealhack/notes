@@ -1,21 +1,17 @@
 # HTTP/2
 
-
 ## Overview
 
 - [HTTP/2](https://http2.github.io/)
 - [HTTP/2 - 维基百科](https://zh.wikipedia.org/wiki/HTTP/2)
 
-
 ## Books
 
 - [http2 explained](https://bagder.gitbooks.io/http2-explained/zh/)
 
-
 ## Tools
 
 - [HTTP/2 and SPDY indicator - Chrome 网上应用店](https://chrome.google.com/webstore/detail/http2-and-spdy-indicator/mpbpobfflnpcgagjijhmgnchggcjblin)
-
 
 ## Resources
 

@@ -1,6 +1,5 @@
 # Games to play
 
-
 ## Games to play
 
 Play at least 20 of the following games. Write a 50 words review per game in English. After semester start we you will be asked to upload the review s on a discussion board on Blackboard.
@@ -40,7 +39,7 @@ Play at least 20 of the following games. Write a 50 words review per game in Eng
 
 ## Videos to watch
 
-**Let’s Play Videos** 
+**Let’s Play Videos**
 
 Watch the following Let’s play videos ( You are welcome to find let’s play videos of the same games on the video sharing platform of your own choice)
 
@@ -54,13 +53,13 @@ Watch the following Let’s play videos ( You are welcome to find let’s play v
 - Ori And The Blind Forest https://www.youtube.com/watch?v=aiLKMNatah4
 - Hover Junkers (Virtual Reality Game) https://www.youtube.com/watch?v=oU4M-KTOeg0
 
-**Game design** 
+**Game design**
 
 Please watch as many as you can of the short videos in the 3 minute game design series
 
 - https://www.youtube.com/channel/UCMn-G34oxMozKJEMIwxAnAA
 
-**Game Analysis** 
+**Game Analysis**
 
 Please watch as many as you can of the videos in the Extra Credit series. Most importantly:
 

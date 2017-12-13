@@ -1,6 +1,5 @@
 # CORS
 
-
 ## Overview
 
 - [Cross-Origin Resource Sharing](https://www.w3.org/TR/cors/)

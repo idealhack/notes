@@ -1,6 +1,5 @@
 # S.M.A.R.T.
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/S.M.A.R.T.

@@ -1,10 +1,8 @@
 # BIOS
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/BIOS
-
 
 ## Resources
 

@@ -1,10 +1,8 @@
 # File Format
 
-
 ## Overview
 
 - [檔案格式 - 维基百科](http://zh.wikipedia.org/wiki/%E6%AA%94%E6%A1%88%E6%A0%BC%E5%BC%8F)
-
 
 ## Resources
 

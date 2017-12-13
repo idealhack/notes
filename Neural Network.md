@@ -1,10 +1,8 @@
 # Neural Network
 
-
 ## Overview
 
 - [人工神经网络 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
-
 
 ## Frameworks
 
@@ -19,12 +17,10 @@
 - [nagadomi/waifu2x: Image Super-Resolution for Anime-Style Art](https://github.com/nagadomi/waifu2x)
 - [lllyasviel/style2paints: sketch + style = paints](https://github.com/lllyasviel/style2paints)
 
-
 ## Papers
 
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 - [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and &lt;0.5MB model size](https://arxiv.org/abs/1602.07360)
-
 
 ## Resources
 

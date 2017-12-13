@@ -1,6 +1,5 @@
 # Interview
 
-
 ## Resources
 
 - https://github.com/hawx1993/Front-end-Interview-questions

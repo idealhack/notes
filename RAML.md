@@ -1,12 +1,10 @@
 # RAML
 
-
 ## Overview
 
 - [RAML](http://raml.org/)
 - [raml-spec](https://github.com/raml-org/raml-spec/blob/master/versions/raml-08/raml-08.md)
 - [raml2html](https://github.com/raml2html/raml2html)
-
 
 ## Resources
 

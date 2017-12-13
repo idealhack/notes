@@ -1,10 +1,8 @@
 # Rancher
 
-
 ## Overview
 
 - http://rancher.com/
-
 
 ## Resources
 

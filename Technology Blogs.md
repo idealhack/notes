@@ -1,6 +1,5 @@
 # Technology Blogs
 
-
 ## Blogs
 
 ### Personal
@@ -52,7 +51,6 @@
 ### JavaScript
 
 - https://ponyfoo.com/
-
 
 ## Feeds
 

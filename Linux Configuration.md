@@ -1,6 +1,5 @@
 # Linux Configuration
 
-
 ## Wireless Network
 
 查询无线网卡名
@@ -20,16 +19,14 @@
 
     sudo ifup -v wlan0
 
-
 ## 在较新硬件上重新编译内核一例
 
 http://www.killernetworking.com/driver-downloads/knowledge-base?view=topic&id=2
 
 需要增加的命令
-    
+
     sudo vim /etc/apt/sources.list
     sudo apt install dpkg-dev bc libssl-dev
-
 
 ## Resources
 

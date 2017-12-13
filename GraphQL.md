@@ -1,10 +1,8 @@
 # GraphQL
 
-
 ## Overview
 
 - [GraphQL | 一种为你的 API 而生的查询语言](http://graphql.cn/)
-
 
 ## Resources
 

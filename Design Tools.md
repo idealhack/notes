@@ -1,11 +1,9 @@
 # Design Tools
 
-
 ## Tools
 
 - https://github.com/facebookarchive/origami
 - https://github.com/sketchplugins/plugin-directory
-
 
 ### OmniGraffle
 

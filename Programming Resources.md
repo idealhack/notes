@@ -1,6 +1,5 @@
 # Programming Resources
 
-
 ## Books
 
 - https://github.com/vhf/free-programming-books
@@ -13,14 +12,12 @@
 - https://wizardforcel.gitbooks.io/flygon-booklist/
 - [GitHub 上有哪些值得推荐的开源电子书？ - 知乎](https://www.zhihu.com/question/38836382)
 
-
 ## Websites
 
 - https://techterms.com/
 - https://www.thoughtworks.com/radar/a-z
 - https://learn-anything.xyz/
 - https://gxnotes.com/
-
 
 ## Resources
 

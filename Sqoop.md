@@ -1,6 +1,5 @@
 # Sqoop
 
-
 ## Overview
 
 - http://sqoop.apache.org/

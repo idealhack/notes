@@ -1,11 +1,9 @@
 # Linux
 
-
 ## Installation
 
 - [[System Installation]]
 - [[Ubuntu on Macbook]]
-
 
 ## Distributionss
 
@@ -15,7 +13,6 @@
 - Arch
 - [Kali](https://www.kali.org/)
 - BlackArch
-
 
 ## Tasks
 
@@ -42,11 +39,9 @@
 - [udevil Homepage](http://ignorantguru.github.io/udevil/)
 - [username/udevil Copr](https://copr.fedorainfracloud.org/coprs/username/udevil/)
 
-
 ## Softwares
 
 - https://github.com/axkibe/lsyncd
-
 
 ## Resources
 

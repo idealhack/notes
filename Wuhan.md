@@ -1,15 +1,12 @@
 # Wuhan
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E6%AD%A6%E6%B1%89%E5%B8%82
 
-
 ## Books
 
 - https://book.douban.com/subject/26959451/
-
 
 ## 咖啡馆
 
@@ -22,7 +19,6 @@
 - 万松园【扎可花园】
 - 积玉桥澳门豆捞附近深巷里【SoulHouseCoffee】
 - 汉口解放公园绿缘路【青咖咖啡厅】
-
 
 ## Resources
 

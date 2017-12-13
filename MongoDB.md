@@ -1,10 +1,8 @@
 # MongoDB
 
-
 ## Documents
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
-
 
 ## Resources
 

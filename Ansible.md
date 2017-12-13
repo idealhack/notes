@@ -1,10 +1,8 @@
 # Ansible
 
-
 ## Overview
 
 - https://www.ansible.com/
-
 
 ## Tasks
 
@@ -13,7 +11,6 @@
     ansible <host-pattern> -m shell -a "date"
     ansible <host-pattern> -m script -a "script.sh"
     ansible <host-pattern> -m copy -a "src=file dest=file"
-
 
 ## Books
 

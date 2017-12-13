@@ -1,6 +1,5 @@
 # Mathematics
 
-
 ## Algebra
 
 - https://zh.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0
@@ -8,7 +7,6 @@
 ### Matrix multiplication
 
 - https://zh.wikipedia.org/wiki/%E7%9F%A9%E9%99%A3%E4%B9%98%E6%B3%95
-
 
 ## Resources
 

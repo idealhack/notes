@@ -1,6 +1,5 @@
 # Go Resources
 
-
 ## Resouces
 
 - https://github.com/avelino/awesome-go

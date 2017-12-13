@@ -1,13 +1,11 @@
 # Docker Monitoring
 
-
 ## Libraries
 
 - https://github.com/weaveworks/scope
 - https://bcicen.github.io/ctop/
 - https://github.com/google/cadvisor
 - http://sematext.com/docker/
-
 
 ## Resources
 

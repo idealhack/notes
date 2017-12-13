@@ -1,12 +1,10 @@
 # jQuery
 
-
 ## Overview
 
 - https://github.com/jquery/jquery
 - https://github.com/jquery/jquery-mobile
 - https://github.com/jquery/jquery-ui
-
 
 ## Libraries
 
@@ -42,7 +40,6 @@
 - https://github.com/briangonzalez/jquery.adaptive-backgrounds.js
 - https://github.com/robflaherty/jquery-scrolldepth
 - https://github.com/jonom/jquery-focuspoint
-
 
 ## Resources
 

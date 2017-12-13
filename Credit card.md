@@ -1,10 +1,8 @@
 # Credit card
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E4%BF%A1%E7%94%A8%E5%8D%A1
-
 
 ## Issuer associations
 
@@ -28,7 +26,6 @@
 
 - https://zh.wikipedia.org/wiki/JCB
 
-
 ## Banks
 
 ### 招商银行
@@ -50,7 +47,6 @@
 ### 上海银行
 
 ### 渣打银行
-
 
 ## Resources
 

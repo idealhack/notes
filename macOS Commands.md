@@ -1,6 +1,5 @@
 # macOS Commands
 
-
 ## Commands
 
 文件列表显示完整时间
@@ -14,7 +13,6 @@
 时间转为时间戳
 
     date -j -f "%b %d %T %Z %Y" "Feb 1 00:00:00 CST 2017" "+%s"
-
 
 ## Resources
 

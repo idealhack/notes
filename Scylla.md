@@ -1,12 +1,9 @@
 # Scylla
 
-
 ## Overview
 
 - http://www.scylladb.com/
 - https://github.com/scylladb/scylla
-
-
 
 ## Installing
 

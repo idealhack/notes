@@ -1,11 +1,9 @@
 # Frontend Best Practises
 
-
 ## Books
 
 - https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details
 - https://www.gitbook.com/book/frontendmasters/front-end-handbook/details
-
 
 ## Tools
 
@@ -14,7 +12,6 @@
 - https://github.com/xdissent/ievms
 - https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools
 - https://github.com/bgrins/devtools-snippets
-
 
 ## Resources
 
@@ -27,7 +24,7 @@
 - [Improving front page performance: removing images, 5 ways](http://blog.pamelafox.org/2014/01/improving-front-page-performance.html)
 - [We spent a week making Trello boards load extremely fast. Here’s how we did it.](http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/)
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
-- [CSS at Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/) 
+- [CSS at Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/)
 - [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css)
 - [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/)
 - [Buffer’s CSS](http://blog.brianlovin.com/buffers-css/)

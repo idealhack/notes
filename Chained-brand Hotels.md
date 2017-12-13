@@ -1,10 +1,8 @@
 # Chained-brand Hotels
 
-
 ## Overview
 
 - https://en.wikipedia.org/wiki/List_of_chained-brand_hotels
-
 
 ## Hotels
 
@@ -42,7 +40,6 @@
 
 - http://www.shangri-la.com/cn/
 - https://zh.wikipedia.org/wiki/%E9%A6%99%E6%A0%BC%E9%87%8C%E6%8B%89%E9%85%92%E5%BA%97
-
 
 ## Resources
 

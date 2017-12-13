@@ -1,6 +1,5 @@
 # Programming
 
-
 ## Topics
 
 - [[Algorithm]]
@@ -22,8 +21,6 @@
 - [[Open-source]]
 - [[Open Data]]
 
-
 ## [[Programming Languages]]
-
 
 ## [[Programming Resources]]

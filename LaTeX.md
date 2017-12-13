@@ -1,11 +1,9 @@
 # LaTeX
 
-
 ## Overview
 
 - https://www.latex-project.org/
 - https://zh.wikipedia.org/wiki/LaTeX
-
 
 ## Resources
 

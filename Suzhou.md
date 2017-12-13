@@ -1,15 +1,12 @@
 # Suzhou
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%B7%9E%E5%B8%82
 
-
 ## Books
 
 - https://book.douban.com/subject/26878852/
-
 
 ## Places to go
 
@@ -18,7 +15,6 @@
 - 诚品书店
 - 平江路
 - 观前街
-
 
 ## Resources
 

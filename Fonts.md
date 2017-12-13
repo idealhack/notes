@@ -1,10 +1,8 @@
 # Fonts
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E5%AD%97%E5%9E%8B
-
 
 ## Fonts
 
@@ -25,7 +23,6 @@
 
 - [AtF Spark](http://aftertheflood.co/projects/atf-spark)
 
-
 ## Webfonts
 
 - https://fonts.google.com/
@@ -33,7 +30,6 @@
 - http://font-spider.org/
 - http://brick.im/
 - http://simplefocus.com/flowtype/
-
 
 ## Resources
 

@@ -1,6 +1,5 @@
 # Design Resources
 
-
 ## Free Pictures
 
 - http://www.pngpix.com/

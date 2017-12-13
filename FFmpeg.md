@@ -1,23 +1,19 @@
 # FFmpeg
 
-
 ## Overview
 
 - [FFmpeg](http://ffmpeg.org/)
-
 
 ## Documentation
 
 - https://www.ffmpeg.org/documentation.html
 - https://trac.ffmpeg.org/wiki
 
-
 ## Libraries
 
 - https://github.com/mikeboers/PyAV
 - https://github.com/Zulko/moviepy
 - https://github.com/Ch00k/ffmpy
-
 
 ## Resources
 

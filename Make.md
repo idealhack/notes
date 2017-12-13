@@ -1,11 +1,9 @@
 # Make
 
-
 ## Overview
 
 - https://www.gnu.org/software/make/
 - https://zh.wikipedia.org/wiki/Make
-
 
 ## Resources
 

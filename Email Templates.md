@@ -1,6 +1,5 @@
 # Email Templates
 
-
 ## Libraries
 
 - https://github.com/mailgun/transactional-email-templates
@@ -10,7 +9,6 @@
 - https://github.com/mailchimp/email-blueprints
 - https://github.com/InterNations/antwort
 - https://github.com/crocodilejs/node-email-templates
-
 
 ## Resources
 

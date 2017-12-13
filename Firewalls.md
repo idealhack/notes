@@ -1,6 +1,5 @@
 # Firewalls
 
-
 ## Resources
 
 ### firewalld

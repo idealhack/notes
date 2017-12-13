@@ -1,10 +1,8 @@
 # Docker Registry
 
-
 ## Overview
 
 - https://docs.docker.com/registry/
-
 
 ## Tools
 

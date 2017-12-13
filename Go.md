@@ -1,12 +1,10 @@
 # Go
 
-
 ## Overview
 
 - [The Go Programming Language](https://golang.org/)
 - [Go 编程语言](https://go-zh.org/)
 - [Go - 维基百科](https://zh.wikipedia.org/wiki/Go)
-
 
 ## Documentation
 
@@ -17,9 +15,7 @@
 - https://www.dotnetperls.com/s#go~top!/
 - https://www.tutorialspoint.com/go/index.htm
 
-
 ## [[Go Libraries]]
-
 
 ## Tools
 
@@ -27,6 +23,5 @@
 - [nathany/looper: Go autotesting tool with readline support.](https://github.com/nathany/looper)
 - [goreleaser/goreleaser: Deliver Go binaries as fast and easily as possible](https://github.com/goreleaser/goreleaser)
 - [thockin/go-build-template: A Makefile/Dockerfile example for Go projects.](https://github.com/thockin/go-build-template)
-
 
 ## [[Go Resources]]

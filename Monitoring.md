@@ -1,6 +1,5 @@
 # Monitoring
 
-
 ## Opensouce
 
 ### Terminal
@@ -47,14 +46,12 @@
 - https://github.com/jamesrwhite/minicron
 - https://github.com/facebook/osquery
 
-
 ## SaaS
 
 - https://www.17ce.com/
 - https://www.datadoghq.com/
 - https://sentry.io/
 - https://www.amon.cx/
-
 
 ## Resources
 

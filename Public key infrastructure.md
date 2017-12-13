@@ -1,6 +1,5 @@
 # Public key infrastructure
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/%E5%85%AC%E9%96%8B%E9%87%91%E9%91%B0%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD
@@ -17,11 +16,9 @@
 
 - https://zh.wikipedia.org/wiki/X.509
 
-
 ### Certificate authority
 
 - https://zh.wikipedia.org/wiki/%E6%95%B0%E5%AD%97%E8%AF%81%E4%B9%A6%E8%AE%A4%E8%AF%81%E6%9C%BA%E6%9E%84
-
 
 ## Resources
 

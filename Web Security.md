@@ -1,15 +1,12 @@
 # Web Security
 
-
 ## Tools
 
 - [HTTP Security Report](https://httpsecurityreport.com/)
 
-
 ## Frontend
 
 - https://github.com/cure53/H5SC
-
 
 ## Resources
 

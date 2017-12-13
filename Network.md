@@ -1,10 +1,8 @@
 # Network
 
-
 ## Overview
 
 - [OSI模型 - 维基百科](https://zh.wikipedia.org/wiki/OSI%E6%A8%A1%E5%9E%8B)
-
 
 ## Protocols
 
@@ -52,16 +50,13 @@
 
 [物理层 - 维基百科](https://zh.wikipedia.org/wiki/%E7%89%A9%E7%90%86%E5%B1%82)
 
-
 ## Gateway
 
 - https://onebitbug.me/2014/05/28/building-a-gateway/
 
-
 ## Task
 
     arp-scan -I <interface> -l | grep <ip> | sort -V | less
-
 
 ## Resources
 

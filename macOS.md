@@ -1,17 +1,14 @@
 # macOS
 
-
 ## Installation
 
 - [如何重新安装 OS X](https://support.apple.com/zh-cn/HT204904)
-
 
 ## Tools
 
 - https://github.com/guarinogabriel/Mac-CLI
 - https://github.com/jaywcjlove/awesome-mac
 - https://github.com/thoughtbot/laptop
-
 
 ## Apps
 
@@ -27,9 +24,7 @@
 
 - [Mailpile](https://www.mailpile.is/)
 
-
 ## [[macOS Commands]]
-
 
 ## Development
 
@@ -37,7 +32,6 @@
 - [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electron.atom.io/)
 - [zeit/hazel: Lightweight update server for Electron apps](https://github.com/zeit/hazel)
 - [ptmt/react-native-macos: React Native for macOS is an experimental fork for writing desktop apps using Cocoa](https://github.com/ptmt/react-native-macos)
-
 
 ## Resources
 

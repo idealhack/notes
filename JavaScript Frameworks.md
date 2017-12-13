@@ -1,6 +1,5 @@
 # JavaScript Frameworks
 
-
 ## Frameworks
 
 http://todomvc.com/
@@ -50,7 +49,6 @@ http://todomvc.com/
 - https://github.com/theintern/intern
 - https://github.com/karma-runner/karma
 - https://github.com/marmelab/gremlins.js
-
 
 ## Resources
 

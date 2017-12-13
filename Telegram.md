@@ -1,17 +1,14 @@
 # Telegram
 
-
 ## Overview
 
 - [Telegram Messenger](https://telegram.org/)
 - [Telegram APIs](https://core.telegram.org/)
 
-
 ## Tools
 
 - [rahiel/telegram-send: Send messages and files over Telegram from the command-line.](https://github.com/rahiel/telegram-send)
 - [pyed/transmission-telegram: Control your Transmission through a Telegram bot](https://github.com/pyed/transmission-telegram)
-
 
 ## Libraries & Frameworks
 

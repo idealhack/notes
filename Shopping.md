@@ -1,6 +1,5 @@
 # Shopping
 
-
 ## Resources
 
 - [电动牙刷推荐&选购指南 | 电动牙刷哪个牌子好_飞利浦电动牙刷哪个型号好_什么值得买](http://post.smzdm.com/p/481338)

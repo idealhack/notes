@@ -1,6 +1,5 @@
 # Machine Learning Frameworks
 
-
 - [OpenCV](http://opencv.org/)
 - [ccv](http://libccv.org/)
 - https://github.com/scikit-learn/scikit-learn

@@ -1,11 +1,9 @@
 #  Node.js
 
-
 ## Overview
 
 - https://nodejs.org/
 - https://github.com/nodejs/node
-
 
 ## Frameworks
 
@@ -22,9 +20,7 @@
 - https://github.com/laktek/punch
 - https://github.com/socketstream/socketstream
 
-
 ## Libraries
-
 
 ### Network
 
@@ -107,11 +103,9 @@
 - https://github.com/brenden/node-webshot
 - https://github.com/ruipgil/scraperjs
 
-
 ## Tools
 
 - https://github.com/node-inspector/node-inspector
-
 
 ## Resources
 

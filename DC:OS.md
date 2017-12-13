@@ -1,11 +1,9 @@
 # DC/OS
 
-
 ## Overview
 
 - [DC/OS](https://dcos.io/)
 - [Datacenter Operating System - Wikipedia](https://en.wikipedia.org/wiki/Datacenter_Operating_System)
-
 
 ## Installing
 
@@ -42,7 +40,6 @@ Steps using ARM template:
 ### Local Universe
 
 - [Deploying a local Universe - Mesosphere DC/OS Documentation](https://docs.mesosphere.com/1.8/administration/installing/deploying-a-local-dcos-universe/)
-
 
 ## Resources
 

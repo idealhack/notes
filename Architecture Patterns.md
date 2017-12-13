@@ -1,24 +1,19 @@
 # Architecture Patterns
 
-
 ## Overview
 
 - http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf
 - https://github.com/hehonghui/android-tech-frontier/tree/master/software-architecture-patterns
 
-
 ## [[Microservices]]
-
 
 ## SOA
 
 - https://zh.wikipedia.org/wiki/%E9%9D%A2%E5%90%91%E6%9C%8D%E5%8A%A1%E7%9A%84%E6%9E%B6%E6%9E%84
 
-
 ## 12factor
 
 - https://12factor.net/zh_cn/
-
 
 ## Resources
 

@@ -1,10 +1,8 @@
 # C++
 
-
 ## Overview
 
 - https://zh.wikipedia.org/wiki/C%2B%2B
-
 
 ## Documentation
 
@@ -12,11 +10,9 @@
 
 - https://zh.wikipedia.org/wiki/%E6%A0%87%E5%87%86%E6%A8%A1%E6%9D%BF%E5%BA%93
 
-
 ## Style Guide
 
 - http://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/
-
 
 ## Libraries
 
@@ -47,11 +43,9 @@
 - https://github.com/fanout/pushpin
 - https://github.com/Microsoft/cpprestsdk
 
-
 ## Tools
 
 - http://valgrind.org/
-
 
 ## Resources
 

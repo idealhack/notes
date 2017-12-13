@@ -1,12 +1,10 @@
 # Development Tools
 
-
 - [[Terminal]]
 - [[Shell]]
 - [[Git]]
 - [[Shadowsocks]]
 - [[HTTP Tools]]
-
 
 ## Editor
 
@@ -21,17 +19,14 @@
 - https://github.com/daylerees/colour-schemes
 - http://chriskempson.com/projects/base16/
 
-
 ## Graphics
 
 - https://www.processon.com/
-
 
 ## Documentation
 
 - https://kapeli.com/dash
 - https://kapeli.com/dash_ios
-
 
 ## dotfiles
 
@@ -40,7 +35,6 @@
 - https://github.com/mathiasbynens/dotfiles
 - https://github.com/thoughtbot/dotfiles
 - https://github.com/skwp/dotfiles
-
 
 ## Other Tools
 
@@ -75,7 +69,6 @@
 - [sharkdp/fd: A simple, fast and user-friendly alternative to find.](https://github.com/sharkdp/fd)
 - [so-fancy/diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs.](https://github.com/so-fancy/diff-so-fancy)
 - [upx/upx: UPX - the Ultimate Packer for eXecutables](https://github.com/upx/upx)
-
 
 ## Resources
 

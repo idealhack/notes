@@ -1,11 +1,9 @@
 # Twisted
 
-
 ## Overview
 
 - https://twistedmatrix.com/trac/
 - https://github.com/twisted/twisted
-
 
 ## Books
 

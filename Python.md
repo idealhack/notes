@@ -1,11 +1,9 @@
 # Python
 
-
 ## Overview
 
 - https://www.python.org/
 - https://zh.wikipedia.org/wiki/Python
-
 
 ## Documentation
 
@@ -14,23 +12,18 @@
 - http://pythonguidecn.readthedocs.io/
 - https://pyformat.info/
 
-
 ## Books
 
 - http://www.diveintopython.net/
-
 
 ## Videos
 
 - http://pymust.watch/
 - https://gitlab.com/rosarior/django-must-watch
 
-
 ## [[Python Frameworks]]
 
-
 ## [[Python Libraries]]
-
 
 ## Style Guide
 
@@ -38,14 +31,12 @@
 - http://pep8.org/
 - http://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/
 
-
 ## Tools
 
 - https://github.com/pyenv/pyenv
 - https://github.com/chriskiehl/Gooey
 - http://doc.devpi.net/latest/
 - [google/grumpy](https://github.com/google/grumpy)
-
 
 ## Resources
 
