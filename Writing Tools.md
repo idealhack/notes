@@ -35,6 +35,7 @@
 ## Documentations
 
 - [Flatdoc](http://ricostacruz.com/flatdoc/)
+- [Docute](https://docute.js.org/)
 
 ## Wiki
 

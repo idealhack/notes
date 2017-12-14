@@ -13,12 +13,13 @@
 
 - [dariubs/GoBooks: List of Golang books](https://github.com/dariubs/GoBooks)
 - [The Go Programming Language](http://www.gopl.io/)
-- [前言 | Go语言圣经](https://docs.hacknode.org/gopl-zh/)
+- [Go语言圣经](https://docs.hacknode.org/gopl-zh/)
 - [Unknwon/the-way-to-go_ZH_CN: 《The Way to Go》中文译本，中文正式名《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
-- [Introduction · Build web application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/zh/)
-- [Introduction · golang-101-hacks](https://nanxiao.gitbooks.io/golang-101-hacks/)
-- [Introduction · 深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/zh/)
-- [前言 · Effective Go 中英双语版](https://bingohuang.gitbooks.io/effective-go-zh-en/)
+- [Build web application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/zh/)
+- [golang-101-hacks](https://nanxiao.gitbooks.io/golang-101-hacks/)
+- [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/zh/)
+- [Effective Go 中英双语版](https://bingohuang.gitbooks.io/effective-go-zh-en/)
+- [Go Programming Blueprints](https://github.com/matryer/goblueprints)
 
 ### Blogs
 
@@ -64,3 +65,7 @@
 
 - [[Go语言]实现可以枚举的map_stevewang_新浪博客](http://blog.sina.com.cn/s/blog_9be3b8f10101dpt6.html)
 - [枚举类型在Go语言中的一种写法](http://www.zenlife.tk/go-enum.md)
+
+### Fun
+
+- [Gopherize.me - A Gopher pic that's as unique as you](https://gopherize.me/)

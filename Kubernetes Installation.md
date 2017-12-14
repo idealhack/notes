@@ -140,7 +140,7 @@ On master:
 
 ## Resources
 
-- [Introduction · follow-me-install-kubernetes-cluster](https://k8s-install.opsnull.com/)
+- [follow-me-install-kubernetes-cluster](https://k8s-install.opsnull.com/)
 - [如何下载 Kubernetes 镜像和 rpm — 漠然](https://mritd.me/2017/02/27/how-to-download-kubernetes-images-and-rpm/)
 - [在Centos7上部署kubernetes集群 · Issue #28 · qianlei90/Blog · GitHub](https://github.com/qianlei90/Blog/issues/28)
 - [使用kubeadm安装Kubernetes 1.6 — 青蛙小白](http://blog.frognew.com/2017/04/kubeadm-install-kubernetes-1.6.html)

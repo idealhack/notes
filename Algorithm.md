@@ -23,7 +23,6 @@
 
 ## Resources
 
-- [LeetCode 刷题指南（一）：为什么要刷题 - Just For Fun - SegmentFault](https://segmentfault.com/a/1190000006059081)
 - [查找算法之顺序、二分、二叉搜索树、红黑树 详细比较总结](http://threezj.com/2016/03/20/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95%E4%B9%8B%E9%A1%BA%E5%BA%8F%E3%80%81%E4%BA%8C%E5%88%86%E3%80%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E3%80%81%E7%BA%A2%E9%BB%91%E6%A0%91%20%E8%AF%A6%E7%BB%86%E6%AF%94%E8%BE%83%E6%80%BB%E7%BB%93/)
 - [高阶函数 - 维基百科](https://zh.wikipedia.org/wiki/%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0)
 - [被忽视的 partition 算法 - Just For Fun - SegmentFault](https://segmentfault.com/a/1190000006771980)
@@ -45,8 +44,13 @@
 - [nzakas/computer-science-in-javascript: Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.](https://github.com/nzakas/computer-science-in-javascript)
 - [liuxinyu95/AlgoXY: Book of Elementary Algorithms and Data structures](https://github.com/liuxinyu95/AlgoXY)
 - [julycoding/The-Art-Of-Programming-By-July: 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售](https://github.com/julycoding/The-Art-Of-Programming-By-July)
-- [soulmachine/leetcode: LeetCode题解，151道题完整版](https://github.com/soulmachine/leetcode)
-- [billryan/algorithm-exercise: Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/](https://github.com/billryan/algorithm-exercise)
 - [coells/100days: 100 days of algorithms](https://github.com/coells/100days)
 - [rainliu/algorithms: Algorithms (4th Edition) in Go](https://github.com/rainliu/algorithms)
 - [donnemartin/interactive-coding-challenges: Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.](https://github.com/donnemartin/interactive-coding-challenges)
+
+#### Leetcode
+
+- [Leetcode CLI | leetcode-cli](https://skygragon.github.io/leetcode-cli/)
+- [soulmachine/leetcode: LeetCode题解，151道题完整版](https://github.com/soulmachine/leetcode)
+- [billryan/algorithm-exercise: Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/](https://github.com/billryan/algorithm-exercise)
+- [LeetCode 刷题指南（一）：为什么要刷题 - Just For Fun - SegmentFault](https://segmentfault.com/a/1190000006059081)

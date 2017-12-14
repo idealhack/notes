@@ -21,7 +21,7 @@
     sudo reboot
     sudo yum install -y gcc kernel-devel    # CentOS
     sudo apt install -y gcc make            # Ubuntu
-    curl -O http://cn.download.nvidia.com/XFree86/Linux-x86_64/384.98/NVIDIA-Linux-x86_64-384.98.run
+    curl -O http://cn.download.nvidia.com/XFree86/Linux-x86_64/387.34/NVIDIA-Linux-x86_64-387.34.run
     chmod +x NVIDIA-Linux-x86_64-*.run
     sudo ./NVIDIA-Linux-x86_64-*.run
     nvidia-smi

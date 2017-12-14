@@ -42,7 +42,7 @@
 
 - [opentracing.io ](http://opentracing.io/)
 - [OpenZipkin · A distributed tracing system](http://zipkin.io/)
-- [Introduction · opentracing文档中文版 ( 翻译 ) 吴晟](https://wu-sheng.gitbooks.io/opentracing-io/)
+- [opentracing文档中文版 ( 翻译 ) 吴晟](https://wu-sheng.gitbooks.io/opentracing-io/)
 - [Applications of (pin)trace data – Pinterest Engineering – Medium](https://medium.com/@Pinterest_Engineering/applications-of-pin-trace-data-3b9e6dc2744b)
 
 ## Resources

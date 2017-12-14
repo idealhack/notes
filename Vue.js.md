@@ -25,7 +25,7 @@
 
 ### Books
 
-- [Introduction · GitBook](https://ssr.vuejs.org/zh/)
+- [GitBook](https://ssr.vuejs.org/zh/)
 
 ### Slides
 

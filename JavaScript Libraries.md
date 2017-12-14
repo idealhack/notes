@@ -345,3 +345,4 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - [segmentio/analytics.js: The hassle-free way to integrate analytics into any web application.](https://github.com/segmentio/analytics.js)
 - [messageformat/messageformat.js: ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages](https://github.com/messageformat/messageformat.js)
 - [openannotation/annotator: Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.](https://github.com/openannotation/annotator)
+- [stretchr/arg.js: Lightweight URL argument and parameter parser](https://github.com/stretchr/arg.js)

@@ -12,7 +12,7 @@
 ## Goodies
 
 - [mapmeld/gitjk: Undo what you just did in git](https://github.com/mapmeld/gitjk)
-- [Introduction · Tig - Text-mode interface for Git](https://jonas.github.io/tig/)
+- [Tig - Text-mode interface for Git](https://jonas.github.io/tig/)
 - [FredrikNoren/ungit: The easiest way to use git. On any platform. Anywhere.](https://github.com/FredrikNoren/ungit)
 - [arnoo/git-deliver: Delivery system based on git push and ssh](https://github.com/arnoo/git-deliver)
 - [mhagger/git-imerge: Incremental merge for git](https://github.com/mhagger/git-imerge)

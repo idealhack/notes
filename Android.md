@@ -2,8 +2,13 @@
 
 ## Setup
 
-- [Kotlin Programming Language](https://kotlinlang.org/)
+- [Android Studio and SDK Tools | Android Studio](https://developer.android.com/studio/index.html)
 - [Android NDK](https://developer.android.com/ndk/index.html)
+
+## Kotlin
+
+- [Kotlin Programming Language](https://kotlinlang.org/)
+- [Kotlin 语言中文站](https://www.kotlincn.net/)
 
 ## Style Guide
 

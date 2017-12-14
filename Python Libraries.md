@@ -19,12 +19,6 @@
 
 - [python-hyper/hyper-h2: HTTP/2 State-Machine based protocol implementation](https://github.com/python-hyper/hyper-h2)
 
-### scrapy
-
-- [scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy)
-- [scrapinghub/portia: Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
-- [xiyouMc/WebHubBot: Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.](https://github.com/xiyouMc/PornHubBot)
-
 ### Others
 
 - [spotify/luigi: Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.](https://github.com/spotify/luigi)

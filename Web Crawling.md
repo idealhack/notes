@@ -1,5 +1,11 @@
 # Web Crawling
 
+- [BruceDone/awesome-crawler: A collection of awesome web crawler,spider in different languages](https://github.com/BruceDone/awesome-crawler)
+
+## Colly
+
+- [gocolly/colly: Fast and Elegant Scraping Framework for Golang](https://github.com/gocolly/colly)
+
 ## Sphinx
 
 - [Overview — Sphinx 1.6.6+ documentation](http://sphinx-doc.org/)
@@ -7,9 +13,11 @@
 - [ryan-roemer/sphinx-bootstrap-theme: Sphinx Bootstrap Theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme)
 - [Bootswatch: Free themes for Bootstrap](http://bootswatch.com/)
 
-## Apps
+## Scrapy
 
-- [sundy-li/wechat_spider: 基于中间人截获的微信公众号爬虫](https://github.com/sundy-li/wechat_spider)
+- [scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy)
+- [scrapinghub/portia: Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
+- [xiyouMc/WebHubBot: Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.](https://github.com/xiyouMc/PornHubBot)
 
 ## Resources
 

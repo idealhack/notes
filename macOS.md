@@ -13,6 +13,7 @@
 ## Apps
 
 - [Project IINA - 现代的 macOS 视频播放器](https://lhc70000.github.io/iina/zh-cn/)
+- [BitBar - Put anything in your Mac OS X menu bar](https://getbitbar.com/)
 
 ### Programming
 
