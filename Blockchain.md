@@ -12,3 +12,7 @@
 ## Tools
 
 - [Block.cc](https://block.cc/)
+
+## Resources
+
+- [Jeiwan/blockchain_go: A simplified blockchain implementation in Golang](https://github.com/Jeiwan/blockchain_go)

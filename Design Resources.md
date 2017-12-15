@@ -1,5 +1,9 @@
 # Design Resources
 
+## Courses
+
+- [Designers.how - Become a better digital designer in just minutes a day](https://designers.how/)
+
 ## Free Pictures
 
 - [PngPix - Download Free PNG Photo Images](http://www.pngpix.com/)

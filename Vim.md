@@ -1,5 +1,11 @@
 # Vim
 
+## Tutorials
+
+- [Interactive Vim tutorial](http://www.openvim.com/)
+
+## Manuals
+
 - [Vim 用户手册中文版.pdf](https://s3-us-west-2.amazonaws.com/notion-static/qQovWz0SFCenpwvfr16Q_Vim%20.pdf)
 - [Best of VIM Tips, gVIM's Key Features zzapper](http://zzapper.co.uk/vimtips.html)
 - ![](https://s3-us-west-2.amazonaws.com/notion-static/A5TRN2OfSdK0r72pPjQx_Untitled)

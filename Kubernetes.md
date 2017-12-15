@@ -29,6 +29,7 @@
 - [johanhaleby/kubetail: Bash script to tail Kubernetes logs from multiple pods at the same time](https://github.com/johanhaleby/kubetail)
 - [Azure/draft: A tool for developers to create cloud-native applications on Kubernetes.](https://github.com/Azure/draft)
 - [Azure/brigade: Event-based Scripting for Kubernetes.](https://github.com/Azure/brigade)
+- [garethr/kubeval: Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/garethr/kubeval)
 
 ## Monitoring
 

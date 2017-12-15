@@ -65,6 +65,7 @@
 - [dtao/autodoc: Doc generation on steroids](https://github.com/dtao/autodoc)
 - [mishoo/UglifyJS2: JavaScript parser / mangler / compressor / beautifier toolkit](https://github.com/mishoo/UglifyJS2)
 - [csnover/TraceKit: Attempts to create stack traces for unhandled JavaScript exceptions in all major browsers.](https://github.com/csnover/TraceKit)
+- [Javascript development tools - resources](http://clausreinke.github.io/js-tools/resources.html)
 
 ## Examples
 
