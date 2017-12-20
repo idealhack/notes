@@ -1,4 +1,4 @@
-# Cloud Computing
+# Cloud computing
 
 ## Overview
 

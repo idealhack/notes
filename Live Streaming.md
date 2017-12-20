@@ -1,4 +1,4 @@
-# Live Streaming
+# Live streaming
 
 ## Media Codec
 

@@ -1,4 +1,4 @@
-# Neural Network
+# Artificial neural network
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# Employee Stock Option
+# Employee stock option
 
 ## Overview
 

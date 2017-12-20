@@ -1,4 +1,8 @@
-# Distributed System
+# Distributed computing
+
+## Overview
+
+- [分布式计算 - 维基百科](https://zh.wikipedia.org/wiki/%E5%88%86%E5%B8%83%E5%BC%8F%E8%AE%A1%E7%AE%97)
 
 ## Systems
 

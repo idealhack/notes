@@ -2,6 +2,8 @@
 
 ## Overview
 
+- [Architectural pattern - Wikipedia](https://en.wikipedia.org/wiki/Architectural_pattern)
+- [List of software architecture styles and patterns - Wikipedia](https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns)
 - [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp)
 - [android-tech-frontier/software-architecture-patterns at master · hehonghui/android-tech-frontier · GitHub](https://github.com/hehonghui/android-tech-frontier/tree/master/software-architecture-patterns)
 

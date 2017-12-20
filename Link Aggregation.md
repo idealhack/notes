@@ -1,4 +1,4 @@
-# Link Aggregation
+# Link aggregation
 
 ## Overview
 

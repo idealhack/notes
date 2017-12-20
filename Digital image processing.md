@@ -1,4 +1,8 @@
-# Image Processing
+# Digital image processing
+
+## Overview
+
+- [Digital image processing - Wikipedia](https://en.wikipedia.org/wiki/Digital_image_processing)
 
 ## Algorithms
 

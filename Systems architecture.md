@@ -1,4 +1,4 @@
-# System Architecture
+# Systems architecture
 
 ## Overview
 

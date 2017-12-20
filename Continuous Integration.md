@@ -1,4 +1,4 @@
-# Continuous Integration
+# Continuous integration
 
 ## Overview
 

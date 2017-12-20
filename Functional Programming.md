@@ -1,4 +1,4 @@
-# Functional Programming
+# Functional programming
 
 ## Overview
 

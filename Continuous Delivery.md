@@ -1,4 +1,4 @@
-# Continuous Delivery
+# Continuous delivery
 
 ## Overview
 
