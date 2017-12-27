@@ -1,4 +1,4 @@
-# Face Detecion
+# Face Detection
 
 ## Overview
 

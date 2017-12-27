@@ -12,6 +12,7 @@
 
 ## Libraries & Frameworks
 
+- [python-telegram-bot/python-telegram-bot: We have made you a wrapper you can't refuse](https://github.com/python-telegram-bot/python-telegram-bot)
 - [go-telegram-bot-api/telegram-bot-api: Golang bindings for the Telegram Bot API](https://github.com/go-telegram-bot-api/telegram-bot-api)
 - [tucnak/telebot: Telebot is a Telegram bot framework in Go.](https://github.com/tucnak/telebot)
 - [yanzay/tbot: Telegram Bot Server](https://github.com/yanzay/tbot)

@@ -40,7 +40,6 @@
 - [kennethreitz/clint: Python Command-line Application Tools](https://github.com/kennethreitz/clint)
 - [pallets/click: Python composable command line utility](https://github.com/pallets/click)
 - [miracle2k/webassets: Asset management for Python web development.](https://github.com/miracle2k/webassets)
-- [litl/rauth: A Python library for OAuth 1.0/a, 2.0, and Ofly.](https://github.com/litl/rauth)
 - [kennethreitz/tablib: Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.](https://github.com/kennethreitz/tablib)
 - [sloria/TextBlob: Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.](https://github.com/sloria/TextBlob)
 - [isnowfy/snownlp: Python library for processing Chinese text](https://github.com/isnowfy/snownlp)

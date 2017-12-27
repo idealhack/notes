@@ -6,7 +6,7 @@
 
 - [[Neural Network]]
 - [[Machine Learning]]
-- [[Face Detecion]]
+- [[Face Detection]]
 - [[Pedestrian Detection]]
 - [[Pornographic Detection]]
 

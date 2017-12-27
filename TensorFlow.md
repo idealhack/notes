@@ -7,6 +7,7 @@
 ## Tools
 
 - [google/kubeflow: Machine Learning Toolkit for Kubernetes](https://github.com/google/kubeflow)
+- [Microsoft/DLWorkspace: Deep Learning Workspace](https://github.com/Microsoft/DLWorkspace)
 
 ## Resources
 

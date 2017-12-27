@@ -18,7 +18,6 @@
 - [kataras/iris: The fastest web framework for Go in (THIS) Universe. HTTP/2 & MVC fully featured. Real-time support](https://github.com/kataras/iris)
 - [go-siris/siris: The community driven fork of Iris. The fastest web framework for Golang!](https://github.com/go-siris/siris)
 - [labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
-- [ory/hydra: OAuth2 server with OpenID Connect - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language.](https://github.com/ory/hydra)
 - [Gorilla, the golang web toolkit](http://www.gorillatoolkit.org/)
 - [gobuffalo/buffalo: Rapid Web Development w/ Go](https://github.com/gobuffalo/buffalo)
 
@@ -75,6 +74,7 @@
 - [nareix/joy4: Golang audio/video library and streaming server](https://github.com/nareix/joy4)
 - [gonet/2 by gonet2](http://gonet2.github.io/)
 - [go-vgo/robotgo: RobotGo, Go Native cross-platform system automation](https://github.com/go-vgo/robotgo)
+- [rakyll/statik: Embed files into a Go executable](https://github.com/rakyll/statik)
 
 ## Resources
 

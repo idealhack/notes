@@ -27,6 +27,10 @@
 
 - [tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
 
+## Books
+
+- [GitInPractice/GitInPractice: 📖 An opinionated intermediate/advanced Git book from @MikeMcQuaid](https://github.com/GitInPractice/GitInPractice)
+
 ## Resources
 
 - [Git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)

@@ -22,6 +22,7 @@
 - [Presto](https://prestodb.io/)
 - [Mahout](http://mahout.apache.org/)
 - [IndexR](https://github.com/shunfei/indexr)
+- [nuclio/nuclio: High-Performance Serverless event and data processing platform](https://github.com/nuclio/nuclio)
 
 ## Resources
 

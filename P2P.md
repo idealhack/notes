@@ -10,6 +10,10 @@
 
 ## Applications
 
-- BitTorrent
-- BitCoin ([[Blockchain]])
+- [[Blockchain]]
+- [[Cryptocurrency]]
 - [IPFS is the Distributed Web](https://ipfs.io/)
+
+### BitTorrent
+
+- [磁力链接 - 维基百科](https://zh.wikipedia.org/wiki/%E7%A3%81%E5%8A%9B%E9%93%BE%E6%8E%A5)

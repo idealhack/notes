@@ -31,7 +31,6 @@
 - [haraka/Haraka: A fast, highly extensible, and event driven SMTP server](https://github.com/haraka/Haraka)
 - [mscdex/node-imap: An IMAP client module for node.js.](https://github.com/mscdex/node-imap)
 - [node-apn/node-apn: Apple Push Notification module for Node.js](https://github.com/node-apn/node-apn)
-- [Kong/mashape-oauth: OAuth Modules for Node.js - Supporting RSA, HMAC, PLAINTEXT, 2,3-Legged, 1.0a, Echo, XAuth, and 2.0](https://github.com/Mashape/mashape-oauth)
 - [node-webot/wechat: 微信公共平台消息接口服务中间件](https://github.com/node-webot/wechat)
 - [node-nock/nock: HTTP mocking and expectations library](https://github.com/node-nock/nock)
 

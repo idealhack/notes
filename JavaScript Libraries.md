@@ -198,12 +198,6 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - [scottjehl/picturefill: A responsive image polyfill for <picture>, srcset, sizes, and more](https://github.com/scottjehl/picturefill)
 - [matthewhudson/current-device: The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Tablet vs. Mobile).](https://github.com/matthewhudson/device.js)
 
-## Authentication
-
-- [jaredhanson/passport: Simple, unobtrusive authentication for Node.js.](https://github.com/jaredhanson/passport)
-- [MrSwitch/hello.js: A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect](https://github.com/MrSwitch/hello.js)
-- [ciaranj/node-oauth: OAuth wrapper for node.js](https://github.com/ciaranj/node-oauth)
-
 ## Multimedia
 
 ### Image
