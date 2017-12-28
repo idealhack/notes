@@ -24,7 +24,6 @@
 - [luisobo/Nocilla: Testing HTTP requests has never been easier. Nocilla: Stunning HTTP stubbing for iOS and Mac OS X.](https://github.com/luisobo/Nocilla)
 - [core-plot/core-plot: Core Plot source code and example applications](https://github.com/core-plot/core-plot)
 - [Cocoanetics/DTCoreText: Methods to allow using HTML code with CoreText](https://github.com/Cocoanetics/DTCoreText)
-- [cocos2d/cocos2d-objc: Cocos2d for iOS and OS X, built using Objective-C](https://github.com/cocos2d/cocos2d-objc)
 - [RestKit/RestKit: RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X](https://github.com/RestKit/RestKit)
 - [futuretap/InAppSettingsKit: This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.](https://github.com/futuretap/InAppSettingsKit)
 - [rs/SDWebImage: Asynchronous image downloader with cache support as a UIImageView category](https://github.com/rs/SDWebImage)

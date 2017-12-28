@@ -57,7 +57,6 @@
 - [gruns/furl: URL parsing and manipulation made easy.](https://github.com/gruns/furl)
 - [codelucas/newspaper: 💡 News, full-text, and article metadata extraction in Python 3](https://github.com/codelucas/newspaper)
 - [benoitc/gunicorn: gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.](https://github.com/benoitc/gunicorn)
-- [quantopian/zipline: Zipline, a Pythonic Algorithmic Trading Library](https://github.com/quantopian/zipline)
 - [gevent/gevent: Coroutine-based concurrency library for Python](https://github.com/gevent/gevent)
 - [numba/numba: NumPy aware dynamic Python compiler using LLVM](https://github.com/numba/numba)
 - [pandas-dev/pandas: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more](https://github.com/pandas-dev/pandas)

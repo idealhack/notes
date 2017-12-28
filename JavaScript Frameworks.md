@@ -15,7 +15,6 @@
 - [Zepto.js: the aerogel-weight jQuery-compatible JavaScript library](http://zeptojs.com/)
 - [Riot.js — Simple and elegant component-based UI library](http://riotjs.com/)
 - [Ember.js - A framework for creating ambitious web applications.](http://www.emberjs.com/)
-- [Knockout : Home](http://knockoutjs.com/)
 - [Amaze UI | 中国首个开源 HTML5 跨屏前端框架](http://amazeui.org/)
 - [Brunch - ultra-fast HTML5 build tool](http://brunch.io/)
 - [BlueSpire/Durandal: A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications (SPAs) easy to create and maintain.](https://github.com/BlueSpire/Durandal)
@@ -54,3 +53,5 @@
 
 - [2016/04/07 展望 Javascript 2016年的趋势和生态发展 · Issue #12 · gaohailang/blog · GitHub](https://github.com/gaohailang/blog/issues/12)
 - [State of the Art JavaScript in 2016 – JavaScript and Opinions – Medium](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
+- [前端框架这么多，该何去何从？ – ThoughtWorks洞见](http://insights.thoughtworkers.org/how-to-choose-front-end-architectures/)
+- [前端UI框架小汇总 - PC.aaron - 博客园](http://www.cnblogs.com/aaron-pan/p/8018473.html)

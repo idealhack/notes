@@ -10,3 +10,7 @@
 - [Btrfs - 维基百科](https://zh.wikipedia.org/wiki/Btrfs)
 - ext4
 - [[ZFS]]
+
+## Resources
+
+- [译：Linux 文件系统介绍 - Tony Output - SegmentFault](https://segmentfault.com/a/1190000012527631)

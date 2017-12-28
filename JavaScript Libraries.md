@@ -335,7 +335,6 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - [petruisfan/node-supervisor](https://github.com/petruisfan/node-supervisor)
 - [jimhigson/oboe.js: A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.](https://github.com/jimhigson/oboe.js)
 - [simple-statistics/simple-statistics: simple statistics for node & browser javascript](https://github.com/simple-statistics/simple-statistics)
-- [cocos2d/cocos2d-html5: cocos2d for Web Browsers. Built using JavaScript](https://github.com/cocos2d/cocos2d-html5)
 - [segmentio/analytics.js: The hassle-free way to integrate analytics into any web application.](https://github.com/segmentio/analytics.js)
 - [messageformat/messageformat.js: ICU MessageFormat for Javascript - i18n Plural and Gender Capable Messages](https://github.com/messageformat/messageformat.js)
 - [openannotation/annotator: Annotation tools for the web. Select text, images, or (nearly) anything else, and add your notes.](https://github.com/openannotation/annotator)

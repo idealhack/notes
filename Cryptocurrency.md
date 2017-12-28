@@ -19,6 +19,7 @@
 ## Tools
 
 - [Block.cc](https://block.cc/)
+- [Coinbin.org: A Human–Friendly API Service for Crypto Currency Information](https://coinbin.org/)
 
 ### Trading
 
@@ -28,3 +29,7 @@
 - [butor/blackbird: Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy](https://github.com/butor/blackbird)
 - [carlos8f/zenbot: Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.](https://github.com/carlos8f/zenbot)
 - [ccxt/ccxt: A JavaScript / Python / PHP cryptocurrency trading library with support for more than 90 bitcoin/altcoin exchanges](https://github.com/ccxt/ccxt)
+
+## Resources
+
+- [kennethreitz/awesome-coins: ₿ A guide (for humans!) to cryto-currencies and their algos.](https://github.com/kennethreitz/awesome-coins)

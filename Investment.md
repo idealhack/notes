@@ -16,6 +16,8 @@
 
 ## [[Real property]]
 
+## [[Algorithmic trading]]
+
 ## Resources
 
 - [Investopedia - Sharper Insight. Smarter Investing.](http://www.investopedia.com/)

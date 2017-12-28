@@ -15,7 +15,7 @@
 ## Websites
 
 - [The Tech Terms Computer Dictionary](https://techterms.com/)
-- [A-Z | Technology Radar | ThoughtWorks](https://www.thoughtworks.com/radar/a-z)
+- [Technology Radar | ThoughtWorks](https://www.thoughtworks.com/radar)
 - [Learn Anything](https://learn-anything.xyz/)
 
 ## Resources
