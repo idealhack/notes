@@ -16,6 +16,7 @@
 - [wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk)
 - [kennethreitz/httpbin: HTTP Request & Response Service, written in Python + Flask.](https://github.com/kennethreitz/httpbin)
 - [rakyll/hey: HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom](https://github.com/rakyll/hey)
+- [httperf/httperf: The httperf HTTP load generator](https://github.com/httperf/httperf)
 
 ## Resources
 

@@ -19,6 +19,12 @@
 
     sudo ifup -v wlan0
 
+## Wake-on-LAN
+
+    ethtool eth0
+    ethtool -s eth0 wol g
+    ether-wake -i eth0 00:30:67:6d:3d:7c
+    echo 'ETHTOOL_OPTS="wol g"' > /etc/sysconfig/network-scripts/ifcfg-eth0
 
 ## Resources
 

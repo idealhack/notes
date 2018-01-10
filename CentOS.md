@@ -7,8 +7,6 @@
 
 ## Setup
 
-使用 `CentOS-7-x86_64-Minimal-1611.iso` 安装后的配置流程如下
-
 ### Update system
 
     sudo yum update -y
