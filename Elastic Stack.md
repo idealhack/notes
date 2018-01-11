@@ -4,8 +4,20 @@
 
 - [Powering Data Search, Log Analysis, Analytics | Elastic](https://www.elastic.co/products)
 
-## Stack
+## Logstash
 
-- Logstash
-- [[Elasticsearch]]
-- Kibana
+## Kibana
+
+## Elasticsearch
+
+### Overview
+
+- [Elasticsearch: RESTful, Distributed Search & Analytics | Elastic](https://www.elastic.co/products/elasticsearch)
+- [elastic/elasticsearch: Open Source, Distributed, RESTful Search Engine](https://github.com/elastic/elasticsearch)
+
+### UI
+
+- [appbaseio/dejavu: The Missing Web UI for Elasticsearch](https://github.com/appbaseio/dejavu)
+
+### Resources
+

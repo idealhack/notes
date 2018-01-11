@@ -1,4 +1,4 @@
-# Architecture Patterns
+# Architectural pattern
 
 ## Overview
 

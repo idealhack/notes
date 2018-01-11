@@ -16,6 +16,7 @@
 - [satoshiiizuka/siggraph2016_colorization: Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.](https://github.com/satoshiiizuka/siggraph2016_colorization)
 - [nagadomi/waifu2x: Image Super-Resolution for Anime-Style Art](https://github.com/nagadomi/waifu2x)
 - [lllyasviel/style2paints: sketch + style = paints](https://github.com/lllyasviel/style2paints)
+- [MG2033/ShuffleNet: ShuffleNet Implementation in TensorFlow](https://github.com/MG2033/ShuffleNet)
 
 ## Papers
 

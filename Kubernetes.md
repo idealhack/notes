@@ -46,6 +46,7 @@
 ## Videos
 
 - [Kubernetes Webinars - YouTube](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ)
+- [cloudyuga/kubecon17](https://github.com/cloudyuga/kubecon17)
 
 ## Real world
 
@@ -84,6 +85,7 @@
 ### CI
 
 - [基于Jenkins和Kubernetes的CI工作流](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649693456&idx=1&sn=b36ed8057c23113da2396b77208689f1)
+- [box/kube-applier: kube-applier enables automated deployment and declarative configuration for your Kubernetes cluster.](https://github.com/box/kube-applier)
 
 ### Ingress
 

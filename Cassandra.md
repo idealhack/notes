@@ -64,6 +64,5 @@
 - [Cassandra - FlyML](https://www.flyml.net/category/big-data/cassandra/)
 - [Fulfilling the promise of Apache Cassandra performance - OpenCredo](https://opencredo.com/fulfilling-promise-apache-cassandra/)
 - [Apache Cassandra for analytics: A performance and storage analysis - O'Reilly Media](https://www.oreilly.com/ideas/apache-cassandra-for-analytics-a-performance-and-storage-analysis)
-- [数据处理平台架构中的SMACK组合：Spark、Mesos、Akka、Cassandra以及Kafka](https://mp.weixin.qq.com/s/rlu6LUfSTuNrK3Dhfbczaw)
 - [当Facebook创造的cassandra遇上饿了么](https://mp.weixin.qq.com/s/fDQc6QrnX2IcaVOZ0Lb82w)
 

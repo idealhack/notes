@@ -13,7 +13,6 @@
 
 - [Munin](http://munin-monitoring.org/)
 - [NetData: Get control of your Linux Servers. Simple. Effective. Awesome.](https://my-netdata.io/)
-- [prometheus/prometheus: The Prometheus monitoring system and time series database.](https://github.com/prometheus/prometheus)
 - [Bosun](http://bosun.org/)
 - [cockpit-project/cockpit: There's code a goin' on](https://github.com/cockpit-project/cockpit)
 - [riemann/riemann: A network event stream processing system, in Clojure.](https://github.com/riemann/riemann)
@@ -57,7 +56,6 @@
 
 - [How To Install the Munin Monitoring Tool on Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-the-munin-monitoring-tool-on-ubuntu-14-04)
 - [生产环境下的性能监控 - Datadog](http://tech.glowing.com/cn/performance-monitoring-with-datadog/)
-- [如何选择Docker监控方案 - 自言自语](http://liubin.org/blog/2016/04/24/how-to-choose-a-docker-monitor-solution/)
 - [Netflix Instance Analysis Requirements](http://www.brendangregg.com/blog/2015-06-23/netflix-instance-analysis-requirements.html)
 - [Flame Graphs](http://www.brendangregg.com/flamegraphs.html)
 - [htop explained | peteris.rocks](https://peteris.rocks/blog/htop/)

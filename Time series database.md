@@ -7,6 +7,7 @@
 ## Databases
 
 - [influxdata/influxdb: Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdata/influxdb)
+- [prometheus/prometheus: The Prometheus monitoring system and time series database.](https://github.com/prometheus/prometheus)
 - [OpenTSDB/opentsdb: A scalable, distributed Time Series Database.](https://github.com/OpenTSDB/opentsdb)
 
 ## Resources

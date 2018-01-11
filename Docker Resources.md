@@ -6,6 +6,7 @@
 - [DockerInfo-Docker容器技术教程,Docker信息传播和服务平台](http://www.dockerinfo.net/)
 - [DockOne.io](http://dockone.io/)
 - [Dokku - The smallest PaaS implementation you've ever seen](http://dokku.viewdocs.io/dokku/)
+- [wsargent/docker-cheat-sheet: Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
 
 ### Books
 
@@ -27,10 +28,6 @@
 - [docker官方文档中文译文 · GitBook](https://www.gitbook.com/book/octowhale/doc2cn_docker/details)
 - [Log in to Your Account · GitBook](https://opskumu.gitbooks.io/docker/)
 
-### docker集群化
-
-[docker集群化 · GitBook](https://www.gitbook.com/book/dick/docker/details)
-
 ### 深度浅出 Docker
 
 [深入浅出Docker · 看云](http://www.kancloud.cn/infoq/docker)
@@ -49,6 +46,7 @@
 ### Misc
 
 - [Docker 核心技术与实现原理](https://draveness.me/docker)
+- [Docker 学习笔记 — » Kumu's Blog](http://blog.opskumu.com/docker.html)
 - [Docker 实践（一）：了解架构 - Tairy's Blog - SegmentFault](https://segmentfault.com/a/1190000006448568)
 - [Docker 实践（四）：Beta 环境容器化 - Tairy's Blog - SegmentFault](https://segmentfault.com/a/1190000006875435)
 - [SegmentFault 技术周刊 Vol.5 - Docker丨Build, Ship, Run, and Monitor - 社区周刊 - SegmentFault](https://segmentfault.com/a/1190000006893394)

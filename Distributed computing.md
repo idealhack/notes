@@ -40,7 +40,6 @@
 - [Raft (computer science) - Wikipedia](https://en.wikipedia.org/wiki/Raft_(computer_science))
 - [Raft](http://thesecretlivesofdata.com/raft/)
 - [Raft 为什么是更易理解的分布式一致性算法 - mindwind - 博客园](http://www.cnblogs.com/mindwind/p/5231986.html)
-- [Raft consensus in swarm mode | Docker Documentation](https://docs.docker.com/engine/swarm/raft/)
 - [寻找一种易于理解的一致性算法（扩展版） · maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn/blob/master/raft-zh_cn.md)
 
 ## Tracing

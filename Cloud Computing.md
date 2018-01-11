@@ -14,6 +14,5 @@
 
 ## Resources
 
-- [数据中心架构，未来谁将主导容器技术?Mesos vs K8s](http://www.toutiao.com/i6424085526021669378/)
 - [解读 | 你真正理解什么是Cloud Native吗？ - DockOne.io](http://www.dockone.io/article/688)
 - [世界主流雲計算廠商服務器節點檢測 | Siege](https://ky0n.xyz/cloudspeed/)

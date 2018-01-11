@@ -13,10 +13,6 @@
 
 - [intel-analytics/BigDL: BigDL: Distributed Deep Learning Library for Apache Spark](https://github.com/intel-analytics/BigDL)
 
-### Mesos
-
-- [Running Spark on Mesos - Spark 2.2.0 Documentation](http://spark.apache.org/docs/latest/running-on-mesos.html)
-
 ### Cassandra
 
 - [Getting Started with Apache Spark and Cassandra | DataStax Academy: Free Cassandra Tutorials and Training](https://academy.datastax.com/resources/getting-started-apache-spark-and-cassandra?unit=getting-started-apache-spark-and-cassandra)

@@ -7,11 +7,11 @@
 ## Topics
 
 - [[Design Patterns]]
-- [[System Architecture]]
-- [[Architecture Patterns]]
-- [[Continuous Integration]]
-- [[Continuous Delivery]]
-- [[Project Management]]
+- [[Systems architecture]]
+- [[Architectural pattern]]
+- [[Continuous integration]]
+- [[Continuous delivery]]
+- [[Project management]]
 
 ## Methodologies
 

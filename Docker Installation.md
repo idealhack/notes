@@ -23,12 +23,13 @@ Steps on Ubuntu: [Get Docker CE for Ubuntu | Docker Documentation](https://docs.
 [NVIDIA/nvidia-docker: Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
 
 Setps on CentOS:
-
-    sudo yum install -y wget
-    wget -P /tmp https://github.com/NVIDIA/nvidia-docker/releases/download/v1.0.1/nvidia-docker-1.0.1-1.x86_64.rpm
-    sudo rpm -i /tmp/nvidia-docker*.rpm && rm /tmp/nvidia-docker*.rpm
-    sudo systemctl start nvidia-docker
-    sudo systemctl enable nvidia-docker
+    
+    docker volume ls -q -f driver=nvidia-docker | xargs -r -I{} -n1 docker ps -q -a -f volume={} | xargs -r docker rm -f
+    sudo yum remove nvidia-docker
+    curl -s -L https://nvidia.github.io/nvidia-docker/centos7/x86_64/nvidia-docker.repo | \
+    sudo tee /etc/yum.repos.d/nvidia-docker.repo
+    sudo yum install -y nvidia-docker2
+    sudo pkill -SIGHUP dockerd
     nvidia-docker run --rm nvidia/cuda nvidia-smi
 
 ## Configure Mirror
