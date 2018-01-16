@@ -17,6 +17,7 @@
 - [nagadomi/waifu2x: Image Super-Resolution for Anime-Style Art](https://github.com/nagadomi/waifu2x)
 - [lllyasviel/style2paints: sketch + style = paints](https://github.com/lllyasviel/style2paints)
 - [MG2033/ShuffleNet: ShuffleNet Implementation in TensorFlow](https://github.com/MG2033/ShuffleNet)
+- [emilwallner/Screenshot-to-code-in-Keras: A neural network that transforms a screenshot into a static website](https://github.com/emilwallner/Screenshot-to-code-in-Keras)
 
 ## Papers
 

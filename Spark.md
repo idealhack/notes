@@ -20,6 +20,11 @@
 - [Getting Started with Spark & Cassandra - YouTube](https://www.youtube.com/watch?v=_gFgU3phogQ)
 - [(Spark + Cassandra) * Docker = <3 · GitHub](https://gist.github.com/clakech/4a4568daba1ca108f03c)
 
+### Kubernetes
+
+- [Spark example · kubernetes/examples](https://github.com/kubernetes/examples/blob/master/staging/spark/README.md)
+- [apache-spark-on-k8s/spark: Apache Spark enhanced with native Kubernetes scheduler back-end](https://github.com/apache-spark-on-k8s/spark/)
+
 ### Numba
 
 - [Numba - Wikipedia](https://en.wikipedia.org/wiki/Numba)

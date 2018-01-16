@@ -3,13 +3,18 @@
 ## Overview
 
 - [Redis](https://redis.io/)
-- [Redis 命令参考 — Redis 命令参考](http://redisdoc.com/)
+- [Redis - 维基百科](https://zh.wikipedia.org/wiki/Redis)
 
 ## Tools
 
-- [steelThread/redmon: A web interface for managing redis: cli, admin, and live monitoring](https://github.com/steelThread/redmon)
+- [library/redis - Docker Hub](https://hub.docker.com/_/redis/)
 
 ## Resources
 
+- [Redis 命令参考](http://redisdoc.com/)
+- [Redis 实战](http://redisinaction.com/)
+- [Redis 设计与实现](http://redisbook.com/)
+- [Redis 使用教程](http://redisguide.com/)
 - [Deep Dive in Redis](https://mp.weixin.qq.com/s/3Z8gqOUiypoD9qdsh8WP9Q)
 - [Redis实战：如何构建类微博的亿级社交平台](https://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547053&idx=1&sn=833fddbc83379d9cac8d7f757343412e)
+- [如何在 Go 语言中使用 Redis 连接池](http://io.upyun.com/2016/01/28/how-to-use-redis-pool-in-go/)

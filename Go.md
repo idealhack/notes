@@ -14,6 +14,7 @@
 - [Go by Example](https://gobyexample.com/)
 - [Dot Net Perls](https://www.dotnetperls.com/s#go~top!/)
 - [Go Tutorial](https://www.tutorialspoint.com/go/index.htm)
+- [Go 标准库中文文档](http://cngolib.com/)
 
 ## [[Go Libraries]]
 

@@ -15,9 +15,8 @@
 
 ### Kubernetes
 
-[Google Cloud Platform](https://console.cloud.google.com/gcr/images/google-samples/GLOBAL/cassandra)
-
-    docker pull gcr.io/google-samples/cassandra:v12
+- [Example: Deploying Cassandra with Stateful Sets | Kubernetes](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/)
+- [Example: Cassandra with StatefulSets on Kubernetes · kubernetes/examples](https://github.com/kubernetes/examples/tree/master/cassandra)
 
 ## Documentation
 

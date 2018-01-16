@@ -18,3 +18,5 @@
 
 - [DB-Engines - Knowledge Base of Relational and NoSQL Database Management Systems](http://db-engines.com/en/)
 - [几款主流 NoSql 数据库的对比 - vajoy - 博客园](http://www.cnblogs.com/vajoy/p/5471308.html)
+- [erictleung/awesome-nosql: Curated list of awesome resources and links about using NoSQL databases](https://github.com/erictleung/awesome-nosql)
+

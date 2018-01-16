@@ -57,10 +57,10 @@
 
 - [gonum/gonum: Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more](https://github.com/gonum/gonum)
 - [pilosa/pilosa: Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.](https://github.com/pilosa/pilosa)
-- [chrislusf/glow: Glow is an easy-to-use distributed computation system written in Go, similar to Hadoop Map Reduce, Spark, Flink, Storm, etc.](https://github.com/chrislusf/glow)
 - [chrislusf/gleam: Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.](https://github.com/chrislusf/gleam)
 - [go-ego/riot: Go Open Source, Distributed, Simple and efficient Search Engine](https://github.com/go-ego/riot)
 - [montanaflynn/stats: A statistics package with common functions that are missing from the Golang standard library.](https://github.com/montanaflynn/stats)
+- [mattes/migrate: Database migrations. CLI and Golang library.](https://github.com/mattes/migrate)
 
 ### Cache
 
@@ -75,6 +75,7 @@
 - [gonet/2 by gonet2](http://gonet2.github.io/)
 - [go-vgo/robotgo: RobotGo, Go Native cross-platform system automation](https://github.com/go-vgo/robotgo)
 - [rakyll/statik: Embed files into a Go executable](https://github.com/rakyll/statik)
+- [rivo/tview: Rich interactive widgets for terminal-based UIs written in Go](https://github.com/rivo/tview)
 
 ## Resources
 

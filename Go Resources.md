@@ -20,6 +20,7 @@
 - [深入解析Go](https://tiancaiamao.gitbooks.io/go-internals/zh/)
 - [Effective Go 中英双语版](https://bingohuang.gitbooks.io/effective-go-zh-en/)
 - [Go Programming Blueprints](https://github.com/matryer/goblueprints)
+- [《Go Web 编程》读者服务网站 | Go Web Programming Chinese Edition](http://gwpcn.com/)
 
 ### Blogs
 
