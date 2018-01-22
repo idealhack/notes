@@ -3,6 +3,7 @@
 ## Books
 
 - [rstudio/bookdown: Authoring Books and Technical Documents with R Markdown](https://github.com/rstudio/bookdown)
+- [Pollen: the book is a program](http://docs.racket-lang.org/pollen/index.html)
 - [Pandoc](http://pandoc.org/)
 
 ## Websites

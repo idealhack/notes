@@ -7,4 +7,5 @@
 ## Frameworks
 
 - [[gRPC]]
+- [twitchtv/twirp: A simple RPC framework with protobuf service definitions](https://github.com/twitchtv/twirp)
 - [Apache Thrift - Home](https://thrift.apache.org/)

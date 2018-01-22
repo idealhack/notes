@@ -8,6 +8,8 @@
 
 - [Steam](http://store.steampowered.com/)
 - [OpenEmu - Multiple Video Game System](http://openemu.org/)
+- [Citra - Nintendo 3DS Emulator](https://citra-emu.org/)
+- [yuzu - An experimental emulator for the Nintendo Switch](https://yuzu-emu.org/)
 
 ## Games
 
