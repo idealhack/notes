@@ -49,3 +49,4 @@
 - [Linux 101 Hacks — Free eBook to Build a Strong Foundation in UNIX / Linux](http://linux.101hacks.com/)
 - [Unix / Linux Cheat Sheet](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/)
 - [Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally](https://github.com/Kickball/awesome-selfhosted)
+- [UnixTeacher – Where there is a shell, there is a way](https://www.unixteacher.org/)

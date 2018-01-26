@@ -6,14 +6,20 @@
 
 ## Common Tasks
 
-dump tables:
+Dump tables:
 
     pg_dump -t 'aschema.atable' --schema-only database-name
 
-alter tables:
+Alter tables:
 
     ALTER TABLE table_name
     ADD COLUMN new_column_name data_type;
+
+Insert:
+
+    INSERT INTO "users" (last_name, first_name)
+    VALUES ('Alice', ''), ('Bob', '')
+    RETURNING *
 
 ## Resources
 

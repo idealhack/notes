@@ -18,6 +18,11 @@
 
 - [brannondorsey/wifi-cracking: Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧](https://github.com/brannondorsey/wifi-cracking)
 
+### Social engineering
+
+- [社会工程学 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6)
+- [n0tr00t/Sreg: Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。](https://github.com/n0tr00t/Sreg)
+
 ## Resources
 
 - [hanc00l/wooyun_public: 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops](https://github.com/hanc00l/wooyun_public)
