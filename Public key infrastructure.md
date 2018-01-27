@@ -4,6 +4,10 @@
 
 - [公開金鑰基礎建設 - 维基百科](https://zh.wikipedia.org/wiki/%E5%85%AC%E9%96%8B%E9%87%91%E9%91%B0%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD)
 
+### Public-key cryptography
+
+- [公开密钥加密 - 维基百科](https://zh.wikipedia.org/wiki/%E5%85%AC%E5%BC%80%E5%AF%86%E9%92%A5%E5%8A%A0%E5%AF%86)
+
 ### Public key certificate
 
 - [公開金鑰認證 - 维基百科](https://zh.wikipedia.org/wiki/%E5%85%AC%E9%96%8B%E9%87%91%E9%91%B0%E8%AA%8D%E8%AD%89)

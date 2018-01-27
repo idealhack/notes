@@ -21,6 +21,7 @@
 - [Effective Go 中英双语版](https://bingohuang.gitbooks.io/effective-go-zh-en/)
 - [Go Programming Blueprints](https://github.com/matryer/goblueprints)
 - [《Go Web 编程》读者服务网站 | Go Web Programming Chinese Edition](http://gwpcn.com/)
+- [Go语言高级编程](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
 
 ### Blogs
 

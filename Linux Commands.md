@@ -1,49 +1,53 @@
 # Linux Commands
 
-## Commands
-
-    top
-    passwd
-    df
-    du
-    tmux
-    git
-
 ### Files
 
 Count files recursively
 
     find . -type f | wc -l
 
-### Processes
-
-查看进程以及占用端口
-
-    ps aux | grep $process
-    netstat -tulpn | grep $port
-    pwdx $pid
-    which $process
-
-ps 排序 [Linux process memory usage: How to sort ‘ps’ command output | alvinalexander.com](http://alvinalexander.com/linux/unix-linux-process-memory-sort-ps-command-cpu)
-
 ### Hardware information
 
 CPU
 
     cat /proc/cpuinfo
+    lscpu
+    dmidecode -t processor
 
-Memory :
+Memory:
 
-    free -h
     cat /proc/meminfo
+    free -h
+    dmidecode -t memory
+
+Network:
+
+    cat /sys/class/net/eth0/address
 
 HDD:
 
     df -h
     sudo fdisk -l
-    hdparm -i /dev/device (for example sda1, hda3...)
+    hdparm -i /dev/sda1
 
-- [smxi/inxi: inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and also runs somewhat on BSDs.](https://github.com/smxi/inxi)
+Devices:
+
+    lsblk
+    lspci
+    lsscsi
+    lsusb
+    dmidecode -t bios
+
+General:
+
+    lshw -short
+    inxi
+
+Android:
+
+    cat /proc/version
+    cat /system/build.prop
+    getprop
 
 ### Server status
 
@@ -70,6 +74,15 @@ HDD:
 
     # Docker Stats
     [sudo] docker stats --format '{{.Name}}\t{{.CPUPerc}}\t{{.MemUsage}}\t{{.NetIO}}' --no-stream
+
+    # Processes / Ports
+    ps aux | grep $process
+    netstat -tulpn | grep $port
+    pwdx $pid
+    which $process
+    
+    # `ps` output sorted by memory (RAM), from high to low
+    ps aux --sort -rss
 
 ## Resources
 
