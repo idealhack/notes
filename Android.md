@@ -24,7 +24,7 @@
 
 ## Tools
 
-- [vladikoff/chromeos-apk: ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.](https://github.com/vladikoff/chromeos-apk)
+- [vladikoff/chromeos-apk: Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.](https://github.com/vladikoff/chromeos-apk)
 
 ## Resources
 
@@ -34,3 +34,10 @@
 - [【译】Android 应用架构演变史 - 掘金](http://gold.xitu.io/entry/566fdbe160b20fc9117f4453)
 - [小米盒子3(MDZ-16-AA)root成功_8乱舞春秋8_新浪博客](http://blog.sina.com.cn/s/blog_51b16bbe0102wacc.html)
 - [HenCoder](http://hencoder.com/)
+
+### Unique ID
+
+- [Best Practices for Unique Identifiers | Android Developers](https://developer.android.com/training/articles/user-data-ids.html)
+- [How to retrieve the Device Unique ID from android device | SAMSUNG Developers](http://developer.samsung.com/technical-doc/view.do?v=T000000103)
+- [Identifying an Android Device – Available Identifiers – Handstand Sam](https://handstandsam.com/2017/05/04/identifying-an-android-device/)
+- [获取android设备的唯一ID](http://justcodeit.info/blog/how-to-get-unique-android-device-id.html)

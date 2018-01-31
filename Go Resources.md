@@ -5,9 +5,7 @@
 - [avelino/awesome-go: A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
 - [hackstoic/golang-open-source-projects: 为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
 - [Unknwon/go-study-index: Go 语言学习资料索引](https://github.com/Unknwon/go-study-index)
-- [Applied Go · Applied Go](https://appliedgo.net/)
-- [Go Proverbs](https://go-proverbs.github.io/)
-- [Go语言资料收集 · wonderfo/wonderfogo Wiki](https://github.com/wonderfo/wonderfogo/wiki)
+- [Applied Go](https://appliedgo.net/)
 
 ### Books
 
@@ -44,6 +42,7 @@
 - [深入理解 Go Channel | Legendtkl](http://legendtkl.com/2017/07/30/understanding-golang-channel/)
 - [Golang的HTTP操作大全 - RyuGou的博客](https://i6448038.github.io/2017/11/11/httpAndGolang/)
 - [Minimal Golang Makefile | OpsTips](https://ops.tips/blog/minimal-golang-makefile/)
+- [枚举类型在Go语言中的一种写法](http://www.zenlife.tk/go-enum.md)
 
 ### Videos
 
@@ -55,19 +54,7 @@
 
 - [gophercon](https://github.com/gophercon?q=talks)
 - [gopherchina](https://github.com/gopherchina)
-- [Writing Networking Clients in Go - GopherCon 2017 talk](https://www.slideshare.net/nats_io/writing-networking-clients-in-go-gophercon-2017-talk)
-- [gopherchina/conference](https://github.com/gopherchina/conference)
 
-### cgo
-
-- [cgo - The Go Programming Language](https://golang.org/cmd/cgo/)
-- [Using Go code in an existing C project - Stack Overflow](https://stackoverflow.com/questions/32215509/using-go-code-in-an-existing-c-project)
-
-### Enum
-
-- [[Go语言]实现可以枚举的map_stevewang_新浪博客](http://blog.sina.com.cn/s/blog_9be3b8f10101dpt6.html)
-- [枚举类型在Go语言中的一种写法](http://www.zenlife.tk/go-enum.md)
-
-### Fun
+### Gophers
 
 - [Gopherize.me - A Gopher pic that's as unique as you](https://gopherize.me/)
