@@ -7,6 +7,6 @@
 ## Resources
 
 - [kamranahmedse/design-patterns-for-humans: Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
-- [tmrts/go-patterns: Curated list of Go design patterns, recipes and idioms](https://github.com/tmrts/go-patterns)
+- [Go Patterns](http://tmrts.com/go-patterns/)
 - [faif/python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
 - [yogykwan/design-patterns-py: 《大话设计模式》Python实现](https://github.com/yogykwan/design-patterns-py)

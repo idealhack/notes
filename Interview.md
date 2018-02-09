@@ -19,5 +19,5 @@
 - [OpenDoc - 面试官行为规范 - 知乎专栏](https://zhuanlan.zhihu.com/p/27997985)
 - [alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
 - [kdn251/interviews: Everything you need to know to get the job.](https://github.com/kdn251/interviews)
-- [xitu/google-interview-university: A complete daily plan for studying to become a Google software engineer.](https://github.com/xitu/google-interview-university)
-- [yangshun/tech-interview-handbook: 💯 Algorithms, front end and behavioral content for rocking your coding interview 🆕 Interview Cheatsheet! 🆕](https://github.com/yangshun/tech-interview-handbook)
+- [Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+- [yangshun/tech-interview-handbook: 💯 Algorithms study materials, behavioral content and tips for rocking your coding interview](https://github.com/yangshun/tech-interview-handbook)

@@ -20,7 +20,7 @@
 
 ### Social engineering
 
-- [社会工程学 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6)
+- [社会工程学 - 维基百科](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6)
 - [n0tr00t/Sreg: Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。](https://github.com/n0tr00t/Sreg)
 
 ## Resources

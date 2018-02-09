@@ -25,7 +25,6 @@
 ### Trading
 
 - [thrasher-/gocryptotrader: A cryptocurrency trading bot supporting multiple exchanges written in Golang.](https://github.com/thrasher-/gocryptotrader)
-- [thrasher-/gocryptotrader: A cryptocurrency trading bot supporting multiple exchanges written in Golang.](https://github.com/thrasher-/gocryptotrader)
 - [askmike/gekko: A bitcoin trading bot written in node - https://gekko.wizb.it/](https://github.com/askmike/gekko)
 - [butor/blackbird: Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy](https://github.com/butor/blackbird)
 - [carlos8f/zenbot: Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.](https://github.com/carlos8f/zenbot)
@@ -34,3 +33,4 @@
 ## Resources
 
 - [kennethreitz/awesome-coins: ₿ A guide (for humans!) to cryto-currencies and their algos.](https://github.com/kennethreitz/awesome-coins)
+- [《精通比特币》第二版](https://github.com/tianmingyun/MasterBitcoin2CN)

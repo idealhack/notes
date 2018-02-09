@@ -1,6 +1,8 @@
 # JavaScript Resources
 
 - [JS: The Right Way](http://jstherightway.org/)
+- [Chalarangelo/30-seconds-of-code: Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.](https://github.com/Chalarangelo/30-seconds-of-code)
+- [mbeaudru/modern-js-cheatsheet: Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [spy-js/spy-js: spy-js: javascript tracing tool](https://github.com/spy-js/spy-js)
 - [simongong/js-stackoverflow-highest-votes: A collection of `javascript` questions with highest votes on Stack Overflow](https://github.com/simongong/js-stackoverflow-highest-votes)
 

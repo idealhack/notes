@@ -15,6 +15,7 @@
 
 ## Resources
 
+- [thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers](https://github.com/thedaviddias/Front-End-Checklist)
 - [miripiruni/frontdesk: Community driven list of useful things for Front End Developers](https://github.com/miripiruni/frontdesk)
 - [dypsilon/frontend-dev-bookmarks: Manually curated collection of resources for frontend web developers.](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [icepy/Front-End-Develop-Guide: 💰 Awsome The Front End Develop Guide：这份指南汇集了前端开发所使用语言的主流学习资源，并以开发者的视角进行整理编排而成。](https://github.com/icepy/Front-End-Develop-Guide)

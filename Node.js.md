@@ -112,6 +112,7 @@
 - [Felix's Node.js Guide](http://nodeguide.com/index.html)
 - [nprapps/app-template: The NPR visuals team's opinionated project template for client-side apps.](https://github.com/nprapps/app-template)
 - [sindresorhus/awesome-nodejs: Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
+- [i0natan/nodebestpractices: The largest Node.JS best practices list. Curated from the top ranked articles and always updated](https://github.com/i0natan/nodebestpractices)
 
 ### Stream
 

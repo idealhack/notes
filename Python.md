@@ -42,6 +42,7 @@
 
 - [vinta/awesome-python: A curated list of awesome Python frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
 - [jobbole/awesome-python-cn: Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。](https://github.com/jobbole/awesome-python-cn)
+- [norvig/pytudes: Python programs to practice or demonstrate skills.](https://github.com/norvig/pytudes)
 - [Python Examples](http://www.programcreek.com/python/)
 - [Python 3 Module of the Week — PyMOTW 3](https://pymotw.com/3/)
 - [kirang89/pycrumbs: Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)

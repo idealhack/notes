@@ -15,6 +15,7 @@
 
 ## Libraries
 
+- [OpenGenus/cosmos: Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter](https://github.com/opengenus/cosmos)
 - [felipernb/algorithms.js: Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript](https://github.com/felipernb/algorithms.js)
 
 ## Tools
