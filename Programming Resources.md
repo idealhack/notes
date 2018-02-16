@@ -11,6 +11,7 @@
 - [推荐书单 | 王子亭的博客](https://jysperm.me/booklist/)
 - [介紹 | 飞龙的程序员书单](https://wizardforcel.gitbooks.io/flygon-booklist/)
 - [GitHub 上有哪些值得推荐的开源电子书？ - 知乎](https://www.zhihu.com/question/38836382)
+- [11 Books All Software Engineers Must Read](https://dev.to/lpasqualis/11-books-all-software-engineers-must-read)
 
 ## Websites
 

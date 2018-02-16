@@ -45,9 +45,9 @@
 ## Tracing
 
 - [opentracing.io ](http://opentracing.io/)
+- [opentracing 文档中文版](https://wu-sheng.gitbooks.io/opentracing-io/)
 - [OpenZipkin · A distributed tracing system](http://zipkin.io/)
-- [opentracing文档中文版 ( 翻译 ) 吴晟](https://wu-sheng.gitbooks.io/opentracing-io/)
-- [Applications of (pin)trace data – Pinterest Engineering – Medium](https://medium.com/@Pinterest_Engineering/applications-of-pin-trace-data-3b9e6dc2744b)
+- [jaegertracing/jaeger: CNCF Jaeger, a Distributed Tracing System](https://github.com/jaegertracing/jaeger)
 
 ## Resources
 

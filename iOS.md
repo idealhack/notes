@@ -53,19 +53,14 @@
 - [facebook/chisel: Chisel is a collection of LLDB commands to assist debugging iOS apps.](https://github.com/facebook/chisel)
 - [nst/objc_dep: Graph the import dependancies in an Objective-C project](https://github.com/nst/objc_dep)
 - [cyanzhong/Retriever: Retrieving InfoPlist without Jailbreaking on iOS Devices](https://github.com/cyanzhong/Retriever)
+- [skyming/iOS-Performance-Optimization: 关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit](https://github.com/skyming/iOS-Performance-Optimization)
 
-### 文档
-
-写文档工具
-
-- [onevcat/VVDocumenter-Xcode: Xcode plug-in which helps you write documentation comment easier, for both Objective-C and Swift.](https://github.com/onevcat/VVDocumenter-Xcode)
-
-输出文档工具
+### Documents
 
 - [tomaz/appledoc: Objective-c code Apple style documentation set generator.](https://github.com/tomaz/appledoc)
-- [appledoc/XcodeIntegrationScript.markdown at master · tomaz/appledoc · GitHub](https://github.com/tomaz/appledoc/blob/master/XcodeIntegrationScript.markdown)
 
 ## Resources
 
 - [ObjC 中国](https://objccn.io/)
 - [Swift 学习指引](http://swiftguide.cn/)
+- https://github.com/skyming/iOS-Performance-Optimization

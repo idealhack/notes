@@ -18,6 +18,7 @@
 - [Tutorials | Kubernetes](https://kubernetes.io/docs/samples/)
 - [kubernetes/examples at master · kubernetes/kubernetes · GitHub](https://github.com/kubernetes/kubernetes/tree/master/examples)
 - [Kubernetes By Example](http://kubernetesbyexample.com/)
+- [Write a Kubernetes-ready service from zero step-by-step GopherAcademy](https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/)
 
 ## Tools
 
