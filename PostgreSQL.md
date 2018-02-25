@@ -51,6 +51,10 @@ Update:
     WHERE telegram_id = 34804908
     RETURNING *;
 
+IN operator:
+
+    DELETE FROM torrents WHERE id NOT IN ( SELECT torrent_id FROM user_torrents );
+
 ## Resources
 
 - [dhamaniasad/awesome-postgres: A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql](https://github.com/dhamaniasad/awesome-postgres)

@@ -1,4 +1,4 @@
-# weapp
+# WeChat Mini Program
 
 - [justjavac/awesome-wechat-weapp: 微信小程序开发资源汇总 :100:](https://github.com/justjavac/awesome-wechat-weapp)
 - [opendigg/awesome-github-wechat-weapp: 微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)

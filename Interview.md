@@ -21,3 +21,4 @@
 - [kdn251/interviews: Everything you need to know to get the job.](https://github.com/kdn251/interviews)
 - [Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
 - [yangshun/tech-interview-handbook: 💯 Algorithms study materials, behavioral content and tips for rocking your coding interview](https://github.com/yangshun/tech-interview-handbook)
+- [笔试面试知识整理](https://hit-alibaba.github.io/interview/)

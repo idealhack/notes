@@ -2,7 +2,7 @@
 
 ## Installation
 
-- [如何重新安装 OS X](https://support.apple.com/zh-cn/HT204904)
+- [如何安装 macOS - Apple 支持](https://support.apple.com/zh-cn/HT204904)
 
 ## Tools
 

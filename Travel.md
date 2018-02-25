@@ -6,11 +6,15 @@
 ## Places
 
 - [[Wuhan]]
+- [[Beijing]]
 - [[Hangzhou]]
+- [[Shenzhen]]
 - [[Suzhou]]
+- [[Zhuhai]]
 - [[Macau]]
 - [[Japan]]
 - [[Taiwan]]
+- [[France]]
 
 ## Resources
 
