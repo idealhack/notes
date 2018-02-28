@@ -51,6 +51,7 @@
 - [The Go Language - YouTube](https://www.youtube.com/playlist?list=PLIbUZ3URbL0Hn-2v6oB9nMfIfJPYDY9Nv)
 - [Unknwon/go-fundamental-programming: 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。](https://github.com/Unknwon/go-fundamental-programming)
 - [Gophercises - Coding exercises for budding gophers](https://gophercises.com/)
+- [Go 零基础编程入门教程 - Go中国技术社区 - golang](https://gocn.io/question/1615)
 
 ### Talks
 

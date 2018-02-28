@@ -3,14 +3,18 @@
 ## Overview
 
 - [密碼貨幣 - 维基百科](https://zh.wikipedia.org/wiki/%E5%AF%86%E7%A2%BC%E8%B2%A8%E5%B9%A3)
+- [加密電子貨幣列表 - 维基百科](https://zh.wikipedia.org/wiki/%E5%8A%A0%E5%AF%86%E9%9B%BB%E5%AD%90%E8%B2%A8%E5%B9%A3%E5%88%97%E8%A1%A8)
 
 ## Bitcoin
 
 - [比特币 - 开源的P2P货币](https://bitcoin.org/zh_CN/)
 - [比特币 - 维基百科](https://zh.wikipedia.org/wiki/%E6%AF%94%E7%89%B9%E5%B8%81)
-- [spesmilo/electrum: Electrum; Bitcoin thin client](https://github.com/spesmilo/electrum)
+- [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 
-## [[Ethereum]]
+### Tools
+
+- [Bitcoin Block Explorer - Blockchain](https://blockchain.info/)
+- [spesmilo/electrum: Electrum; Bitcoin thin client](https://github.com/spesmilo/electrum)
 
 ## EOS
 

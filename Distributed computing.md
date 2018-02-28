@@ -52,3 +52,4 @@
 ## Resources
 
 - [Fallacies Of Distributed Gomputing](http://go-talks.appspot.com/github.com/mhausenblas/fallacies-of-distributed-gomputing/main.slide)
+- [分布式一致性与共识算法](https://draveness.me/consensus)

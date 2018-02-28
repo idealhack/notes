@@ -11,8 +11,6 @@
 ## Applications
 
 - [[Blockchain]]
-- [[Cryptocurrency]]
-- [IPFS is the Distributed Web](https://ipfs.io/)
 
 ### BitTorrent
 

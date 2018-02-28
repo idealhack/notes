@@ -5,16 +5,11 @@
 
 ## Places
 
-- [[Wuhan]]
-- [[Beijing]]
-- [[Hangzhou]]
-- [[Shenzhen]]
-- [[Suzhou]]
-- [[Zhuhai]]
+- [[Mainland China]]
 - [[Macau]]
 - [[Japan]]
-- [[Taiwan]]
 - [[France]]
+- [[Taiwan]]
 
 ## Resources
 
