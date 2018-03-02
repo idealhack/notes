@@ -30,6 +30,10 @@
 - [Python数据结构--AVL树的实现 - Geek情怀 - SegmentFault](https://segmentfault.com/a/1190000007054898)
 - [几个有趣的算法题目 - hacker之路 - SegmentFault](https://segmentfault.com/a/1190000011929259)
 
+### State Machine
+
+- [Forde's Tenth Rule, or, "How I Learned to Stop Worrying and ❤️ the State Machine"](http://raganwald.com/2018/02/23/forde.html)
+
 ### Bitmap
 
 - [漫画：什么是 Bitmap 算法？](https://mp.weixin.qq.com/s?__biz=MzI1MTIzMzI2MA==&mid=2650561293&idx=1&sn=272e44757914c38b739c8d929afb9c19)

@@ -9,6 +9,7 @@
 
 - [[Ubuntu]]
 - [[CentOS]]
+- [[RHEL]]
 - Debian
 - Arch
 - [Kali](https://www.kali.org/)

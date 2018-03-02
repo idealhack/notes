@@ -6,6 +6,8 @@
 - [hackstoic/golang-open-source-projects: 为互联网IT人打造的中文版awesome-go](https://github.com/hackstoic/golang-open-source-projects)
 - [Unknwon/go-study-index: Go 语言学习资料索引](https://github.com/Unknwon/go-study-index)
 - [Applied Go](https://appliedgo.net/)
+- [Go Language for Beginners in 16 Parts! | Hacking Code](https://blog.hackingcode.io/go-language-for-beginners-tutorial-in-16-parts/)
+- [enocom/gopher-reading-list: A curated selection of blog posts on Go](https://github.com/enocom/gopher-reading-list)
 
 ### Books
 

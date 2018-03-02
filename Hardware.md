@@ -7,11 +7,8 @@
 - [[HDD]]
 - [[SSD]]
 - [[NAS]]
+- [[Keyboard]]
 - [Arduino](https://www.arduino.cc/)
-
-## Monitoring
-
-- [[S.M.A.R.T.]]
 
 ## Bandwidth
 

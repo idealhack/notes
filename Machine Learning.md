@@ -17,13 +17,17 @@
 
 - [floydhub/dl-docker: An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)](https://github.com/floydhub/dl-docker)
 
-## Books
-
-- [Deep Learning Book Chinese Translation – Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
-
 ## Resources
 
 - [josephmisiti/awesome-machine-learning: A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/josephmisiti/awesome-machine-learning)
 - [机器学习笔记](http://feisky.xyz/machine-learning/index.html)
 - [kailashahirwar/cheatsheets-ai: Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
 - [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+
+### Books
+
+- [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
+
+### Courses
+
+- [机器学习速成课程 | Google Developers](https://developers.google.com/machine-learning/crash-course/)

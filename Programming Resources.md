@@ -68,3 +68,4 @@
 - [《Web全栈工程师的自我修养》浓缩笔记（下） - 做工程师不做码农 - SegmentFault](https://segmentfault.com/a/1190000010128001)
 - [Write code that is easy to delete, not easy to... — programming is terrible](http://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 - [xitu/gold-miner: 掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
+- [The IT things I learned](http://toozhao.com/knowledge-mind-mapping/)

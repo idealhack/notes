@@ -35,7 +35,3 @@
 - [zeit/hazel: Lightweight update server for Electron apps](https://github.com/zeit/hazel)
 - [ptmt/react-native-macos: React Native for macOS is an experimental fork for writing desktop apps using Cocoa](https://github.com/ptmt/react-native-macos)
 - [pojala/termipal: Instant, native micro-GUIs for shell scripts and command line apps](https://github.com/pojala/termipal)
-
-## Resources
-
-- [MacOS 的安全和隐私指南 · xitu/macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)

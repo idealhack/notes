@@ -7,7 +7,7 @@
 - Written in [Markdown](https://daringfireball.net/projects/markdown/)
 - Powered by [nvALT](http://brettterpstra.com/projects/nvalt/), [Simplenote](https://simplenote.com/) and [Git](https://git-scm.com/)
 - Notes are distributed and linked by files
-- There may be a reader-friendly website at some time
+- There may be more tools introduced at some time
 
 ## License
 

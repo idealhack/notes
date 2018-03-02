@@ -6,7 +6,7 @@
 
 ### rsync
 
-     rsync -av user@host:/src .
+    rsync -av user@host:/src .
 
 rsync through ssh tunnel:
 

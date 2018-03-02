@@ -41,6 +41,7 @@
 
 - [Using the Kubernetes Client for Go - RHD Blog](https://developers.redhat.com/blog/2016/11/25/using-the-kubernetes-client-for-go/)
 - [Tapping Into Kubernetes Events - Solinea](https://solinea.com/blog/tapping-kubernetes-events)
+- [如何在GO语言中使用Kubernetes API？](https://mp.weixin.qq.com/s/MHjuS21iIyV99-o5hESWCw)
 
 ### Real world
 
