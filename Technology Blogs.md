@@ -26,6 +26,7 @@
 - [ctmakro/site: Site personnel](https://github.com/ctmakro/site)
 - [Tony Bai](http://tonybai.com)
 - [面向信仰编程](https://draveness.me/index)
+- [dirtysalt's homepage](https://dirtysalt.github.io/html/index.html)
 
 ### Company
 

@@ -19,6 +19,13 @@
 
 - [里昂 - 维基百科](https://zh.wikipedia.org/wiki/%E9%87%8C%E6%98%82)
 
+## Jobs
+
+- [Accueil Pôle emploi | Pôle emploi](https://www.pole-emploi.fr/accueil/)
+- [Site de recherche d'emploi | Job en France | Monster.fr](https://www.monster.fr/)
+- [Agence d’intérim, cabinet de Recrutement, Offres d’emploi, Jobs, CDD, CDI | Manpower fr](https://www.manpower.fr/)
+- [Emploi, travail, recrutement | Jobrapido.com](http://fr.jobrapido.com/)
+
 ## Resources
 
 - [Travel Guides CN](https://cn.green-pass.eu/cn/)

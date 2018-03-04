@@ -7,6 +7,7 @@
 ## Frontend
 
 - [cure53/H5SC: HTML5 Security Cheatsheet - A collection of HTML5 related XSS attack vectors](https://github.com/cure53/H5SC)
+- [内容安全策略 (CSP) - Web 安全 | MDN](https://developer.mozilla.org/zh-CN/docs/Web/Security/CSP)
 
 ## Resources
 

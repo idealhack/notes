@@ -22,6 +22,7 @@
 - [jtyjty99999/mobileTech: A useful tools or tips list for mobile web application developing](https://github.com/jtyjty99999/mobileTech)
 - [timoxley/best-practices: Tidbits of developer best practices from around the web](https://github.com/timoxley/best-practices)
 - [JacksonTian/fks: 前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
+- [helloqingfeng/Awsome-Front-End-learning-resource: GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)
 - [Improving front page performance: removing images, 5 ways](http://blog.pamelafox.org/2014/01/improving-front-page-performance.html)
 - [We spent a week making Trello boards load extremely fast. Here’s how we did it.](http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/)
 - [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)

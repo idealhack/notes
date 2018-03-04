@@ -60,3 +60,4 @@
 - [soulmachine/leetcode: LeetCode题解，151道题完整版](https://github.com/soulmachine/leetcode)
 - [billryan/algorithm-exercise: Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/](https://github.com/billryan/algorithm-exercise)
 - [LeetCode 刷题指南（一）：为什么要刷题 - Just For Fun - SegmentFault](https://segmentfault.com/a/1190000006059081)
+- [LeetBook（LeetCode详解）](https://hk029.gitbooks.io/leetbook/content/)

@@ -12,12 +12,14 @@
 - [介紹 | 飞龙的程序员书单](https://wizardforcel.gitbooks.io/flygon-booklist/)
 - [GitHub 上有哪些值得推荐的开源电子书？ - 知乎](https://www.zhihu.com/question/38836382)
 - [11 Books All Software Engineers Must Read](https://dev.to/lpasqualis/11-books-all-software-engineers-must-read)
+- [经典编程书籍大全](https://ch1dyc4t.gitbooks.io/awesome-programming-books/content/)
 
 ## Websites
 
 - [The Tech Terms Computer Dictionary](https://techterms.com/)
 - [Technology Radar | ThoughtWorks](https://www.thoughtworks.com/radar)
 - [Learn Anything](https://learn-anything.xyz/)
+- [Programming.Guide](http://programming.guide/)
 
 ## Resources
 

@@ -10,3 +10,4 @@
 ## Resources
 
 - [上海迪士尼游玩亲身体验](https://zhuanlan.zhihu.com/p/29499659)
+- [上海迪士尼究竟怎么玩，看完这篇你就懂啦！ - 马蜂窝](http://www.mafengwo.cn/gonglve/ziyouxing/447.html)

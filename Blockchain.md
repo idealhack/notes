@@ -52,6 +52,7 @@ You don’t need a block chain, if
 - [openblockchains/awesome-blockchains: A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-). Blockchains are the new tulips . Distributed is the new centralized.](https://github.com/openblockchains/awesome-blockchains)
 - [区块链世界来龙去脉，峰瑞资本内部分享 – 代码家](https://daimajia.com/2018/02/10/blockchain-share-in-freesfund)
 - [纠正你对区块链的认知偏见](https://mp.weixin.qq.com/s/Q9ZRHbRI5lkqAn1NLkDzXg)
+- [教程 | 如何成为区块链开发者：速成课！ » 论坛 » EthFans | 以太坊爱好者](http://ethfans.org/posts/blockchain-developer-crash-course)
 
 ### Books
 

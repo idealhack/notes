@@ -52,7 +52,12 @@
 
 ## Gateway
 
-- [搭建网关系列—— 预告篇 - Stephen Zhang](https://onebitbug.me/2014/05/28/building-a-gateway/)
+- [搭建网关系列——预告篇 - Stephen Zhang](https://onebitbug.me/2014/05/28/building-a-gateway/)
+
+## LAN
+
+- [虚拟局域网 - 维基百科](https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E5%B1%80%E5%9F%9F%E7%BD%91)
+- [虛擬局域網擴展 - 维基百科](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E5%B1%80%E5%9F%9F%E7%B6%B2%E6%93%B4%E5%B1%95)
 
 ## Task
 
@@ -60,4 +65,5 @@
 
 ## Resources
 
+- [网络基本功系列](https://wizardforcel.gitbooks.io/network-basic/content/)
 - [clowwindy/Awesome-Networking: A curated list of awesome networking libraries, resources and shiny things](https://github.com/clowwindy/Awesome-Networking)

@@ -27,6 +27,7 @@
 - [imroc/req: a golang http request library for humans](https://github.com/imroc/req)
 - [mholt/caddy: Fast, cross-platform HTTP/2 web server with automatic HTTPS](https://github.com/mholt/caddy)
 - [henrylee2cn/teleport: Teleport is a versatile, high-performance and flexible TCP socket framework.](https://github.com/henrylee2cn/teleport)
+- [osrg/gobgp: BGP implemented in the Go Programming Language](https://github.com/osrg/gobgp)
 
 ### Database
 

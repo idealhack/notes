@@ -29,6 +29,10 @@
 - [rs/SDWebImage: Asynchronous image downloader with cache support as a UIImageView category](https://github.com/rs/SDWebImage)
 - [jdg/MBProgressHUD: MBProgressHUD + Customizations](https://github.com/jdg/MBProgressHUD)
 
+### Network
+
+- [mavris/MMLanScan: An iOS LAN Network Scanner library](https://github.com/mavris/MMLanScan)
+
 ### Testing Frameworks
 
 - [kiwi-bdd/Kiwi: Simple BDD for iOS](https://github.com/kiwi-bdd/Kiwi)

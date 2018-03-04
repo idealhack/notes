@@ -47,6 +47,7 @@
 - [Minimal Golang Makefile | OpsTips](https://ops.tips/blog/minimal-golang-makefile/)
 - [枚举类型在Go语言中的一种写法](http://www.zenlife.tk/go-enum.md)
 - [goroutine背后的系统知识 | sizeof(void)](http://www.sizeofvoid.net/goroutine-under-the-hood/)
+- [编写和优化Go代码 · dgryski/go-perfbook](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 
 ### Videos
 

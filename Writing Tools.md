@@ -41,3 +41,4 @@
 ## Wiki
 
 - [TiddlyWiki — a non-linear personal web notebook](http://tiddlywiki.com/)
+- [Simiki](http://simiki.org/)

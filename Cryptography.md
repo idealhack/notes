@@ -16,3 +16,7 @@
 ## Libraries
 
 - [libsodium](https://download.libsodium.org/doc/)
+
+## Resources
+
+- [Crypto 101](https://www.crypto101.io/)
