@@ -8,6 +8,7 @@
 - [Applied Go](https://appliedgo.net/)
 - [Go Language for Beginners in 16 Parts! | Hacking Code](https://blog.hackingcode.io/go-language-for-beginners-tutorial-in-16-parts/)
 - [enocom/gopher-reading-list: A curated selection of blog posts on Go](https://github.com/enocom/gopher-reading-list)
+- [Go知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0)
 
 ### Books
 
@@ -48,6 +49,7 @@
 - [枚举类型在Go语言中的一种写法](http://www.zenlife.tk/go-enum.md)
 - [goroutine背后的系统知识 | sizeof(void)](http://www.sizeofvoid.net/goroutine-under-the-hood/)
 - [编写和优化Go代码 · dgryski/go-perfbook](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
+- [理解 go interface 的 5 个关键点 | 三月沙](http://sanyuesha.com/2017/07/22/how-to-understand-go-interface/)
 
 ### Videos
 

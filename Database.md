@@ -9,6 +9,7 @@
 - [[SQL]]
 - [[NoSQL]]
 - [[NewSQL]]
+- [[Time series database]]
 
 ## Resources
 

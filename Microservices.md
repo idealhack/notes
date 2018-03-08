@@ -17,3 +17,4 @@
 - [The Hardest Part of Microservices: Calling Your Services – Software Blog](http://blog.christianposta.com/microservices/the-hardest-part-of-microservices-calling-your-services/)
 - [51CTO博客-原创IT文章分享平台](http://12572290.blog.51cto.com/12562290/1948156)
 - [一个更好的可视化微服务架构的方式](http://dockone.io/article/2495)
+- [微服务架构技术栈选型手册](http://www.infoq.com/cn/articles/micro-service-technology-stack)

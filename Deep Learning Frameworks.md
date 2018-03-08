@@ -23,7 +23,7 @@
 ### keras
 
 - [keras](https://github.com/fchollet/keras)
-- [Keras中文文档](http://keras-cn.readthedocs.io/en/latest/)
+- [Keras Documentation (zh)](https://keras.io/zh/)
 - [Keras Documentation](https://keras.io/)
 
 ### Torch

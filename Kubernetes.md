@@ -33,7 +33,7 @@
 - [garethr/kubeval: Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/garethr/kubeval)
 - [cloudnativelabs/kube-shell: Kubernetes shell: An integrated shell for working with the Kubernetes CLI](https://github.com/cloudnativelabs/kube-shell)
 - [ahmetb/kubectx: Fast way to switch between clusters and namespaces in kubectl!](https://github.com/ahmetb/kubectx)
-- [johanhaleby/kubetail: Bash script to tail Kubernetes logs from multiple pods at the same time](https://github.com/johanhaleby/kubetail)
+- [kubernetes-ui/topology-graph](https://github.com/kubernetes-ui/topology-graph)
 
 ## Monitoring
 

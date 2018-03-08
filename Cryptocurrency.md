@@ -25,6 +25,7 @@
 
 - [Block.cc](https://block.cc/)
 - [Coinbin.org: A Human–Friendly API Service for Crypto Currency Information](https://coinbin.org/)
+- [区块搜 - Block.so](https://block.so/)
 
 ### Trading
 

@@ -9,6 +9,10 @@
 - [[Resume]]
 - [[Interview]]]
 
+## Positions
+
+- [台灣 Go 語言招募職缺 · golangtw/jobs](https://github.com/golangtw/jobs/issues)
+
 ## Resources
 
 - [hire-me](https://fvcproductions.github.io/hire-me/)
