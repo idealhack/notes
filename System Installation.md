@@ -19,6 +19,8 @@
 
 #### [深度启动盘制作工具](https://www.deepin.org/original/deepin-boot-maker/)
 
+#### [Etcher](https://etcher.io/)
+
 ### Linux / Windows
 
 #### [Rufus - 轻松创建USB启动盘](http://rufus.akeo.ie/?locale=zh_CN)

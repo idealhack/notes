@@ -7,6 +7,7 @@
 ## Alternatives
 
 - [Netflix/falcor: A JavaScript library for efficient data fetching](https://github.com/Netflix/falcor)
+- [B2W-BIT/restQL-server: Microservice query language](https://github.com/B2W-BIT/restQL-server)
 
 ## Resources
 

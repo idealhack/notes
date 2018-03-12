@@ -37,6 +37,7 @@
 - [安全专业人士最爱的19个GitHub开源项目  - SDK.CN - 中国领先的开发者服务平台](https://www.sdk.cn/news/3197)
 - [John-Lin/wallofsheep: Wall of Sheep](https://github.com/John-Lin/wallofsheep)
 - [安全技能树简版](http://evilcos.me/security_skill_tree_basic/)
+- [SecWiki/sec-chart: 安全思维导图集合](https://github.com/SecWiki/sec-chart)
 - [phith0n/Mind-Map: 各种安全相关思维导图整理收集](https://github.com/phith0n/Mind-Map)
 - [Hack-with-Github/Awesome-Hacking: A collection of various awesome lists for hackers, pentesters and security researchers](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [Hack-with-Github/Free-Security-eBooks: Free Security and Hacking eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks)
