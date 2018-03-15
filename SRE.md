@@ -8,7 +8,6 @@
 
 ## Section
 
-- [[Hardware]]
 - [[Linux]]
 - [[Devops]]
 - [[Backend Performance]]

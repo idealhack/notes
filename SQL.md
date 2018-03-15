@@ -45,12 +45,6 @@ Delete:
     DELETE FROM torrents
     WHERE id = 166;
 
-Update:
-
-    UPDATE users
-    SET telegram_name = 'idealhack'
-    WHERE telegram_id = 34804908;
-
 IN operator:
 
     DELETE FROM torrents WHERE id NOT IN ( SELECT torrent_id FROM user_torrents );

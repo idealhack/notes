@@ -12,3 +12,7 @@
 ## [[HTTP API]]
 
 ## [[HTTP/2]]
+
+## Resources
+
+- [来一场轰轰烈烈的HTTP协议扫盲革命 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000012789390)

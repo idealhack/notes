@@ -22,3 +22,7 @@
 - 2009: [[Go]]
 - 2010: [[Rust]]
 - 2011: [[Elixir]]
+
+## Resources
+
+- [如何定義 "會" XXX 程式語言 - 大貓共和國](http://blog.miaout17.net/2012/04/02/programming-language/)

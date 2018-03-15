@@ -34,6 +34,7 @@
 - [cloudnativelabs/kube-shell: Kubernetes shell: An integrated shell for working with the Kubernetes CLI](https://github.com/cloudnativelabs/kube-shell)
 - [ahmetb/kubectx: Fast way to switch between clusters and namespaces in kubectl!](https://github.com/ahmetb/kubectx)
 - [kubernetes-ui/topology-graph](https://github.com/kubernetes-ui/topology-graph)
+- [GoogleCloudPlatform/skaffold: Easy and Repeatable Kubernetes Development](https://github.com/GoogleCloudPlatform/skaffold)
 
 ## Monitoring
 

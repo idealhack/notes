@@ -15,3 +15,5 @@
 - [OpenDoc - 前端简历评级标准 - 知乎专栏](https://zhuanlan.zhihu.com/p/27996237)
 - [你真的会写简历么？](https://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=402970472&idx=1&sn=b9738c66fb5750c2515d57357c01a83f)
 - [概要 · 精益技术简历之道——改善技术简历的47条原则 · 看云](https://www.kancloud.cn/digest/lean-technical-resume/62711)
+- [The Best Ways to Show Skills on Your Resume - Glassdoor Blog](https://www.glassdoor.com/blog/show-skills-on-resume/)
+- [6 Tips for a Killer Resume](https://www.fool.com/careers/2017/06/05/6-tips-for-a-killer-resume.aspx)

@@ -33,6 +33,7 @@
 
 - [Go并发编程之Go语言概述](http://www.infoq.com/cn/articles/go-language-introduction)
 - [golang · GitBook](https://www.gitbook.com/book/liushuchun/golang/details)
+- [Go语言学习 - cyent笔记](https://cyent.github.io/golang/)
 - [Go语言并发模型：像Unix Pipe那样使用channel - 赵帅虎 - SegmentFault](https://segmentfault.com/a/1190000006261218)
 - [使用Go语言每分钟处理1百万请求 - Go中国技术社区 - golang](https://gocn.io/article/5)
 - [Golang Response Snippets: JSON, XML and more](http://www.alexedwards.net/blog/golang-response-snippets)
@@ -50,6 +51,7 @@
 - [goroutine背后的系统知识 | sizeof(void)](http://www.sizeofvoid.net/goroutine-under-the-hood/)
 - [编写和优化Go代码 · dgryski/go-perfbook](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 - [理解 go interface 的 5 个关键点 | 三月沙](http://sanyuesha.com/2017/07/22/how-to-understand-go-interface/)
+- [Golang协程之殇 | Computer Science & Programming](http://blog.imisko.com/2017/08/02/golang-coroutine/)
 
 ### Videos
 

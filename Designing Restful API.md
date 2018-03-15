@@ -22,3 +22,4 @@
 - [（转）深入浅出REST - ajax - ITeye博客](http://ajaxcn.iteye.com/blog/414822)
 - [RPC与REST区别 - Thinking80s - ITeye博客](http://kevinpeng.iteye.com/blog/713450)
 - [最佳实践：更好的设计你的 REST API](http://www.ibm.com/developerworks/cn/web/1103_chenyan_restapi/index.html)
+- [设计一套良好 REST API](https://zhuanlan.zhihu.com/p/34289466)

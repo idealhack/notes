@@ -27,6 +27,7 @@
 - [Tony Bai](http://tonybai.com)
 - [面向信仰编程](https://draveness.me/index)
 - [dirtysalt's homepage](https://dirtysalt.github.io/html/index.html)
+- [mindwind](http://mindwind.me/)
 
 ### Company
 
@@ -41,6 +42,7 @@
 - [奇虎360-addops](https://addops.cn/)
 - [首页 - 美团点评技术团队](https://tech.meituan.com/)
 - [点我达技术](http://tech.dianwoda.com/)
+- [Glow 技术团队博客](http://tech.glowing.com/cn/)
 - [GitHub Engineering | The Blog of the GitHub Engineering Team](https://githubengineering.com/)
 
 ### Media

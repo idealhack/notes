@@ -23,3 +23,5 @@
 - [笔试面试知识整理](https://hit-alibaba.github.io/interview/)
 - [如何准备法国IT技术面试 | Zhenyi's Blog](http://zhangzhenyi.com/2017/05/15/technical-interview-preparation-in-france/)
 - [程序员面试金典--笔记(精华篇) | SWF's Hacking Dream](http://codeshold.me/2017/01/cracking_interview.html)
+- [招聘面试的套路与原则](https://mp.weixin.qq.com/s/qRwDowetBkJqpeMeAZsIpA)
+- [The Ultimate Job Interview Preparation Guide - Glassdoor Blog](https://www.glassdoor.com/blog/guide/the-ultimate-job-interview-preparation-guide/)
