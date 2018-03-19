@@ -23,6 +23,7 @@
 - [机器学习笔记](http://feisky.xyz/machine-learning/index.html)
 - [kailashahirwar/cheatsheets-ai: Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
 - [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+- [KeKe-Li/tutorial: Algorithms Tutorial](https://github.com/KeKe-Li/tutorial)
 
 ### Books
 

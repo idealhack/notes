@@ -65,6 +65,7 @@ You don’t need a block chain, if
 - [Jeiwan/blockchain_go: A simplified blockchain implementation in Golang](https://github.com/Jeiwan/blockchain_go)
 - [GitHub - dvf/blockchain: A simple Blockchain in Python](https://github.com/dvf/blockchain)
 - [lhartikk/naivechain: A blockchain implementation in 200 lines of code](https://github.com/lhartikk/naivechain)
+- [Coral Health blockchain in Go … on K8s ;-) – Daz Wilkin – Medium](https://medium.com/@DazWilkin/coral-health-blockchain-in-go-on-k8s-c7700e1670b7)
 
 ### Videos
 

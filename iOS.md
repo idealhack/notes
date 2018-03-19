@@ -63,4 +63,4 @@
 
 - [ObjC 中国](https://objccn.io/)
 - [Swift 学习指引](http://swiftguide.cn/)
-- https://github.com/skyming/iOS-Performance-Optimization
+- [Swifter - Swift 必备 tips](http://swifter.tips/)

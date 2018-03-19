@@ -24,5 +24,6 @@
 - [nathany/looper: Go autotesting tool with readline support.](https://github.com/nathany/looper)
 - [goreleaser/goreleaser: Deliver Go binaries as fast and easily as possible](https://github.com/goreleaser/goreleaser)
 - [thockin/go-build-template: A Makefile/Dockerfile example for Go projects.](https://github.com/thockin/go-build-template)
+- [bradleyjkemp/memviz: Visualize your data structures using graphviz](https://github.com/bradleyjkemp/memviz)
 
 ## [[Go Resources]]

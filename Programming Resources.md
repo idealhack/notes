@@ -15,6 +15,7 @@
 - [经典编程书籍大全](https://ch1dyc4t.gitbooks.io/awesome-programming-books/content/)
 - [QSCTech/zju-icicles: 浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [Urinx/Books: 无它术，唯勤读书而多为之，自工](https://github.com/Urinx/Books)
+- [KeKe-Li/book: All programming languages books](https://github.com/KeKe-Li/book)
 
 ## Websites
 
@@ -27,6 +28,8 @@
 
 - [sindresorhus/awesome: Curated list of awesome lists](https://awesome.re)
 - [bayandin/awesome-awesomeness: A curated list of awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [KeKe-Li/Best-websites-a-programmer-should-visit-zh: 程序员应该访问的最佳网站中文版](https://github.com/KeKe-Li/Best-websites-a-programmer-should-visit-zh)
 - [leachim6/hello-world: Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!](https://github.com/leachim6/hello-world)
 - [mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/mtdvio/every-programmer-should-know)
 - [stanzhai/be-a-professional-programmer: 成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer)

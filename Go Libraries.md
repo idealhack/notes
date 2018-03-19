@@ -10,14 +10,11 @@
 
 ### Web
 
-- [astaxie/beego: beego is an open-source, high-performance web framework for the Go programming language.](https://github.com/astaxie/beego)
 - [gin-gonic/gin: Gin is a HTTP web framework written in Go](https://github.com/gin-gonic/gin)
+- [labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
 - [urfave/negroni: Idiomatic HTTP Middleware for Golang](https://github.com/urfave/negroni)
 - [revel/revel: A high productivity, full-stack web framework for the Go language.](https://github.com/revel/revel)
 - [valyala/quicktemplate: Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template](https://github.com/valyala/quicktemplate)
-- [kataras/iris: The fastest web framework for Go in (THIS) Universe. HTTP/2 & MVC fully featured. Real-time support](https://github.com/kataras/iris)
-- [go-siris/siris: The community driven fork of Iris. The fastest web framework for Golang!](https://github.com/go-siris/siris)
-- [labstack/echo: High performance, minimalist Go web framework](https://github.com/labstack/echo)
 - [Gorilla, the golang web toolkit](http://www.gorillatoolkit.org/)
 - [gobuffalo/buffalo: Rapid Web Development w/ Go](https://github.com/gobuffalo/buffalo)
 
