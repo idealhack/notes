@@ -16,4 +16,6 @@
 
 - [System shows drm:drm_edid_block_valid *ERROR* EDID checksum is invaild error at boot - Red Hat Customer Portal](https://access.redhat.com/solutions/321703)
 
-### Read-only file system
+### yum: Package does not match intended download
+
+    yum clean all && rm -rf /var/cache/yum

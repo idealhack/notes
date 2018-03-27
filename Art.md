@@ -7,6 +7,8 @@
 ## Type
 
 - [[Music]]
+- [[Movie]]
+- [[Game]]
 
 ## Resources
 

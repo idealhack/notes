@@ -16,16 +16,6 @@
 - [BitBar - Put anything in your Mac OS X menu bar](https://getbitbar.com/)
 - [Airtable](https://airtable.com/)
 
-### Programming
-
-- PyCharm CE
-- Gogland
-- CLion
-
-### Not released yet
-
-- [Mailpile](https://www.mailpile.is/)
-
 ## [[macOS Commands]]
 
 ## Development

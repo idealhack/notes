@@ -10,6 +10,7 @@
 - [[Macau]]
 - [[Japan]]
 - [[France]]
+- [[Denmark]]
 - [[Taiwan]]
 - [[Australia]]
 

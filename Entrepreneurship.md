@@ -8,8 +8,25 @@
 
 ## Biography
 
-- [[Elon Musk]]
-- [[Einstein]]
+### Elon Musk
+
+![](https://s3-us-west-2.amazonaws.com/notion-static/ohI68TfpSW6urG59LoqW_--%20...jpg)
+
+### Einstein
+
+![](https://s3-us-west-2.amazonaws.com/notion-static/c4c761169f854274b040452774649239/einstein.jpg)
+
+## Companies
+
+### Starbucks
+
+![](https://s3-us-west-2.amazonaws.com/notion-static/OqqFUrS9SLWXWfrUTEA2_--%20...jpg)
+
+![](https://s3-us-west-2.amazonaws.com/notion-static/PbFZdIM5SoSmuLfB0nb8_--%20...jpg)
+
+### Apple
+
+- [1980 年代至今苹果发布会、广告和演讲视频大全](http://dheval.eieidoh.net:8880/DataHoarder/AppleArchive/)
 
 ## Books
 

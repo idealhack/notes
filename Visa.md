@@ -8,3 +8,10 @@
 
 - [[Japan]]
 - [[France]]
+- [[Denmark]]
+- [[Australia]]
+
+## Schengen
+
+- [申根签证信息 - Schengen VISA Information](https://www.schengenvisainfo.com/zh-hans/)
+- [Visa policy](https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/visa-policy_en)

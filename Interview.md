@@ -5,6 +5,7 @@
 - [hawx1993/Front-end-Interview-Questions: Front-end developer interview questions and answers前端开发面试问题及答案](https://github.com/hawx1993/Front-end-Interview-questions)
 - [h5bp/Front-end-Developer-Interview-Questions: A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [lzyy/iOS-Developer-Interview-Questions: 面试 iOS 开发时可以问的一些问题](https://github.com/lzyy/iOS-Developer-Interview-Questions)
+- [CyC2018/Interview-Notebook: 技术面试需要掌握的基础知识整理](https://github.com/CyC2018/Interview-Notebook)
 - [alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
 - [skyline75489/what-happens-when-zh_CN: What-happens-when 的中文翻译，原仓库 https://github.com/alex/what-happens-when](https://github.com/skyline75489/what-happens-when-zh_CN)
 - [Twipped/InterviewThis: An open source list of developer questions to ask prospective employers](https://github.com/ChiperSoft/InterviewThis)

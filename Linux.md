@@ -9,11 +9,10 @@
 
 - [[Ubuntu]]
 - [[CentOS]]
-- [[RHEL]]
-- Debian
-- Arch
-- [Kali](https://www.kali.org/)
-- BlackArch
+- [Debian](https://www.debian.org/index.zh-cn.html)
+- [Arch Linux](https://www.archlinux.org/)
+- [Kali Linux](https://www.kali.org/)
+- [BlackArch Linux](https://blackarch.org/index.html)
 
 ## Tasks
 
