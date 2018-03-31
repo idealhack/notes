@@ -5,9 +5,9 @@
 ## Overview
 
 - Written in [Markdown](https://daringfireball.net/projects/markdown/)
-- Powered by [nvALT](http://brettterpstra.com/projects/nvalt/), [Simplenote](https://simplenote.com/) and [Git](https://git-scm.com/)
 - Notes are distributed and linked by files
-- There may be more tools introduced at some time
+- Powered by [nvALT](http://brettterpstra.com/projects/nvalt/), [Simplenote](https://simplenote.com/) and [Git](https://git-scm.com/)
+- Other [tools](https://github.com/idealhack/wiki-tools) will come along
 
 ## License
 
