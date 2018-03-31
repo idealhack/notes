@@ -28,6 +28,7 @@
 - [面向信仰编程](https://draveness.me/index)
 - [dirtysalt's homepage](https://dirtysalt.github.io/html/index.html)
 - [mindwind](http://mindwind.me/)
+- [程序员小灰的博客 - CSDN博客](https://blog.csdn.net/bjweimengshu)
 
 ### Company
 

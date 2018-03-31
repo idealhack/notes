@@ -13,6 +13,7 @@
 - [Kubernetes 的高级调度 | 伪架构师](http://blog.fleeto.us/translation/advanced-scheduling-kubernetes)
 - [如何扩展Kubernetes管理的资源对象？](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694241&idx=1&sn=cb425963ed1fba6df0231336811d913b)
 - [基于Kubernetes的私有容器云建设实践](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694121&idx=1&sn=ce34029776eef49bf1842b76730bd0f5)
+- [Kubernetes漫谈](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247488664&amp;idx=1&amp;sn=e139a3207c4c3bf6a88d5c6c193c89c6)
 
 ### Monitoring
 
@@ -36,6 +37,7 @@
 ### Ingress
 
 - [kubernetes/ingress-nginx: Ingress controller for nginx](https://github.com/kubernetes/ingress-nginx)
+- [NodePort，LoadBalancer还是Ingress？我该如何选择](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247486025&idx=1&sn=1f95917918a3217bb92b97113c81b6c8)
 
 ### client-go
 

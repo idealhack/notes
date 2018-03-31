@@ -2,7 +2,7 @@
 
 ## Overview
 
-- [SQL - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/SQL)
+- [SQL - 维基百科](https://zh.wikipedia.org/wiki/SQL)
 
 ## Databases
 

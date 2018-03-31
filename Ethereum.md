@@ -34,6 +34,7 @@
 - [EthFans | 以太坊爱好者](http://ethfans.org/)
 - [如何妥善备份你的以太坊钱包？](https://mp.weixin.qq.com/s/3_gX40c_736VpWLeVYjw-A)
 - [以太坊开发入门 - 区块链技术博客](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)
+- [CryptoZombies - 编游戏的同时学习以太坊的智能协议. Loom Network产品。](https://cryptozombies.io/zh/)
 
 ### Videos
 

@@ -1,5 +1,14 @@
 # Interview
 
+## Code interview
+
+1. 与面试官确认问题
+1. 与面试官讨论自己的思路
+1. 写下来自己的想法
+1. 讲清楚自己的想法
+1. 找到最优解
+1. 考虑到 edge cases
+
 ## Resources
 
 - [hawx1993/Front-end-Interview-Questions: Front-end developer interview questions and answers前端开发面试问题及答案](https://github.com/hawx1993/Front-end-Interview-questions)
@@ -26,3 +35,4 @@
 - [程序员面试金典--笔记(精华篇) | SWF's Hacking Dream](http://codeshold.me/2017/01/cracking_interview.html)
 - [招聘面试的套路与原则](https://mp.weixin.qq.com/s/qRwDowetBkJqpeMeAZsIpA)
 - [The Ultimate Job Interview Preparation Guide - Glassdoor Blog](https://www.glassdoor.com/blog/guide/the-ultimate-job-interview-preparation-guide/)
+- [interview | CS巴别塔(1)](https://csbabel.wordpress.com/tag/interview/)

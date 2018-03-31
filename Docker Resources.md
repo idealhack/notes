@@ -12,11 +12,11 @@
 
 #### Docker — 从入门到实践
 
-[Docker —— 从入门到实践 · GitBook](https://www.gitbook.com/book/yeasy/docker_practice)
+- [Docker —— 从入门到实践 · GitBook](https://www.gitbook.com/book/yeasy/docker_practice)
 
 #### Docker 生产环境实践指南 *2016/07*
 
-[Docker生产环境实践指南 (豆瓣)](https://book.douban.com/subject/26825958/)
+- [Docker生产环境实践指南 (豆瓣)](https://book.douban.com/subject/26825958/)
 
 ### Getting Started
 
@@ -30,7 +30,7 @@
 
 ### 深度浅出 Docker
 
-[深入浅出Docker · 看云](http://www.kancloud.cn/infoq/docker)
+- [深入浅出Docker · 看云](http://www.kancloud.cn/infoq/docker)
 
 ### The Docker Ecosystem
 

@@ -20,6 +20,8 @@
 - Replace all: `:%s/foo/bar/g`
 - Save as root: `:w !sudo tee %`
 
-## Forks
+## Distributions
 
 - [neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
+- [SpaceVim](http://spacevim.org/cn/)
+- [Oni - Modern Modal Editing](https://www.onivim.io/)

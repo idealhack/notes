@@ -48,6 +48,10 @@
 - [从直播CDN的原理说起，谈如何解决延时和连麦的老难题？](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598371&idx=1&sn=b9e81fc19c36c0c2a29dc98e27a6b215&chksm=8be99531bc9e1c275c0452fcc5ce9317b9617ca038f867c0d2c0bcd5f3c8c5cb17ea3008b6c)
 - [视频云直播端网络QoS算法总结和技术展望](http://mp.weixin.qq.com/s?__biz=MzAxNjc1MTk5Nw==&mid=2649157389&idx=1&sn=9a079d8226e2f7fd83d64b00f6354a99&scene=2&srcid=0925LXulZMJGcAKrkLEqX07j#rd)
 
+### Android
+
+- [Android中直播视频技术探究之—基础知识大纲介绍 | 编风网](http://www.befoio.com/1545.html)
+
 ### 连麦
 
 - [从无到有开发连麦直播技术点整理-AnyRTC - 甘为码农 - 博客频道 - CSDN.NET](http://blog.csdn.net/heisedelangzi/article/details/52400333)

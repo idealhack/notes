@@ -69,6 +69,7 @@
 - [so-fancy/diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs.](https://github.com/so-fancy/diff-so-fancy)
 - [upx/upx: UPX - the Ultimate Packer for eXecutables](https://github.com/upx/upx)
 - [cjbarber/ToolsOfTheTrade: Tools of The Trade, from Hacker News.](https://github.com/cjbarber/ToolsOfTheTrade)
+- [Surge: Static web publishing for Front-End Developers](https://surge.sh/)
 
 ## Resources
 

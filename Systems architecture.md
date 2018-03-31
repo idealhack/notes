@@ -14,3 +14,4 @@
 - [你是个软件架构师吗？](http://www.infoq.com/cn/articles/brown-are-you-a-software-architect)
 - [史上最全的架构师图谱-软件开发云-华为云论坛](http://forum.hwclouds.com/forum.php?mod=viewthread&tid=308&extra=page%3D1)
 - [Yelp/service-principles: A guide to service principles at Yelp for our service oriented architecture](https://github.com/Yelp/service-principles)
+- [Software and technology stacks used by top companies | StackShare](https://stackshare.io/)

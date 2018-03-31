@@ -25,7 +25,7 @@
 ### CNCF
 
 - [Home - Cloud Native Computing Foundation](https://www.cncf.io/)
-- [cncf/landscape: Cloud Native Landscape](https://github.com/cncf/landscape)
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/cncf=hosted,graduated,incubating,sandbox,member,no&headquarters=paris-france,strasbourg-france,lyon-france,levallois-perret-france,issy-les-moulineaux-france,hem-france,hangzhou-china,suzhou-china)
 
 ## Open-source Licenses
 

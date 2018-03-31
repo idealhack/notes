@@ -19,3 +19,4 @@
 
 - [DavidAQ | FFmpeg实用命令](http://davidaq.com/tutorial/2014/11/20/ffmpeg-commands.html)
 - [FFmpeg av_dump_format输出的tbn、tbc、tbr、PAR、DAR的含义 - 简书](http://www.jianshu.com/p/5b78a91f1091)
+- [“师兄”带你看FFmpeg开发中的坑起坑落](https://mp.weixin.qq.com/s?__biz=MzU1NTEzOTM5Mw==&mid=2247484989&amp;idx=1&amp;sn=b834ba5d8cdec53795f9cbef7c65f50c)

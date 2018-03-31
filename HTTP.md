@@ -16,3 +16,5 @@
 ## Resources
 
 - [来一场轰轰烈烈的HTTP协议扫盲革命 - 个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000012789390)
+- [一步一步教你 HTTPS 抓包 - 掘金](https://juejin.im/post/584b711d8e450a006c586ca6)
+- [也许，这样理解HTTPS更容易](http://showme.codes/2017-02-20/understand-https/)

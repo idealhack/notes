@@ -16,3 +16,11 @@
 - [Free Images - Free Stock Photos](http://www.freeimages.co.uk/)
 - [Free stock photos · Pexels](https://www.pexels.com/)
 - [Free Photos - Free Images - Free Stock Photos - FreeDigitalPhotos.net](http://www.freedigitalphotos.net/)
+
+## Blogs
+
+- [Facebook Design | What's on our mind?](https://facebook.design/)
+
+## Resources
+
+- [创造狮 创意工作者导航](http://www.chuangzaoshi.com/)

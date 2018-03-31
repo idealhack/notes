@@ -17,3 +17,4 @@
 - [如何制作网页格式的邮件（html）邮件？ - 知乎](https://www.zhihu.com/question/20556280)
 - [Foundation for Emails | A Responsive Email Framework from ZURB](http://foundation.zurb.com/emails.html)
 - [MJML - The Responsive Email Framework](https://mjml.io/)
+- [Understanding Email Layout and Structure](https://blog.chamaileon.io/understanding-email-layout-and-structure/)

@@ -25,6 +25,7 @@
 - [Site de recherche d'emploi | Job en France | Monster.fr](https://www.monster.fr/)
 - [Agence d’intérim, cabinet de Recrutement, Offres d’emploi, Jobs, CDD, CDI | Manpower fr](https://www.manpower.fr/)
 - [Emploi, travail, recrutement | Jobrapido.com](http://fr.jobrapido.com/)
+- [Offres d'emploi (CDI, CDD), apprentissages et stages | Welcome to the Jungle](https://www.welcometothejungle.co/jobs)
 
 ## Resources
 

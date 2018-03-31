@@ -11,6 +11,7 @@
 - [TA-Lib : Technical Analysis Library - Home](http://ta-lib.org/)
 - [mrjbq7/ta-lib: Python wrapper for TA-Lib](https://github.com/mrjbq7/ta-lib)
 - [vn.py - 基于python的开源交易平台开发框架 - vn.py](http://www.vnpy.org/)
+- [FutunnOpen/futuquant: 富途量化平台 API](https://github.com/FutunnOpen/futuquant)
 
 ## Resources
 

@@ -31,6 +31,10 @@
 - [derbyjs/derby: MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers](https://github.com/derbyjs/derby)
 - [spine/spine: Lightweight MVC library for building JavaScript applications](https://github.com/spine/spine)
 
+### UI
+
+- [material-components/material-components-web: Modular and customizable Material Design UI components for the web](https://github.com/material-components/material-components-web)
+
 ### Testing
 
 - [qunitjs/qunit: An easy-to-use JavaScript Unit Testing framework.](https://github.com/qunitjs/qunit)
