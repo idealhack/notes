@@ -4,18 +4,14 @@
 
 - [软件工程 - 维基百科](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B)
 
-## Topics
-
-- [[Design Patterns]]
-- [[Systems architecture]]
-- [[Architectural pattern]]
-- [[Continuous integration]]
-- [[Continuous delivery]]
-- [[Project management]]
-
 ## Methodologies
 
-- [测试驱动开发 - 维基百科](https://zh.wikipedia.org/wiki/%E6%B5%8B%E8%AF%95%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91)
+- [[Project management]]
+- [[Software architecture]]
+- [[Design Patterns]]
+- [[Test-driven development]]
+- [[Continuous integration]]
+- [[Continuous delivery]]
 - [After-action review - Wikipedia](https://en.wikipedia.org/wiki/After-action_review)
 - [巴士因子 - 维基百科](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A3%AB%E5%9B%A0%E5%AD%90)
 

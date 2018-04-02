@@ -24,6 +24,7 @@
 - [Go Programming Blueprints](https://github.com/matryer/goblueprints)
 - [《Go Web 编程》读者服务网站 | Go Web Programming Chinese Edition](http://gwpcn.com/)
 - [Go语言高级编程](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
+- [Go 101](https://go101.org/article/101.html)
 
 ## Blogs
 
@@ -66,15 +67,13 @@
 
 ## Videos
 
+- [gophercon](https://github.com/gophercon?q=talks)
+- [gopherchina](https://github.com/gopherchina)
 - [The Go Language - YouTube](https://www.youtube.com/playlist?list=PLIbUZ3URbL0Hn-2v6oB9nMfIfJPYDY9Nv)
 - [Unknwon/go-fundamental-programming: 《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。](https://github.com/Unknwon/go-fundamental-programming)
 - [Gophercises - Coding exercises for budding gophers](https://gophercises.com/)
 - [Go 零基础编程入门教程 - Go中国技术社区 - golang](https://gocn.io/question/1615)
-
-## Talks
-
-- [gophercon](https://github.com/gophercon?q=talks)
-- [gopherchina](https://github.com/gopherchina)
+- [The Why of Go](https://www.infoq.com/presentations/go-concurrency-gc)
 
 ## Gophers
 

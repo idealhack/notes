@@ -46,3 +46,9 @@
 
 - [RHEL7 RHCSA Exam objectives - CertDepot](https://www.certdepot.net/rhel7-rhcsa-exam-objectives/)
 - [RHEL7 RHCE Exam objectives - CertDepot](https://www.certdepot.net/rhel7-rhce-exam-objectives/)
+
+## Issues
+
+yum: Package does not match intended download
+
+    yum clean all && rm -rf /var/cache/yum

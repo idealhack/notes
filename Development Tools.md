@@ -2,6 +2,7 @@
 
 - [[Terminal]]
 - [[Shell]]
+- [[Diagram]]
 - [[Git]]
 - [[Shadowsocks]]
 - [[HTTP Tools]]

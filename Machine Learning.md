@@ -11,7 +11,13 @@
 
 ## [[Machine Learning Frameworks]]
 
-## [[Deep Learning Frameworks]]
+## Deep Learning 
+
+- [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
+- [How to learn Deep Learning in 6 months – Towards Data Science](https://towardsdatascience.com/how-to-learn-deep-learning-in-6-months-e45e40ef7d48)
+- [听说你想了解人工智能？这篇文章教你从零基础成为深度学习高手【附报告下载】](https://zhuanlan.zhihu.com/p/31650418?iam=2f806b019609e587ce196afb704805cf)
+
+### [[Deep Learning Frameworks]]
 
 ## Docker
 
@@ -24,10 +30,6 @@
 - [kailashahirwar/cheatsheets-ai: Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
 - [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 - [KeKe-Li/tutorial: Algorithms Tutorial](https://github.com/KeKe-Li/tutorial)
-
-### Books
-
-- [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
 
 ### Courses
 

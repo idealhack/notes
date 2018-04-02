@@ -11,5 +11,6 @@
 ## Resources
 
 - [TCP 连接状态 | 鸟窝](http://colobu.com/2015/06/25/TCP-connection-status/)
-- [优化Linux的内核参数来提高服务器并发处理能力](http://www.ha97.com/4396.html)
 - [TCP TIME-WAIT 笔记 - 概览](https://blog.tonyseek.com/post/tcp-tw-overview/)
+- [Linux高并发系统参数优化](https://blog.icehoney.me/posts/2016-11-27-Linux-tune-guide)
+- [Linux下Http高并发参数优化之TCP参数 | One Rain's Blog](https://kiswo.com/article/1017)

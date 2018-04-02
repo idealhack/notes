@@ -14,6 +14,9 @@
 - [如何扩展Kubernetes管理的资源对象？](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694241&idx=1&sn=cb425963ed1fba6df0231336811d913b)
 - [基于Kubernetes的私有容器云建设实践](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649694121&idx=1&sn=ce34029776eef49bf1842b76730bd0f5)
 - [Kubernetes漫谈](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247488664&amp;idx=1&amp;sn=e139a3207c4c3bf6a88d5c6c193c89c6)
+- [The best architecture with Docker and Kubernetes — myth or reality?](https://hackernoon.com/the-best-architecture-with-docker-and-kubernetes-myth-or-reality-77b4f8f3804d)
+- [Scaling Kubernetes to 2,500 Nodes](https://blog.openai.com/scaling-kubernetes-to-2500-nodes/)
+- [Kubernetes for dev infrastructure – Hacker Noon](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 
 ### Monitoring
 

@@ -35,6 +35,7 @@
 - [ahmetb/kubectx: Fast way to switch between clusters and namespaces in kubectl!](https://github.com/ahmetb/kubectx)
 - [kubernetes-ui/topology-graph](https://github.com/kubernetes-ui/topology-graph)
 - [GoogleCloudPlatform/skaffold: Easy and Repeatable Kubernetes Development](https://github.com/GoogleCloudPlatform/skaffold)
+- [kubed-sh | The Kubernetes distributed shell, for the casual cluster user](http://kubed.sh/)
 
 ## Monitoring
 
