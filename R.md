@@ -12,3 +12,4 @@
 ## Resources
 
 - [R语言忍者秘笈](https://bookdown.org/yihui/r-ninja/)
+- [统计之都](https://cosx.org/)

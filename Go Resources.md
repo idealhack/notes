@@ -9,7 +9,6 @@
 - [Go Language for Beginners in 16 Parts! | Hacking Code](https://blog.hackingcode.io/go-language-for-beginners-tutorial-in-16-parts/)
 - [enocom/gopher-reading-list: A curated selection of blog posts on Go](https://github.com/enocom/gopher-reading-list)
 - [Go知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0)
-- [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
 
 ## Books
 

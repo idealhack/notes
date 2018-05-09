@@ -2,7 +2,7 @@
 
 ## Overview
 
-- [软件架构 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84)
+- [软件架构 - 维基百科](https://zh.wikipedia.org/wiki/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84)
 
 ## Architectural pattern
 

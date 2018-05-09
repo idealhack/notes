@@ -25,5 +25,6 @@
 - [goreleaser/goreleaser: Deliver Go binaries as fast and easily as possible](https://github.com/goreleaser/goreleaser)
 - [thockin/go-build-template: A Makefile/Dockerfile example for Go projects.](https://github.com/thockin/go-build-template)
 - [bradleyjkemp/memviz: Visualize your data structures using graphviz](https://github.com/bradleyjkemp/memviz)
+- [TrueFurby/go-callvis: Visualize call graph of your Go program using dot format.](https://github.com/TrueFurby/go-callvis)
 
 ## [[Go Resources]]

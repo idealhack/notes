@@ -14,6 +14,7 @@
 
 - [巴黎 - 维基百科](https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%BB%8E)
 - [Paris tourist office - Official website](https://zh.parisinfo.com/)
+- [搞定巴黎交通週卡Paris Navigo Pass！ — INSIDR Paris](http://www.insidr.paris/paris-tips/paris-navigo-pass-cn)
 
 ## Lyon
 

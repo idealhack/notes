@@ -14,6 +14,7 @@
 - [[Continuous delivery]]
 - [After-action review - Wikipedia](https://en.wikipedia.org/wiki/After-action_review)
 - [巴士因子 - 维基百科](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A3%AB%E5%9B%A0%E5%AD%90)
+- Chaos Engineering
 
 ## Resources
 
