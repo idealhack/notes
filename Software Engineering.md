@@ -12,9 +12,9 @@
 - [[Test-driven development]]
 - [[Continuous integration]]
 - [[Continuous delivery]]
+- [[Chaos Engineering]]
 - [After-action review - Wikipedia](https://en.wikipedia.org/wiki/After-action_review)
 - [巴士因子 - 维基百科](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%A3%AB%E5%9B%A0%E5%AD%90)
-- Chaos Engineering
 
 ## Resources
 
@@ -29,3 +29,4 @@
 - [改善单元测试的新方法](http://insights.thoughtworkers.org/improve-the-effectiveness-of-unit-testing/)
 - [你以为是微服务或Docker？其实是组织架构！](http://insights.thoughtworkers.org/microservices-docker-organization-transfermation/)
 - [敏捷团队的办公室设计 – ThoughtWorks洞见](http://insights.thoughtworkers.org/office-designed-by-agile-team/)
+- [Google的软件工程概述](https://mp.weixin.qq.com/s/JT4ZajZUlE0NXnIGNw-HkQ)

@@ -8,7 +8,7 @@
 
 ## Install
 
-[Istio / Quick Start](https://istio.io/docs/setup/kubernetes/quick-start.html)
+- [Istio / Quick Start](https://istio.io/docs/setup/kubernetes/quick-start.html)
 
 ### Caution
 

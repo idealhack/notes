@@ -51,6 +51,7 @@
 - [emirpasic/gods: GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON](https://github.com/emirpasic/gods)
 - [matryer/vice: Go channels at horizontal scale (powered by message queues)](https://github.com/matryer/vice)
 - [pkg/errors: Simple error handling primitives](https://github.com/pkg/errors)
+- [tidwall/gjson: Get JSON values quickly - JSON Parser for Go](https://github.com/tidwall/gjson)
 
 ### Data
 
@@ -58,6 +59,7 @@
 - [pilosa/pilosa: Pilosa is an open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.](https://github.com/pilosa/pilosa)
 - [chrislusf/gleam: Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.](https://github.com/chrislusf/gleam)
 - [go-ego/riot: Go Open Source, Distributed, Simple and efficient Search Engine](https://github.com/go-ego/riot)
+- [blevesearch/bleve: A modern text indexing library for go](https://github.com/blevesearch/bleve)
 - [montanaflynn/stats: A statistics package with common functions that are missing from the Golang standard library.](https://github.com/montanaflynn/stats)
 - [mattes/migrate: Database migrations. CLI and Golang library.](https://github.com/mattes/migrate)
 

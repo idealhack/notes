@@ -11,3 +11,4 @@
 
 - [Butterick’s Practical Typography](https://practicaltypography.com/)
 - [TFL home | Typography for Lawyers](https://typographyforlawyers.com/)
+- [Jolg42/awesome-typography: ✏︎ Curated list about typography 🔥](https://github.com/Jolg42/awesome-typography)

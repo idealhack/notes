@@ -21,3 +21,5 @@
 - [amiaopensource/ffmprovisr: Repository of useful FFmpeg commands for archivists!](https://github.com/amiaopensource/ffmprovisr)
 - [FFmpeg av_dump_format输出的tbn、tbc、tbr、PAR、DAR的含义 - 简书](http://www.jianshu.com/p/5b78a91f1091)
 - [“师兄”带你看FFmpeg开发中的坑起坑落](https://mp.weixin.qq.com/s?__biz=MzU1NTEzOTM5Mw==&mid=2247484989&amp;idx=1&amp;sn=b834ba5d8cdec53795f9cbef7c65f50c)
+- [ffmpeg tutorial](http://dranger.com/ffmpeg/ffmpeg.html)
+- [FFMPEG Tips (2) 如何提取码流的基本信息](https://zhuanlan.zhihu.com/p/23448271)

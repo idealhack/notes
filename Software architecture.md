@@ -44,3 +44,4 @@
 - [Yelp/service-principles: A guide to service principles at Yelp for our service oriented architecture](https://github.com/Yelp/service-principles)
 - [Software and technology stacks used by top companies | StackShare](https://stackshare.io/)
 - [Five things every developer should know about software architecture - Coding the Architecture](http://www.codingthearchitecture.com/2014/03/05/five_things_every_developer_should_know_about_software_architecture.html)
+- [davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充](https://github.com/davideuler/architecture.of.internet-product)

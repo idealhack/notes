@@ -1,4 +1,4 @@
-# Digital image processing
+# Image processing
 
 ## Overview
 

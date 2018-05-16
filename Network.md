@@ -16,10 +16,8 @@
 
 - [[BGP]]
 - [[DNS]]
-- [[HLS]]
 - [[HTTP]]
 - [[NTP]]
-- [[RTSP]]
 
 ### Presentation Layer
 

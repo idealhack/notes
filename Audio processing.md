@@ -6,6 +6,7 @@
 
 ## Libraries
 
+- [OpenAL: Cross Platform 3D Audio](https://www.openal.org/)
 - [SoundTouch Sound Processing Library](http://www.surina.net/soundtouch/)
 
 ## Resources

@@ -3,7 +3,7 @@
 ## Overview
 
 - [PostgreSQL: The world's most advanced open source database](https://www.postgresql.org/)
-- [PostgreSQL: Documentation: 10: PostgreSQL 10.1 Documentation](https://www.postgresql.org/docs/10/static/index.html)
+- [PostgreSQL中文社区: 世界上功能最强大的开源数据库...](http://www.postgres.cn/index.php/home)
 
 ## Common Tasks
 

@@ -244,15 +244,7 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - [DmitryBaranovskiy/raphael: JavaScript Vector Library](https://github.com/DmitryBaranovskiy/raphael)
 - [paperjs/paper.js: The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey](https://github.com/paperjs/paper.js)
 
-### Canvas
-
-- [niklasvh/html2canvas: Screenshots with JavaScript](https://github.com/niklasvh/html2canvas)
-- [kangax/fabric.js: Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser](https://github.com/kangax/fabric.js)
-- [CreateJS/EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.](https://github.com/CreateJS/EaselJS)
-- [jdan/isomer: Simple isometric graphics library for HTML5 canvas](https://github.com/jdan/isomer)
-- [soulwire/sketch.js: Cross-Platform JavaScript Creative Coding Framework](https://github.com/soulwire/sketch.js)
-- [jonobr1/two.js: A renderer agnostic two-dimensional drawing api for the web.](https://github.com/jonobr1/two.js)
-- [uxebu/bonsai: BonsaiJS is a graphics library and renderer](https://github.com/uxebu/bonsai)
+### [[Canvas]]
 
 ### SVG
 

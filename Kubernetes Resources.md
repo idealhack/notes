@@ -40,7 +40,7 @@
 ### Ingress
 
 - [kubernetes/ingress-nginx: Ingress controller for nginx](https://github.com/kubernetes/ingress-nginx)
-- [NodePort，LoadBalancer还是Ingress？我该如何选择](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247486025&idx=1&sn=1f95917918a3217bb92b97113c81b6c8)
+- [对比Kubernetes的Nodeport、Loadbalancer和Ingress，什么时候该用哪种 - imroc.io|roc的博客|Cloud Native|Kubernetes|Go|Golang](https://imroc.io/posts/kubernetes/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what/)
 
 ### client-go
 

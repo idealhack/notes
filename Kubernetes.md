@@ -36,6 +36,8 @@
 - [kubernetes-ui/topology-graph](https://github.com/kubernetes-ui/topology-graph)
 - [GoogleCloudPlatform/skaffold: Easy and Repeatable Kubernetes Development](https://github.com/GoogleCloudPlatform/skaffold)
 - [kubed-sh | The Kubernetes distributed shell, for the casual cluster user](http://kubed.sh/)
+- [hasura/gitkube: Gitkube: Build and deploy docker images to Kubernetes using git push.](https://github.com/hasura/gitkube)
+- [databricks/click: The "Command Line Interactive Controller for Kubernetes"](https://github.com/databricks/click)
 
 ## Monitoring
 

@@ -52,17 +52,24 @@
 - [编写和优化Go代码 · dgryski/go-perfbook](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
 - [Golang协程之殇 | Computer Science & Programming](http://blog.imisko.com/2017/08/02/golang-coroutine/)
 - [Go Performance Tuning - StackImpact](https://stackimpact.com/docs/go-performance-tuning/)
+- [How to start a Go project in 2018 | Ben E. C. Boyter](https://boyter.org/posts/how-to-start-go-project-2018/)
 
 ### Interface
 
 - [Interface Values Are Valueless - GoingGo - Ardan Labs](https://www.ardanlabs.com/blog/2018/03/interface-values-are-valueless.html)
 - [理解 go interface 的 5 个关键点 | 三月沙](http://sanyuesha.com/2017/07/22/how-to-understand-go-interface/)
+- [深入理解Go的interface](https://mp.weixin.qq.com/s/CnMWXU4CthoSWp4jtymjiQ)
 
 ### Channel
 
+- [Go 原理解析：channel是如何工作的](https://mp.weixin.qq.com/s/kBimHA6KPsjtOJkkJEyRHw)
 - [Go语言并发模型：像Unix Pipe那样使用channel - 赵帅虎 - SegmentFault](https://segmentfault.com/a/1190000006261218)
 - [深入理解 Go Channel | Legendtkl](http://legendtkl.com/2017/07/30/understanding-golang-channel/)
 - [Go Channel 应用模式 | 鸟窝](http://colobu.com/2018/03/26/channel-patterns/)
+
+### Errors
+
+- [更优雅的 Golang 错误处理](https://mp.weixin.qq.com/s/p5NhtlcnXrsd-QAN1iMLvQ)
 
 ## Videos
 
