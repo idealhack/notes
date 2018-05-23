@@ -41,6 +41,7 @@
 - [小米盒子3(MDZ-16-AA)root成功_8乱舞春秋8_新浪博客](http://blog.sina.com.cn/s/blog_51b16bbe0102wacc.html)
 - [HenCoder](http://hencoder.com/)
 - [Haven](https://guardianproject.github.io/haven/)
+- [深入理解Android：卷1 · 看云](https://www.kancloud.cn/alex_wsc/android_depp/412844)
 
 ### Unique ID
 

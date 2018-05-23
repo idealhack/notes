@@ -52,6 +52,7 @@
 - [matryer/vice: Go channels at horizontal scale (powered by message queues)](https://github.com/matryer/vice)
 - [pkg/errors: Simple error handling primitives](https://github.com/pkg/errors)
 - [tidwall/gjson: Get JSON values quickly - JSON Parser for Go](https://github.com/tidwall/gjson)
+- [robfig/cron: a cron library for go](https://github.com/robfig/cron)
 
 ### Data
 

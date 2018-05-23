@@ -11,6 +11,7 @@
 - [[CentOS]]
 - [Debian](https://www.debian.org/index.zh-cn.html)
 - [Arch Linux](https://www.archlinux.org/)
+- [Manjaro Linux](https://manjaro.org/)
 - [Kali Linux](https://www.kali.org/)
 - [BlackArch Linux](https://blackarch.org/index.html)
 
