@@ -25,3 +25,7 @@
 - [neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
 - [SpaceVim](http://spacevim.org/cn/)
 - [Oni - Modern Modal Editing](https://www.onivim.io/)
+
+## Resources
+
+- [Vim 正體中文社群](http://www.vim.tw/)

@@ -45,6 +45,8 @@
 - [点我达技术](http://tech.dianwoda.com/)
 - [Glow 技术团队博客](http://tech.glowing.com/cn/)
 - [GitHub Engineering | The Blog of the GitHub Engineering Team](https://githubengineering.com/)
+- [有赞技术团队](https://tech.youzan.com/)
+- [360 OPSDEV](https://www.opsdev.cn/)
 
 ### Media
 

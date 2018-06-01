@@ -54,3 +54,4 @@
 - [c++ - Differences between VexCL, Thrust, and Boost.Compute - Stack Overflow](http://stackoverflow.com/questions/20154179/differences-between-vexcl-thrust-and-boost-compute)
 - [并行计算的高性能软件库：ArrayFire - OPEN 开发经验库](http://m.open-open.com/m/lib/view/1415890274039.html)
 - [高并发和高可用的一点思考 - Kris的博客 | Kris' Blog](http://kriszhang.com/high_performance/)
+- [实时计算——聊一聊我所经历的计算框架 - 简书](https://www.jianshu.com/p/16323566f3c6)

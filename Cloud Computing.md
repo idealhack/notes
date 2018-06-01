@@ -11,10 +11,14 @@
 
 ## Serverless
 
+- [anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless)
+
+## FaaS
+
 - [OpenFaaS](https://github.com/openfaas)
-- [Iron.io - DevOps Solutions from Startups to Enterprise](https://www.iron.io/)
 
 ## Resources
 
 - [解读 | 你真正理解什么是Cloud Native吗？ - DockOne.io](http://www.dockone.io/article/688)
 - [世界主流雲計算廠商服務器節點檢測 | Siege](https://ky0n.xyz/cloudspeed/)
+- [想了解阿里巴巴的云化架构 看这篇就够了](http://www.infoq.com/cn/news/2017/12/Cloud-Sigma-Pouch-Alibaba)

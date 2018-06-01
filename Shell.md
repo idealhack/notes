@@ -26,3 +26,4 @@
 - [LinuxCommand.org: Learn the Linux command line. Write shell scripts.](http://linuxcommand.org/)
 - [Mosh: the mobile shell](https://mosh.org/)
 - [brandonhilkert/fucking_shell_scripts: The easiest, most common sense configuration management tool... because you just use fucking shell scripts.](https://github.com/brandonhilkert/fucking_shell_scripts)
+- [Shell Scripting Crash Course - Beginner Level - YouTube](https://www.youtube.com/watch?v=v-F3YLd6oMw)

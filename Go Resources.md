@@ -35,6 +35,7 @@
 - [Go并发编程之Go语言概述](http://www.infoq.com/cn/articles/go-language-introduction)
 - [golang · GitBook](https://www.gitbook.com/book/liushuchun/golang/details)
 - [Go语言学习 - cyent笔记](https://cyent.github.io/golang/)
+- [laisky-blog: Golang 学习笔记](https://blog.laisky.com/p/golang/)
 - [使用Go语言每分钟处理1百万请求 - Go中国技术社区 - golang](https://gocn.io/article/5)
 - [Golang Response Snippets: JSON, XML and more](http://www.alexedwards.net/blog/golang-response-snippets)
 - [Go语言](https://yuyang0.github.io/notes/golang.html)
@@ -54,11 +55,16 @@
 - [Go Performance Tuning - StackImpact](https://stackimpact.com/docs/go-performance-tuning/)
 - [How to start a Go project in 2018 | Ben E. C. Boyter](https://boyter.org/posts/how-to-start-go-project-2018/)
 
+### Map
+
+- [Go语言map实践](https://mp.weixin.qq.com/s/9x-R6LJuS5iTfzqzDoqbyQ)
+
 ### Interface
 
 - [Interface Values Are Valueless - GoingGo - Ardan Labs](https://www.ardanlabs.com/blog/2018/03/interface-values-are-valueless.html)
 - [理解 go interface 的 5 个关键点 | 三月沙](http://sanyuesha.com/2017/07/22/how-to-understand-go-interface/)
 - [深入理解Go的interface](https://mp.weixin.qq.com/s/CnMWXU4CthoSWp4jtymjiQ)
+- [Interfaces in GoLang – ITNEXT](https://itnext.io/interfaces-in-golang-f1aea1ba31cb)
 
 ### Channel
 

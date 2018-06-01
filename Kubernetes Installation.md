@@ -74,13 +74,6 @@ Setup kube-proxy to visit from other machine:
 
     kubectl proxy --address='<host>' --accept-hosts='$*^'
 
-Install Heapster:
-
-    kubectl create -f https://raw.githubusercontent.com/kubernetes/heapster/master/deploy/kube-config/influxdb/influxdb.yaml
-    kubectl create -f https://raw.githubusercontent.com/kubernetes/heapster/master/deploy/kube-config/influxdb/grafana.yaml
-    kubectl create -f https://raw.githubusercontent.com/kubernetes/heapster/master/deploy/kube-config/influxdb/heapster.yaml
-    kubectl create -f https://raw.githubusercontent.com/kubernetes/heapster/master/deploy/kube-config/rbac/heapster-rbac.yaml
-
 Get tokens:
 
     sudo kubeadm token list

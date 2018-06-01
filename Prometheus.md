@@ -1,0 +1,16 @@
+# Prometheus
+
+## Overview
+
+- [prometheus/prometheus: The Prometheus monitoring system and time series database.](https://github.com/prometheus/prometheus)
+
+## Tools
+
+- [coreos/prometheus-operator: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes](https://github.com/coreos/prometheus-operator)
+
+## Resources
+
+- [Docker监控：最佳实践以及cAdvisor和Prometheus监控工具的对比](http://www.infoq.com/cn/news/2015/12/dockercon-docker-monitoring)
+- [Monitoring Kubernetes with Prometheus | Prometheus Docker Monitoring](https://coreos.com/blog/monitoring-kubernetes-with-prometheus.html)
+- [使用 Prometheus + Grafana 对 Kubernetes 进行性能监控的实践](https://mp.weixin.qq.com/s?__biz=MzA4OTMxODQwNA==&mid=2650979194&idx=1&sn=7be1a3db2bebdf2ca7a69cefc2d8d26f)
+- [DockOne微信分享（一七三）：全面学习Prometheus - DockOne.io](http://dockone.io/article/5716)

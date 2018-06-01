@@ -45,3 +45,5 @@
 - [希尔顿 Hilton、凯悦 Hyatt、万豪 Marriott、喜达屋 SPG Category 1 酒店一览表【中国篇】 - 北美旅游指南](http://ustravelersguide.com/hilton-hyatt-marriott-spg-category-1-hotels-in-china/)
 - [多彩生活 | 常旅客与信用卡资讯网站 | 让你我的生活更精彩](http://www.duocaish.com/)
 - [聚沙成塔记 Rewarded LIFE - 北美信用卡快报 低成本旅游攻略](https://rewarded.life/)
+- [HotelDig.com - 酒店比价,折扣代码,常客优惠,订房攻略,酒店推荐](https://www.hoteldig.com/)
+- [飞常旅客 VERYLVKE | 酒店优惠，机票折扣，常旅客计划 – 关于旅行和积分的一切信息](http://www.verylvke.com/)

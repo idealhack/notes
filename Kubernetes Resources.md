@@ -22,9 +22,6 @@
 
 - [Tools for Monitoring Compute, Storage, and Network Resources | Kubernetes](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/)
 - [Kubernetes: Kubernetes: a monitoring guide](http://blog.kubernetes.io/2017/05/kubernetes-monitoring-guide.html)
-- [Monitoring Kubernetes with Prometheus | Prometheus Docker Monitoring](https://coreos.com/blog/monitoring-kubernetes-with-prometheus.html)
-- [Kubernetes Monitoring with Heapster, InfluxDB and Grafana | The Couchbase Blog](https://blog.couchbase.com/kubernetes-monitoring-heapster-influxdb-grafana/)
-- [使用 Prometheus + Grafana 对 Kubernetes 进行性能监控的实践](https://mp.weixin.qq.com/s?__biz=MzA4OTMxODQwNA==&mid=2650979194&idx=1&sn=7be1a3db2bebdf2ca7a69cefc2d8d26f)
 - [Standing Up a ZOP Stack in Kubernetes - {code}](https://blog.codedellemc.com/2017/07/25/standing-zop-stack-kubernetes/?cmp=soc-cor-glbl-us-sprinklr-TWITTER--codeDellEMC-1001768203)
 
 ### Network

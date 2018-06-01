@@ -47,8 +47,8 @@
 
 ### Monitoring
 
-- [kubernetes/heapster: Compute Resource Usage Analysis and Monitoring of Container Clusters](https://github.com/kubernetes/heapster)
-- [coreos/prometheus-operator: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes](https://github.com/coreos/prometheus-operator)
+- [[Prometheus]]
+- [kubernetes-incubator/metrics-server](https://github.com/kubernetes-incubator/metrics-server)
 - [weaveworks/scope: Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)
 
 ## Books

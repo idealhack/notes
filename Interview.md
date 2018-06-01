@@ -9,6 +9,37 @@
 1. 找到最优解
 1. 考虑到 edge cases
 
+## HR interview
+
+### 面试前
+
+1. cheatsheet
+1. tracking sheet 跟踪公司、职位信息、应聘进度
+1. 面经
+1. 公司发展情况
+1. 公司业务
+1. 公司产品
+1. 职位细节
+1. 技术栈
+1. 面试官背景
+1. 公司新闻
+1. 公司 linkedin、技术 blog、官网、HR、recruiter、朋友
+1. 调查自己 net worth，了解 salary expectation
+
+### 面试前一小时
+
+1. 安静环境
+1. 一小时内不要睡觉
+1. 一杯水
+1. 简历
+1. 信息调查表
+1. 提问的问题
+
+### 面试后
+
+1. thank you notes
+1. follow up
+
 ## Resources
 
 - [hawx1993/Front-end-Interview-Questions: Front-end developer interview questions and answers前端开发面试问题及答案](https://github.com/hawx1993/Front-end-Interview-questions)
