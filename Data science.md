@@ -8,3 +8,4 @@
 
 - [pachyderm/pachyderm: Reproducible Data Science at Scale!](https://github.com/pachyderm/pachyderm)
 - [donnemartin/data-science-ipython-notebooks: Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [shik3519/programming-concepts-for-data-science: Basics of programming: algorithms, data structures, object oriented programming](https://github.com/shik3519/programming-concepts-for-data-science)

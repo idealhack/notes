@@ -36,10 +36,10 @@
 
 ### 综述
 
-- [【流媒体｜从入门到出家】：流媒体原理（上）](http://mp.weixin.qq.com/s?__biz=MzIyNDA1OTI2Nw==&mid=2666574284&idx=1&sn=2ccaf6d913bef8677b1470e97739db74&chksm=f310db20c46752362b3035db3000031cfdc6cafce5cd0d162f30118b0bb6b0d2ce70c33d54d4)
-- [【流媒体｜从入门到出家】：流媒体系统（下）](http://mp.weixin.qq.com/s?__biz=MzIyNDA1OTI2Nw==&mid=2666574310&idx=1&sn=cd9b4177bf25094b8dbf906b41e63643&chksm=f310db0ac467521c763801f237cf51199051ec338c5ad1c5741a9dd7f7cf6276252709f319e4)
+- [【流媒体｜从入门到出家】：流媒体原理（上）](http://mp.weixin.qq.com/s?__biz=MzIyNDA1OTI2Nw==&mid=2666574284&idx=1&sn=2ccaf6d913bef8677b1470e97739db74)
+- [【流媒体｜从入门到出家】：流媒体系统（下）](http://mp.weixin.qq.com/s?__biz=MzIyNDA1OTI2Nw==&mid=2666574310&idx=1&sn=cd9b4177bf25094b8dbf906b41e63643)
 - [2小时搞定移动直播 App 开发 - StuQ](http://www.stuq.org/course/detail/1077)
-- [从0到1打造直播 App](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578065&idx=1&sn=1da088b11c797d2be7b5f7afb8f056bb&chksm=84b3b156b3c438401715dc40f7791010b11050983a67fa533a4b559cb67ea6d0ce1996970481)
+- [从0到1打造直播 App](http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578065&idx=1&sn=1da088b11c797d2be7b5f7afb8f056bb)
 - [如何实现1080P延迟低于500ms的实时超清直播传输技术](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547697&idx=1&sn=acc748b7fcf0058b58e244970e51eabc&scene=1&srcid=08191pRrgYQE30BMqQq7jI0F#rd)
 - [2小时搞定移动直播 App 开发_直播 App 开发视频教程-慕课网](http://www.imooc.com/learn/707)
 - [何李石：七牛直播云技术详解](http://mp.weixin.qq.com/s?__biz=MjM5NzAwNDI4Mg==&mid=2652190688&idx=1&sn=391983e0f5b37490a0a66f177e6c9a81)
@@ -55,7 +55,7 @@
 ### 服务端
 
 - [风云直播 & 章鱼TV 后端系统架构演进](http://mp.weixin.qq.com/s?__biz=MjM5ODc5ODgyMw==&mid=208503524&idx=1&sn=bba90c8ab223ba69d7941ea50096139b)
-- [从直播CDN的原理说起，谈如何解决延时和连麦的老难题？](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598371&idx=1&sn=b9e81fc19c36c0c2a29dc98e27a6b215&chksm=8be99531bc9e1c275c0452fcc5ce9317b9617ca038f867c0d2c0bcd5f3c8c5cb17ea3008b6c)
+- [从直播CDN的原理说起，谈如何解决延时和连麦的老难题？](http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659598371&idx=1&sn=b9e81fc19c36c0c2a29dc98e27a6b215)
 - [视频云直播端网络QoS算法总结和技术展望](http://mp.weixin.qq.com/s?__biz=MzAxNjc1MTk5Nw==&mid=2649157389&idx=1&sn=9a079d8226e2f7fd83d64b00f6354a99&scene=2&srcid=0925LXulZMJGcAKrkLEqX07j#rd)
 
 ### Android

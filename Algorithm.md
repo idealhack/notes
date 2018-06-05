@@ -30,6 +30,10 @@
 - [几个有趣的算法题目 - hacker之路 - SegmentFault](https://segmentfault.com/a/1190000011929259)
 - [javascript背包问题详解 - javascript魔法师 - SegmentFault 思否](https://segmentfault.com/a/1190000012829866)
 
+### Sorting
+
+- [What different sorting algorithms sound like - YouTube](https://www.youtube.com/watch?v=t8g-iYGHpEA)
+
 ### State Machine
 
 - [Forde's Tenth Rule, or, "How I Learned to Stop Worrying and ❤️ the State Machine"](http://raganwald.com/2018/02/23/forde.html)

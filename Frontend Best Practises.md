@@ -2,8 +2,7 @@
 
 ## Books
 
-- [Front-end Developer Handbook 2017 · GitBook](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details)
-- [Front-end Developer Handbook 2016 · GitBook](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
+- [Front-end Developer Handbook 2018 · GitBook](https://legacy.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 
 ## Tools
 

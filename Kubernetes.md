@@ -4,7 +4,6 @@
 
 - [Kubernetes - Production-Grade Container Orchestration](https://kubernetes.io/)
 - [Kubernetes - 维基百科](https://zh.wikipedia.org/wiki/Kubernetes)
-- [Kubernetes Blog](http://blog.kubernetes.io/)
 
 ## Documentation
 

@@ -24,6 +24,7 @@
 - [《Go Web 编程》读者服务网站 | Go Web Programming Chinese Edition](http://gwpcn.com/)
 - [Go语言高级编程](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
 - [Go 101](https://go101.org/article/101.html)
+- [Go Language CookBook With Examples - Ednsquare](https://ednsquare.com/publisher/view/Go-Language-CookBook-With-Examples------xOhLZaZVGG)
 
 ## Blogs
 

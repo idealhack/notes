@@ -44,9 +44,6 @@
 - [How to Get Code into a Docker Container](http://blog.cloud66.com/how-to-get-code-into-a-docker-container/)
 
 ### Misc
-
-- [Docker 核心技术与实现原理](https://draveness.me/docker)
-- [Docker底层技术 - 简书](https://www.jianshu.com/p/7a1ce51a0eba)
 - [Docker 学习笔记 — » Kumu's Blog](http://blog.opskumu.com/docker.html)
 - [Docker 实践（一）：了解架构 - Tairy's Blog - SegmentFault](https://segmentfault.com/a/1190000006448568)
 - [Docker 实践（四）：Beta 环境容器化 - Tairy's Blog - SegmentFault](https://segmentfault.com/a/1190000006875435)
@@ -56,5 +53,4 @@
 - [打造百亿级数据处理量的弹性调度容器平台](http://dockone.io/article/1798)
 - [【技术干货】Docker精华学习资料集锦，老司机快上车](https://zhuanlan.zhihu.com/p/26221467)
 - [Docker 简单入门 —— 最最简单的 Docker 入门小教程 - SegmentFault](https://segmentfault.com/p/1210000009626543/read)
-- [Linux容器技术演化史](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485792&idx=1&sn=c06e97a8e5a91591a3d327a36320d56c&chksm=e8d7f6a2dfa07fb46c6511eac080a8b7f888ee00602966a303291cda92831f462ac03d276b25)
-- [精通Docker的50个必备教程、工具、资源](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485927&idx=2&sn=cc3371db7fa7ae81a278f2a89aea60e2&chksm=e8d7f625dfa07f331bf399e8d615416c6fbc26fda12f5c9f8da815ffcec7c734480df015bb7a)
+- [精通Docker的50个必备教程、工具、资源](https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&mid=2247485927&idx=2&sn=cc3371db7fa7ae81a278f2a89aea60e2)

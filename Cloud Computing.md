@@ -7,15 +7,17 @@
 ## Cloud Native
 
 - [cncf/landscape: Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.](https://github.com/cncf/landscape)
-- [rootsongjc/awesome-cloud-native: Awesome cloud native architectures http://jimmysong.io/awesome-cloud-native/](https://github.com/rootsongjc/awesome-cloud-native)
+- [rootsongjc/awesome-cloud-native: Awesome cloud native architectures](https://github.com/rootsongjc/awesome-cloud-native)
 
 ## Serverless
 
 - [anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless)
+- [nuclio/nuclio: High-Performance Serverless event and data processing platform](https://github.com/nuclio/nuclio)
 
 ## FaaS
 
-- [OpenFaaS](https://github.com/openfaas)
+- [openfaas/faas: OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes](https://github.com/openfaas/faas)
+- [kubeless/kubeless: Kubernetes Native Serverless Framework](https://github.com/kubeless/kubeless)
 
 ## Resources
 

@@ -31,9 +31,9 @@
 - [coreos/clair: Vulnerability Static Analysis for Containers](https://github.com/coreos/clair)
 - [spotify/docker-gc: Docker garbage collection of containers and images](https://github.com/spotify/docker-gc)
 
-## [[Docker orchestration]]
-
 ## [[Docker Resources]]
+
+## [[Docker Internals]]
 
 ## Moby
 
