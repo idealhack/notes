@@ -50,6 +50,7 @@
 - [程序员能力矩阵 Programmer Competency Matrix](http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm)
 - [nemoTyrant/manong: 码农周刊整理](https://github.com/nemoTyrant/manong)
 - [知识库 - 你身边的技术百科全书 - CSDN](http://lib.csdn.net/)
+- [xingshaocheng/architect-awesome: 后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 - [编程语言的发展趋势及未来方向（1）：历史回顾及趋势概述 - 老赵点滴 - 追求编程之美](http://blog.zhaojie.me/2010/04/trends-and-future-directions-in-programming-languages-by-anders-1-history-and-trends.html)
 - [raph haXx](http://raph.es/blog/2012/04/on-being-senior/)
 - [Aaron Swartz: howtoget](https://aaronsw.jottit.com/howtoget)

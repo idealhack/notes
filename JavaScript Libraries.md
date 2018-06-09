@@ -68,6 +68,8 @@ Also see [[Markdown]] for JavaScript Markdown editors
 - [kosmtik/kosmtik: Make maps with OpenStreetMap and Mapnik](https://github.com/kosmtik/kosmtik)
 - [florianf/tileoven: TileOven a maintained fork of TileMill](https://github.com/florianf/tileoven)
 - [manuelbieh/Geolib: Growing library to provide some basic geo functions](https://github.com/manuelbieh/Geolib)
+- [uber/deck.gl: WebGL2 powered geospatial visualization layers](https://github.com/uber/deck.gl)
+- [uber/kepler.gl](https://github.com/uber/kepler.gl)
 
 ### Carousel
 

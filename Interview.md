@@ -1,6 +1,8 @@
 # Interview
 
-## Code interview
+## Employee
+
+### Code interview
 
 1. 与面试官确认问题
 1. 与面试官讨论自己的思路
@@ -9,9 +11,9 @@
 1. 找到最优解
 1. 考虑到 edge cases
 
-## HR interview
+### HR interview
 
-### 面试前
+#### 面试前
 
 1. cheatsheet
 1. tracking sheet 跟踪公司、职位信息、应聘进度
@@ -26,7 +28,7 @@
 1. 公司 linkedin、技术 blog、官网、HR、recruiter、朋友
 1. 调查自己 net worth，了解 salary expectation
 
-### 面试前一小时
+#### 面试前一小时
 
 1. 安静环境
 1. 一小时内不要睡觉
@@ -35,10 +37,12 @@
 1. 信息调查表
 1. 提问的问题
 
-### 面试后
+#### 面试后
 
 1. thank you notes
 1. follow up
+
+## Employer
 
 ## Resources
 
@@ -67,3 +71,4 @@
 - [招聘面试的套路与原则](https://mp.weixin.qq.com/s/qRwDowetBkJqpeMeAZsIpA)
 - [The Ultimate Job Interview Preparation Guide - Glassdoor Blog](https://www.glassdoor.com/blog/guide/the-ultimate-job-interview-preparation-guide/)
 - [interview | CS巴别塔(1)](https://csbabel.wordpress.com/tag/interview/)
+- [Questions to Ask a Potential Tech Employer](https://doctorj.gitlab.io/interview-questions/)

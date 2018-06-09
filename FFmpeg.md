@@ -9,6 +9,12 @@
 - [Documentation](https://www.ffmpeg.org/documentation.html)
 - [FFmpeg](https://trac.ffmpeg.org/wiki)
 
+## Commands
+
+View key frames:
+
+    ffprobe -show_frames video.ts| grep key_frame
+
 ## Libraries
 
 - [mikeboers/PyAV: Pythonic bindings for FFmpeg.](https://github.com/mikeboers/PyAV)

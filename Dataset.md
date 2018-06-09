@@ -15,6 +15,10 @@
 - [Large-scale CelebFaces Attributes (CelebA) Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 - [Pubfig: Public Figures Face Database](http://www.cs.columbia.edu/CAVE/databases/pubfig/)
 
+### NLP
+
+- [niderhoff/nlp-datasets: Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)](https://github.com/niderhoff/nlp-datasets)
+
 ## Resources
 
 - [60 Facial Recognition Databases | Blog](https://www.kairos.com/blog/166-60-facial-recognition-databases)

@@ -12,10 +12,14 @@
 
 - [[Japan]]
 - [[France]]
+- [[Denmark]]
 - Canada
 - Australia
 
 ## Resources
 
+- [美国留学申请+求职就业咨询|一亩三分地论坛](http://www.1point3acres.com/)
 - [飞出国签证工作室 - FLYabroad 澳大利亚技术移民，加拿大技术移民，新西兰技术移民，魁北克技术移民出入境服务中介](http://ww2.flyabroadvisa.com/)
 - [Jack Liu博客 - 专注于新西兰技术移民](http://www.jack-liu.com/)
+- [新西兰百伦移民留学](http://byron2005.com/)
+- [EOIvisa | 新生代签证移民事务所](http://eoivisa.com/)

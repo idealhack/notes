@@ -19,7 +19,7 @@
 
 ## Images
 
-- [GoogleCloudPlatform/distroless: 🥑 Language focused docker images, minus the operating system.](https://github.com/GoogleCloudPlatform/distroless)
+- [GoogleContainerTools/distroless: 🥑 Language focused docker images, minus the operating system.](https://github.com/GoogleContainerTools/distroless)
 
 ## Volumes
 

@@ -7,7 +7,7 @@
 
 ## Complexities
 
-- [Big-O Algorithm Complexity Cheat Sheet](http://www.bigocheatsheet.com/)
+- [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
 
 ## Papers
 
@@ -17,6 +17,7 @@
 
 - [OpenGenus/cosmos: Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter](https://github.com/opengenus/cosmos)
 - [felipernb/algorithms.js: Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript](https://github.com/felipernb/algorithms.js)
+- [javascript-algorithms/README.zh-CN.md at master · trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 
 ## Tools
 
@@ -47,6 +48,11 @@
 ### Geohash
 
 - [高效的多维空间点索引算法 — Geohash 和 Google S2 - 简书](http://www.jianshu.com/p/7332dcb978b2)
+
+### Delaunay triangulation
+
+- https://en.wikipedia.org/wiki/Delaunay_triangulation
+- https://github.com/eloraiby/delaunay
 
 ### Exercises
 

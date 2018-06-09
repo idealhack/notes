@@ -14,8 +14,9 @@
 
 ## Examples
 
-- [Tutorials | Kubernetes](https://kubernetes.io/docs/samples/)
-- [kubernetes/examples at master · kubernetes/kubernetes · GitHub](https://github.com/kubernetes/kubernetes/tree/master/examples)
+- [Tutorials - Kubernetes](https://kubernetes.io/docs/tutorials/)
+- [kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [kubernetes/examples: Kubernetes application example tutorials](https://github.com/kubernetes/examples)
 - [Kubernetes By Example](http://kubernetesbyexample.com/)
 - [Write a Kubernetes-ready service from zero step-by-step GopherAcademy](https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/)
 
@@ -25,6 +26,7 @@
 
 - [kubernetes/minikube: Run Kubernetes locally](https://github.com/kubernetes/minikube)
 - [kubernetes/helm: The Kubernetes Package Manager](https://github.com/kubernetes/helm)
+- [kubernetes/kops: Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management](https://github.com/kubernetes/kops)
 - [Kubeapps, deploy your applications in Kubernetes](https://kubeapps.com/)
 - [k8sp/sextant: Fully automatic installation of CoreOS+Kubernetes clusters](https://github.com/k8sp/sextant)
 - [kubernetes/kompose: Go from Docker Compose to Kubernetes](https://github.com/kubernetes-incubator/kompose)
@@ -35,7 +37,7 @@
 - [cloudnativelabs/kube-shell: Kubernetes shell: An integrated shell for working with the Kubernetes CLI](https://github.com/cloudnativelabs/kube-shell)
 - [ahmetb/kubectx: Fast way to switch between clusters and namespaces in kubectl!](https://github.com/ahmetb/kubectx)
 - [kubernetes-ui/topology-graph](https://github.com/kubernetes-ui/topology-graph)
-- [GoogleCloudPlatform/skaffold: Easy and Repeatable Kubernetes Development](https://github.com/GoogleCloudPlatform/skaffold)
+- [GoogleContainerTools/skaffold: Easy and Repeatable Kubernetes Development](https://github.com/GoogleContainerTools/skaffold)
 - [kubed-sh | The Kubernetes distributed shell, for the casual cluster user](http://kubed.sh/)
 - [hasura/gitkube: Gitkube: Build and deploy docker images to Kubernetes using git push.](https://github.com/hasura/gitkube)
 - [databricks/click: The "Command Line Interactive Controller for Kubernetes"](https://github.com/databricks/click)

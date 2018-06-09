@@ -38,3 +38,7 @@
 - Apache
 - BSD
 - MIT
+
+## Resources
+
+- [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/zh-cn/)
