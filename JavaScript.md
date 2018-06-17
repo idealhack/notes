@@ -71,6 +71,5 @@
 
 - [cheeaun/life: Life - a timeline of important events in my life](https://github.com/cheeaun/life)
 - [aosabook/500lines: 500 Lines or Less](https://github.com/aosabook/500lines)
-- [kolodny/exercises: Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 
 ## [[JavaScript Resources]]

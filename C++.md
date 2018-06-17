@@ -49,4 +49,10 @@
 
 ## Resources
 
+- [cppreference.com](http://zh.cppreference.com/w/)
 - [标准模板库 - 维基百科](https://zh.wikipedia.org/wiki/%E6%A0%87%E5%87%86%E6%A8%A1%E6%9D%BF%E5%BA%93)
+
+### Porting Java to C++
+
+- [Java和C++的對照 - 维基百科](https://zh.wikipedia.org/wiki/Java%E5%92%8CC%2B%2B%E7%9A%84%E5%B0%8D%E7%85%A7)
+- [Java to C++ Transition](http://cs.brown.edu/courses/cs123/docs/java_to_cpp.shtml)

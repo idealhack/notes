@@ -62,6 +62,7 @@
 - [coells/100days: 100 days of algorithms](https://github.com/coells/100days)
 - [rainliu/algorithms: Algorithms (4th Edition) in Go](https://github.com/rainliu/algorithms)
 - [donnemartin/interactive-coding-challenges: Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.](https://github.com/donnemartin/interactive-coding-challenges)
+- [kolodny/exercises: Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 - [SICP 解题集 — SICP 解题集](http://sicp.readthedocs.io/en/latest/)
 - [Algorithms to Go - yourbasic.org](https://yourbasic.org/)
 
