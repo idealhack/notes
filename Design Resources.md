@@ -17,6 +17,10 @@
 - [Free stock photos · Pexels](https://www.pexels.com/)
 - [Free Photos - Free Images - Free Stock Photos - FreeDigitalPhotos.net](http://www.freedigitalphotos.net/)
 
+## Clipart
+
+- [Clipart - High Quality, Easy to Use, Free Support](https://openclipart.org/)
+
 ## Blogs
 
 - [Facebook Design | What's on our mind?](https://facebook.design/)

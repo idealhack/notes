@@ -21,3 +21,7 @@
 - [impress/impress.js: It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.](https://github.com/impress/impress.js)
 - [shower/shower: Shower HTML presentation engine](https://github.com/shower/shower)
 - [bespokejs/bespoke: DIY Presentation Micro-Framework](https://github.com/bespokejs/bespoke)
+
+## SVG
+
+- [senshu/Sozi: A presentation tool based on SVG](https://github.com/senshu/Sozi)

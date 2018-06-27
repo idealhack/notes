@@ -22,8 +22,12 @@
 
 ### Kubernetes
 
-- [Spark example · kubernetes/examples](https://github.com/kubernetes/examples/blob/master/staging/spark/README.md)
-- [apache-spark-on-k8s/spark: Apache Spark enhanced with native Kubernetes scheduler back-end](https://github.com/apache-spark-on-k8s/spark/)
+- [Running Spark on Kubernetes - Spark 2.3.0 Documentation](https://spark.apache.org/docs/2.3.0/running-on-kubernetes.html)
+- [GoogleCloudPlatform/spark-on-k8s-operator: Kubernetes CRD operator for specifying and running Apache Spark applications idiomatically on Kubernetes.](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
+
+### Hive
+
+- [Hive on Spark: Getting Started - Apache Hive - Apache Software Foundation](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started)
 
 ### Numba
 

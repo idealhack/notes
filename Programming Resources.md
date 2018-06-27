@@ -24,6 +24,10 @@
 - [Learn Anything](https://learn-anything.xyz/)
 - [Programming.Guide](http://programming.guide/)
 
+## Talks
+
+- [hellerve/programming-talks: Awesome & Interesting Talks concerning Programming](https://github.com/hellerve/programming-talks)
+
 ## Resources
 
 - [sindresorhus/awesome: Curated list of awesome lists](https://awesome.re)
