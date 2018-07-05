@@ -7,4 +7,5 @@
 ## Resources
 
 - [ServiceMesh中文网](http://www.servicemesh.cn/)
-- [awesome-servicemesh](https://servicemesh.gitbooks.io/awesome-servicemesh/content/)
+- [ServiceMesher · Service Mesh爱好者](http://www.servicemesher.com/)
+- [Awesome Service Mesh](http://www.servicemesher.com/awesome-servicemesh/)

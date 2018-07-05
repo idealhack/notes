@@ -22,6 +22,7 @@
 
 ### Kubernetes
 
+- [Apache Spark 2.3 with Native Kubernetes Support - Kubernetes](https://kubernetes.io/blog/2018/03/apache-spark-23-with-native-kubernetes/)
 - [Running Spark on Kubernetes - Spark 2.3.0 Documentation](https://spark.apache.org/docs/2.3.0/running-on-kubernetes.html)
 - [GoogleCloudPlatform/spark-on-k8s-operator: Kubernetes CRD operator for specifying and running Apache Spark applications idiomatically on Kubernetes.](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
 

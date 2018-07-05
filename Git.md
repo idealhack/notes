@@ -6,7 +6,7 @@
 
 ## Servers
 
-- [The leading product for integrated software development - GitLab | GitLab](https://about.gitlab.com/)
+- [GitLab](https://about.gitlab.com/)
 - [Gogs](https://gogs.io/)
 
 ## Goodies

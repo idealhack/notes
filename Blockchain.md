@@ -72,3 +72,4 @@ You don’t need a block chain, if
 
 - [How Bitcoin Works in 5 Minutes (Technical) - YouTube](https://www.youtube.com/watch?v=l9jOJk30eQs)
 - [Ever wonder how Bitcoin (and other cryptocurrencies) actually work? - YouTube](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- [liyuechun/blockchain_go_videos: Golang公链开发系统视频教程](https://github.com/liyuechun/blockchain_go_videos)

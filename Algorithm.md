@@ -58,7 +58,7 @@
 
 - [nzakas/computer-science-in-javascript: Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.](https://github.com/nzakas/computer-science-in-javascript)
 - [liuxinyu95/AlgoXY: Book of Elementary Algorithms and Data structures](https://github.com/liuxinyu95/AlgoXY)
-- [julycoding/The-Art-Of-Programming-By-July: 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售](https://github.com/julycoding/The-Art-Of-Programming-By-July)
+- [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 - [coells/100days: 100 days of algorithms](https://github.com/coells/100days)
 - [rainliu/algorithms: Algorithms (4th Edition) in Go](https://github.com/rainliu/algorithms)
 - [donnemartin/interactive-coding-challenges: Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.](https://github.com/donnemartin/interactive-coding-challenges)
