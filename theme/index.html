@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>{{ .Title }}</title>
+	</head>
+	<body>
+		<h1>{{ .Title }}</h1>
+		<p>
+			This is a work in progress.
+			It's generated from Markdown <a href="https://github.com/idealhack/wiki">source</a>
+			by <a href="https://github.com/idealhack/nvALT-tools">nvALT-tools</a>.
+		</p>
+		<ul>
+		{{ range .Notes }}
+			<li>
+				<a href="{{ .Link }}/">{{ .Title }}</a>
+			</li>
+		{{ end }}
+		</ul>
+	</body>
+</html>
