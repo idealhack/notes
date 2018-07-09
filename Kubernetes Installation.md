@@ -1,9 +1,16 @@
 # Kubernetes Installation
 
-## Installing with Kubernetes with `kubeadm` (CentOS, Docker 1.12 installed)
+[Picking the Right Solution - Kubernetes](https://kubernetes.io/docs/setup/pick-right-solution/)
+
+## Installing Kubernetes 1.11.0 with `kubeadm`
 
 - [Installing kubeadm | Kubernetes](https://kubernetes.io/docs/setup/independent/install-kubeadm/)
 - [Using kubeadm to Create a Cluster | Kubernetes](https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/)
+
+### Environment
+
+- CentOS 7.5.1804
+- Docker 18.03.1-ce
 
 ### On master and node:
 
@@ -22,16 +29,12 @@ a. With `yum`:
     setenforce 0
     yum install -y kubelet kubeadm kubernetes-cni
 
-b. With `rpm` (version 1.9.0):
+b. With `rpm`:
 
     sudo yum install socat -y
     wget https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/primary.xml
     # Get .rpm file URL of certain version
-    # grep pool primary.xml | grep 1.9.0-0
-    wget -O kubeadm-1.9.0-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/aa9948f82e7af317c97a242f3890985159c09c183b46ac8aab19d2ad307e6970-kubeadm-1.9.0-0.x86_64.rpm
-    wget -O kubectl-1.9.0-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/bc390a3d43256791bfb844696e7215fd7ad8a09f70a42667dab4997415a6ba75-kubectl-1.9.0-0.x86_64.rpm
-    wget -O kubelet-1.9.0-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/8f507de9e1cc26e5b0043e334e26d62001c171d8e54d839128e9bade25ecda95-kubelet-1.9.0-0.x86_64.rpm
-    wget -O kubernetes-cni-0.6.0-0.x86_64.rpm https://packages.cloud.google.com/yum/pool/fe33057ffe95bfae65e2f269e1b05e99308853176e24a4d027bc082b471a07c0-kubernetes-cni-0.6.0-0.x86_64.rpm
+    # Download kubeadm-*.x86_64.rpm, kubectl-*.x86_64.rpm, kubelet-*.x86_64.rpm, kubernetes-cni-*.x86_64.rpm
     sudo rpm -ivh kube*.rpm
 
 Then:
@@ -106,31 +109,6 @@ To use `kubectl` on node:
 ### On node:
 
     kubeadm reset
-
-## Upgrading kubeadm clusters from 1.6 to 1.7
-
-[Upgrading kubeadm clusters from 1.6 to 1.7 | Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-7/)
-
-With `docker load -i` (and `kube*.tar` images prepared):
-
-    docker load -i kube*.tar
-
-With `rpm` (and `kube*.rpm` prepared):
-
-    sudo yum remove -y kubelet kubectl kubeadm
-    sudo rpm -ivh kube*.rpm
-    sudo systemctl daemon-reload
-    sudo systemctl restart kubelet
-
-On master:
-
-    sudo KUBECONFIG=/etc/kubernetes/admin.conf kubectl delete daemonset kube-proxy -n kube-system
-    sudo kubeadm init --pod-network-cidr=10.244.0.0/16 --skip-preflight-checks --kubernetes-version <DESIRED_VERSION>
-
-## Upgrading kubeadm clusters from 1.7 to 1.9
-
-- [Upgrading kubeadm clusters from 1.7 to 1.8 | Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-8/)
-- [Upgrading/downgrading kubeadm clusters between v1.8 to v1.9 | Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm-upgrade-1-9/)
 
 ## Resources
 

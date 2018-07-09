@@ -12,8 +12,9 @@ rsync through ssh tunnel:
 
     rsync -av -e "ssh -A root@proxy ssh" ./src root@target:/dst
 
-### pup
+### Deduplication Tools
 
+- [BorgBackup – Deduplicating archiver with compression and authenticated encryption](https://www.borgbackup.org/)
 - [bup, it backs things up!](https://bup.github.io/)
 
 ## Resources
