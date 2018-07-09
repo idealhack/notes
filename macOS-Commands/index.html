@@ -1,0 +1,25 @@
+<h1>macOS Commands</h1>
+
+<h2>Commands</h2>
+
+<p>文件列表显示完整时间</p>
+
+<pre><code>ls -T -l
+</code></pre>
+
+<p>时间戳转为时间</p>
+
+<pre><code>date -r $1483200000
+</code></pre>
+
+<p>时间转为时间戳</p>
+
+<pre><code>date -j -f &quot;%b %d %T %Z %Y&quot; &quot;Feb 1 00:00:00 CST 2017&quot; &quot;+%s&quot;
+</code></pre>
+
+<h2>Resources</h2>
+
+<ul>
+<li><a href="http://bhami.com/rosetta.html">Rosetta Stone for Unix</a></li>
+<li><a href="http://www.ibm.com/developerworks/cn/aix/library/au-unixtext/index.html">UNIX 系统上的文本操作简介</a></li>
+</ul>

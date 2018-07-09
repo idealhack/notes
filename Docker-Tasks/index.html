@@ -1,0 +1,34 @@
+<h1>Docker Tasks</h1>
+
+<h3>Save and load</h3>
+
+<pre><code>docker save -o &lt;save image to path&gt; &lt;image name&gt;
+docker load -i &lt;path to image tar file&gt;
+</code></pre>
+
+<p>or</p>
+
+<pre><code>docker save &lt;image&gt; | ssh &lt;user&gt;@&lt;host&gt; 'docker load'
+docker save &lt;image&gt; | bzip2 | pv | ssh &lt;user&gt;@&lt;host&gt; 'bunzip2 | docker load'
+</code></pre>
+
+<h3>stop and remove all containers / images</h3>
+
+<pre><code>docker stop $(docker ps -a -q)
+docker rm   $(docker ps -a -q)
+docker rmi  $(docker images -q)
+</code></pre>
+
+<p><a href="https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers">Stop / remove all Docker containers (Example)</a></p>
+
+<h3>Remove all exited containers and orphaned images</h3>
+
+<pre><code>docker system prune
+docker ps -a | grep Exit | cut -d ' ' -f 1 | xargs docker rm
+docker images | grep \&lt;none\&gt; | awk '{ print $3 }' | xargs docker rmi
+</code></pre>
+
+<h3>Get host IP</h3>
+
+<pre><code>export DOCKER_HOST_IP=$(ip route | grep 'default' | awk '{print $3}')
+</code></pre>

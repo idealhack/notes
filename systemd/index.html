@@ -1,0 +1,36 @@
+<h1>systemd</h1>
+
+<h2>Overview</h2>
+
+<ul>
+<li><a href="https://www.freedesktop.org/wiki/Software/systemd/">systemd</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/Systemd">systemd - 维基百科</a></li>
+</ul>
+
+<h2>Commands</h2>
+
+<pre><code>systemctl list-units
+
+systemctl enable service-name.service
+systemctl disable service-name.service
+systemctl start service-name.service
+systemctl stop service-name.service
+systemctl restart service-name.service
+systemctl status service-name.service
+
+journalctl -u service-name.service
+</code></pre>
+
+<h2>Resources</h2>
+
+<ul>
+<li><a href="https://wiki.archlinux.org/index.php/systemd_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87">Systemd (简体中文) - ArchWiki</a>)</li>
+<li><a href="https://fedoraproject.org/wiki/Systemd">Systemd - Fedora Project Wiki</a></li>
+<li><a href="https://wiki.debian.org/systemd">systemd - Debian Wiki</a></li>
+<li><a href="https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/chap-Managing_Services_with_systemd.html">Chapter 9. Managing Services with systemd - Red Hat Customer Portal</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units">How To Use Systemctl to Manage Systemd Services and Units | DigitalOcean</a></li>
+<li><a href="http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html">Systemd 入门教程：命令篇 - 阮一峰的网络日志</a></li>
+<li><a href="https://www.linux.com/learn/understanding-and-using-systemd">Understanding and Using Systemd | Linux.com | The source for Linux information</a></li>
+<li><a href="https://vincent.bernat.im/en/blog/2017-systemd-golang">Integration of a Go service with systemd: readiness &amp; liveness | Vincent Bernat</a></li>
+<li><a href="https://vincent.bernat.im/en/blog/2018-systemd-golang-socket-activation">Integration of a Go service with systemd: socket activation | Vincent Bernat</a></li>
+</ul>

@@ -1,0 +1,64 @@
+<h1>MySQL</h1>
+
+<h2>Docs</h2>
+
+<ul>
+<li><a href="https://dev.mysql.com/doc/refman/5.7/en/">MySQL :: MySQL 5.7 Reference Manual</a></li>
+</ul>
+
+<h2>Commands</h2>
+
+<h3>MySQL 查询状态</h3>
+
+<pre><code>mysql&gt; show processlist;
+</code></pre>
+
+<p>各状态含义</p>
+
+<ul>
+<li><a href="https://dev.mysql.com/doc/refman/5.5/en/general-thread-states.html">MySQL :: MySQL 5.5 Reference Manual :: 8.14.2 General Thread States</a></li>
+<li><a href="http://imysql.com/2015/06/10/mysql-faq-processlist-thread-states.shtml">[MySQL FAQ]系列 — processlist中哪些状态要引起关注 | iMySQL | 老叶茶馆</a></li>
+</ul>
+
+<h3>配置访问权限</h3>
+
+<pre><code>GRANT ALL PRIVILEGES ON *.* TO 'user'@'ip' IDENTIFIED BY 'password' WITH GRANT OPTION;
+flush privileges;
+use mysql;
+SELECT user, host, password FROM user where host = 'ip';
+delete from user where user = 'user';
+flush privileges;
+</code></pre>
+
+<h3>备份 master 数据库</h3>
+
+<p><a href="https://dev.mysql.com/doc/refman/5.7/en/replication-solutions-backups-read-only.html">MySQL :: MySQL 5.7 Reference Manual :: 16.3.1.3 Backing Up a Master or Slave by Making It Read Only</a></p>
+
+<pre><code>mysql -uroot -ppassword --database=database -e &quot;FLUSH TABLES WITH READ LOCK; SET GLOBAL read_only = ON;&quot;
+mysql -uroot -ppassword --database=database -e &quot;show master status\G&quot; &gt; master-status-beforedump.txt
+mysqldump -uroot -ppassword database | gzip &gt; database.sql.gz
+mysql -uroot -ppassword --database=database -e &quot;show master status\G&quot; &gt; master-status-afterdump.txt
+mysql -uroot -ppassword --database=database -e &quot;SET GLOBAL read_only = OFF; UNLOCK TABLES;&quot;
+</code></pre>
+
+<h3>查询包含时间戳的字段</h3>
+
+<p><a href="https://stackoverflow.com/questions/9251561/convert-timestamp-to-date-in-mysql-query">sql - Convert timestamp to date in MySQL query - Stack Overflow</a></p>
+
+<h2>Cluster</h2>
+
+<ul>
+<li><a href="http://vitess.io">Vitess</a></li>
+<li><a href="http://mycat.io/">MYCAT</a></li>
+</ul>
+
+<h2>Resources</h2>
+
+<ul>
+<li><a href="https://segmentfault.com/a/1190000006876419">21分钟MySQL基础入门 - 埋名 - SegmentFault</a></li>
+<li><a href="http://www.xbitworld.com/?p=919">将MySQL数据文件和临时文件移动到SSD以加速数据库访问</a></li>
+<li><a href="https://segmentfault.com/q/1010000010173985">php - 一次插入几万条数据应该怎么做优化 - SegmentFault</a></li>
+<li><a href="http://www.jianshu.com/p/d7665192aaaf">我必须得告诉大家的MySQL优化原理 - 简书</a></li>
+<li><a href="https://segmentfault.com/a/1190000012155267">项目中常用的19条MySQL优化 - 个人文章 - SegmentFault</a></li>
+<li><a href="https://mp.weixin.qq.com/s/wS6bRSAPplhK6tRO3pb5xg">纲举目张：打通MySQL架构和业务的任督二脉</a></li>
+</ul>

@@ -1,0 +1,40 @@
+<h1>Linux Configuration</h1>
+
+<h2>Wireless Network</h2>
+
+<p>查询无线网卡名</p>
+
+<pre><code>ifconfig -a
+ip a
+sudo lshw -C network
+</code></pre>
+
+<p>配置无线网络</p>
+
+<pre><code>vim /etc/network/interfaces
+
+auto wlan0
+iface wlan0 inet dhcp
+wpa-ssid &lt;your_router&gt;
+wpa-psk &lt;your_wpa_key&gt;
+
+sudo ifup -v wlan0
+</code></pre>
+
+<h2>Wake-on-LAN</h2>
+
+<pre><code>ethtool eth0
+ethtool -s eth0 wol g
+ether-wake -i eth0 00:30:67:6d:3d:7c
+echo 'ETHTOOL_OPTS=&quot;wol g&quot;' &gt; /etc/sysconfig/network-scripts/ifcfg-eth0
+</code></pre>
+
+<h2>Resources</h2>
+
+<ul>
+<li><a href="http://colobu.com/2014/09/18/linux-tcpip-tuning/">Linux TCP/IP 协议栈调优</a></li>
+<li><a href="http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html">The Netflix Tech Blog: Linux Performance Analysis in 60,000 Milliseconds</a></li>
+<li><a href="https://www.ifshow.com/the-new-centos-7-install-lnmp-linux-nginx-mariadb-php-and-multi-site-configuration/">全新CentOS 7安装 LNMP（Linux+Nginx+MariaDB+PHP）及多站点配置</a></li>
+<li><a href="https://mos.meituan.com/library/18/how-to-install-lnmp-on-centos7/">美团云知识库|在CentOS 7上搭建LNMP环境 | 美团云</a></li>
+<li><a href="https://segmentfault.com/a/1190000006246645">当我们 chmod 777 的时候，到底干了些什么？ - Learning Every Day - SegmentFault</a></li>
+</ul>

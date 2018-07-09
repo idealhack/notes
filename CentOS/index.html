@@ -1,0 +1,66 @@
+<h1>CentOS</h1>
+
+<h2>Overview</h2>
+
+<ul>
+<li><a href="https://www.centos.org/">CentOS Project</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/CentOS">CentOS - 维基百科</a></li>
+</ul>
+
+<h2>Setup</h2>
+
+<h3>Update system</h3>
+
+<pre><code>sudo yum update -y
+</code></pre>
+
+<h3>Install missing softwares</h3>
+
+<pre><code>sudo yum install -y ifconfig vim tmux
+</code></pre>
+
+<h3>Configure hostname</h3>
+
+<pre><code>sudo vim /etc/hosts
+sudo vim /etc/hostname
+sudo hostname hostname
+</code></pre>
+
+<h3>Configure SSH server</h3>
+
+<p><a href="../SSH/">SSH</a></p>
+
+<h3>EPEL Repo</h3>
+
+<pre><code>sudo yum install epel-release
+</code></pre>
+
+<h3>Remi Repo</h3>
+
+<pre><code>wget http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
+sudo rpm -Uvh remi-release-7*.rpm
+</code></pre>
+
+<h3>Disable kernel update</h3>
+
+<pre><code>echo $'\n'&quot;exclude=kernel*&quot; &gt;&gt; /etc/yum.conf
+</code></pre>
+
+<h3>CPU benchmark</h3>
+
+<pre><code>sudo yum install sysbench lm_sensors
+</code></pre>
+
+<h2>RHEL</h2>
+
+<ul>
+<li><a href="https://www.certdepot.net/rhel7-rhcsa-exam-objectives/">RHEL7 RHCSA Exam objectives - CertDepot</a></li>
+<li><a href="https://www.certdepot.net/rhel7-rhce-exam-objectives/">RHEL7 RHCE Exam objectives - CertDepot</a></li>
+</ul>
+
+<h2>Issues</h2>
+
+<p>yum: Package does not match intended download</p>
+
+<pre><code>yum clean all &amp;&amp; rm -rf /var/cache/yum
+</code></pre>

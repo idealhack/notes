@@ -1,0 +1,67 @@
+<h1>Docker Internals</h1>
+
+<h2>内核</h2>
+
+<ul>
+<li>通过 namespace 实现资源隔离</li>
+<li>通过 cgroups 实现资源限制</li>
+<li>通过写时复制（copy-on-write）实现高效文件操作</li>
+</ul>
+
+<h2>namespace</h2>
+
+<h3>namespaces</h3>
+
+<p>namespace | 系统调用参数 | 隔离内容
+UTS | CLONE_NEWUTS | 主机与域名
+IPC | CLONE_NEWIPC | 信号量、消息队列和共享内存
+PID | CLONE_NEWPID | 进程编号
+Network | CLONE_NEWNET | 网络设备、网络栈、端口等
+Mount | CLONE_NEWNS | 挂载点（文件系统）
+User | CLONE_NEWUSER | 用户和用户组
+Cgroup | CLONE_NEWCGROUP | Cgroup 根目录</p>
+
+<h3>API</h3>
+
+<ul>
+<li><code>clone()</code> 创建新的进程</li>
+<li><code>setns()</code> 允许指定进程加入特定 namespace</li>
+<li><code>unshare()</code> 将指定进程移除特定 namespace</li>
+</ul>
+
+<h2>cgroups</h2>
+
+<h3>术语</h3>
+
+<ul>
+<li>task（任务）：系统的一个进程或线程</li>
+<li>cgroup（控制组）：按某种资源控制标准划分的任务组，包含一个或多个子系统</li>
+<li>subsystem（子系统）：资源调度控制器，例如 CPU 或内存子系统分别控制 CPU 时间和内存使用量</li>
+<li>hierarchy（层级）：一系列 cgroup 以树状结构排列而成，每个层级通过绑定对应子系统进行资源限制，子节点继承父节点挂载的子系统</li>
+</ul>
+
+<h3>作用</h3>
+
+<ul>
+<li>资源限制</li>
+<li>优先级分配</li>
+<li>资源统计</li>
+<li>任务控制</li>
+</ul>
+
+<h3>特点</h3>
+
+<ul>
+<li>API 以伪文件系统方式实现，可在用户态通过文件操作实现组织管理</li>
+<li>操作单元可以细粒度到线程级别，用户可以创建和销毁控制组从而实现资源再分配</li>
+<li>所有功能都以子系统方式实现，接口统一</li>
+<li>子任务创建之初与其父任务处于同一个控制组</li>
+</ul>
+
+<h2>Resources</h2>
+
+<ul>
+<li><a href="https://draveness.me/docker">Docker 核心技术与实现原理</a></li>
+<li><a href="https://www.jianshu.com/p/7a1ce51a0eba">Docker底层技术 - 简书</a></li>
+<li><a href="https://mp.weixin.qq.com/s?__biz=MzIzNjUxMzk2NQ==&amp;mid=2247485792&amp;idx=1&amp;sn=c06e97a8e5a91591a3d327a36320d56c">Linux容器技术演化史</a></li>
+</ul>

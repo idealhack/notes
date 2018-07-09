@@ -1,0 +1,136 @@
+<h1>Kubernetes Installation</h1>
+
+<p><a href="https://kubernetes.io/docs/setup/pick-right-solution/">Picking the Right Solution - Kubernetes</a></p>
+
+<h2>Installing Kubernetes 1.11.0 with <code>kubeadm</code></h2>
+
+<ul>
+<li><a href="https://kubernetes.io/docs/setup/independent/install-kubeadm/">Installing kubeadm | Kubernetes</a></li>
+<li><a href="https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/">Using kubeadm to Create a Cluster | Kubernetes</a></li>
+</ul>
+
+<h3>Environment</h3>
+
+<ul>
+<li>CentOS 7.5.1804</li>
+<li>Docker 18.03.1-ce</li>
+</ul>
+
+<h3>On master and node:</h3>
+
+<p>a. With <code>yum</code>:</p>
+
+<pre><code>cat &lt;&lt;EOF &gt; /etc/yum.repos.d/kubernetes.repo
+[kubernetes]
+name=Kubernetes
+baseurl=https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg
+        https://packages.cloud.google.com/yum/doc/rpm-package-key.gpg
+EOF
+setenforce 0
+yum install -y kubelet kubeadm kubernetes-cni
+</code></pre>
+
+<p>b. With <code>rpm</code>:</p>
+
+<pre><code>sudo yum install socat -y
+wget https://packages.cloud.google.com/yum/repos/kubernetes-el7-x86_64/repodata/primary.xml
+# Get .rpm file URL of certain version
+# Download kubeadm-*.x86_64.rpm, kubectl-*.x86_64.rpm, kubelet-*.x86_64.rpm, kubernetes-cni-*.x86_64.rpm
+sudo rpm -ivh kube*.rpm
+</code></pre>
+
+<p>Then:</p>
+
+<pre><code>sudo systemctl enable kubelet &amp;&amp; sudo systemctl start kubelet
+systemctl status kubelet
+</code></pre>
+
+<p>If Proxy is needed:</p>
+
+<pre><code>sudo mkdir /etc/systemd/system/docker.service.d
+sudo sh -c &quot;echo '[Service]' &gt; /etc/systemd/system/docker.service.d/http-proxy.conf&quot;
+sudo sh -c &quot;echo 'Environment=&quot;HTTP_PROXY=http://&lt;host&gt;:&lt;port&gt;/&quot; &quot;NO_PROXY=localhost,127.0.0.1&quot;' &gt;&gt; /etc/systemd/system/docker.service.d/http-proxy.conf&quot;
+sudo systemctl daemon-reload
+sudo systemctl show --property=Environment docker
+sudo systemctl restart docker
+</code></pre>
+
+<h3>On master:</h3>
+
+<p>Init:</p>
+
+<pre><code>sudo kubeadm init --pod-network-cidr=10.244.0.0/16
+</code></pre>
+
+<p>Config ENV and test:</p>
+
+<pre><code>sudo cp /etc/kubernetes/admin.conf $HOME/
+sudo chown $(id -u):$(id -g) $HOME/admin.conf
+export KUBECONFIG=$HOME/admin.conf
+kubectl get pods --all-namespaces
+</code></pre>
+
+<p>Install Flannel:</p>
+
+<pre><code>kubectl create -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel-rbac.yml
+kubectl create -f https://raw.githubusercontent.com/coreos/flannel/master/Documentation/kube-flannel.yml
+</code></pre>
+
+<p>Install Dashboard:</p>
+
+<pre><code>kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/master/src/deploy/recommended/kubernetes-dashboard.yaml
+</code></pre>
+
+<p>Setup kube-proxy to visit from other machine:</p>
+
+<pre><code>kubectl proxy --address='&lt;host&gt;' --accept-hosts='$*^'
+</code></pre>
+
+<p>Get tokens:</p>
+
+<pre><code>sudo kubeadm token list
+</code></pre>
+
+<h3>On node has GPU:</h3>
+
+<pre><code>sudo sed -i '/^ExecStart=\/usr\/bin\/kubelet/ s/$/ --feature-gates=DevicePlugins=true/' /etc/systemd/system/kubelet.service.d/*-kubeadm.conf
+sudo systemctl daemon-reload
+sudo systemctl restart kubelet
+</code></pre>
+
+<h3>On node:</h3>
+
+<p>Init:</p>
+
+<pre><code>sudo kubeadm join --token &lt;token&gt; &lt;host&gt;:6443
+</code></pre>
+
+<p>To use <code>kubectl</code> on node:</p>
+
+<pre><code>sudo cp /etc/kubernetes/kubelet.conf $HOME/
+sudo chown $(id -u):$(id -g) $HOME/kubelet.conf
+export KUBECONFIG=$HOME/kubelet.conf
+</code></pre>
+
+<h2>Remove node</h2>
+
+<h3>On master:</h3>
+
+<pre><code>kubectl drain &lt;node name&gt; --delete-local-data --force --ignore-daemonsets
+kubectl delete node &lt;node name&gt;
+</code></pre>
+
+<h3>On node:</h3>
+
+<pre><code>kubeadm reset
+</code></pre>
+
+<h2>Resources</h2>
+
+<ul>
+<li><a href="https://github.com/fleeto/kubeadm-offline-installer">fleeto/kubeadm-offline-installer: Setup a cluster with kubeadm, without internet connections.</a></li>
+</ul>

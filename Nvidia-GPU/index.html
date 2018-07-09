@@ -1,0 +1,45 @@
+<h1>Nvidia GPU</h1>
+
+<h2>Overview</h2>
+
+<ul>
+<li><a href="https://developer.nvidia.com/cuda-gpus">CUDA GPUs</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/NVIDIA%E9%A1%AF%E7%A4%BA%E6%A0%B8%E5%BF%83%E5%88%97%E8%A1%A8">NVIDIA显示核心列表 - 维基百科</a></li>
+</ul>
+
+<h2>DL Workstation</h2>
+
+<ul>
+<li><a href="http://cn.soulmachine.me/2016-08-13-my-deep-learning-workstation-assemble-process-note/">我的深度学习工作站攒机过程记录</a></li>
+<li><a href="http://cn.soulmachine.me/2016-08-17-deep-learning-cuda-development-environment/">深度学习开发环境配置：Ubuntu1 6.04+Nvidia GTX 1080+CUDA 8.0</a></li>
+<li><a href="http://www.52nlp.cn/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%BB%E6%9C%BA%E6%94%92%E6%9C%BA%E5%B0%8F%E8%AE%B0">深度学习主机攒机小记</a></li>
+<li><a href="http://www.jiqizhixin.com/article/1318">为你的深度学习任务挑选性价比最高GPU_专业的人工智能媒体和产业服务平台</a></li>
+</ul>
+
+<h2>NVIDIA Diver Installation (version 384.98)</h2>
+
+<p><a href="http://www.nvidia.com/object/linux-amd64-display-archive.html">Linux AMD64 Display Driver Archive|NVIDIA</a></p>
+
+<pre><code>sudo yum update -y                      # CentOS
+sudo apt update &amp;&amp; sudo apt upgrade -y  # Ubuntu
+sudo reboot
+sudo yum install -y gcc kernel-devel    # CentOS
+sudo apt install -y gcc make            # Ubuntu
+curl -O http://cn.download.nvidia.com/XFree86/Linux-x86_64/387.34/NVIDIA-Linux-x86_64-387.34.run
+chmod +x NVIDIA-Linux-x86_64-*.run
+sudo ./NVIDIA-Linux-x86_64-*.run
+nvidia-smi
+sudo sh -c 'echo $'\n'&quot;exclude=kernel*&quot; &gt;&gt; /etc/yum.conf'       # CentOS
+sudo apt-mark hold linux-image-generic linux-headers-generic    # Ubuntu
+</code></pre>
+
+<p>If nouveau was installed first: <a href="https://askubuntu.com/questions/841876/how-to-disable-nouveau-kernel-driver">16.04 - How to disable Nouveau kernel driver - Ask Ubuntu</a></p>
+
+<h2>Resources</h2>
+
+<ul>
+<li><a href="http://arnon.dk/matching-sm-architectures-arch-and-gencode-for-various-nvidia-cards/">Matching SM architectures (CUDA arch and CUDA gencode) for various NVIDIA cards - Blame Arnon</a></li>
+<li><a href="https://github.com/jcjohnson/cnn-benchmarks">cnn-benchmarks</a></li>
+<li><a href="http://www.nvidia.cn/object/where-to-buy-tesla-cn.html">在哪里购买 Tesla 个人超级计算机 HPC GPU | NVIDIA</a></li>
+<li><a href="http://chenrudan.github.io/blog/2015/12/20/introductionofgpuhardware.html">【GPU编程系列之一】从深度学习选择什么样的gpu来谈谈gpu的硬件架构</a></li>
+</ul>

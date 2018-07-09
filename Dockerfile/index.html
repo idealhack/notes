@@ -1,0 +1,38 @@
+<h1>Dockerfile</h1>
+
+<h2>Example</h2>
+
+<h3>Ubuntu</h3>
+
+<pre><code>FROM ubuntu
+LABEL maintainer idealhack@gmail.com
+RUN sed -i 's/http:\/\/archive\.ubuntu\.com\/ubuntu\//http:\/\/mirrors\.163\.com\/ubuntu\//g' /etc/apt/sources.list &amp;&amp; \
+    apt-get update &amp;&amp; apt-get install -y --no-install-recommends \
+        tzdata \
+    &amp;&amp; apt-get clean &amp;&amp; rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+RUN echo Asia/Shanghai &gt; /etc/timezone &amp;&amp; \
+    ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime &amp;&amp; \
+    dpkg-reconfigure -f noninteractive tzdata
+</code></pre>
+
+<h3>Nginx</h3>
+
+<pre><code>FROM nginx
+LABEL maintainer idealhack@gmail.com
+RUN sed -i 's/deb\.debian\.org/mirrors\.163\.com/g' /etc/apt/sources.list &amp;&amp; \
+    apt-get update &amp;&amp; apt-get install -y --no-install-recommends \
+        tzdata \
+        ffmpeg \
+    &amp;&amp; apt-get clean &amp;&amp; rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+RUN echo Asia/Shanghai &gt; /etc/timezone &amp;&amp; \
+    ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime &amp;&amp; \
+    dpkg-reconfigure -f noninteractive tzdata
+</code></pre>
+
+<h2>Resources</h2>
+
+<ul>
+<li><a href="http://www.johnzaccone.io/entrypoint-vs-cmd-back-to-basics/">ENTRYPOINT vs CMD: Back to Basics</a></li>
+</ul>

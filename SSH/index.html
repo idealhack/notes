@@ -1,0 +1,50 @@
+<h1>SSH</h1>
+
+<h2>Client config</h2>
+
+<p><a href="https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man5/ssh_config.5.html">ssh_config(5) Mac OS X Manual Page</a></p>
+
+<h2>Tasks</h2>
+
+<h3>Debugging</h3>
+
+<pre><code>sshd -ddd
+ssh user@host -vvv
+</code></pre>
+
+<h3>Use RSA key authentication</h3>
+
+<pre><code>ssh-keygen -t rsa
+ssh-copy-id user@host
+</code></pre>
+
+<h3>Disable password login</h3>
+
+<pre><code>vim /etc/ssh/sshd_config
+systemctl reload sshd
+</code></pre>
+
+<h3>Show fignerprint</h3>
+
+<pre><code>ssh-keygen -E md5 -lf ~/.ssh/id_rsa.pub
+</code></pre>
+
+<h2>Tools</h2>
+
+<ul>
+<li><a href="https://github.com/emre/storm">emre/storm: Manage your SSH like a boss.</a></li>
+<li><a href="http://fitztrev.github.io/shuttle/">Shuttle | A simple SSH shortcut menu for OS X</a></li>
+<li><a href="http://liftoffsoftware.com/Products/GateOne">Gate One ✈ Web Terminal Emulator and SSH Client | Liftoff Software</a></li>
+</ul>
+
+<h2>Issues</h2>
+
+<h3>Disable DNS in case of slow login</h3>
+
+<pre><code>vim /etc/ssh/sshd_config
+UseDNS no
+</code></pre>
+
+<h3>Ubuntu encrypted home directory</h3>
+
+<p>Put <code>authorized_keys</code> out of <code>home</code> <a href="https://help.ubuntu.com/community/SSH/OpenSSH/Keys#Troubleshooting">SSH/OpenSSH/Keys - Community Help Wiki</a></p>

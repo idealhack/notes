@@ -1,0 +1,76 @@
+<h1>TLS</h1>
+
+<h2>Overview</h2>
+
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%82%B3%E8%BC%B8%E5%B1%A4%E5%AE%89%E5%85%A8%E5%8D%94%E8%AD%B0">傳輸層安全性協定 - 维基百科</a></li>
+</ul>
+
+<h2>Let&rsquo;s Encrypt</h2>
+
+<ul>
+<li><a href="https://letsencrypt.org/">Let&rsquo;s Encrypt</a></li>
+<li><a href="https://certbot.eff.org/">Certbot</a></li>
+</ul>
+
+<p>Nginx on CentOS/RHEL 7</p>
+
+<pre><code>yum -y install yum-utils
+yum-config-manager --enable rhui-REGION-rhel-server-extras rhui-REGION-rhel-server-optional
+yum install certbot-nginx
+certbot --nginx
+</code></pre>
+
+<p>Auto renew by crontab:</p>
+
+<pre><code>15 0  * * * certbot renew --quiet
+45 12 * * * certbot renew --quiet
+</code></pre>
+
+<p>Manual get a certificate:</p>
+
+<pre><code>certbot certonly -d example.com --manual
+</code></pre>
+
+<h2>HSTS</h2>
+
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/HTTP%E4%B8%A5%E6%A0%BC%E4%BC%A0%E8%BE%93%E5%AE%89%E5%85%A8">HTTP严格传输安全 - 维基百科</a></li>
+</ul>
+
+<h2>HPKP</h2>
+
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/HTTP%E5%85%AC%E9%92%A5%E5%9B%BA%E5%AE%9A">HTTP公钥固定 - 维基百科</a></li>
+</ul>
+
+<h2>CT</h2>
+
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/%E8%AF%81%E4%B9%A6%E9%80%8F%E6%98%8E%E5%BA%A6">证书透明度 - 维基百科</a></li>
+</ul>
+
+<h2>Tools</h2>
+
+<ul>
+<li><a href="https://www.ssllabs.com/ssltest/analyze.html">SSL Server Test (Powered by Qualys SSL Labs)</a></li>
+<li><a href="https://mozilla.github.io/server-side-tls/ssl-config-generator/">Generate Mozilla Security Recommended Web Server Configuration Files</a></li>
+<li><a href="https://github.com/SteveLTN/https-portal">SteveLTN/https-portal: A fully automated HTTPS server powered by Nginx, Let&rsquo;s Encrypt and Docker.</a></li>
+<li><a href="https://github.com/square/certstrap">square/certstrap: Tools to bootstrap CAs, certificate requests, and signed certificates.</a></li>
+</ul>
+
+<h2>Resources</h2>
+
+<ul>
+<li><a href="https://github.com/google/nogotofail">google/nogotofail</a></li>
+<li><a href="https://imququ.com/post/optimize-tls-handshake.html">TLS 握手优化详解 | JerryQu 的小站</a></li>
+<li><a href="https://imququ.com/post/ecc-certificate.html">开始使用 ECC 证书 | JerryQu 的小站</a></li>
+<li><a href="https://imququ.com/post/letsencrypt-certificate.html">Let&rsquo;s Encrypt，免费好用的 HTTPS 证书 | JerryQu 的小站</a></li>
+<li><a href="https://www.ssllabs.com/">Qualys SSL Labs</a></li>
+<li><a href="https://developer.android.com/training/articles/security-ssl.html">﻿Security with HTTPS and SSL | Android Developers</a></li>
+<li><a href="http://www.zcfy.cc/article/how-does-https-work-1280.html">HTTPS是如何工作的 - 众成翻译</a></li>
+<li><a href="http://blog.m31271n.com/2017/03/17/SSL-TLS-%E6%A6%82%E8%A7%88/">SSL/TLS 概览 | 自言自语</a></li>
+<li><a href="https://github.com/k8sp/tls">k8sp/tls: TLS完全指南</a></li>
+<li><a href="https://weakdh.org/">Weak Diffie-Hellman and the Logjam Attack</a></li>
+<li><a href="https://istlsfastyet.com/">Is TLS Fast Yet?</a></li>
+</ul>

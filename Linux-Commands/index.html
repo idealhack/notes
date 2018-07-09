@@ -1,0 +1,106 @@
+<h1>Linux Commands</h1>
+
+<h3>Files</h3>
+
+<p>Count files recursively</p>
+
+<pre><code>find . -type f | wc -l
+</code></pre>
+
+<h3>Hardware information</h3>
+
+<p>CPU</p>
+
+<pre><code>cat /proc/cpuinfo
+lscpu
+dmidecode -t processor
+</code></pre>
+
+<p>Memory:</p>
+
+<pre><code>cat /proc/meminfo
+free -h
+dmidecode -t memory
+</code></pre>
+
+<p>Network:</p>
+
+<pre><code>cat /sys/class/net/eth0/address
+</code></pre>
+
+<p>HDD:</p>
+
+<pre><code>df -h
+sudo fdisk -l
+hdparm -i /dev/sda1
+</code></pre>
+
+<p>Devices:</p>
+
+<pre><code>lsblk
+lspci
+lsscsi
+lsusb
+dmidecode -t bios
+</code></pre>
+
+<p>General:</p>
+
+<pre><code>lshw -short
+inxi
+</code></pre>
+
+<p>Android:</p>
+
+<pre><code>cat /proc/version
+cat /system/build.prop
+getprop
+</code></pre>
+
+<h3>Server status</h3>
+
+<pre><code># CPU
+cat /proc/loadavg | awk '{print $1}'
+
+# CPU count
+getconf _NPROCESSORS_ONLN || grep -c ^processor /proc/cpuinfo
+
+# Memory
+free | grep Mem | awk '{print $2,$3}'
+
+# Disk
+df -h | awk '$NF == &quot;/&quot; {print $2,$(NF-1),$NF}'
+
+# Uptime
+cat /proc/uptime
+
+# Network
+cat /sys/class/net/`route -n | awk '$1 == &quot;0.0.0.0&quot; {print $8}' | head`/statistics/tx_bytes
+
+# Docker status
+[sudo] docker ps -a
+
+# Docker Stats
+[sudo] docker stats --format '{{.Name}}\t{{.CPUPerc}}\t{{.MemUsage}}\t{{.NetIO}}' --no-stream
+
+# Processes / Ports
+ps aux | grep $process
+netstat -tulpn | grep $port
+pwdx $pid
+which $process
+
+# `ps` output sorted by memory (RAM), from high to low
+ps aux --sort -rss
+</code></pre>
+
+<h2>Resources</h2>
+
+<ul>
+<li><a href="https://i.linuxtoy.org/files/pdf/fwunixref.pdf">https://i.linuxtoy.org/files/pdf/fwunixref.pdf</a></li>
+<li><a href="https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/">10 Useful Commands to Collect System and Hardware Information in Linux</a></li>
+<li><a href="https://www.cyberciti.biz/faq/linux-command-to-find-the-system-configuration-and-hardware-information/">Linux Command To Find the System Configuration And Hardware Information – nixCraft</a></li>
+<li><a href="http://www.binarytides.com/linux-commands-hardware-info/">16 commands to check hardware information on Linux</a></li>
+<li><a href="https://www.maketecheasier.com/check-hardware-information-linux/">Check Hardware Information On Linux via Command Line</a></li>
+<li><a href="http://www.thegeekstuff.com/2008/11/how-to-get-hardware-information-on-linux-using-dmidecode-command/">How To Get Hardware Information On Linux Using dmidecode Command</a></li>
+<li><a href="http://baidutech.blog.51cto.com/4114344/743731">mv操作深入浅出 - 百度技术博客 - 51CTO技术博客</a></li>
+</ul>

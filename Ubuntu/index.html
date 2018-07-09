@@ -1,0 +1,19 @@
+<h1>Ubuntu</h1>
+
+<h2>Setup</h2>
+
+<h3>Add User</h3>
+
+<pre><code>sudo adduser idealhack
+sudo usermod -aG sudo idealhack
+</code></pre>
+
+<h3>Mirror</h3>
+
+<pre><code>sed -i 's/http:\/\/archive\.ubuntu\.com\/ubuntu\//http:\/\/mirrors\.163\.com\/ubuntu\//g' /etc/apt/sources.list
+</code></pre>
+
+<h3>Disable kernel update</h3>
+
+<pre><code>sudo apt-mark hold linux-image-generic linux-headers-generic
+</code></pre>

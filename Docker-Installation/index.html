@@ -1,0 +1,43 @@
+<h1>Docker Installation</h1>
+
+<h2>Install Docker</h2>
+
+<p><a href="https://docs.docker.com/engine/installation/">Install Docker | Docker Documentation</a></p>
+
+<p>Steps on CentOS: <a href="https://docs.docker.com/engine/installation/linux/docker-ce/centos/">Get Docker CE for CentOS | Docker Documentation</a></p>
+
+<pre><code>sudo yum install -y yum-utils
+sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+sudo yum makecache fast
+sudo yum install -y docker-ce # latest version
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo gpasswd -a ${USER} docker
+docker run hello-world
+</code></pre>
+
+<p>Steps on Ubuntu: <a href="https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/">Get Docker CE for Ubuntu | Docker Documentation</a></p>
+
+<h2>Install nvidia-docker Plugin</h2>
+
+<p><a href="https://github.com/NVIDIA/nvidia-docker">NVIDIA/nvidia-docker: Build and run Docker containers leveraging NVIDIA GPUs</a></p>
+
+<p>Setps on CentOS:</p>
+
+<pre><code>docker volume ls -q -f driver=nvidia-docker | xargs -r -I{} -n1 docker ps -q -a -f volume={} | xargs -r docker rm -f
+sudo yum remove nvidia-docker
+curl -s -L https://nvidia.github.io/nvidia-docker/centos7/x86_64/nvidia-docker.repo | \
+sudo tee /etc/yum.repos.d/nvidia-docker.repo
+sudo yum install -y nvidia-docker2
+sudo pkill -SIGHUP dockerd
+nvidia-docker run --rm nvidia/cuda nvidia-smi
+</code></pre>
+
+<h2>Configure Mirror</h2>
+
+<pre><code>sudo sh -c 'cat &gt; /etc/docker/daemon.json &lt;&lt; EOL
+{
+  &quot;registry-mirrors&quot;: [&quot;https://registry.docker-cn.com&quot;]
+}
+EOL'
+</code></pre>
