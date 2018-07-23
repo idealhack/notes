@@ -113,3 +113,4 @@ To use `kubectl` on node:
 ## Resources
 
 - [fleeto/kubeadm-offline-installer: Setup a cluster with kubeadm, without internet connections.](https://github.com/fleeto/kubeadm-offline-installer)
+- [gjmzj/kubeasz: 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响](https://github.com/gjmzj/kubeasz)

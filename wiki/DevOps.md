@@ -7,13 +7,13 @@
 ## Tools
 
 - [[Ansible]]
-- Terraform
-- [SaltStack event-driven automation for a software-defined world](http://saltstack.com/)
-- [Get on the shortest path to better software | Puppet](https://puppet.com/)
-- [Chef - Automate IT Infrastructure | Chef](https://www.chef.io/chef/)
-- [Supervisor: A Process Control System — Supervisor 3.3.3 documentation](http://supervisord.org/)
-- [shipitjs/shipit: ⛵️ Universal automation and deployment tool written in JavaScript.](https://github.com/shipitjs/shipit)
-- [Habitat - Automation That Travels with the App](https://www.habitat.sh/)
+- [Terraform](https://www.terraform.io/)
+- [SaltStack](http://saltstack.com/)
+- [Puppet](https://puppet.com/)
+- [Chef](https://www.chef.io/chef/)
+- [Superviso](http://supervisord.org/)
+- [Shipit](https://github.com/shipitjs/shipit)
+- [Habitat](https://www.habitat.sh/)
 
 ## Resources
 
