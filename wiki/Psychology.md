@@ -20,3 +20,7 @@
 
 - [認知偏誤 - 维基百科](https://zh.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E5%81%8F%E8%AA%A4)
 - [確認偏誤 - 维基百科](https://zh.wikipedia.org/wiki/%E7%A2%BA%E8%AA%8D%E5%81%8F%E8%AA%A4)
+
+## Resources
+
+- [Digital Psychology](https://digitalpsychology.io/)

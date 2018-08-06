@@ -18,6 +18,16 @@
 - [Scaling Kubernetes to 2,500 Nodes](https://blog.openai.com/scaling-kubernetes-to-2500-nodes/)
 - [Kubernetes for dev infrastructure – Hacker Noon](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 
+### Auditing
+
+- [Auditing - Kubernetes](https://kubernetes.io/docs/tasks/debug-application-cluster/audit/)
+- [Kubernetes Audit Logging Tutorial | Benji Visser](http://www.noqcks.io/notes/2018/03/31/kubernetes-audit-logging-tutorial/)
+- [Using RBAC Authorization - Kubernetes](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
+
+### Logging
+
+- [Advanced logging on Kubernetes · Banzai Cloud](https://banzaicloud.com/blog/k8s-logging-advanced/)
+
 ### Monitoring
 
 - [Tools for Monitoring Compute, Storage, and Network Resources | Kubernetes](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/)

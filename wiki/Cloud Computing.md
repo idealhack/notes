@@ -4,6 +4,10 @@
 
 - [雲端運算 - 维基百科](https://zh.wikipedia.org/wiki/%E9%9B%B2%E7%AB%AF%E9%81%8B%E7%AE%97)
 
+## AWS
+
+- [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
+
 ## Cloud Native
 
 - [cncf/landscape: Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.](https://github.com/cncf/landscape)
