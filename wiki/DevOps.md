@@ -7,7 +7,7 @@
 ## Tools
 
 - [[Ansible]]
-- [Terraform](https://www.terraform.io/)
+- [[Terraform]]
 - [SaltStack](http://saltstack.com/)
 - [Puppet](https://puppet.com/)
 - [Chef](https://www.chef.io/chef/)

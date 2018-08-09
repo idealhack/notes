@@ -37,3 +37,4 @@
 - [Shopify/kubeaudit: kubeaudit helps you audit your Kubernetes clusters against common security controls](https://github.com/Shopify/kubeaudit)
 - [liggitt/audit2rbac: Autogenerate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)
 - [cznewt/infra-scraper: Infrastructure metadata scraper with support for K8S, AWS, OpenStack, Terraform and SaltStack for further relational analysis and visualization (which is also included).](https://github.com/cznewt/infra-scraper)
+- [weaveworks/kubediff: Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.](https://github.com/weaveworks/kubediff)

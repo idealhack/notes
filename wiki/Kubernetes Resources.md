@@ -18,6 +18,10 @@
 - [Scaling Kubernetes to 2,500 Nodes](https://blog.openai.com/scaling-kubernetes-to-2500-nodes/)
 - [Kubernetes for dev infrastructure – Hacker Noon](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 
+### AWS
+
+- [Kubernetes on Amazon Web Services · kubernetes/community](https://github.com/kubernetes/community/blob/master/sig-aws/kubernetes-on-aws.md)
+
 ### Auditing
 
 - [Auditing - Kubernetes](https://kubernetes.io/docs/tasks/debug-application-cluster/audit/)

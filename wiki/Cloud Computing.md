@@ -8,6 +8,10 @@
 
 - [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 
+## Tools
+
+- [aelsabbahy/goss: Quick and Easy server testing/validation](https://github.com/aelsabbahy/goss)
+
 ## Cloud Native
 
 - [cncf/landscape: Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.](https://github.com/cncf/landscape)

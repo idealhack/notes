@@ -6,11 +6,11 @@
 
 ## Tools
 
+- [[GitLab]]
 - [[Jenkins]]
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
 - [TeamCity: Hassle-free CI and CD Server by JetBrains](https://www.jetbrains.com/teamcity/)
 - [fastlane - iOS and Android Automation for Continuous Delivery](https://fastlane.tools/)
-- [github/janky: Continuous integration server built on top of Jenkins and Hubot](https://github.com/github/janky)
 
 ## Resources
 
