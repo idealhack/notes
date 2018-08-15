@@ -32,6 +32,7 @@
 
 - [sindresorhus/awesome: Curated list of awesome lists](https://awesome.re)
 - [bayandin/awesome-awesomeness: A curated list of awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [hardikvasa/awesome-programming: A curated list of awesome programming talks, articles, books, resources and more!!](https://github.com/hardikvasa/awesome-programming)
 - [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [KeKe-Li/Best-websites-a-programmer-should-visit-zh: 程序员应该访问的最佳网站中文版](https://github.com/KeKe-Li/Best-websites-a-programmer-should-visit-zh)
 - [wxyyxc1992/Awesome-CheatSheet: Overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. 语法速览, 实践备忘，从零到一，上手即用](https://github.com/wxyyxc1992/Awesome-CheatSheet)

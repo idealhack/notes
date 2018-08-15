@@ -58,10 +58,10 @@ _Polite form: Could/Would you please…_
 - Anything else?
 - Would you like me to read it to you again?
 - Let me repeat to see if I get it.
- 
- #### Example
- 
- - Hello, this is Li Yang, may I speak to Felix?
+
+#### Example
+
+- Hello, this is Li Yang, may I speak to Felix?
 - I'm sorry but he's not here. May I take a message or would you like to call back later?
 - Sure. That's very kind of you, please tell him that I want to discuss our Kubernetes clusters.
 - Would you mind saying it once again?
@@ -70,7 +70,39 @@ _Polite form: Could/Would you please…_
 - No, thank you, have a nice weekend.
 - Have a nice weekend. Goodbye.
 - Bye. 
- 
+
+### Setting agenda
+
+#### Making appointment
+
+- I’m calling to make an appointment with you for next Monday.
+- I wonder if it would be convenient to meet you tomorrow.
+- Would it be convenient if I call on you tonight?
+- Could you arrange an appointment with Mr. Green for me?
+- I’d like to drop by tomorrow to talk over our plan.
+- I look forward to seeing you at your office on July 18.
+- Can you squeeze in some time for me next week?
+
+#### Suggesting a time
+
+- Can you make it at 3:00 on Monday?
+- Will 9:00 be alright/okay with you?
+- How about/what do you think of 3:30?
+- Let’s say about 9 tomorrow?
+- Anytime before 6 p.m..
+- Anytime except Monday will be fine/okay/all right with me.
+- I’m available from 9:00 to 3:00.
+
+#### Example
+
+- Hello, this is Yang. I wonder if it would be convenient to have our water delivery tomorrow.
+- Unfortunately there are more demands than ever. How about three days later?
+- As you may remember, you already said that three days ago.
+- …
+- But I think we deserve your priority, that’s how you treat a four years customer.
+- …
+- Fine, see you.
+
 ## Resources
 
 - [byoungd/English-level-up-tips-for-Chinese: 可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)

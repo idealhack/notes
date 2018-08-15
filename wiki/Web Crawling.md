@@ -2,22 +2,21 @@
 
 - [BruceDone/awesome-crawler: A collection of awesome web crawler,spider in different languages](https://github.com/BruceDone/awesome-crawler)
 
-## Colly
+## Tools
+
+### Colly
 
 - [gocolly/colly: Fast and Elegant Scraping Framework for Golang](https://github.com/gocolly/colly)
 
-## Sphinx
-
-- [Overview — Sphinx 1.6.6+ documentation](http://sphinx-doc.org/)
-- [Sphinx 使用手册](http://zh-sphinx-doc.readthedocs.org/)
-- [ryan-roemer/sphinx-bootstrap-theme: Sphinx Bootstrap Theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme)
-- [Bootswatch: Free themes for Bootstrap](http://bootswatch.com/)
-
-## Scrapy
+### Scrapy
 
 - [scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy)
 - [scrapinghub/portia: Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
 - [xiyouMc/WebHubBot: Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.](https://github.com/xiyouMc/PornHubBot)
+
+### Others
+
+- [hardikvasa/google-images-download: Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!](https://github.com/hardikvasa/google-images-download)
 
 ## Resources
 

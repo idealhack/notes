@@ -38,6 +38,13 @@
 - [Flatdoc](http://ricostacruz.com/flatdoc/)
 - [Docute](https://docute.js.org/)
 
+### Sphinx
+
+- [Overview — Sphinx 1.6.6+ documentation](http://sphinx-doc.org/)
+- [Sphinx 使用手册](http://zh-sphinx-doc.readthedocs.org/)
+- [ryan-roemer/sphinx-bootstrap-theme: Sphinx Bootstrap Theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme)
+- [Bootswatch: Free themes for Bootstrap](http://bootswatch.com/)
+
 ## Wiki
 
 - [TiddlyWiki — a non-linear personal web notebook](http://tiddlywiki.com/)
