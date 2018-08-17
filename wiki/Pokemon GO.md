@@ -1,4 +1,4 @@
-# Pokémon GO
+# Pokemon GO
 
 ## Resources
 
