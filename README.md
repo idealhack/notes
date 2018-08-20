@@ -1,6 +1,6 @@
-# idealhack’s wiki
+# idealhack’s notes
 
-📓 personal wiki
+📓 personal notes
 
 ## Overview
 
