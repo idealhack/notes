@@ -25,6 +25,16 @@
 
     ssh-keygen -E md5 -lf ~/.ssh/id_rsa.pub
 
+### Agent forwarding
+
+    ssh-add host-b.pem
+    ssh -A host-a
+    ssh host-b
+
+## Key management
+
+- [On SSH Key Management](https://gravitational.com/blog/ssh-key-management/)
+
 ## Tools
 
 - [emre/storm: Manage your SSH like a boss.](https://github.com/emre/storm)

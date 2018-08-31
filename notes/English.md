@@ -103,6 +103,59 @@ _Polite form: Could/Would you please…_
 - …
 - Fine, see you.
 
+### Arrangement
+
+#### Making invitations
+
+- I would like to invite you to a reception next Sunday at my home.
+- I would like to invite you to dinner at new Chinese restaurant.
+- Would you like/care to join us for dessert and coffee? (attend / take part in / join / join in)
+- Would you like to go to New York with me next month?
+- I was wondering if you’d like to go to the beach on Saturday.
+- I was wondering if you’d like to come to dinner on Tuesday evening.
+- Can/Will you meet me at the mall after class for some shoe shopping?
+- Can you come over tomorrow night and watch the game with us?
+- How/what about a movie tonight?
+- Why don’t you/not jog with me in the mornings?
+- Why don’t you stop by for a visit on your way home?
+
+#### Accepting invitations
+
+- Thank you very much.
+- Thanks for your invitation. I’d be delighted to. / I’d love to.
+- Sure. That would be fun/wonderful/great.
+- What a terrific idea. I’d love to.
+- Sounds like fun!
+- Sure thing!
+- I’ll see you there.
+
+#### Declining invitations
+
+- Thank you, but I’m afraid I have other plans for that night.
+- Thank you, but I’m afraid I have an appointment that day.
+- I’m sorry. I can’t go to the movie with you. I… (excuse)
+- I wish I could, but I’m busy. Maybe another time, though.
+- I hate to turn you down, but I must…
+- I would love to any other time, but I’ve already made plans.
+- Thanks for asking, but…
+- I appreciate the invitation, but I’m afraid I can’t.
+- I’m afraid I can’t, but thanks anyway.
+- What about a rain check?
+
+### At the meeting
+
+#### Starting a meeting
+
+- Shall we get started?
+- Now that everyone is here, let’s get down to business.
+- We are going to discuss three problems this morning.
+
+#### Proceeding to the next item
+
+- Shall we move on to the next item on the agenda?
+
+#### Guiding people in the discussion
+
 ## Resources
 
 - [byoungd/English-level-up-tips-for-Chinese: 可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)

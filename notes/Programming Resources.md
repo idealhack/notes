@@ -40,6 +40,7 @@
 - [leachim6/hello-world: Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!](https://github.com/leachim6/hello-world)
 - [mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/mtdvio/every-programmer-should-know)
 - [stanzhai/be-a-professional-programmer: 成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer)
+- [developer-learning](https://github.com/developer-learning)
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
 - [Linux Manpages Online - man.cx manual pages](https://man.cx/)
 - [DevDocs API Documentation](http://devdocs.io/)

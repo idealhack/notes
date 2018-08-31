@@ -7,6 +7,10 @@
 ## AWS
 
 - [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
+- [donnemartin/awesome-aws: A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.](https://github.com/donnemartin/awesome-aws)
+- [Amazon EC2 Instance Comparison](https://www.ec2instances.info/)
+- [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html?lng=zh_CN)
+- [concurrencylabs/aws-pricing-tools: Lambda functions and scripts designed to simplify AWS pricing calculations. Includes a Lambda function that calculates near real-time price.](https://github.com/concurrencylabs/aws-pricing-tools)
 
 ## Tools
 
