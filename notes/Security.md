@@ -32,6 +32,10 @@
 - [MacOS 的安全和隐私指南 · xitu/macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)
 - [隱私工具 - 加密安全對抗全球大規模監控](https://privacytools.twngo.xyz/)
 
+## Electronic Commerce
+
+- [Payment Card Industry Data Security Standard - Wikipedia](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)
+
 ## Resources
 
 - [hanc00l/wooyun_public: 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops](https://github.com/hanc00l/wooyun_public)

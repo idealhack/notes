@@ -156,6 +156,11 @@ _Polite form: Could/Would you please…_
 
 #### Guiding people in the discussion
 
+## Tools
+
+- [Grammarly](https://app.grammarly.com/)
+- [Linggle 10^12- Language Reference Search Engines - NLPLab](http://linggle.com/)
+
 ## Resources
 
 - [byoungd/English-level-up-tips-for-Chinese: 可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
