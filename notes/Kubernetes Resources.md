@@ -62,3 +62,7 @@
 ### Real world
 
 - [Kubernetes at GitHub | GitHub Engineering](https://githubengineering.com/kubernetes-at-github/)
+
+### Migration
+
+- [Migration of Kubernetes cluster deployment state – Nilesh Suryavanshi – Medium](https://medium.com/@nnilesh7756/migration-of-kubernetes-cluster-deployment-state-55bfb945cffd)

@@ -31,6 +31,7 @@
 ## Tools
 
 - [vladikoff/chromeos-apk: Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.](https://github.com/vladikoff/chromeos-apk)
+- [Jermic/Android-Crack-Tool: 🐞Android crack tool For Mac](https://github.com/Jermic/Android-Crack-Tool)
 
 ## Resources
 
