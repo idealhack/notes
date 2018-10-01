@@ -37,6 +37,11 @@
 - [thoughtbot/dotfiles: A set of vim, zsh, git, and tmux configuration files.](https://github.com/thoughtbot/dotfiles)
 - [skwp/dotfiles: YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen](https://github.com/skwp/dotfiles)
 
+### Publishing
+
+- [Surge: Static web publishing for Front-End Developers](https://surge.sh/)
+- [Netlify: All-in-one platform for automating modern web projects.](https://www.netlify.com/)
+
 ## Other Tools
 
 - [ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
@@ -70,7 +75,6 @@
 - [so-fancy/diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs.](https://github.com/so-fancy/diff-so-fancy)
 - [upx/upx: UPX - the Ultimate Packer for eXecutables](https://github.com/upx/upx)
 - [cjbarber/ToolsOfTheTrade: Tools of The Trade, from Hacker News.](https://github.com/cjbarber/ToolsOfTheTrade)
-- [Surge: Static web publishing for Front-End Developers](https://surge.sh/)
 
 ## Resources
 

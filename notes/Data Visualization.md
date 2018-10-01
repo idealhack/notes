@@ -30,4 +30,8 @@
 - [charted-co/charted: A charting tool that produces automatic, shareable charts from any data file](https://github.com/mikesall/charted)
 - [joewalnes/smoothie: Smoothie Charts: smooooooth JavaScript charts for realtime streaming data](https://github.com/joewalnes/smoothie)
 - [Quartz/Chartbuilder: A front-end charting application that facilitates easy creation of simple beautiful charts](https://github.com/Quartz/Chartbuilder)
+- [Matplotlib: Python plotting — Matplotlib 3.0.0 documentation](https://matplotlib.org/)
 
+## Resources
+
+- [Matplotlib 画图教程系列 | 莫烦Python](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)

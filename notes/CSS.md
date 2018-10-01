@@ -46,3 +46,4 @@
 - [anthonyshort/idiomatic-sass](https://github.com/anthonyshort/idiomatic-sass)
 - [CSS 載入機制的未來趨勢 - andyyou 程序猿生活 - SegmentFault](https://segmentfault.com/a/1190000004454799)
 - [CSS创建竖排文字的简单方法 - 网页制作 - 蓝色理想](http://www.blueidea.com/tech/web/2010/8140.asp)
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)

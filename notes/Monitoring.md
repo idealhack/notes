@@ -12,7 +12,7 @@
 ### Framework
 
 - [Munin](http://munin-monitoring.org/)
-- [NetData: Get control of your Linux Servers. Simple. Effective. Awesome.](https://my-netdata.io/)
+- [netdata/netdata: Get control of your servers. Simple. Effective. Awesome!](https://github.com/netdata/netdata)
 - [Bosun](http://bosun.org/)
 - [cockpit-project/cockpit: There's code a goin' on](https://github.com/cockpit-project/cockpit)
 - [riemann/riemann: A network event stream processing system, in Clojure.](https://github.com/riemann/riemann)

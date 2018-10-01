@@ -7,6 +7,8 @@
 ## Tools
 
 - [coreos/prometheus-operator: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes](https://github.com/coreos/prometheus-operator)
+- [brancz/kubernetes-grafana: The future of Grafana on Kubernetes with Prometheus.](https://github.com/brancz/kubernetes-grafana)
+- [kubernetes-monitoring/kubernetes-mixin: A set of Grafana dashboards and Prometheus alerts for Kubernetes.](https://github.com/kubernetes-monitoring/kubernetes-mixin)
 
 ## Resources
 

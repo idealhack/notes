@@ -82,6 +82,7 @@
 - [Excuse me？这个前端面试在搞事！](https://zhuanlan.zhihu.com/p/25407758)
 - [让我印象深刻的javascript面试题 - 守候书阁 - SegmentFault](https://segmentfault.com/a/1190000010114505)
 - [h5bp/Front-end-Developer-Interview-Questions: A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+- [30-seconds/30-seconds-of-interviews: A curated collection of common interview questions to help you prepare for your next interview.](https://github.com/30-seconds/30-seconds-of-interviews)
 
 ### iOS
 

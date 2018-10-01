@@ -30,6 +30,7 @@
 - [被忽视的 partition 算法 - Just For Fun - SegmentFault](https://segmentfault.com/a/1190000006771980)
 - [几个有趣的算法题目 - hacker之路 - SegmentFault](https://segmentfault.com/a/1190000011929259)
 - [javascript背包问题详解 - javascript魔法师 - SegmentFault 思否](https://segmentfault.com/a/1190000012829866)
+- [The Algorithms](https://github.com/TheAlgorithms)
 
 ### Sorting
 
@@ -70,6 +71,7 @@
 
 - [Leetcode CLI | leetcode-cli](https://skygragon.github.io/leetcode-cli/)
 - [soulmachine/leetcode: LeetCode题解，151道题完整版](https://github.com/soulmachine/leetcode)
+- [apachecn/awesome-algorithm: Leetcode 题解 (跟随思路一步一步撸出代码) 及经典算法实现](https://github.com/apachecn/awesome-algorithm)
 - [billryan/algorithm-exercise: Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/](https://github.com/billryan/algorithm-exercise)
 - [LeetCode 刷题指南（一）：为什么要刷题 - Just For Fun - SegmentFault](https://segmentfault.com/a/1190000006059081)
 - [LeetBook（LeetCode详解）](https://hk029.gitbooks.io/leetbook/content/)

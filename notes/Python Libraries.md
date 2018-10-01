@@ -10,7 +10,6 @@
 
 - [NumPy — NumPy](http://www.numpy.org/)
 - [SciPy library — SciPy.org](https://scipy.org/scipylib/index.html)
-- [Matplotlib: Python plotting — Matplotlib 2.1.1 documentation](http://matplotlib.org/)
 - [Jupyter and the future of IPython — IPython](http://ipython.org/)
 - [SymPy](http://www.sympy.org/en/index.html)
 - [Python Data Analysis Library — pandas: Python Data Analysis Library](http://pandas.pydata.org/)

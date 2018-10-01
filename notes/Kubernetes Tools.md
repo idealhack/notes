@@ -17,6 +17,11 @@
 - [ksonnet](https://ksonnet.io/)
 - [ksonnet/ksonnet: A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.](https://github.com/ksonnet/ksonnet)
 - [Jsonnet - The Data Templating Language](https://jsonnet.org/)
+- [jsonnet-bundler/jsonnet-bundler: A jsonnet package manager.](https://github.com/jsonnet-bundler/jsonnet-bundler)
+
+## aws
+
+- [kubernetes-incubator/kube-aws: A command-line tool to declaratively manage Kubernetes clusters on AWS](https://github.com/kubernetes-incubator/kube-aws)
 
 ## Backup
 

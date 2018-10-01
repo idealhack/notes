@@ -71,5 +71,6 @@
 
 - [cheeaun/life: Life - a timeline of important events in my life](https://github.com/cheeaun/life)
 - [aosabook/500lines: 500 Lines or Less](https://github.com/aosabook/500lines)
+- [30-seconds/30-seconds-of-code: Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.](https://github.com/30-seconds/30-seconds-of-code)
 
 ## [[JavaScript Resources]]

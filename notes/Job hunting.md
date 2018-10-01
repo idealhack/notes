@@ -26,3 +26,4 @@
 - [面试过阿里等互联网大公司，我知道了这些套路](https://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ%3D%3D&mid=2650236979&idx=1&sn=71f07d1741a57f8fd429d76d37fd8a07)
 - [Bridge The Right Way to Accept a Job Offer - Bridge](https://designerfund.com/bridge/right-way-accept-job-offer/)
 - [lietoumai/Hunter: 关于职位/面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Hunter)
+- [英國打工度假－尋找軟體工程師工作，倫敦求職面試經驗分享](https://blog.twsiyuan.com/2018/08/find-a-software-developer-job-in-london.html)

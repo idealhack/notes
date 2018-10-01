@@ -24,3 +24,4 @@
 - [60 Facial Recognition Databases | Blog](https://www.kairos.com/blog/166-60-facial-recognition-databases)
 - [Datasets « Deep Learning](http://deeplearning.net/datasets/)
 - [Face Recognition Homepage - Databases](http://www.face-rec.org/databases/)
+- [Dataset Search](https://toolbox.google.com/datasetsearch)
