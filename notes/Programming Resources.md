@@ -83,3 +83,4 @@
 - [一个函数的自白](https://mp.weixin.qq.com/s/1VtITPEufTMcI42WFEhoEw)
 - [如何提升程序的可读性？像写书那样去写程序 – 叶剑烨的个人注释](https://www.yejianye.com/2018/02/01/readable-code/)
 - [程序员的核心能力 - 构建快速反馈 – 叶剑烨的个人注释](https://www.yejianye.com/2018/01/10/feedback-loop/)
+- [oldratlee/translations: 🐼 Chinese translations for classic IT resources](https://github.com/oldratlee/translations)

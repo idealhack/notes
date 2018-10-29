@@ -20,6 +20,8 @@
 
 - [cncf/landscape: Static Cloud Native Landscapes and Interactive Landscape that filters and sorts hundreds of cloud native projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.](https://github.com/cncf/landscape)
 - [rootsongjc/awesome-cloud-native: Awesome cloud native architectures](https://github.com/rootsongjc/awesome-cloud-native)
+- [google/go-cloud: A library and tools for open cloud development in Go.](https://github.com/google/go-cloud)
+- [云原生基础设施 - cloudnativego.com](https://cloudnativego.com/cni/cn/)
 
 ## Serverless
 

@@ -15,3 +15,8 @@
 ## Books
 
 - [Ansible中文权威指南 — 国内最专业的Ansible中文官方学习手册](http://ansible-tran.readthedocs.io/en/latest/index.html)
+
+## Resources
+
+- [jdauphant/awesome-ansible: A collaborative curated list of awesome Ansible resources](https://github.com/jdauphant/awesome-ansible)
+- [awesome-devops/awesome-ansible: Awesome Ansible List](https://github.com/awesome-devops/awesome-ansible)

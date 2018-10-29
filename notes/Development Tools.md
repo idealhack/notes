@@ -4,8 +4,8 @@
 - [[Shell]]
 - [[Diagram]]
 - [[Git]]
-- [[Shadowsocks]]
 - [[HTTP Tools]]
+- [[Diagram]]
 
 ## Editor
 
@@ -19,10 +19,6 @@
 
 - [daylerees/colour-schemes: Colour schemes for a variety of editors created by Dayle Rees.](https://github.com/daylerees/colour-schemes)
 - [base16](http://chriskempson.com/projects/base16/)
-
-## Graphics
-
-- [ProcessOn - 免费在线作图，实时协作](https://www.processon.com/)
 
 ## Documentation
 

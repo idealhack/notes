@@ -45,6 +45,7 @@
 ### Test
 
 - [stretchr/testify: A toolkit with common assertions and mocks that plays nicely with the standard library](https://github.com/stretchr/testify)
+- [matryer/moq: Interface mocking tool for go generate](https://github.com/matryer/moq)
 
 ### Utils
 

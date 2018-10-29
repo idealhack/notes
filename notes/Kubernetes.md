@@ -15,6 +15,7 @@
 ## Examples
 
 - [Tutorials - Kubernetes](https://kubernetes.io/docs/tutorials/)
+- [kweisamx/Kubernetes-The-Hard-Way-ZH-tw: Kubernetes-The-Hard-Way中文](https://github.com/kweisamx/Kubernetes-The-Hard-Way-ZH-tw)
 - [kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [和我一步步部署 kubernetes 集群](https://k8s-install.opsnull.com/)
 - [kubernetes/examples: Kubernetes application example tutorials](https://github.com/kubernetes/examples)

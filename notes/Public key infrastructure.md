@@ -28,6 +28,12 @@
 
 - [cloudflare/cfssl: CFSSL: Cloudflare's PKI and TLS toolkit](https://github.com/cloudflare/cfssl)
 
+## Tasks
+
+### Displaying a remote SSL certificate details
+
+    echo | openssl s_client -showcerts -servername gnupg.org -connect gnupg.org:443 2>/dev/null | openssl x509 -inform pem -noout -text
+
 ## Resources
 
 - [自建 CA 的那些事儿 | 自言自语](http://blog.m31271n.com/2017/03/17/%E8%87%AA%E5%BB%BA-CA-%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/)
