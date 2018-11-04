@@ -18,7 +18,7 @@
 ## Tools
 
 - [Wolfram|Alpha: Computational Intelligence](http://www.wolframalpha.com/)
-- [mathjax/MathJax: Beautiful math in all browsers](https://github.com/mathjax/MathJax)
+- [KaTeX – The fastest math typesetting library for the web](https://katex.org/)
 
 ## Resources
 

@@ -15,3 +15,4 @@
 
 - [Requirements for Chinese Text Layout 中文排版需求](http://w3c.github.io/clreq/)
 - [浏览器如何渲染文本](http://blog.jjgod.org/2011/04/09/how-do-browsers-render-text/)
+- [alrra/browser-logos: 🗂 High resolution web browser logos](https://github.com/alrra/browser-logos)

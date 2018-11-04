@@ -11,6 +11,7 @@
 - [[Redis]]
 - [[Cassandra]]
 - [[Scylla]]
+- [FoundationDB](https://www.foundationdb.org/)
 - [basho/riak: Riak is a decentralized datastore from Basho Technologies.](https://github.com/basho/riak)
 - [sophia - modern transactional key-value/row storage library.](http://sophia.systems/)
 - [apple/foundationdb: FoundationDB - the open source, distributed, transactional key-value store](https://github.com/apple/foundationdb)
