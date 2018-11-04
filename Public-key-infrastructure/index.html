@@ -42,6 +42,13 @@
 <li><a href="https://github.com/cloudflare/cfssl">cloudflare/cfssl: CFSSL: Cloudflare&rsquo;s PKI and TLS toolkit</a></li>
 </ul>
 
+<h2>Tasks</h2>
+
+<h3>Displaying a remote SSL certificate details</h3>
+
+<pre><code>echo | openssl s_client -showcerts -servername gnupg.org -connect gnupg.org:443 2&gt;/dev/null | openssl x509 -inform pem -noout -text
+</code></pre>
+
 <h2>Resources</h2>
 
 <ul>

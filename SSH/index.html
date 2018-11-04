@@ -29,6 +29,19 @@ systemctl reload sshd
 <pre><code>ssh-keygen -E md5 -lf ~/.ssh/id_rsa.pub
 </code></pre>
 
+<h3>Agent forwarding</h3>
+
+<pre><code>ssh-add host-b.pem
+ssh -A host-a
+ssh host-b
+</code></pre>
+
+<h2>Key management</h2>
+
+<ul>
+<li><a href="https://gravitational.com/blog/ssh-key-management/">On SSH Key Management</a></li>
+</ul>
+
 <h2>Tools</h2>
 
 <ul>
