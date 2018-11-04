@@ -24,7 +24,7 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-site-generator
+nvt site
 
 echo "Copying static files"
 cp -r static/* public
