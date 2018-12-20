@@ -5,6 +5,11 @@
 - [LaTeX - A document preparation system](https://www.latex-project.org/)
 - [LaTeX - 维基百科](https://zh.wikipedia.org/wiki/LaTeX)
 
+## Distributions
+
+- [MacTeX - TeX Users Group](https://tug.org/mactex/)
+- [yihui/tinytex: A lightweight, cross-platform, portable, and easy-to-maintain LaTeX distribution based on TeX Live](https://github.com/yihui/tinytex)
+
 ## Resources
 
 - [chenshuo/typeset](https://github.com/chenshuo/typeset)

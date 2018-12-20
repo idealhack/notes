@@ -10,7 +10,7 @@
 ## Benchmarking
 
 - [loadimpact/k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/loadimpact/k6)
-- [Locust - A modern load testing framework](https://locust.io/)
+- [locustio/locust: Scalable user load testing tool written in Python](https://github.com/locustio/locust)
 - [ab - Apache HTTP server benchmarking tool - Apache HTTP Server Version 2.4](https://httpd.apache.org/docs/2.4/programs/ab.html)
 - [tsenart/vegeta: HTTP load testing tool and library. It's over 9000!](https://github.com/tsenart/vegeta)
 - [wg/wrk: Modern HTTP benchmarking tool](https://github.com/wg/wrk)

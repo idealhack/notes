@@ -299,6 +299,7 @@ Also see [[Markdown]] for JavaScript Markdown editors
 
 - [mrdoob/three.js: JavaScript 3D library.](https://github.com/mrdoob/three.js)
 - [moment/moment: Parse, validate, manipulate, and display dates in javascript.](https://github.com/moment/moment)
+- [iamkun/dayjs: ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API](https://github.com/iamkun/dayjs)
 - [pixijs/pixi.js: The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.](https://github.com/pixijs/pixi.js)
 - [WickyNilliams/enquire.js: Awesome Media Queries in JavaScript](https://github.com/WickyNilliams/enquire.js)
 - [processing-js/processing-js: A port of the Processing visualization language to JavaScript.](https://github.com/processing-js/processing-js)

@@ -50,6 +50,7 @@
 ### Utils
 
 - [sirupsen/logrus: Structured, pluggable logging for Go.](https://github.com/sirupsen/logrus)
+- [google/logger: Cross platform Go logging library.](https://github.com/google/logger)
 - [uber-go/zap: Blazing fast, structured, leveled logging in Go.](https://github.com/uber-go/zap)
 - [emirpasic/gods: GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON](https://github.com/emirpasic/gods)
 - [matryer/vice: Go channels at horizontal scale (powered by message queues)](https://github.com/matryer/vice)

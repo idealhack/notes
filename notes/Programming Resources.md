@@ -23,6 +23,8 @@
 - [Technology Radar | ThoughtWorks](https://www.thoughtworks.com/radar)
 - [Learn Anything](https://learn-anything.xyz/)
 - [Programming.Guide](http://programming.guide/)
+- [OI Wiki](https://oi-wiki.org/)
+- [CTF Wiki](https://ctf-wiki.github.io/ctf-wiki/)
 
 ## Talks
 

@@ -15,6 +15,7 @@
 
 - [Protocol Buffers | Google Developers](https://developers.google.com/protocol-buffers/)
 - [Protocol Buffers - 维基百科](https://zh.wikipedia.org/wiki/Protocol_Buffers)
+- [uber/prototool: Your Swiss Army Knife for Protocol Buffers](https://github.com/uber/prototool)
 
 ## Resources
 

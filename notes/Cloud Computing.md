@@ -11,6 +11,7 @@
 - [Amazon EC2 Instance Comparison](https://www.ec2instances.info/)
 - [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html?lng=zh_CN)
 - [concurrencylabs/aws-pricing-tools: Lambda functions and scripts designed to simplify AWS pricing calculations. Includes a Lambda function that calculates near real-time price.](https://github.com/concurrencylabs/aws-pricing-tools)
+- [localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud apps offline!](https://github.com/localstack/localstack)
 
 ## Tools
 
@@ -25,13 +26,11 @@
 
 ## Serverless
 
-- [anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless)
+- [Knative](https://github.com/knative)
 - [nuclio/nuclio: High-Performance Serverless event and data processing platform](https://github.com/nuclio/nuclio)
-
-## FaaS
-
 - [openfaas/faas: OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes](https://github.com/openfaas/faas)
 - [kubeless/kubeless: Kubernetes Native Serverless Framework](https://github.com/kubeless/kubeless)
+- [anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless)
 
 ## Resources
 

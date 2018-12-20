@@ -48,11 +48,6 @@
 - [基于Jenkins和Kubernetes的CI工作流](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649693456&idx=1&sn=b36ed8057c23113da2396b77208689f1)
 - [box/kube-applier: kube-applier enables automated deployment and declarative configuration for your Kubernetes cluster.](https://github.com/box/kube-applier)
 
-### Ingress
-
-- [kubernetes/ingress-nginx: Ingress controller for nginx](https://github.com/kubernetes/ingress-nginx)
-- [对比Kubernetes的Nodeport、Loadbalancer和Ingress，什么时候该用哪种 - imroc.io|roc的博客|Cloud Native|Kubernetes|Go|Golang](https://imroc.io/posts/kubernetes/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what/)
-
 ### client-go
 
 - [Using the Kubernetes Client for Go - RHD Blog](https://developers.redhat.com/blog/2016/11/25/using-the-kubernetes-client-for-go/)
