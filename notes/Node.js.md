@@ -15,7 +15,6 @@
 - [strongloop/loopback: LoopBack makes it easy to build modern applications that require complex integrations.](https://github.com/strongloop/loopback)
 - [NetEase/pomelo: A fast,scalable,distributed game server framework for Node.js.](https://github.com/NetEase/pomelo)
 - [socketio/socket.io: Realtime application framework (Node.JS server)](https://github.com/socketio/socket.io)
-- [rwaldron/johnny-five: JavaScript Robotics and IoT programming framework, developed at Bocoup.](https://github.com/rwaldron/johnny-five)
 - [hoodiehq/hoodie: The Offline First JavaScript Backend](https://github.com/hoodiehq/hoodie)
 - [laktek/punch: A fun and easy way to build modern websites](https://github.com/laktek/punch)
 - [socketstream/socketstream: A framework for Realtime Web Apps](https://github.com/socketstream/socketstream)

@@ -3,6 +3,7 @@
 ## kubectl
 
 - [The Kubectl Book](https://pwittrock-kubectl.firebaseapp.com/)
+- [GoogleContainerTools/krew: 📦 The package manager for "kubectl plugins"](https://github.com/GoogleContainerTools/krew)
 
 ## kops
 

@@ -21,4 +21,5 @@
 
 ## Resources
 
+- [维基导游，自由的旅行指南](https://zh.wikivoyage.org/wiki/%E9%A6%96%E9%A1%B5)
 - [环游世界究竟要花多少钱？我们有一份73万的账单](https://zhuanlan.zhihu.com/p/28339107)

@@ -7,7 +7,7 @@
 
 ## Books
 
-- [http2 explained](https://bagder.gitbooks.io/http2-explained/zh/)
+- [http2 explained](https://http2-explained.haxx.se/content/zh/)
 
 ## Tools
 

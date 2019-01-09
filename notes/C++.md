@@ -34,7 +34,6 @@
 - [nlohmann/json: JSON for Modern C++](https://github.com/nlohmann/json)
 - [dropbox/json11: A tiny JSON library for C++11.](https://github.com/dropbox/json11)
 - [Tencent/rapidjson: A fast JSON parser/generator for C++ with both SAX/DOM style API](https://github.com/miloyip/rapidjson)
-- [bblanchon/ArduinoJson: 📟 C++ JSON library for IoT. Simple and efficient.](https://github.com/bblanchon/ArduinoJson)
 - [open-source-parsers/jsoncpp: A C++ library for interacting with JSON.](https://github.com/open-source-parsers/jsoncpp)
 - [kazuho/picojson: a header-file-only, JSON parser serializer in C++](https://github.com/kazuho/picojson)
 
