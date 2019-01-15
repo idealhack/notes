@@ -63,9 +63,9 @@ _Polite form: Could/Would you please…_
 
 - Hello, this is Li Yang, may I speak to Felix?
 - I'm sorry but he's not here. May I take a message or would you like to call back later?
-- Sure. That's very kind of you, please tell him that I want to discuss our Kubernetes clusters.
+- Sure. That's very kind of you, please tell him that I want to discuss our clusters.
 - Would you mind saying it once again?
-- About our Kubernetes clusters.
+- About our clusters.
 - OK. I'll tell him to call you back. Anything else?
 - No, thank you, have a nice weekend.
 - Have a nice weekend. Goodbye.

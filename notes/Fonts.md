@@ -33,6 +33,8 @@
 
 ## Resources
 
+- [brabadu/awesome-fonts: Curated list of fonts and everything](https://github.com/brabadu/awesome-fonts)
+- [ryanoasis/nerd-fonts: Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack](https://github.com/ryanoasis/nerd-fonts)
 - [Free Fonts! Legit Free & Quality » Font Squirrel](https://www.fontsquirrel.com/)
 - [有哪些值得推荐的英文字体？ - 设计 - 知乎](https://www.zhihu.com/question/23210530)
 - [有哪些值得推荐的中文字体？ - 设计 - 知乎](https://www.zhihu.com/question/20727176)

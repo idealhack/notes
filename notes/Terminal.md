@@ -9,6 +9,14 @@
 - [Eugeny/terminus: A terminal for a more modern age](https://github.com/Eugeny/terminus)
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator)
 
+### Powerline
+
+- [bhilburn/powerlevel9k: The most awesome Powerline theme for ZSH around!](https://github.com/bhilburn/powerlevel9k)
+
+### Fonts
+
+- [gabrielelana/awesome-terminal-fonts: Tools and instructions on how to have awesome symbols in a terminal with a monospace font](https://github.com/gabrielelana/awesome-terminal-fonts)
+
 ## Windows
 
 - [cmderdev/cmder: Lovely console emulator package for Windows](https://github.com/cmderdev/cmder)

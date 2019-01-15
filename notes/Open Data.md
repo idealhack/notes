@@ -4,6 +4,15 @@
 
 - [simonw/datasette: Instantly publish structured data to the internet with a JSON API](https://github.com/simonw/datasette)
 
+## Public APIs
+
+- [Public APIs UI](https://public-apis.xyz/)
+
+### Environment
+
+- [Air Pollution in Asia: Real-time Air Quality Index Visual Map](http://aqicn.org/map/)
+- [World's Air Pollution: Real-time Air Quality Index](https://waqi.info/)
+
 ## Resources
 
 - [中国数据](https://github.com/cn)

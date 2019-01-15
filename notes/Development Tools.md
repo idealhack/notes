@@ -18,7 +18,12 @@
 ### Color Schemes
 
 - [daylerees/colour-schemes: Colour schemes for a variety of editors created by Dayle Rees.](https://github.com/daylerees/colour-schemes)
-- [base16](http://chriskempson.com/projects/base16/)
+- [chriskempson/base16: An architecture for building themes](https://github.com/chriskempson/base16)
+- [dracula/dracula-theme: A dark theme for all the things!](https://github.com/dracula/dracula-theme/)
+
+### Fonts
+
+- [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 
 ## Documentation
 
