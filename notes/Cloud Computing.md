@@ -16,6 +16,7 @@
 ## Tools
 
 - [aelsabbahy/goss: Quick and Easy server testing/validation](https://github.com/aelsabbahy/goss)
+- [cznewt/infra-scraper: Infrastructure metadata scraper with support for K8S, AWS, OpenStack, Terraform and SaltStack for further relational analysis and visualization (which is also included).](https://github.com/cznewt/infra-scraper)
 
 ## Cloud Native
 

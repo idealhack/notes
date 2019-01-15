@@ -4,9 +4,7 @@
 
 - [微服務 - 维基百科](https://zh.wikipedia.org/wiki/%E5%BE%AE%E6%9C%8D%E5%8B%99)
 
-## Platforms
-
-- [[Kubernetes]]
+## [[Kubernetes]]
 
 ## [[Service Mesh]]
 

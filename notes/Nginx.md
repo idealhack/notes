@@ -18,5 +18,4 @@
 - [Nginx基本配置备忘](https://zhuanlan.zhihu.com/p/24524057)
 - [nginx-boilerplate/nginx-boilerplate: Awesome Nginx configuration template](https://github.com/nginx-boilerplate/nginx-boilerplate)
 - [pagespeed/ngx_pagespeed: Automatic PageSpeed optimization module for Nginx](https://github.com/pagespeed/ngx_pagespeed)
-- [Nginx https service · kubernetes/examples](https://github.com/kubernetes/examples/tree/master/staging/https-nginx)
 - [Nginx高并发下的优化 - 小胖纸的架构师之路 - SegmentFault 思否](https://segmentfault.com/a/1190000011405320)

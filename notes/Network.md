@@ -27,7 +27,7 @@
 
 [会话层 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BC%9A%E8%AF%9D%E5%B1%82)
 
-- [[SOCKS]]
+- [SOCKS - 维基百科](https://zh.wikipedia.org/wiki/SOCKS)
 
 ### Transport Layer
 

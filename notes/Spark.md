@@ -4,14 +4,12 @@
 
 - [Apache Spark™ - Lightning-Fast Cluster Computing](http://spark.apache.org/)
 - [Apache Spark - 维基百科](https://zh.wikipedia.org/wiki/Apache_Spark)
-
-## Documentation
-
-- [Overview - Spark 2.2.0 Documentation](http://spark.apache.org/docs/latest/)
+- [Spark Documentation](http://spark.apache.org/docs/latest/)
 
 ## Libraries
 
 - [intel-analytics/BigDL: BigDL: Distributed Deep Learning Library for Apache Spark](https://github.com/intel-analytics/BigDL)
+- [GoogleCloudPlatform/spark-on-k8s-operator: Kubernetes CRD operator for specifying and running Apache Spark applications idiomatically on Kubernetes.](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
 
 ### Cassandra
 
@@ -19,12 +17,6 @@
 - [datastax/spark-cassandra-connector: DataStax Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector)
 - [Getting Started with Spark & Cassandra - YouTube](https://www.youtube.com/watch?v=_gFgU3phogQ)
 - [(Spark + Cassandra) * Docker = <3 · GitHub](https://gist.github.com/clakech/4a4568daba1ca108f03c)
-
-### Kubernetes
-
-- [Apache Spark 2.3 with Native Kubernetes Support - Kubernetes](https://kubernetes.io/blog/2018/03/apache-spark-23-with-native-kubernetes/)
-- [Running Spark on Kubernetes - Spark 2.3.0 Documentation](https://spark.apache.org/docs/2.3.0/running-on-kubernetes.html)
-- [GoogleCloudPlatform/spark-on-k8s-operator: Kubernetes CRD operator for specifying and running Apache Spark applications idiomatically on Kubernetes.](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator)
 
 ### Hive
 
