@@ -1,18 +1,9 @@
-# Travel
+# Traveling
 
 ## Overview
 
 - [[Passport]]
-
-## Places
-
-- [[Mainland China]]
-- [[Macau]]
-- [[Japan]]
-- [[France]]
-- [[Denmark]]
-- [[Taiwan]]
-- [[Australia]]
+- [[Public transport]]
 
 ## Tips
 

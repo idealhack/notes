@@ -18,6 +18,11 @@
 - [[Android]]
 - [[SRE]]
 
+## Glossary
+
+- [编码 - 维基百科](https://zh.wikipedia.org/wiki/%E7%BC%96%E7%A0%81)
+- [ASCII - 维基百科](https://zh.wikipedia.org/wiki/ASCII)
+
 ## Resources
 
 - [Computer-Science-Glossary/dict.textile at master · JuanitoFatas/Computer-Science-Glossary · GitHub](https://github.com/JuanitoFatas/Computer-Science-Glossary/blob/master/dict.textile)

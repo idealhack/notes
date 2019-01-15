@@ -8,10 +8,15 @@
 
 - [FreeNAS Storage Operating System | Open Source - FreeNAS - Open Source Storage Operating System](http://www.freenas.org/)
 - [ownCloud.org](https://owncloud.org/)
-- [Plex Media Server - Your media on all your devices](https://www.plex.tv/)
-- [Resilio: Fastest and Most Reliable Way to Move Data](https://www.resilio.com/)
 - [HTPC Manager](http://htpc.io/)
 - [linuxserver/htpcmanager - Docker Hub](https://hub.docker.com/r/linuxserver/htpcmanager/)
+
+## Software
+
+- [Plex Media Server - Your media on all your devices](https://www.plex.tv/)
+- [Resilio: Fastest and Most Reliable Way to Move Data](https://www.resilio.com/)
+- [Samba](https://zh.wikipedia.org/wiki/Samba)
+- [Setting up Samba as a Standalone Server - SambaWiki](https://wiki.samba.org/index.php/Setting_up_Samba_as_a_Standalone_Server)
 
 ## Tools
 

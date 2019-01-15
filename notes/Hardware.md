@@ -20,6 +20,12 @@
 - [電腦裝置頻寬列表 - 维基百科](https://zh.wikipedia.org/wiki/電腦裝置頻寬列表)
 - [sivel/speedtest-cli: Command line interface for testing internet bandwidth using speedtest.net](https://github.com/sivel/speedtest-cli)
 
+## BIOS
+
+- [BIOS - 维基百科](https://zh.wikipedia.org/wiki/BIOS)
+- [服务器Bios设置](http://www.chenshake.com/server-bios-settings/)
+- [Get Information About Your BIOS / Server Hardware From a Shell Without Opening Chassis ( BIOS Decoder ) – nixCraft](https://www.cyberciti.biz/tips/querying-dumping-bios-from-linux-command-prompt.html)
+
 ## Resources
 
 - [PC Monitors | Expert Advice on Computer Monitors](https://pcmonitors.info/)

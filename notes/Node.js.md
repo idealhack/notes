@@ -66,7 +66,6 @@
 
 - [tj/commander.js: node.js command-line interfaces made easy](https://github.com/tj/commander.js)
 - [shelljs/shelljs: Portable Unix shell commands for Node.js](https://github.com/shelljs/shelljs)
-- [flatiron/prompt: a beautiful command-line prompt for node.js](https://github.com/flatiron/prompt)
 
 ### Testing
 

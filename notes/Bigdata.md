@@ -6,14 +6,13 @@
 
 ## Stack
 
-- [[HDFS]]
-- [[Hadoop]]
-- [[HBase]]
-- [[Hive]]
-- [[Sqoop]]
+- [Hadoop](http://hadoop.apache.org)
+- [HBase](https://hbase.apache.org/)
+- [Hive](https://hive.apache.org/)
+- [Sqoop](http://sqoop.apache.org/)
 - [[Spark]]
-- [[Kafka]]
-- [[Fluentd]]
+- [Kafka](https://kafka.apache.org/)
+- [Fluentd](https://www.fluentd.org/)
 - [Flink](https://flink.apache.org/)
 - [Storm](http://storm.apache.org/)
 - [Phoenix](https://phoenix.apache.org/index.html)

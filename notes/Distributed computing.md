@@ -6,10 +6,9 @@
 
 ## Systems
 
-- [[ZooKeeper]]
 - [[etcd]]
+- [ZooKeeper](https://zookeeper.apache.org/)
 - [Consul](https://github.com/hashicorp/consul)
-- [xuxueli/xxl-job: A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）](https://github.com/xuxueli/xxl-job)
 
 ## Memory Storage
 
@@ -18,8 +17,8 @@
 
 ## File system
 
-- [[GlusterFS]]
-- [[Ceph]]
+- [Gluster](https://www.gluster.org/)
+- [Ceph](http://ceph.com/)
 
 ## CAP
 

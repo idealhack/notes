@@ -11,6 +11,10 @@
 - [laurentj/slimerjs: A scriptable browser like PhantomJS, based on Firefox](https://github.com/laurentj/slimerjs)
 - [mozilla/chromeless: Build desktop applications with web technologies.](https://github.com/mozilla/chromeless)
 
+## Libraries
+
+- [es-shims/es5-shim: ECMAScript 5 compatibility shims for legacy (and modern) JavaScript engines](https://github.com/es-shims/es5-shim)
+
 ## Resources
 
 - [Requirements for Chinese Text Layout 中文排版需求](http://w3c.github.io/clreq/)

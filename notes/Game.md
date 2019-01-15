@@ -18,7 +18,7 @@
 ## Games
 
 - [[Ingress]]
-- [[Pokémon GO]]
+- [[Pokemon GO]]
 - [[The Legend of Zelda]]
 - [doublespeakgames/adarkroom: A Dark Room - A Minimalist Text Adventure](https://github.com/doublespeakgames/adarkroom)
 - [fogleman/Craft: A simple Minecraft clone written in C using modern OpenGL (shaders).](https://github.com/fogleman/Craft)

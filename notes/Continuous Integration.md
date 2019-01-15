@@ -7,7 +7,7 @@
 ## Tools
 
 - [[GitLab]]
-- [[Jenkins]]
+- [Jenkins](https://jenkins.io/)
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
 - [Semaphore](https://semaphoreci.com/)
 - [Codefresh](https://codefresh.io/)

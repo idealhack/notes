@@ -7,23 +7,47 @@
 
 ## Protocols
 
-- RTMP
-- [[HLS]]
-- [[RTSP]]
+### RTMP
 
-## Tools
+- [实时消息协议 - 维基百科](https://zh.wikipedia.org/wiki/%E5%AE%9E%E6%97%B6%E6%B6%88%E6%81%AF%E5%8D%8F%E8%AE%AE)
+
+### HLS
+
+- [HTTP Live Streaming (HLS) - Apple Developer](https://developer.apple.com/streaming/)
+- [HTTP Live Streaming - 维基百科](https://zh.wikipedia.org/wiki/HTTP_Live_Streaming)
+- [部署基于FFMPEG的HLS直播视频服务 Deploy HLS(m3u8) Server with FFMPEG - 非宁静无以睡眠啊](http://charlescui.github.io/blog/2014/05/01/deploy-hls-m3u8-server-with-ffmpeg/)
+
+### RTP
+
+- [实时传输协议 - 维基百科](https://zh.wikipedia.org/wiki/%E5%AE%9E%E6%97%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE)
+- [实时传输控制协议 - 维基百科](https://zh.wikipedia.org/wiki/%E5%AE%9E%E6%97%B6%E4%BC%A0%E8%BE%93%E6%8E%A7%E5%88%B6%E5%8D%8F%E8%AE%AE)
+
+### RTSP
+
+- [RFC 2326 - Real Time Streaming Protocol (RTSP)](https://tools.ietf.org/html/rfc2326)
+- [即時串流協定 - 维基百科](https://zh.wikipedia.org/wiki/%E5%8D%B3%E6%99%82%E4%B8%B2%E6%B5%81%E5%8D%94%E5%AE%9A)
+- [RTSP 协议分析 （一） - 博水 - 博客园](http://www.cnblogs.com/qingquan/archive/2011/07/14/2106834.html)
+- [RTSP协议分析（二） - 博水 - 博客园](http://www.cnblogs.com/qingquan/archive/2011/07/15/2107867.html)
+- [RTSP回放时如何通过RTP的timestamp计算npt时间 - CSDN博客](http://blog.csdn.net/jasonhwang/article/details/7316168)
+
+## Libraries & Tools
 
 - [[FFmpeg]]
 - [axiomatic-systems/Bento4: Full-featured MP4 format and MPEG DASH library and tools](https://github.com/axiomatic-systems/Bento4)
 - [shi-yan/H264Naked: A H264 frame data viewer](https://github.com/shi-yan/H264Naked)
-
-## Libraries
-
-- [LaiFengiOS/LFLiveKit](https://github.com/LaiFengiOS/LFLiveKit)
 - [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea)
 - [Bilibili/ijkplayer](https://github.com/Bilibili/ijkplayer)
 - [AnyRTC/anyRTC-RTMP-OpenSource: RTMP 推流器，RTMP(HLS)秒开播放器，跨平台（Win,IOS,Android）开源代码](https://github.com/AnyRTC/AnyRTC-RTMP)
 - [ChangbaDevs/KTVVideoProcess: A High-Performance video effects processing framework from Changba iOS team.](https://github.com/ChangbaDevs/KTVVideoProcess)
+
+### Browser
+
+- [videojs/video.js: Video.js - open source HTML5 & Flash video player](https://github.com/videojs/video.js)
+- [jwplayer/jwplayer: JW Player is the world's most popular embeddable media player.](https://github.com/jwplayer/jwplayer)
+- [clappr/clappr: An extensible media player for the web.](https://github.com/clappr/clappr)
+- [video-dev/hls.js: JavaScript HLS client using Media Source Extension](https://github.com/video-dev/hls.js)
+- [flowplayer/flowplayer: The HTML5 video player for the web](https://github.com/flowplayer/flowplayer)
+- [Bilibili/flv.js: HTML5 FLV Player](https://github.com/Bilibili/flv.js)
 
 ## Resources
 

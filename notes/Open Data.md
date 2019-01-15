@@ -13,6 +13,16 @@
 - [Air Pollution in Asia: Real-time Air Quality Index Visual Map](http://aqicn.org/map/)
 - [World's Air Pollution: Real-time Air Quality Index](https://waqi.info/)
 
+### Maps
+
+- [Leaflet/Leaflet: JavaScript library for mobile-friendly interactive maps](https://github.com/Leaflet/Leaflet)
+- [kosmtik/kosmtik: Make maps with OpenStreetMap and Mapnik](https://github.com/kosmtik/kosmtik)
+- [tilemill-project/tilemill](https://github.com/tilemill-project/tilemill)
+- [manuelbieh/Geolib: Growing library to provide some basic geo functions](https://github.com/manuelbieh/Geolib)
+- [uber/deck.gl: WebGL2 powered geospatial visualization layers](https://github.com/uber/deck.gl)
+- [uber/kepler.gl](https://github.com/uber/kepler.gl)
+- [OpenFlights.org: Flight logging, mapping, stats and sharing](https://openflights.org/)
+
 ## Resources
 
 - [中国数据](https://github.com/cn)
@@ -22,7 +32,6 @@
 - [chinese-poetry/chinese-poetry: 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。](https://github.com/chinese-poetry/chinese-poetry)
 - [hujiaweibujidao/poetry: china ancient poetry project data](https://github.com/hujiaweibujidao/poetry)
 - [openmundi/world.db: Free open public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)](https://github.com/openmundi/world.db)
-- [OpenFlights.org: Flight logging, mapping, stats and sharing](https://openflights.org/)
 - [Natural Earth](http://www.naturalearthdata.com/)
 - [googollee/eviltransform: Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).](https://github.com/googollee/eviltransform)
 - [awesomedata/awesome-public-datasets: A topic-centric list of high-quality open datasets in public domains.](https://github.com/awesomedata/awesome-public-datasets)

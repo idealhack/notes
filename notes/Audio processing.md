@@ -23,6 +23,12 @@
 - [OpenAL: Cross Platform 3D Audio](https://www.openal.org/)
 - [SoundTouch Sound Processing Library](http://www.surina.net/soundtouch/)
 
+### Javascript
+
+- [goldfire/howler.js: Javascript audio library for the modern web.](https://github.com/goldfire/howler.js)
+- [watilde/beeplay: Write A Song In JavaScript](https://github.com/watilde/beeplay)
+- [jaysalvat/buzz: Buzz is a small but powerful Javascript library that allows you to easily take advantage of the new HTML5 audio element.](https://github.com/jaysalvat/buzz)
+
 ## Tools
 
 - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage)
