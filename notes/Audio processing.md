@@ -32,6 +32,7 @@
 ## Tools
 
 - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage)
+- [alexkay/spek: Acoustic spectrum analyser](https://github.com/alexkay/spek)
 
 ## Resources
 

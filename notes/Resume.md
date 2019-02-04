@@ -10,6 +10,7 @@
 
 ## Resources
 
+- [resumejob/awesome-resume: 包含简历常用例句](https://github.com/resumejob/awesome-resume)
 - [geekcompany/ResumeSample: Resume template for Chinese programmers . 程序员简历模板系列](https://github.com/geekcompany/ResumeSample)
 - [为什么你的简历投出之后渺无音讯？ - 自言自语](http://liubin.org/blog/2016/03/29/engineers-resume/)
 - [OpenDoc - 前端简历评级标准 - 知乎专栏](https://zhuanlan.zhihu.com/p/27996237)

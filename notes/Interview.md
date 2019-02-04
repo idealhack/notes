@@ -83,7 +83,4 @@
 - [让我印象深刻的javascript面试题 - 守候书阁 - SegmentFault](https://segmentfault.com/a/1190000010114505)
 - [h5bp/Front-end-Developer-Interview-Questions: A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [30-seconds/30-seconds-of-interviews: A curated collection of common interview questions to help you prepare for your next interview.](https://github.com/30-seconds/30-seconds-of-interviews)
-
-### iOS
-
-- [lzyy/iOS-Developer-Interview-Questions: 面试 iOS 开发时可以问的一些问题](https://github.com/lzyy/iOS-Developer-Interview-Questions)
+- [InterviewMap/CS-Interview-Knowledge-Map: Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)

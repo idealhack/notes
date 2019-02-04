@@ -2,6 +2,10 @@
 
 ## Libraries
 
+### Command line
+
+- [spf13/cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
+
 ### Microservice
 
 - [go-kit/kit: A standard library for microservices.](https://github.com/go-kit/kit)
@@ -42,10 +46,12 @@
 
 - [markbates/goth: Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications.](https://github.com/markbates/goth)
 
-### Test
+### Testing
 
 - [stretchr/testify: A toolkit with common assertions and mocks that plays nicely with the standard library](https://github.com/stretchr/testify)
 - [matryer/moq: Interface mocking tool for go generate](https://github.com/matryer/moq)
+- [matryer/is: Professional lightweight testing mini-framework for Go.](https://github.com/matryer/is)
+- [dvyukov/go-fuzz: Randomized testing for Go](https://github.com/dvyukov/go-fuzz)
 
 ### Utils
 
@@ -57,6 +63,7 @@
 - [pkg/errors: Simple error handling primitives](https://github.com/pkg/errors)
 - [tidwall/gjson: Get JSON values quickly - JSON Parser for Go](https://github.com/tidwall/gjson)
 - [robfig/cron: a cron library for go](https://github.com/robfig/cron)
+- [kelseyhightower/envconfig: Golang library for managing configuration data from environment variables](https://github.com/kelseyhightower/envconfig)
 
 ### Data
 

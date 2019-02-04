@@ -7,9 +7,8 @@
 ## Frameworks
 
 - [zeit/next.js: Framework for server-rendered or statically-exported React apps](https://github.com/zeit/next.js)
-- [Draft.js | Rich Text Editor Framework for React](https://draftjs.org/)
+- [facebook/draft-js: A React framework for building text editors.](https://github.com/facebook/draft-js)
 - [facebook/flux: Application Architecture for Building User Interfaces](https://github.com/facebook/flux)
-- [storybooks/storybook: Interactive development & testing environment for React, React-Native, Vue UI components](https://github.com/storybooks/storybook)
 
 ## UI
 
@@ -27,3 +26,4 @@
 - [mui-org/material-ui: React components that implement Google's Material Design.](https://github.com/callemall/material-ui)
 - [使用Facebook的create-react-app快速构建React开发环境 - 某熊的全栈之路 - SegmentFault](https://segmentfault.com/a/1190000006055973)
 - [xitu/Under-the-hood-ReactJS: Entire ReactJS code base explanation by visual block schemes (Stack+Fiber versions)](https://github.com/xitu/Under-the-hood-ReactJS)
+- [kay-is/react-from-zero: A simple (99% ES2015 less) tutorial for React](https://github.com/kay-is/react-from-zero)

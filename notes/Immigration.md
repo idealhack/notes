@@ -8,13 +8,7 @@
 
 - [移民出境 - 维基百科](https://zh.wikipedia.org/wiki/%E7%A7%BB%E6%B0%91%E5%87%BA%E5%A2%83)
 
-## Contries
-
-- [[Japan]]
-- [[France]]
-- [[Denmark]]
-- Canada
-- Australia
+## [[World]]
 
 ## Resources
 

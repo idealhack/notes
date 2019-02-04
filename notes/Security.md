@@ -38,6 +38,7 @@
 
 ## Resources
 
+- [devsecops/awesome-devsecops: An authoritative list of awesome devsecops tools with the help from community experiments and contributions.](https://github.com/devsecops/awesome-devsecops)
 - [hanc00l/wooyun_public: 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops](https://github.com/hanc00l/wooyun_public)
 - [安全专业人士最爱的19个GitHub开源项目  - SDK.CN - 中国领先的开发者服务平台](https://www.sdk.cn/news/3197)
 - [John-Lin/wallofsheep: Wall of Sheep](https://github.com/John-Lin/wallofsheep)

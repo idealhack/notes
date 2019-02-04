@@ -4,7 +4,7 @@
 
 - [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
 - [Markdown - 维基百科](https://zh.wikipedia.org/wiki/Markdown)
-- [https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [MARKDOWN SYNTAX.pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Editors
 

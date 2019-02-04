@@ -1,4 +1,4 @@
-# Technology Blogs
+# Technical blogs
 
 ## Blogs
 

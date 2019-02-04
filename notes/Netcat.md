@@ -8,7 +8,7 @@
 ## Manual
 
 - [nc(1): arbitrary TCP/UDP connections/listens - Linux man page](https://linux.die.net/man/1/nc)
-- [https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
+- [Netcat Cheat Sheet.pdf](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
 
 ## Resources
 

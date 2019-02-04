@@ -6,6 +6,7 @@
 
 ## Resources
 
+- [DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.](https://github.com/DovAmir/awesome-design-patterns)
 - [kamranahmedse/design-patterns-for-humans: Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Go Patterns](http://tmrts.com/go-patterns/)
 - [faif/python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)

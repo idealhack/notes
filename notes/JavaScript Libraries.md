@@ -103,6 +103,11 @@ See also [[Markdown]] for JavaScript Markdown editors
 - [Marak/faker.js: generate massive amounts of fake data in Node.js and the browser](https://github.com/Marak/faker.js)
 - [matthewhudson/current-device: The easiest way to write conditional CSS and/or JavaScript based on device operating system, orientation, and type](https://github.com/matthewhudson/device.js)
 
+### date
+
+- [iamkun/dayjs: ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API](https://github.com/iamkun/dayjs)
+- [date-fns/date-fns: ⏳ Modern JavaScript date utility library ⌛️](https://github.com/date-fns/date-fns)
+
 ## Flow control
 
 - [petkaantonov/bluebird: Bluebird is a full featured promise library with unmatched performance.](https://github.com/petkaantonov/bluebird)
@@ -112,8 +117,6 @@ See also [[Markdown]] for JavaScript Markdown editors
 ## Others
 
 - [mrdoob/three.js: JavaScript 3D library.](https://github.com/mrdoob/three.js)
-- [moment/moment: Parse, validate, manipulate, and display dates in javascript.](https://github.com/moment/moment)
-- [iamkun/dayjs: ⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API](https://github.com/iamkun/dayjs)
 - [pixijs/pixi.js: The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.](https://github.com/pixijs/pixi.js)
 - [winjs/winjs: A UI toolkit for modern browsers](https://github.com/winjs/winjs)
 - [baconjs/bacon.js: FRP (functional reactive programming) library for Javascript](https://github.com/baconjs/bacon.js)

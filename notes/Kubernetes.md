@@ -31,8 +31,6 @@
 
 ## [[Kubernetes Tools]]
 
-## [[Kubernetes Resources]]
-
 ## KubeCon + CloudNativeCon
 
 - [KubeCon + CloudNativeCon North America 2018: Schedule](https://kccna18.sched.com/)

@@ -17,6 +17,7 @@
 ## Rail transport
 
 - [铁路运输 - 维基百科](https://zh.wikipedia.org/zh-cn/%E9%90%B5%E8%B7%AF%E9%81%8B%E8%BC%B8)
+- [pjialin/py12306: 🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理](https://github.com/pjialin/py12306)
 
 ## [[Civil aviation]]
 

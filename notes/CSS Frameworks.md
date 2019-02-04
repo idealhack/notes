@@ -23,6 +23,7 @@
 - [rscss](http://rscss.io/)
 - [css/csso: CSS minifier with structural optimizations](https://github.com/css/csso)
 - [LeaVerou/prefixfree: Break free from CSS prefix hell!](https://github.com/LeaVerou/prefixfree)
+- [linkedin/css-blocks: High performance, maintainable stylesheets.](https://github.com/linkedin/css-blocks)
 
 ## [[Bootstrap]]
 

@@ -33,7 +33,6 @@
 - [fxsjy/jieba: 结巴中文分词](https://github.com/fxsjy/jieba)
 - [fraser-hemp/gradify: CSS gradient placeholders](https://github.com/fraser-hemp/gradify)
 - [lihaoyi/macropy: Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
-- [fengsp/plan: Crontab jobs management in Python](https://github.com/fengsp/plan)
 - [gabrielfalcao/lettuce: Cucumber-ish BDD for python](https://github.com/gabrielfalcao/lettuce)
 - [pudo/dataset: Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.](https://github.com/pudo/dataset)
 - [kennethreitz/clint: Python Command-line Application Tools](https://github.com/kennethreitz/clint)

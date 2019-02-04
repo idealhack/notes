@@ -9,6 +9,7 @@
 - [Go Language for Beginners in 16 Parts! | Hacking Code](https://blog.hackingcode.io/go-language-for-beginners-tutorial-in-16-parts/)
 - [enocom/gopher-reading-list: A curated selection of blog posts on Go](https://github.com/enocom/gopher-reading-list)
 - [Go知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0)
+- [developer-learning/learning-golang: Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang)
 
 ## Books
 
@@ -24,6 +25,7 @@
 - [《Go Web 编程》读者服务网站 | Go Web Programming Chinese Edition](http://gwpcn.com/)
 - [Go语言高级编程](https://chai2010.gitbooks.io/advanced-go-programming-book/content/)
 - [Go 101](https://go101.org/article/101.html)
+- [Go语言标准库](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)
 - [Go Language CookBook With Examples - Ednsquare](https://ednsquare.com/publisher/view/Go-Language-CookBook-With-Examples------xOhLZaZVGG)
 
 ## Blogs
@@ -55,6 +57,7 @@
 - [Golang协程之殇 | Computer Science & Programming](http://blog.imisko.com/2017/08/02/golang-coroutine/)
 - [Go Performance Tuning - StackImpact](https://stackimpact.com/docs/go-performance-tuning/)
 - [How to start a Go project in 2018 | Ben E. C. Boyter](https://boyter.org/posts/how-to-start-go-project-2018/)
+- [developer-learning/night-reading-go: Go 夜读 > Night Reading Go - Go source reading and offline technical discussion every Thursday night.](https://github.com/developer-learning/night-reading-go)
 
 ### Map
 

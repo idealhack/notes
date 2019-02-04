@@ -9,6 +9,7 @@
 - [Shadowsocks](https://shadowsocks.org/en/index.html)
 - [XX-net/XX-Net: a web proxy tool](https://github.com/XX-net/XX-Net)
 - [Surge Mac - Advanced Web Debugging Proxy for Mac & iOS](http://nssurge.com/)
+- [yichengchen/clashX: A rule based custom proxy with GUI for Mac base on clash.](https://github.com/yichengchen/clashX)
 
 #### iOS
 

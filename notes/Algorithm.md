@@ -66,6 +66,7 @@
 - [kolodny/exercises: Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 - [SICP 解题集 — SICP 解题集](http://sicp.readthedocs.io/en/latest/)
 - [Algorithms to Go - yourbasic.org](https://yourbasic.org/)
+- [dreddsa5dies/algorithm: The repository algorithms implemented on the Go](https://github.com/dreddsa5dies/algorithm)
 
 #### Leetcode
 

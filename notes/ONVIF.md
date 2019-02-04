@@ -7,8 +7,8 @@
 ## Specification
 
 - [jimxl/onvif-core-specification-cn: onvif核心规范中文翻译](https://github.com/jimxl/onvif-core-specification-cn)
-- [https://www.onvif.org/specs/core/ONVIF-Core-Specification-v210.pdf](https://www.onvif.org/specs/core/ONVIF-Core-Specification-v210.pdf)
-- [https://www.onvif.org/wp-content/uploads/2016/12/ONVIF_WG-APG-Application_Programmers_Guide-1.pdf](https://www.onvif.org/wp-content/uploads/2016/12/ONVIF_WG-APG-Application_Programmers_Guide-1.pdf)
+- [ONVIF Core Specification 2.1.pdf](https://www.onvif.org/specs/core/ONVIF-Core-Specification-v210.pdf)
+- [ONVIF Application Programmer's Guide 1.0.pdf](https://www.onvif.org/wp-content/uploads/2016/12/ONVIF_WG-APG-Application_Programmers_Guide-1.pdf)
 
 ## Libraries
 

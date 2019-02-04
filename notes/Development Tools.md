@@ -14,6 +14,7 @@
 - [Brackets - A modern, open source code editor that understands web design.](http://brackets.io/)
 - Sublime Text
 - VS Code
+- [viatsko/awesome-vscode: 🎨 A curated list of delightful VS Code packages and resources.](https://github.com/viatsko/awesome-vscode)
 
 ### Color Schemes
 
@@ -23,6 +24,7 @@
 
 ### Fonts
 
+- [Programming Fonts - Test Drive](http://app.programmingfonts.org/)
 - [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 
 ## Documentation
@@ -42,6 +44,10 @@
 
 - [Surge: Static web publishing for Front-End Developers](https://surge.sh/)
 - [Netlify: All-in-one platform for automating modern web projects.](https://www.netlify.com/)
+
+### Business
+
+- [odoo/odoo: Odoo. Open Source Apps To Grow Your Business.](https://github.com/odoo/odoo)
 
 ## Other Tools
 
@@ -73,11 +79,13 @@
 - [那些有趣/用的 Python 库 - 技术分享 - SegmentFault](https://segmentfault.com/a/1190000010103386)
 - [Apache Tika – Apache Tika](https://tika.apache.org/)
 - [sharkdp/fd: A simple, fast and user-friendly alternative to find.](https://github.com/sharkdp/fd)
+- [jeffkaufman/icdiff: improved colored diff](https://github.com/jeffkaufman/icdiff)
 - [so-fancy/diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs.](https://github.com/so-fancy/diff-so-fancy)
 - [upx/upx: UPX - the Ultimate Packer for eXecutables](https://github.com/upx/upx)
 - [cjbarber/ToolsOfTheTrade: Tools of The Trade, from Hacker News.](https://github.com/cjbarber/ToolsOfTheTrade)
 - [etsy/hound: Lightning fast code searching made easy](https://github.com/etsy/hound)
 - [Sourcegraph](https://sourcegraph.com/)
+- [DIYgod/RSSHub: 🍰 万物皆可 RSS](https://github.com/DIYgod/RSSHub)
 
 ## Resources
 

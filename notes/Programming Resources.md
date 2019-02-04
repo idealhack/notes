@@ -30,6 +30,11 @@
 
 - [hellerve/programming-talks: Awesome & Interesting Talks concerning Programming](https://github.com/hellerve/programming-talks)
 
+## Cheatsheets
+
+- [wxyyxc1992/Awesome-CheatSheet: Overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. 语法速览, 实践备忘，从零到一，上手即用](https://github.com/wxyyxc1992/Awesome-CheatSheet)
+- [Devhints — TL;DR for developer documentation](https://devhints.io/)
+
 ## Resources
 
 - [sindresorhus/awesome: Curated list of awesome lists](https://awesome.re)
@@ -37,8 +42,6 @@
 - [hardikvasa/awesome-programming: A curated list of awesome programming talks, articles, books, resources and more!!](https://github.com/hardikvasa/awesome-programming)
 - [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [KeKe-Li/Best-websites-a-programmer-should-visit-zh: 程序员应该访问的最佳网站中文版](https://github.com/KeKe-Li/Best-websites-a-programmer-should-visit-zh)
-- [wxyyxc1992/Awesome-CheatSheet: Overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. 语法速览, 实践备忘，从零到一，上手即用](https://github.com/wxyyxc1992/Awesome-CheatSheet)
-- [Devhints — TL;DR for developer documentation](https://devhints.io/)
 - [leachim6/hello-world: Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!](https://github.com/leachim6/hello-world)
 - [mtdvio/every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/mtdvio/every-programmer-should-know)
 - [stanzhai/be-a-professional-programmer: 成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/stanzhai/be-a-professional-programmer)
@@ -46,12 +49,14 @@
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)
 - [Linux Manpages Online - man.cx manual pages](https://man.cx/)
 - [DevDocs API Documentation](http://devdocs.io/)
+- [egoist/devdocs-desktop: 🗂 A full-featured desktop app for DevDocs.io.](https://github.com/egoist/devdocs-desktop)
 - [PharkMillups/beautiful-docs: Pointers to useful, well-written, and otherwise beautiful documentation.](https://github.com/PharkMillups/beautiful-docs)
 - [TechStacks](http://techstacks.io/)
 - [Software and technology stacks used by top companies | StackShare](https://stackshare.io/)
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+- [danistefanovic/build-your-own-x: 🤓 Build your own (insert technology here)](https://github.com/danistefanovic/build-your-own-x)
 - [Playbook for software design and development - By thoughtbot](https://thoughtbot.com/playbook)
 - [zenany/weekly: 汇总平时看到的好文章，技术、产品、管理均有，尽量保证一周汇总一篇](https://github.com/zenany/weekly)
 - [Programming Languages - Hyperpolyglot](http://hyperpolyglot.org/)

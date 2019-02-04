@@ -24,7 +24,6 @@
 - [Jahaja/psdash: A linux system information web dashboard using psutils and flask](https://github.com/Jahaja/psdash)
 - [Log.io - Real-time log monitoring in your browser](http://logio.org/)
 - [sourcegraph/checkup: Distributed, lock-free, self-hosted health checks and status pages](https://github.com/sourcegraph/checkup)
-- [XiaoMi/open-falcon: 互联网企业级监控系统](https://github.com/XiaoMi/open-falcon)
 - [Snap A powerful open telemetry framework](http://snap-telemetry.io/)
 
 ### Agent
@@ -42,7 +41,6 @@
 ### Others
 
 - [allinurl/goaccess: GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.](https://github.com/allinurl/goaccess)
-- [jamesrwhite/minicron: 👨🏻‍💻 Monitor your cron jobs](https://github.com/jamesrwhite/minicron)
 - [facebook/osquery: SQL powered operating system instrumentation, monitoring, and analytics.](https://github.com/facebook/osquery)
 
 ## SaaS

@@ -84,9 +84,14 @@ Android:
     # `ps` output sorted by memory (RAM), from high to low
     ps aux --sort -rss
 
+### Cron job
+
+- [Cron - Wikipedia](https://en.wikipedia.org/wiki/Cron)
+- [crontab.guru - the cron schedule expression editor](https://crontab.guru/)
+
 ## Resources
 
-- [https://i.linuxtoy.org/files/pdf/fwunixref.pdf](https://i.linuxtoy.org/files/pdf/fwunixref.pdf)
+- [Unix/Linux 命令参考.pdf](https://i.linuxtoy.org/files/pdf/fwunixref.pdf)
 - [10 Useful Commands to Collect System and Hardware Information in Linux](https://www.tecmint.com/commands-to-collect-system-and-hardware-information-in-linux/)
 - [Linux Command To Find the System Configuration And Hardware Information – nixCraft](https://www.cyberciti.biz/faq/linux-command-to-find-the-system-configuration-and-hardware-information/)
 - [16 commands to check hardware information on Linux](http://www.binarytides.com/linux-commands-hardware-info/)

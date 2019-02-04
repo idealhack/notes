@@ -48,6 +48,7 @@
 
 - [Kubernetes at GitHub | GitHub Engineering](https://githubengineering.com/kubernetes-at-github/)
 - [Scaling Kubernetes to 2,500 Nodes](https://blog.openai.com/scaling-kubernetes-to-2500-nodes/)
+- [hjacobs/kubernetes-failure-stories: Compilation of public failure/horror stories related to Kubernetes](https://github.com/hjacobs/kubernetes-failure-stories)
 
 ## Others
 
