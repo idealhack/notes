@@ -2,7 +2,7 @@
 
 ## Overview
 
-- [政治 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB)
+- [政治 - 维基百科](https://zh.wikipedia.org/wiki/%E6%94%BF%E6%B2%BB)
 
 ## Resources
 

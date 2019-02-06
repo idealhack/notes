@@ -164,7 +164,7 @@ _Polite form: Could/Would you please…_
 
 ## Tests
 
-- [IELTS Home of the IELTS English Language Test](https://www.ielts.org/)
+- [[IELTS]]
 - [Pearson Test of English | PTE Academic](https://pearsonpte.com/)
 
 ## Resources

@@ -9,6 +9,8 @@
 - [法国在您身边](https://cn.ambafrance.org/-%E4%B8%AD%E6%96%87-)
 - [赴法签证 - 法国在您身边](https://cn.ambafrance.org/-%E8%B5%B4%E6%B3%95%E7%AD%BE%E8%AF%81-2739-)
 - [欢迎访问法国签证中心](https://fr.tlscontact.com/cn/splash.php?l=zh_CN)
+- [申根签证信息 - Schengen VISA Information](https://www.schengenvisainfo.com/zh-hans/)
+- [Visa policy](https://ec.europa.eu/home-affairs/what-we-do/policies/borders-and-visas/visa-policy_en)
 
 ## Paris
 

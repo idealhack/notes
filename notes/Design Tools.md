@@ -4,6 +4,8 @@
 
 - [facebookarchive/origami: A Quartz Composer framework that enables interactive design prototyping without programming.](https://github.com/facebookarchive/origami)
 - [sketchplugins/plugin-directory: An official directory of Sketch Plugins](https://github.com/sketchplugins/plugin-directory)
+- [ColorSpace - Color Palettes Generator and Color Gradient Tool](https://mycolor.space/)
+- [Pixel Map Generator | amCharts](http://pixelmap.amcharts.com/)
 
 ### OmniGraffle
 

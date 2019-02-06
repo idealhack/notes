@@ -2,9 +2,10 @@
 
 ## Libraries
 
-### Command line
+### Terminal
 
 - [spf13/cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
+- [rivo/tview: Rich interactive widgets for terminal-based UIs written in Go](https://github.com/rivo/tview)
 
 ### Microservice
 
@@ -88,7 +89,6 @@
 - [gonet/2 by gonet2](http://gonet2.github.io/)
 - [go-vgo/robotgo: RobotGo, Go Native cross-platform system automation](https://github.com/go-vgo/robotgo)
 - [rakyll/statik: Embed files into a Go executable](https://github.com/rakyll/statik)
-- [rivo/tview: Rich interactive widgets for terminal-based UIs written in Go](https://github.com/rivo/tview)
 - [esimov/pigo: Golang implementation of Pico face detection library.](https://github.com/esimov/pigo)
 
 ## Resources

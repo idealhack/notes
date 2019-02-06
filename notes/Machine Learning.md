@@ -32,6 +32,7 @@
 - [RedditSota/state-of-the-art-result-for-machine-learning-problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 - [KeKe-Li/tutorial: Algorithms Tutorial](https://github.com/KeKe-Li/tutorial)
 - [jacobeisenstein/gt-nlp-class: Course materials for Georgia Tech CS 4650 and 7650, "Natural Language"](https://github.com/jacobeisenstein/gt-nlp-class)
+- [Teaching - CS 229](https://stanford.edu/~shervine/teaching/cs-229/)
 
 ### Courses
 

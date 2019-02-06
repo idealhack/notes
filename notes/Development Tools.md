@@ -61,7 +61,6 @@
 - [Amethyst | ianyh](https://ianyh.com/amethyst/)
 - [BYVoid/OpenCC: A project for conversion between Traditional and Simplified Chinese](https://github.com/BYVoid/OpenCC)
 - [dgorissen/coursera-dl: A script for downloading course material (video's, pdfs, quizzes, etc) from coursera.org](https://github.com/dgorissen/coursera-dl)
-- [tldr-pages/tldr: Simplified and community-driven man pages](https://github.com/tldr-pages/tldr)
 - [gleitz/howdoi: instant coding answers via the command line](https://github.com/gleitz/howdoi)
 - [btford/write-good: Naive linter for English prose](https://github.com/btford/write-good)
 - [stedolan/jq: Command-line JSON processor](https://github.com/stedolan/jq)

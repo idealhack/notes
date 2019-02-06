@@ -26,5 +26,6 @@
 - [thockin/go-build-template: A Makefile/Dockerfile example for Go projects.](https://github.com/thockin/go-build-template)
 - [bradleyjkemp/memviz: Visualize your data structures using graphviz](https://github.com/bradleyjkemp/memviz)
 - [TrueFurby/go-callvis: Visualize call graph of your Go program using dot format.](https://github.com/TrueFurby/go-callvis)
+- [google/gops: A tool to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
 
 ## [[Go Resources]]

@@ -34,6 +34,8 @@
 
 - [wxyyxc1992/Awesome-CheatSheet: Overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. 语法速览, 实践备忘，从零到一，上手即用](https://github.com/wxyyxc1992/Awesome-CheatSheet)
 - [Devhints — TL;DR for developer documentation](https://devhints.io/)
+- [tldr-pages/tldr: Simplified and community-driven man pages](https://github.com/tldr-pages/tldr)
+- [chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh)
 
 ## Resources
 
