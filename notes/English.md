@@ -165,6 +165,7 @@ _Polite form: Could/Would you please…_
 ## Tests
 
 - [[IELTS]]
+- [CELPIP](https://www.celpip.ca/)
 - [Pearson Test of English | PTE Academic](https://pearsonpte.com/)
 
 ## Resources

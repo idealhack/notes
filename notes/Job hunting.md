@@ -12,6 +12,7 @@
 ## Positions
 
 - [Jobs | LinkedIn](https://www.linkedin.com/jobs/)
+- [Indeed](https://www.indeed.com/)
 - [Glassdoor Job Search | Find the job that fits your life](https://www.glassdoor.com/index.htm)
 - [AngelList - Where the world meets startups](https://angel.co/)
 - [HN Hiring](http://hnhiring.me/)

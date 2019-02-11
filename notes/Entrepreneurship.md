@@ -28,13 +28,17 @@
 
 - [1980 年代至今苹果发布会、广告和演讲视频大全](http://dheval.eieidoh.net:8880/DataHoarder/AppleArchive/)
 
-## Books
+## Resources
+
+- [domenicosolazzo/awesome-okr: A curated list about OKR (Objective - Key Results)](https://github.com/domenicosolazzo/awesome-okr)
+
+### Books
 
 - [Getting Real](http://gettingreal.37signals.com/GR_chn.php)
 - [REWORK](https://www.v2ex.com/rework)
 - [Remote](http://www.jianshu.com/nb/41672)
 
-## Articles
+### Articles
 
 - [如何才能去做喜欢的事情](http://www.wanglianghome.org/zh_CN/translation/HowToDoWhatYouLove.html)
 - [创意自然来](http://5long.tumblr.com/post/525654905/organic-idea)

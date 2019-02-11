@@ -5,7 +5,6 @@
 ### Ubuntu
 
     FROM ubuntu
-    LABEL maintainer idealhack@gmail.com
     RUN sed -i 's/http:\/\/archive\.ubuntu\.com\/ubuntu\//http:\/\/mirrors\.163\.com\/ubuntu\//g' /etc/apt/sources.list && \
         apt-get update && apt-get install -y --no-install-recommends \
             tzdata \
@@ -18,7 +17,6 @@
 ### Nginx
 
     FROM nginx
-    LABEL maintainer idealhack@gmail.com
     RUN sed -i 's/deb\.debian\.org/mirrors\.163\.com/g' /etc/apt/sources.list && \
         apt-get update && apt-get install -y --no-install-recommends \
             tzdata \
