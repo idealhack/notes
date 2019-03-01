@@ -19,12 +19,12 @@
 - [Kubernetes on Amazon Web Services · kubernetes/community](https://github.com/kubernetes/community/blob/master/sig-aws/kubernetes-on-aws.md)
 - [kubernetes-incubator/kube-aws: A command-line tool to declaratively manage Kubernetes clusters on AWS](https://github.com/kubernetes-incubator/kube-aws)
 
-## Backup
+## Manage
 
-- [mhausenblas/reshifter: Kubernetes cluster state management](https://github.com/mhausenblas/reshifter)
-- [heptio/ark: Heptio Ark is a utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes. Brought to you by Heptio.](https://github.com/heptio/ark)
-- [Migration of Kubernetes cluster deployment state – Nilesh Suryavanshi – Medium](https://medium.com/@nnilesh7756/migration-of-kubernetes-cluster-deployment-state-55bfb945cffd)
+- [heptio/sonobuoy: Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.](https://github.com/heptio/sonobuoy)
+- [heptio/velero: Backup and migrate Kubernetes applications and their persistent volumes](https://github.com/heptio/velero)
 
 ## Operations
 
 - [ahmetb/kubectx: Fast way to switch between clusters and namespaces in kubectl!](https://github.com/ahmetb/kubectx)
+- [zlabjp/kubernetes-scripts: Useful scripts for operating Kubernetes](https://github.com/zlabjp/kubernetes-scripts)

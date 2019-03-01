@@ -51,6 +51,7 @@
 - [jaegertracing/jaeger: CNCF Jaeger, a Distributed Tracing System](https://github.com/jaegertracing/jaeger)
 - [OpenTracing 详解 - Aspire's Loft](https://pjw.io/articles/2018/05/08/opentracing-explanations/)
 - [Jaeger 教程 - Aspire's Loft](https://pjw.io/articles/2018/05/18/jaeger-tutorial/)
+- [OpenCensus](https://opencensus.io/)
 
 ## Resources
 

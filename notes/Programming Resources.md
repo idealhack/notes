@@ -36,6 +36,7 @@
 - [Devhints — TL;DR for developer documentation](https://devhints.io/)
 - [tldr-pages/tldr: Simplified and community-driven man pages](https://github.com/tldr-pages/tldr)
 - [chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh)
+- [Cheatography: Cheat Sheets For Every Occasion](https://www.cheatography.com/)
 
 ## Resources
 

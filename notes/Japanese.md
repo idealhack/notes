@@ -46,3 +46,4 @@ a  i  u e o
 
 - [日語.io](https://riyu.io/)
 - [最最日语 - 学习日语有乐趣](http://www.xuewujing.com/)
+- [yudataguy/Awesome-Japanese: Awesome Japanese learning resource](https://github.com/yudataguy/Awesome-Japanese)

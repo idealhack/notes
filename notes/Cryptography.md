@@ -20,3 +20,4 @@
 ## Resources
 
 - [Crypto 101](https://www.crypto101.io/)
+- [sobolevn/awesome-cryptography: A curated list of cryptography resources and links.](https://github.com/sobolevn/awesome-cryptography)
