@@ -27,3 +27,4 @@
 - [How To Read Mathematics 如何阅读数学](http://marchliu.github.io/translation/2013/02/08/how-to-read-mathematics/)
 - [Brilliant | Math and science done right](https://brilliant.org/)
 - [Jam3/math-as-code](https://github.com/Jam3/math-as-code/blob/master/README-zh.md)
+- [3Blue1Brown](https://www.3blue1brown.com/)

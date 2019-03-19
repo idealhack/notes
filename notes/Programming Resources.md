@@ -16,6 +16,7 @@
 - [QSCTech/zju-icicles: 浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)
 - [Urinx/Books: 无它术，唯勤读书而多为之，自工](https://github.com/Urinx/Books)
 - [KeKe-Li/book: All programming languages books](https://github.com/KeKe-Li/book)
+- [learn-anything/books: Awesome Books](https://github.com/learn-anything/books)
 
 ## Websites
 
