@@ -16,6 +16,11 @@
 - [Kong/kubernetes-ingress-controller: Use Kong for Kubernetes Ingress](https://github.com/Kong/kubernetes-ingress-controller)
 - [containous/traefik: The Cloud Native Edge Router](https://github.com/containous/traefik)
 - [Istio / Control Ingress Traffic](https://istio.io/docs/tasks/traffic-management/ingress/)
+- [datawire/ambassador: open source Kubernetes-native API gateway for microservices built on the Envoy Proxy](https://github.com/datawire/ambassador)
+- [solo-io/gloo: An Envoy-Powered API Gateway](https://github.com/solo-io/gloo)
+- [zalando/skipper: An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress](https://github.com/zalando/skipper/)
+- [zalando-incubator/kube-ingress-aws-controller: Configures AWS Application Load Balancers according to Kubernetes Ingress resources](https://github.com/zalando-incubator/kube-ingress-aws-controller)
+- [appscode/voyager: 🚀 Secure HAProxy Ingress Controller for Kubernetes](https://github.com/appscode/voyager/)
 
 ### Resources
 

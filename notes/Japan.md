@@ -28,3 +28,15 @@
 - [跟着junjun去旅行之关西风情（三）大阪买买买](https://mp.weixin.qq.com/s/yyNSMoKcU5MRmzNpXcWK7g)
 - [一个IT女搬砖工的日本自由行完全指南 篇四：关西行程(京阪神奈): 0日语基础,0经验入门,交通,周边详细攻略_生活记录_什么值得买](https://post.smzdm.com/p/512453/)
 - [大阪静冈7天6夜自由行 | 从上海出发的大阪自由行行程规划&游记体验_什么值得买](https://post.smzdm.com/p/517480/)
+
+### Life
+
+- [东京都](http://www.metro.tokyo.jp/chinese/index.html)
+- [Real Estate Japan︱专为外国人设计的日本房地产网站| 日本租房日本买房日本房屋 - Real Estate Japan](https://realestate.co.jp/zh_CN/)
+- [【SUUMO】不動産売買・住宅購入・賃貸情報ならリクルートの不動産ポータルサイト](https://suumo.jp/)
+- [【LIFULL HOME'S】不動産売買・賃貸・住宅情報サイト](https://www.homes.co.jp/)
+- [不動産のことなら【アットホーム】物件探しから住宅情報まで！](https://www.athome.co.jp/)
+
+### Tools
+
+- [Japan Tax Calculator](https://japantaxcalculator.com/)

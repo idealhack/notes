@@ -3,6 +3,7 @@
 ## Operators
 
 - [operator-framework/awesome-operators: A resource tracking a number of Operators out in the wild.](https://github.com/operator-framework/awesome-operators)
+- [OperatorHub.io | The registry for Kubernetes Operators](https://operatorhub.io/)
 
 ## Tools
 

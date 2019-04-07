@@ -6,9 +6,49 @@
 
 ## 五十音
 
-a  i  u e o
-あ い う え お
-ア イ ウ エ オ
+    a   i   u   e   o
+    あ   い   う   え   お
+    ア   イ   ウ   エ   オ
+
+    ka  ki  ku  ke  ko
+    か   き   く   け   こ
+    カ   キ   ク   ケ   コ
+
+    sa  shi su  se  so
+    さ   し   す   せ   そ
+    サ   シ   ス   セ   ソ
+
+    ta  chi tsu te  to
+    た   ち   つ   て   と
+    タ   チ   ツ   テ   ト
+
+    na  ni  nu  ne  no
+    な   に   ぬ   ね   の
+    ナ   ニ   ヌ   ネ   ノ
+
+    ha  hi  fu  he  ho
+    は   ひ   ふ   へ   ほ
+    ハ   ヒ   フ   ヘ   ホ
+
+    ma  mi  mu  me  mo
+    ま   み   む   め   も
+    マ   ミ   ム   メ   モ
+
+    ya      yu      yo
+    や       ゆ       よ
+    ヤ       ユ       ヨ
+
+    ra  ri  ru  re  ro
+    ら   り   る   れ   ろ
+    ラ   リ   ル   レ   ロ
+
+    wa              wo
+    わ               を
+    ワ           ヲ
+
+    n
+    ん
+    ン
 
 ##  语法
 
