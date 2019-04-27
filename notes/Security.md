@@ -4,6 +4,8 @@
 
 ## [[Linux Security]]
 
+## [[Network Security]]
+
 ## [[Reverse Engineering]]
 
 ## Tools
@@ -17,10 +19,6 @@
 - [Metasploit](https://www.metasploit.com/)
 - [sqlmapproject/sqlmap: Automatic SQL injection and database takeover tool](https://github.com/sqlmapproject/sqlmap)
 - [攻击LNMP架构Web应用的几个小Tricks | 离别歌](https://www.leavesongs.com/PENETRATION/some-tricks-of-attacking-lnmp-web-application.html)
-
-### Wi-Fi
-
-- [brannondorsey/wifi-cracking: Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat 🖧](https://github.com/brannondorsey/wifi-cracking)
 
 ### Social engineering
 
@@ -39,8 +37,8 @@
 ## Resources
 
 - [devsecops/awesome-devsecops: An authoritative list of awesome devsecops tools with the help from community experiments and contributions.](https://github.com/devsecops/awesome-devsecops)
+- [yeyintminthuhtut/Awesome-Red-Teaming: List of Awesome Red Teaming Resources](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 - [hanc00l/wooyun_public: 乌云公开漏洞、知识库爬虫和搜索   crawl and search for wooyun.org public bug(vulnerability) and drops](https://github.com/hanc00l/wooyun_public)
-- [安全专业人士最爱的19个GitHub开源项目  - SDK.CN - 中国领先的开发者服务平台](https://www.sdk.cn/news/3197)
 - [John-Lin/wallofsheep: Wall of Sheep](https://github.com/John-Lin/wallofsheep)
 - [安全技能树简版](http://evilcos.me/security_skill_tree_basic/)
 - [SecWiki/sec-chart: 安全思维导图集合](https://github.com/SecWiki/sec-chart)

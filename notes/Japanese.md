@@ -4,7 +4,7 @@
 
 - [日语 - 维基百科](https://zh.wikipedia.org/wiki/%E6%97%A5%E8%AF%AD)
 
-## 五十音
+## Gojūon
 
     a   i   u   e   o
     あ   い   う   え   お
@@ -44,11 +44,16 @@
 
     wa              wo
     わ               を
-    ワ           ヲ
+    ワ               ヲ
 
     n
     ん
     ン
+
+## Frequent sentences
+
+- 1, 2, 3, 4    いち、に、さん、よん
+- hello こんにちは
 
 ##  语法
 

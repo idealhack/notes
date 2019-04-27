@@ -3,6 +3,7 @@
 ## Resources
 
 - [Kubernetes Security | Operating Kubernetes Clusters and Applications Safely](https://kubernetes-security.info/)
+- [freach/kubernetes-security-best-practice: Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
 
 ### Auditing
 

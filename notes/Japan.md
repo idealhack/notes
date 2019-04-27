@@ -31,11 +31,20 @@
 
 ### Life
 
+- [入國管理局](http://www.immi-moj.go.jp/chinese/index.html)
 - [东京都](http://www.metro.tokyo.jp/chinese/index.html)
 - [Real Estate Japan︱专为外国人设计的日本房地产网站| 日本租房日本买房日本房屋 - Real Estate Japan](https://realestate.co.jp/zh_CN/)
 - [【SUUMO】不動産売買・住宅購入・賃貸情報ならリクルートの不動産ポータルサイト](https://suumo.jp/)
 - [【LIFULL HOME'S】不動産売買・賃貸・住宅情報サイト](https://www.homes.co.jp/)
 - [不動産のことなら【アットホーム】物件探しから住宅情報まで！](https://www.athome.co.jp/)
+- [中国語サイトのご案内｜賃貸のレオパレス21｜賃貸アパートやマンスリーマンション、一人暮らしの物件情報](https://www.leopalace21.com/cn/)
+- [Best-Estate(ベストエステート)｜在日外国人专用的不动产网站](https://www.best-estate.jp/cn/)
+- [GTN MOBILE](https://gtn-mobile.com/zh-CHS/)
+
+### Transit
+
+- [JR東日本：東日本旅客鉄道株式会社](https://www.jreast.co.jp/)
+- [乗換案内、時刻表、運行情報 - Yahoo!路線情報](https://transit.yahoo.co.jp/)
 
 ### Tools
 

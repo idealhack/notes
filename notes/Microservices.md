@@ -11,6 +11,7 @@
 ## Resources
 
 - [Microservices](https://martinfowler.com/articles/microservices.html)
+- [Open Microservice Guide](https://microservice.guide/)
 - [An introduction to microservices | Opensource.com](https://opensource.com/resources/what-are-microservices)
 - [The Hardest Part of Microservices: Calling Your Services – Software Blog](http://blog.christianposta.com/microservices/the-hardest-part-of-microservices-calling-your-services/)
 - [51CTO博客-原创IT文章分享平台](http://12572290.blog.51cto.com/12562290/1948156)

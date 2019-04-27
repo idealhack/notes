@@ -57,14 +57,7 @@
 - [虚拟局域网 - 维基百科](https://zh.wikipedia.org/wiki/%E8%99%9A%E6%8B%9F%E5%B1%80%E5%9F%9F%E7%BD%91)
 - [虛擬局域網擴展 - 维基百科](https://zh.wikipedia.org/wiki/%E8%99%9B%E6%93%AC%E5%B1%80%E5%9F%9F%E7%B6%B2%E6%93%B4%E5%B1%95)
 
-## Task
-
-    arp-scan -I <interface> -l | grep <ip> | sort -V | less
-
-## Tools
-
-- [ZeroTier](https://www.zerotier.com/)
-- [TeamViewer](https://www.teamviewer.com/)
+## [[Network Tools]]
 
 ## Resources
 
