@@ -17,4 +17,4 @@
 
 ## Resources
 
-- [大型网站架构系列：负载均衡详解](http://mp.weixin.qq.com/s?__biz=MzAxNzMwOTQ0NA%3D%3D&mid=2653354620&idx=4&sn=8e6e02a94f614c18449244375b028418)
+- [大型网站架构系列：负载均衡详解](https://mp.weixin.qq.com/s?__biz=MzAxNzMwOTQ0NA%3D%3D&mid=2653354620&idx=4&sn=8e6e02a94f614c18449244375b028418)

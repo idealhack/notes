@@ -6,7 +6,7 @@
 
 - Written in [Markdown](https://daringfireball.net/projects/markdown/)
 - Distributed and linked by files
-- Powered by [nvALT](http://brettterpstra.com/projects/nvalt/), [Simplenote](https://simplenote.com/), [Git](https://git-scm.com/) and [nvt](https://github.com/idealhack/nvt)
+- Powered by [nvALT](https://brettterpstra.com/projects/nvalt/), [Simplenote](https://simplenote.com/), [Git](https://git-scm.com/) and [nvt](https://github.com/idealhack/nvt)
 
 ## License
 

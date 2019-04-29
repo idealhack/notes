@@ -48,6 +48,6 @@
 - [21分钟MySQL基础入门 - 埋名 - SegmentFault](https://segmentfault.com/a/1190000006876419)
 - [将MySQL数据文件和临时文件移动到SSD以加速数据库访问](http://www.xbitworld.com/?p=919)
 - [php - 一次插入几万条数据应该怎么做优化 - SegmentFault](https://segmentfault.com/q/1010000010173985)
-- [我必须得告诉大家的MySQL优化原理 - 简书](http://www.jianshu.com/p/d7665192aaaf)
+- [我必须得告诉大家的MySQL优化原理 - 简书](https://www.jianshu.com/p/d7665192aaaf)
 - [项目中常用的19条MySQL优化 - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000012155267)
 - [纲举目张：打通MySQL架构和业务的任督二脉](https://mp.weixin.qq.com/s/wS6bRSAPplhK6tRO3pb5xg)

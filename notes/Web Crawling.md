@@ -12,7 +12,7 @@
 
 - [scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.](https://github.com/scrapy/scrapy)
 - [scrapinghub/portia: Visual scraping for Scrapy](https://github.com/scrapinghub/portia)
-- [xiyouMc/WebHubBot: Python + Scrapy + MongoDB . 5 million data per day !!!💥  The world's largest website.](https://github.com/xiyouMc/PornHubBot)
+- [xiyouMc/WebHubBot: Python + Scrapy + MongoDB](https://github.com/xiyouMc/WebHubBot)
 
 ### Others
 

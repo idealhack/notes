@@ -47,6 +47,6 @@
 
 ## Resources
 
-- [解读2016之深度学习篇：开源深度学习框架发展展望](http://www.infoq.com/cn/articles/interpretation-of-2016-deeplearning)
+- [解读2016之深度学习篇：开源深度学习框架发展展望](https://www.infoq.cn/articles/interpretation-of-2016-deeplearning)
 - [TensorFlow和Caffe、MXNet、Keras等其他深度学习框架的对比 | 雷锋网](http://www.leiphone.com/news/201702/T5e31Y2ZpeG1ZtaN.html)
 - [顶级的深度学习框架比较：Deeplearning4j、Torch、Theano、TensorFlow、Caffe、Caffe2、Paddle、MxNet、Keras 和 CNTK - Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/cn/compare-dl4j-torch7-pylearn)

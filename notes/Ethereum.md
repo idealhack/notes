@@ -30,7 +30,7 @@
 
 ## Resources
 
-- [awesome-blockchain/Ethereum at master · chaozh/awesome-blockchain](https://github.com/chaozh/awesome-blockchain/tree/master/Ethereum)
+- [awesome-blockchain/Ethereum at master · chaozh/awesome-blockchain](https://github.com/chaozh/awesome-blockchain-cn/tree/master/Ethereum)
 - [EthFans | 以太坊爱好者](http://ethfans.org/)
 - [如何妥善备份你的以太坊钱包？](https://mp.weixin.qq.com/s/3_gX40c_736VpWLeVYjw-A)
 - [以太坊开发入门 - 区块链技术博客](http://me.tryblockchain.org/getting-up-to-speed-on-ethereum.html)

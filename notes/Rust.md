@@ -2,10 +2,12 @@
 
 ## Overview
 
-- [Rust 程序设计语言](https://www.rust-lang.org/zh-CN/)
+- [Rust programming language](https://www.rust-lang.org/)
+- [Rust 中文](https://rustlang-cn.org/)
 - [Rust - 维基百科](https://zh.wikipedia.org/wiki/Rust)
 
 ## Books
 
-- [Rust 程序设计语言（第二版）](https://kaisery.gitbooks.io/trpl-zh-cn/)
+- [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [Rust 编程语言 | Rust 中文](https://rustlang-cn.org/office/rust/book/)
 - [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/)

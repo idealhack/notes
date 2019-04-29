@@ -18,7 +18,7 @@
 ## Resources
 
 - [DevOps tools](https://github.com/showcases/devops-tools)
-- [微信朋友圈技术之道：三个人的后台团队与每日十亿的发布量 - 掘金](http://gold.xitu.io/entry/566ea1cb60b215d68bdc2ac0)
+- [微信朋友圈技术之道：三个人的后台团队与每日十亿的发布量 - 掘金](https://juejin.im/entry/566ea1cb60b215d68bdc2ac0)
 - [如何部署软件 - 让你团队的部署像地狱一样无聊且毫无压力 - Coding 博客](https://blog.coding.net/blog/deploying-software)
 - [云运维的启示与架构设计](http://lock522.b0.upaiyun.com/shy.pdf)
 - [OpsWorld金牌讲师，又拍云运维总监邵海杨专访_运维帮_传送门](http://chuansong.me/n/1087943151059)

@@ -19,10 +19,10 @@
 
 ## Resources
 
-- [Go RPC开发简介 · Go RPC 开发指南](https://smallnest.gitbooks.io/go-rpc/)
+- [Go RPC开发简介 · Go RPC 开发指南](https://smallnest.gitbooks.io/go-rpc-programming-guide/content/)
 - [gRPC学习笔记](https://skyao.gitbooks.io/learning-grpc/)
-- [gRPC 碎碎念 · 阿毛的蛋疼地](http://xiangwangfeng.com/2017/01/09/gRPC-%E7%A2%8E%E7%A2%8E%E5%BF%B5/)
-- [深入了解 gRPC：协议 - 简书](http://www.jianshu.com/p/48ad37e8b4ed)
+- [gRPC 碎碎念 · 阿毛的蛋疼地](https://xiangwangfeng.com/2017/01/09/gRPC-%E7%A2%8E%E7%A2%8E%E5%BF%B5/)
+- [深入了解 gRPC：协议 - 简书](https://www.jianshu.com/p/48ad37e8b4ed)
 - [Tag: gRPC | 鸟窝](http://colobu.com/tags/gRPC/)
 - [Enabling Googley microservices with HTTP/2 and gRPC.](https://www.slideshare.net/borisovalex/enabling-googley-microservices-with-http2-and-grpc)
 - [gRPC | Jacks Blog](https://blog.dreamtobe.cn/grpc/)

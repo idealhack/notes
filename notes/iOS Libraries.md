@@ -26,7 +26,7 @@
 - [Cocoanetics/DTCoreText: Methods to allow using HTML code with CoreText](https://github.com/Cocoanetics/DTCoreText)
 - [RestKit/RestKit: RestKit is a framework for consuming and modeling RESTful web resources on iOS and OS X](https://github.com/RestKit/RestKit)
 - [futuretap/InAppSettingsKit: This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.](https://github.com/futuretap/InAppSettingsKit)
-- [rs/SDWebImage: Asynchronous image downloader with cache support as a UIImageView category](https://github.com/rs/SDWebImage)
+- [SDWebImage/SDWebImage: Asynchronous image downloader with cache support as a UIImageView category](https://github.com/SDWebImage/SDWebImage)
 - [jdg/MBProgressHUD: MBProgressHUD + Customizations](https://github.com/jdg/MBProgressHUD)
 
 ### Network

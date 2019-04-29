@@ -16,7 +16,6 @@
 - [Code Guide by @mdo](http://codeguide.co/)
 - [编码规范 by @mdo](http://zoomzhao.github.io/code-guide/)
 - [编码规范 by @mdo](http://codeguide.bootcss.com/)
-- [程式碼準則 by @mdo](http://juanitofatas.github.io/code-guide/)
 
 ## Libraries
 

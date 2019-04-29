@@ -56,8 +56,8 @@
 
 - [DataStax Academy](https://academy.datastax.com/)
 - [Cassandra选型介绍 at master · shahuwang/blogposts](https://github.com/shahuwang/blogposts/blob/master/Cassandra%E9%80%89%E5%9E%8B%E4%BB%8B%E7%BB%8D.md)
-- [Cassandra数据模型设计最佳实践（上部）](http://www.infoq.com/cn/articles/best-practice-of-cassandra-data-model-design)
-- [Cassandra数据模型设计最佳实践（下部）](http://www.infoq.com/cn/articles/best-practices-cassandra-data-model-design-part2)
+- [Cassandra数据模型设计最佳实践（上部）](https://www.infoq.cn/articles/best-practice-of-cassandra-data-model-design)
+- [Cassandra数据模型设计最佳实践（下部）](https://www.infoq.cn/articles/best-practices-cassandra-data-model-design-part2)
 - [Cassandra – 理解关键概念和数据模型 | Silent River](http://www.justinablog.com/archives/882)
 - [Cassandra – 数据结构设计概念和原则 | Silent River](http://www.justinablog.com/archives/902)
 - [Cassandra - FlyML](https://www.flyml.net/category/big-data/cassandra/)

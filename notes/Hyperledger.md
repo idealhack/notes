@@ -19,4 +19,4 @@
 
 ### Resources
 
-- [awesome-blockchain/Hyperledger Fabric at master · chaozh/awesome-blockchain](https://github.com/chaozh/awesome-blockchain/tree/master/Hyperledger%20Fabric)
+- [awesome-blockchain/Hyperledger Fabric at master · chaozh/awesome-blockchain](https://github.com/chaozh/awesome-blockchain-cn/tree/master/Hyperledger%20Fabric)

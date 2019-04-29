@@ -36,7 +36,7 @@
 
 - [Getting Real](http://gettingreal.37signals.com/GR_chn.php)
 - [REWORK](https://www.v2ex.com/rework)
-- [Remote](http://www.jianshu.com/nb/41672)
+- [Remote](https://www.jianshu.com/nb/41672)
 
 ### Articles
 

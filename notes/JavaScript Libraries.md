@@ -41,6 +41,7 @@ See also [[Markdown]] for JavaScript Markdown editors
 - [ccampbell/mousetrap: Simple library for handling keyboard shortcuts in Javascript](https://github.com/ccampbell/mousetrap)
 - [madrobby/keymaster: A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.](https://github.com/madrobby/keymaster)
 - [dmauro/Keypress: A keyboard input capturing utility in which any key can be a modifier key.](https://github.com/dmauro/Keypress)
+- [tuupola/lazyload: Vanilla JavaScript plugin for lazyloading images](https://github.com/tuupola/lazyload)
 
 ## DOM
 

@@ -18,16 +18,15 @@
 ### 闭包
 
 - [闭包 (计算机科学) - 维基百科](https://zh.wikipedia.org/wiki/%E9%97%AD%E5%8C%85_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6))
-- [理解 JavaScript 闭包 (引用于http://www.cn-cuckoo.com/2007/08/01/understand-javascript-closures-72.html) - huxin1的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/huxin1/article/details/3370381)
+- [理解 JavaScript 闭包 (引用于http://www.cn-cuckoo.com/2007/08/01/understand-javascript-closures-72.html) - huxin1的专栏 - 博客频道 - CSDN.NET](https://blog.csdn.net/huxin1/article/details/3370381)
 - [JavaScript闭包的详细解释 深入理解javascript闭包 - 绝对秋香 - ITeye技术网站](http://liqita.iteye.com/blog/1214325)
 
 ### JS 跨域
 
 - [跨域的理解与实现 -- 简明现代魔法](http://www.nowamagic.net/ajax/ajax_KonwHowToCrossDomain.php)
 - [js跨域问题小结_网页设计_酷勤网](http://www.kuqin.com/webpagedesign/20090422/47458.html)
-- [AJAX（XMLHttpRequest）进行跨域请求方法详解（一） - 【孟子E章】 - 博客频道 - CSDN.NET](http://blog.csdn.net/net_lover/article/details/5172509)
+- [AJAX（XMLHttpRequest）进行跨域请求方法详解（一） - 【孟子E章】 - 博客频道 - CSDN.NET](https://blog.csdn.net/net_lover/article/details/5172509)
 - [JavaScript跨域总结与解决办法 - Rain Man - 博客园](http://www.cnblogs.com/rainman/archive/2011/02/20/1959325.html)
-- [使用 window.name 解决跨域问题 _ PlanABC - 怿飞's Blog](http://www.planabc.net/2008/09/01/window_name_transport/)
 - [关于AJAX/javascript 跨域访问的解决办法及 CORS(Cross-Origin Resource Sharing) 简单介绍 - Web综合 - web - ITeye论坛](http://www.iteye.com/topic/600682)
 - [Cross-Origin Resource Sharing (CORS) AJAX Requests Between jQuery And Node.js](http://www.bennadel.com/blog/2327-cross-origin-resource-sharing-cors-ajax-requests-between-jquery-and-node-js.htm)
 - [Getting CORS Working](https://remysharp.com/2011/04/21/getting-cors-working)
@@ -48,7 +47,7 @@
 - [JSNinja-《Eloquent Javascript》读书笔记 - Mamboer - 博客园](http://www.cnblogs.com/mamboer/archive/2010/12/15/eloquent-javascript-notes.html)
 - [JSNinja-《Eloquent Javascript》读书笔记2-事件和HTTP Request - Mamboer - 博客园](http://www.cnblogs.com/mamboer/archive/2010/12/17/eloquent-javascript-notes-2.html)
 - [Patterns for DRY-er JavaScript - DZone Web Dev](https://dzone.com/articles/patterns-dry-er-javascript)
-- [设计更好的 JavaScript API - 掘金](http://gold.xitu.io/entry/5708de8a7db2a20051cfaf8d)
+- [设计更好的 JavaScript API - 掘金](https://juejin.im/entry/5708de8a7db2a20051cfaf8d)
 - [BEKK Open](http://open.bekk.no/a-views-responsibility)
 - [在JavaScript中，如何判断数组是数组？ - webFunc - SegmentFault](https://segmentfault.com/a/1190000006150186)
 - [类型系统-前端进化的里程碑 - 动感小前端的专栏 - SegmentFault](https://segmentfault.com/a/1190000006992287)

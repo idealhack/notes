@@ -7,7 +7,7 @@
 
 ## Servers
 
-- [High Performance Computing System - GIGABYTE B2B Service](http://b2b.gigabyte.com/High-Performance-Computing-System)
+- [High Performance Computing System - GIGABYTE B2B Service](https://www.gigabyte.com/High-Performance-Computing-System)
 
 ## Resources
 

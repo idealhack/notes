@@ -106,7 +106,7 @@
 
 ## Resources
 
-- [深入浅出Node.js（一）：什么是Node.js](http://www.infoq.com/cn/articles/what-is-nodejs)
+- [深入浅出Node.js（一）：什么是Node.js](https://www.infoq.cn/articles/what-is-nodejs)
 - [Felix's Node.js Guide](http://nodeguide.com/index.html)
 - [nprapps/app-template: The NPR visuals team's opinionated project template for client-side apps.](https://github.com/nprapps/app-template)
 - [sindresorhus/awesome-nodejs: Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)

@@ -16,5 +16,5 @@
 
 ## Resources
 
-- [【CUDA并行编程之五】计算向量的欧式距离 - CSDN博客](http://blog.csdn.net/lavorange/article/details/42125029)
+- [【CUDA并行编程之五】计算向量的欧式距离 - CSDN博客](https://blog.csdn.net/lavorange/article/details/42125029)
 - [Matrix multiplication on GPU using CUDA with CUBLAS, CURAND and Thrust | Solarian Programmer](https://solarianprogrammer.com/2012/05/31/matrix-multiplication-cuda-cublas-curand-thrust/)

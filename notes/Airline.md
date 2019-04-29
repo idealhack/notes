@@ -21,7 +21,7 @@
 
 ### MF
 
-- [厦门航空](http://www.xiamenair.com/zh-cn/)
+- [厦门航空](https://www.xiamenair.com/zh-cn/)
 - [厦门航空 - 维基百科](https://zh.wikipedia.org/wiki/%E5%BB%88%E9%96%80%E8%88%AA%E7%A9%BA)
 
 ### ANA
@@ -35,7 +35,7 @@
 
 ### Star Alliance
 
-- [Star Alliance](http://www.staralliance.com/zh/home)
+- [Star Alliance](https://www.staralliance.com/zh/home)
 - [星空联盟 - 维基百科](https://zh.wikipedia.org/wiki/%E6%98%9F%E7%A9%BA%E8%81%AF%E7%9B%9F)
 
 ### SkyTeam
@@ -50,7 +50,7 @@
 
 ### Value Alliance
 
-- [value-alliance](http://www.valuealliance.com/)
+- [value-alliance](https://www.valuealliance.com/)
 - [价值联盟 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BB%B7%E5%80%BC%E8%81%94%E7%9B%9F)
 
 ### U-FLY Alliance
@@ -60,5 +60,4 @@
 
 ## Resources
 
-- [国内航空公司常旅客计划比较-非常玩家](http://www.veryers.com/ffp/1458.html)
-- [Airline Reviews and Rating | SKYTRAX](http://www.airlinequality.com/)
+- [Airline Reviews and Rating | SKYTRAX](https://www.airlinequality.com/)

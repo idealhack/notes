@@ -37,8 +37,8 @@
 
 ## Documentations
 
-- [Flatdoc](http://ricostacruz.com/flatdoc/)
-- [Docute](https://docute.js.org/)
+- [rstacruz/flatdoc: Build sites fast from Markdown](https://github.com/rstacruz/flatdoc/)
+- [egoist/docute: 📚 Effortless documentation, done right.](https://github.com/egoist/docute)
 
 ### Sphinx
 

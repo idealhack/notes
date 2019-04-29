@@ -19,5 +19,5 @@
 - [Immigration and citizenship - Canada.ca](https://www.canada.ca/en/services/immigration-citizenship.html)
 - [Immigration, Diversité et Inclusion Québec - Home](https://www.immigration-quebec.gouv.qc.ca/en/home.html)
 - [Express Entry in a nutshell | Raj to Canada](https://rajtocanada.wordpress.com/2015/09/22/express-entry-in-a-nutshell/)
-- [飞出国](http://flyabroad.me/)
-- [EOIvisa | 新生代签证移民事务所](http://eoivisa.com/)
+- [飞出国](https://flyabroad.me/)
+- [EOIvisa | 新生代签证移民事务所](https://eoivisa.com/)

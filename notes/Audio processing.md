@@ -15,7 +15,7 @@
 ### Time stretching and pitch scaling
 
 - [Audio time stretching and pitch scaling - Wikipedia](https://en.wikipedia.org/wiki/Audio_time_stretching_and_pitch_scaling)
-- [变声总结 | IONESMILE](http://www.ionesmile.com/android/sound-processor)
+- [变声总结 – 瑞瑞Ray](http://ruiray.com/?p=37)
 - [变速变调原理与方法总结 - WELEN - 博客园](http://www.cnblogs.com/welen/p/3782896.html)
 
 ## Libraries
@@ -37,5 +37,4 @@
 ## Resources
 
 - [Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)
-- [写给小白的音频认识基础 | 叶大侠的主页](http://yedaxia.me/Android-Audio-Basic/)
 - [Android Audio Terminology « Public void @Tornaco](https://tornaco.github.io/archivers/Audio-Terminology)

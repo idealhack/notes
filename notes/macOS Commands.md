@@ -17,4 +17,4 @@
 ## Resources
 
 - [Rosetta Stone for Unix](http://bhami.com/rosetta.html)
-- [UNIX 系统上的文本操作简介](http://www.ibm.com/developerworks/cn/aix/library/au-unixtext/index.html)
+- [UNIX 系统上的文本操作简介](https://www.ibm.com/developerworks/cn/aix/library/au-unixtext/index.html)

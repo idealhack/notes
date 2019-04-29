@@ -37,7 +37,7 @@
 
 ## Articles
 
-- [Go并发编程之Go语言概述](http://www.infoq.com/cn/articles/go-language-introduction)
+- [Go并发编程之Go语言概述](https://www.infoq.cn/articles/go-language-introduction)
 - [golang · GitBook](https://www.gitbook.com/book/liushuchun/golang/details)
 - [Go语言学习 - cyent笔记](https://cyent.github.io/golang/)
 - [laisky-blog: Golang 学习笔记](https://blog.laisky.com/p/golang/)
@@ -56,7 +56,6 @@
 - [枚举类型在Go语言中的一种写法](http://www.zenlife.tk/go-enum.md)
 - [goroutine背后的系统知识 | sizeof(void)](http://www.sizeofvoid.net/goroutine-under-the-hood/)
 - [编写和优化Go代码 · dgryski/go-perfbook](https://github.com/dgryski/go-perfbook/blob/master/performance-zh.md)
-- [Golang协程之殇 | Computer Science & Programming](http://blog.imisko.com/2017/08/02/golang-coroutine/)
 - [Go Performance Tuning - StackImpact](https://stackimpact.com/docs/go-performance-tuning/)
 - [How to start a Go project in 2018 | Ben E. C. Boyter](https://boyter.org/posts/how-to-start-go-project-2018/)
 - [developer-learning/night-reading-go: Go 夜读 > Night Reading Go - Go source reading and offline technical discussion every Thursday night.](https://github.com/developer-learning/night-reading-go)

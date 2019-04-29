@@ -3,7 +3,7 @@
 ## Setup
 
 - [[NAS]]
-- [Streama](http://dularion.github.io/streama/)
+- [streamaserver/streama: Self hosted streaming media server.](https://github.com/streamaserver/streama)
 
 ## List
 

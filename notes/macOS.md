@@ -9,7 +9,7 @@
 ## Development
 
 - [sparkle-project/Sparkle: A software update framework for macOS](https://github.com/sparkle-project/Sparkle)
-- [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electron.atom.io/)
+- [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electronjs.org/)
 - [zeit/hazel: Lightweight update server for Electron apps](https://github.com/zeit/hazel)
 - [ptmt/react-native-macos: React Native for macOS is an experimental fork for writing desktop apps using Cocoa](https://github.com/ptmt/react-native-macos)
 - [pojala/termipal: Instant, native micro-GUIs for shell scripts and command line apps](https://github.com/pojala/termipal)

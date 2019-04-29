@@ -13,11 +13,6 @@
 
 - [SwiftGGTeam/Developing-iOS-9-Apps-with-Swift: Stanford 公开课，Developing iOS 9 Apps with Swift 字幕翻译](https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift)
 
-### Today Extensions
-
-- [Building a Today Extension for iOS 8](https://www.sitepoint.com/building-today-extension-ios-8/)
-- [Today Extensions Tutorial: Getting Started](https://www.raywenderlich.com/83809/ios-8-today-extension-tutorial)
-
 ### 开发与发布
 
 - [iOS 开发流程笔记](https://github.com/leecade/ios-dev-flow)
@@ -63,4 +58,4 @@
 
 - [ObjC 中国](https://objccn.io/)
 - [Swift 学习指引](http://swiftguide.cn/)
-- [Swifter - Swift 必备 tips](http://swifter.tips/)
+- [Swifter - Swift 必备 tips](https://swifter.tips/)

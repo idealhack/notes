@@ -13,6 +13,5 @@
 ## Resources
 
 - [Python数据结构--AVL树的实现 - Geek情怀 - SegmentFault](https://segmentfault.com/a/1190000007054898)
-- [数据结构之 Stack - ningh.org](https://ningh.org/posts/5aaebb18421aa96fa6f89150)
 - [floyernick/Data-Structures-and-Algorithms: Data Structures and Algorithms implementation in Go](https://github.com/floyernick/Data-Structures-and-Algorithms)
 - [数据结构与算法/leetcode/lintcode题解 · 看云](https://www.kancloud.cn/kancloud/data-structure-and-algorithm-notes/72897)

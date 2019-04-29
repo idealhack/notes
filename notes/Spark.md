@@ -66,7 +66,7 @@
 ## Resources
 
 - [SparkHub - A Community Site for Apache Spark](https://sparkhub.databricks.com/)
-- [用Apache Spark进行大数据处理——第一部分：入门介绍](http://www.infoq.com/cn/articles/apache-spark-introduction)
+- [用Apache Spark进行大数据处理——第一部分：入门介绍](https://www.infoq.cn/articles/apache-spark-introduction)
 - [Spark简介 | Yunfeng's Hexo Blog](http://vra.github.io/2016/06/16/spark/)
 - [AMP Camp 4 hands-on exercises](http://ampcamp.berkeley.edu/big-data-mini-course/index.html)
 - [Testing rules failed](http://blog.jasonding.top/2015/06/07/Spark/%E3%80%90Spark%E3%80%91Spark%E7%94%9F%E6%80%81%E5%92%8CSpark%E6%9E%B6%E6%9E%84/)

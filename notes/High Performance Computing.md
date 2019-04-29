@@ -23,7 +23,6 @@
 - [Polytonic/Chlorine: Dead Simple OpenCL](https://github.com/Polytonic/Chlorine)
 - [SYCL Overview - The Khronos Group Inc](https://www.khronos.org/sycl)
 - [SkePU 2](https://www.ida.liu.se/labs/pelab/skepu/)
-- [Overview of MTL4 | SimuNova](http://www.simunova.com/de/node/24)
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 
 ### Arrayfile
@@ -49,7 +48,6 @@
 
 - [分布式存储与分布式计算 - 五三中 - 博客园](http://www.cnblogs.com/cxzdy/p/5338596.html)
 - [GPU-Accelerated Libraries for Computing | NVIDIA Developer](https://developer.nvidia.com/gpu-accelerated-libraries)
-- [Echelon Blog](http://www.soa-world.de/echelon/2014/04/c-accelerator-libraries.html)
 - [Benchmarking parallel vector libraries | ArrayFire](http://arrayfire.com/benchmarking-parallel-vector-libraries/)
 - [c++ - Differences between VexCL, Thrust, and Boost.Compute - Stack Overflow](http://stackoverflow.com/questions/20154179/differences-between-vexcl-thrust-and-boost-compute)
 - [并行计算的高性能软件库：ArrayFire - OPEN 开发经验库](http://m.open-open.com/m/lib/view/1415890274039.html)

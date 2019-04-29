@@ -12,7 +12,7 @@
 
 ## Services
 
-- [图灵机器人－中文语境下智能度最高的机器人大脑](http://www.tuling123.com/)
+- [图灵机器人-智能好用的聊天机器人](http://www.turingapi.com/)
 - [Dialogflow](https://dialogflow.com/)
 - [Algorithmia - Open Marketplace for Algorithms](https://algorithmia.com/)
 - [machinebox.io · Machine learning in a box](https://machinebox.io/)

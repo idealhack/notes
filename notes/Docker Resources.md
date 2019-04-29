@@ -49,7 +49,7 @@
 - [Docker 实践（四）：Beta 环境容器化 - Tairy's Blog - SegmentFault](https://segmentfault.com/a/1190000006875435)
 - [SegmentFault 技术周刊 Vol.5 - Docker丨Build, Ship, Run, and Monitor - 社区周刊 - SegmentFault](https://segmentfault.com/a/1190000006893394)
 - [用Docker玩转深度学习 - DockOne.io](http://dockone.io/m/article/2127)
-- [站在巨人的肩膀上--构建公有云平台上的容器服务](http://www.infoq.com/cn/presentations/building-container-services-on-public-cloud-platforms)
+- [站在巨人的肩膀上--构建公有云平台上的容器服务](https://www.infoq.cn/presentations/building-container-services-on-public-cloud-platforms)
 - [打造百亿级数据处理量的弹性调度容器平台](http://dockone.io/article/1798)
 - [【技术干货】Docker精华学习资料集锦，老司机快上车](https://zhuanlan.zhihu.com/p/26221467)
 - [Docker 简单入门 —— 最最简单的 Docker 入门小教程 - SegmentFault](https://segmentfault.com/p/1210000009626543/read)

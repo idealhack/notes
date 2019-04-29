@@ -11,6 +11,5 @@
 - [Zach Holman's wonderful list of tips at Speaking.io](https://speaking.io/)
 - [Lifehack's Public Speaking Guide](https://www.lifehack.org/688597/the-ultimate-public-speaking-tips)
 - [Hacker News' favorite tech talks](https://news.ycombinator.com/item?id=16838460)
-- [A list of sources that I check for new conferences.](https://airtable.com/shr93rYWkEed4Z1CH/tblHoGwuZvz6anQmt)
 - [Conference Buddy - Never go to a conference alone again](http://www.conferencebuddy.io/)
 - [Speak to Succeed - A blog with lots of public speaking tips](http://www.speaktosucceed.in/)

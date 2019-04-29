@@ -46,14 +46,13 @@ You don’t need a block chain, if
 
 ## Resources
 
-- [chaozh/awesome-blockchain: 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
+- [chaozh/awesome-blockchain: 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain-cn)
 - [Xel/Blockchain-stuff: Blockchain and Crytocurrency Resources](https://github.com/Xel/Blockchain-stuff)
 - [machinomy/awesome-non-financial-blockchain: Curated list of projects that build non-financial applications of blockchain](https://github.com/machinomy/awesome-non-financial-blockchain)
 - [openblockchains/awesome-blockchains: A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-). Blockchains are the new tulips . Distributed is the new centralized.](https://github.com/openblockchains/awesome-blockchains)
-- [blockchain navigate - 区块链导航](https://icepy.me/blockchain-navigate/)
 - [区块链世界来龙去脉，峰瑞资本内部分享 – 代码家](https://daimajia.com/2018/02/10/blockchain-share-in-freesfund)
 - [纠正你对区块链的认知偏见](https://mp.weixin.qq.com/s/Q9ZRHbRI5lkqAn1NLkDzXg)
-- [教程 | 如何成为区块链开发者：速成课！ » 论坛 » EthFans | 以太坊爱好者](http://ethfans.org/posts/blockchain-developer-crash-course)
+- [教程 | 如何成为区块链开发者：速成课！ » 论坛 » EthFans | 以太坊爱好者](https://ethfans.org/posts/blockchain-developer-crash-course)
 - [加密货币和区块链（二）：分布式共识与去中心化 | 1 Byte](https://1byte.io/cryptocurrencies-and-blockchains-consensus-and-decentralization/)
 - [SegmentFault 技术周刊 Vol.41 - 深入学习区块链 - SegmentFault 社区周刊 - SegmentFault 思否](https://segmentfault.com/a/1190000012894266)
 
