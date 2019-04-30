@@ -4,22 +4,23 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>{{ .Title }}</title>
+		<link rel="stylesheet" href="/style.css">
 		<link rel="stylesheet" media="all" href="//cdnjs.cloudflare.com/ajax/libs/Han/3.2.7/han.min.css">
 	</head>
 	<body>
+		<article>
 		<h1 lang="en">{{ .Title }}</h1>
 		<p>
-			This is a work in progress.
-			It's generated from Markdown <a href="https://github.com/idealhack/notes">source</a>
-			by <a href="https://github.com/idealhack/nvt">nvt</a>.
+			home • <a href="https://github.com/idealhack/notes">source</a> • <a href="https://github.com/idealhack/nvt">nvt</a>
 		</p>
-		<ul>
+		<ul class="notes">
 		{{ range .Notes }}
 			<li>
 				<a href="{{ .Path }}/">{{ .Title }}</a>
 			</li>
 		{{ end }}
 		</ul>
+		</article>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/Han/3.2.7/han.min.js"></script>
 	</body>
 </html>

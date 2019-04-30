@@ -1,0 +1,22 @@
+html {
+  color: #454545;
+  overflow-x: hidden;
+}
+
+article {
+  margin: 0 auto;
+  max-width: 50em;
+  padding: 1.5em .5em 3em;
+}
+
+a {
+  color: rgb(70, 120, 180);
+}
+
+.notes {
+  padding-left: 0;
+}
+
+.notes li {
+  list-style: none;
+}
