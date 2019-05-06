@@ -10,3 +10,4 @@
 - [Weather Icons - 222 font icons inspired by Font Awesome and designed for Bootstrap](https://erikflowers.github.io/weather-icons/)
 - [reduxframework/elusive-iconfont: Open-Source Iconfont.](https://github.com/reduxframework/elusive-iconfont)
 - [Feather – Simply beautiful open source icons](https://feathericons.com/)
+- [CSS ICON -- project by Wenting Zhang](http://cssicon.space/)

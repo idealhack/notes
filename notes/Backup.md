@@ -20,5 +20,6 @@ rsync through ssh tunnel:
 
 ## Resources
 
+- [The Tao Of Backup](http://www.taobackup.com/)
 - [Full system backup with rsync - ArchWiki](https://wiki.archlinux.org/index.php?title=Full_system_backup_with_rsync&redirect=no)
 - [Synchronization and backup programs - ArchWiki](https://wiki.archlinux.org/index.php/Synchronization_and_backup_programs)

@@ -4,14 +4,7 @@
 
 - [日本 - 维基百科](https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC)
 
-## Jobs
-
-- [Wantedly（ウォンテッドリー）「はたらく」を面白くするビジネスSNS](https://www.wantedly.com/)
-- [Startup jobs in Japan | Justa](https://justa.io/)
-
-## Resources
-
-### Travel
+## Travel
 
 - [日本国家旅游局(中国)](http://www.welcome2japan.cn/)
 - [孤独星球 Lonely planet：日本（2016年版） (豆瓣)](https://book.douban.com/subject/26841390/)
@@ -28,7 +21,12 @@
 - [一个IT女搬砖工的日本自由行完全指南 篇四：关西行程(京阪神奈): 0日语基础,0经验入门,交通,周边详细攻略_生活记录_什么值得买](https://post.smzdm.com/p/512453/)
 - [大阪静冈7天6夜自由行 | 从上海出发的大阪自由行行程规划&游记体验_什么值得买](https://post.smzdm.com/p/517480/)
 
-### Life
+## Life
+
+### Jobs
+
+- [Wantedly（ウォンテッドリー）「はたらく」を面白くするビジネスSNS](https://www.wantedly.com/)
+- [Startup jobs in Japan | Justa](https://justa.io/)
 
 - [入國管理局](http://www.immi-moj.go.jp/chinese/index.html)
 - [东京都](http://www.metro.tokyo.jp/chinese/index.html)

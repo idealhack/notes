@@ -4,24 +4,17 @@
 
 ### Sass
 
-- [Sass: Syntactically Awesome Style Sheets](http://sass-lang.com/)
-- [Bourbon - A Lightweight Sass Tool Set](http://bourbon.io/)
-- [Neat - A Lightweight and flexible Sass grid](http://neat.bourbon.io/)
-- [paranoida/sass-mediaqueries: Media Queries mixins for Sass - fully customizable and very easy to use.](https://github.com/paranoida/sass-mediaqueries)
-- [bensmithett/style: An opinionated starting point for scalable, maintainable CSS architecture.](https://github.com/bensmithett/style)
+- [sass/sass: Sass makes CSS fun!](https://github.com/sass/sass)
+- [thoughtbot/bourbon: A Lightweight Sass Tool Set](https://github.com/thoughtbot/bourbon/)
+- [thoughtbot/neat: A lightweight and flexible Sass grid](https://github.com/thoughtbot/neat)
+- [thoughtbot/bitters: Add a dash of pre-defined style to your Bourbon.](https://github.com/thoughtbot/bitters)
 - [inuitcss/inuitcss: Extensible, scalable, Sass-based, OOCSS framework for large and long-lasting UI projects.](https://github.com/inuitcss/inuitcss)
-
-### Less
-
-- [Getting started | Less.js](http://lesscss.org/)
-- [madebysource/lesshat: Smart LESS CSS mixins library.](https://github.com/madebysource/lesshat)
 
 ### Others
 
-- [Expressive, dynamic, robust CSS — expressive, robust, feature-rich CSS preprocessor](http://stylus-lang.com/)
+- [less/less.js: Less. The dynamic stylesheet language.](https://github.com/less/less.js)
+- [stylus/stylus: Expressive, robust, feature-rich CSS language built for nodejs](https://github.com/stylus/stylus/)
 - [postcss/postcss: Transforming styles with JS plugins](https://github.com/postcss/postcss)
-- [rscss](http://rscss.io/)
-- [css/csso: CSS minifier with structural optimizations](https://github.com/css/csso)
 - [LeaVerou/prefixfree: Break free from CSS prefix hell!](https://github.com/LeaVerou/prefixfree)
 - [linkedin/css-blocks: High performance, maintainable stylesheets.](https://github.com/linkedin/css-blocks)
 
@@ -35,38 +28,21 @@
 - [cmonos/TAKETORI-JS: a javascript library to make text vertical.](https://github.com/cmonos/TAKETORI-JS)
 - [tategakibunko/nehan.js: Logical and dynamic html layout engine written in javascript to generate logical paged-media asynchronously.](https://github.com/tategakibunko/nehan.js)
 
-## Testing
-
-- [Huddle/PhantomCSS: Visual/CSS regression testing with PhantomJS](https://github.com/Huddle/PhantomCSS)
-
 ## Others
 
-- [Semantic UI](http://semantic-ui.com/)
-- [Pure](http://purecss.io/)
-- [TACHYONS - Css Toolkit](http://tachyons.io/)
-- [Mobi.css](http://getmobicss.com/)
-- [Primer](http://primercss.io/)
-- [Topcoat](http://topcoat.io/)
-- [UIkit](https://getuikit.com/)
-- [Colors - A nicer color palette for the web.](http://clrs.cc/)
-- [Typeplate » A typographic starter kit encouraging great type on the Web](http://typeplate.com/)
-- [SUIT CSS: style tools for UI components](http://suitcss.github.io/)
-- [Hint.css - A tooltip library in CSS](https://kushagragour.in/lab/hint/)
+- [h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.](https://github.com/h5bp/html5-boilerplate)
+- [Semantic-Org/Semantic-UI: Semantic is a UI component framework based around useful principles from natural language.](https://github.com/semantic-org/semantic-ui/)
+- [pure-css/pure: A set of small, responsive CSS modules that you can use in every web project.](https://github.com/pure-css/pure/)
+- [tachyons-css/tachyons: Functional css for humans](https://github.com/tachyons-css/tachyons/)
+- [primer/css: The CSS design system that powers GitHub](https://github.com/primer/css)
+- [uikit/uikit: A lightweight and modular front-end framework for developing fast and powerful web interfaces](https://github.com/uikit/uikit)
+- [typeplate/starter-kit: Typeplate is a “Typographic Starter Kit.” We don’t make aesthetic design choices, but define proper markup with extensible styling for common typographic patterns. A stripped-down Sass library concerned with the appropriate technical implementation of design patterns—not how they look.](https://github.com/typeplate/starter-kit)
+- [suitcss/suit: Style tools for UI components](https://github.com/suitcss/suit)
+- [chinchang/hint.css: A CSS only tooltip library for your lovely websites.](https://github.com/chinchang/hint.css)
 - [necolas/normalize.css: A collection of HTML element and attribute style-normalizations](https://github.com/necolas/normalize.css)
 - [zurb/foundation-sites: The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.](https://github.com/zurb/foundation-sites)
 - [ElemeFE/element: A Vue.js 2.0 UI Toolkit for Web](https://github.com/ElemeFE/element)
-- [QMUI Web - 一个旨在提高 UI 开发效率，快速产生项目 UI 的前端框架](http://qmuiteam.com/web/page/index.html)
+- [Tencent/QMUI_Web: An efficient front-end framework for developers building UI on the web.](https://github.com/Tencent/QMUI_Web)
 - [daneden/animate.css: 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.](https://github.com/daneden/animate.css)
-- [h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.](https://github.com/h5bp/html5-boilerplate)
 - [FortAwesome/Font-Awesome: The iconic font and CSS toolkit](https://github.com/FortAwesome/Font-Awesome)
-- [lukehaas/css-loaders: A collection of loading spinners animated with CSS](https://github.com/lukehaas/css-loaders)
-- [SpinKit | Simple CSS Spinners](http://tobiasahlin.com/spinkit/)
-- [WTF, forms?](http://wtfforms.com/)
-- [marvelapp/devices.css: Pure CSS phones and tablets](https://github.com/marvelapp/devices.css)
-- [HubSpot/vex: A modern dialog library which is highly configurable and easy to style. #hubspot-open-source](https://github.com/HubSpot/vex)
-- [Chardin.js](http://heelhook.github.io/chardin.js/)
 - [designmodo/Flat-UI: Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites.](https://github.com/designmodo/Flat-UI)
-- [Junior - A front-end framework for building HTML5 mobile apps with a native look and feel.](http://justspamjustin.github.com/junior)
-- [Retina.js | Retina graphics for your website](http://imulus.github.io/retinajs/)
-- [SlexAxton/css-colorguard: Keep a watchful eye on your css colors.](https://github.com/SlexAxton/css-colorguard)
-- [CSS ICON -- project by Wenting Zhang](http://cssicon.space/)

@@ -23,17 +23,17 @@
 - [kubernetes-sigs/kind: Kubernetes IN Docker - local clusters for testing Kubernetes](https://github.com/kubernetes-sigs/kind)
 - [kubernetes/minikube: Run Kubernetes locally](https://github.com/kubernetes/minikube)
 
+## [[Kubernetes Application]]
+
 ## [[Kubernetes Operations]]
+
+## [[Kubernetes CI/CD]]
 
 ## [[Kubernetes Networking]]
 
+## [[Kubernetes Security]]
+
 ## [[Kubernetes Observability]]
-
-## [[Kubernetes Tools]]
-
-## KubeCon + CloudNativeCon
-
-- [KubeCon + CloudNativeCon North America 2018: Schedule](https://kccna18.sched.com/)
 
 ## Resources
 
