@@ -13,6 +13,10 @@ a {
   color: rgb(70, 120, 180);
 }
 
+img {
+  max-width: 100%;
+}
+
 .notes {
   padding-left: 0;
 }
