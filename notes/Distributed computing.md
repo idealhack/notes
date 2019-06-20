@@ -57,3 +57,5 @@
 
 - [Fallacies Of Distributed Gomputing](http://go-talks.appspot.com/github.com/mhausenblas/fallacies-of-distributed-gomputing/main.slide)
 - [分布式一致性与共识算法](https://draveness.me/consensus)
+- [feixiao/Distributed-Systems: MIT课程《Distributed Systems 》学习和翻译](https://github.com/feixiao/Distributed-Systems)
+- [pingcap/talent-plan: PingCAP training courses](https://github.com/pingcap/talent-plan)

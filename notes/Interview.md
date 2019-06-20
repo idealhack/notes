@@ -68,6 +68,7 @@
 - [interview | CS巴别塔(1)](https://csbabel.wordpress.com/tag/interview/)
 - [Questions to Ask a Potential Tech Employer](https://doctorj.gitlab.io/interview-questions/)
 - [arialdomartini/Back-End-Developer-Interview-Questions: A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+- [CyC2018/CS-Notes: Basic Knowledge of Technical Interview（技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计）](https://github.com/CyC2018/CS-Notes)
 
 ### Go
 

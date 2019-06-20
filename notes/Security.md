@@ -25,6 +25,10 @@
 - [社会工程学 - 维基百科](https://zh.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E5%B7%A5%E7%A8%8B%E5%AD%A6)
 - [n0tr00t/Sreg: Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。](https://github.com/n0tr00t/Sreg)
 
+### DoS
+
+- [SipHash: a fast short-input PRF](https://131002.net/siphash/)
+
 ## Privacy
 
 - [MacOS 的安全和隐私指南 · xitu/macOS-Security-and-Privacy-Guide](https://github.com/xitu/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)
