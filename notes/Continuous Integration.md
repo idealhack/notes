@@ -6,15 +6,17 @@
 
 ## Tools
 
-- [[GitLab]]
+- GitHub
+- GitLab
 - [Jenkins](https://jenkins.io/)
-- [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
+- [Travis CI](https://travis-ci.org/)
 - [Semaphore](https://semaphoreci.com/)
 - [Codefresh](https://codefresh.io/)
-- [Cloud Build - Automated builds for continuous integration  |  Google Cloud](https://cloud.google.com/cloud-build/)
-- [Plan, Code Together, & Ship Faster | Visual Studio Team Services - Visual Studio](https://visualstudio.microsoft.com/team-services/)
-- [TeamCity: Hassle-free CI and CD Server by JetBrains](https://www.jetbrains.com/teamcity/)
-- [fastlane - iOS and Android Automation for Continuous Delivery](https://fastlane.tools/)
+- [Cloud Build](https://cloud.google.com/cloud-build/)
+- [Visual Studio Team Services](https://visualstudio.microsoft.com/team-services/)
+- [TeamCity](https://www.jetbrains.com/teamcity/)
+- [fastlane](https://fastlane.tools/)
+- [Concourse CI](https://concourse-ci.org/)
 
 ## Resources
 

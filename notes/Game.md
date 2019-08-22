@@ -52,7 +52,6 @@
 
 - [Splatoon 2 - 维基百科](https://zh.wikipedia.org/wiki/Splatoon_2)
 - [Splatoon 2 Map Schedules](https://splatoon2.ink/)
-- [Splatoon Calculator](https://calc.splatoon.ink/)
 - [loadout.ink - Stat Calculator + Gear Planner for Splatoon 2](https://loadout.ink/)
 - [stat.ink](https://stat.ink/)
 

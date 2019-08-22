@@ -51,6 +51,14 @@
 - [JR東日本：東日本旅客鉄道株式会社](https://www.jreast.co.jp/)
 - [乗換案内、時刻表、運行情報 - Yahoo!路線情報](https://transit.yahoo.co.jp/)
 
+#### Shopping
+
+- [日本的免稅制度 - LIVE JAPAN (日本的旅行·旅游·体验向导)](https://livejapan.com/zh-cn/article-a0000238/)
+
 ### Tools
 
 - [Japan Tax Calculator](https://japantaxcalculator.com/)
+
+## Resources
+
+- [Japan Guide - Japan Talk](https://www.japan-talk.com/jt/new/japan)

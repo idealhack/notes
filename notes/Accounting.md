@@ -11,6 +11,9 @@
 - [wzyboy/awesome-beancount: Beancount tips and tricks](https://github.com/wzyboy/awesome-beancount)
 - [Topic: beancount](https://github.com/topics/beancount)
 - [Plain Text Accounting, a guide to Ledger and friends - plaintextaccounting.org](https://plaintextaccounting.org/)
+- [jbms/beancount-import: Web UI for semi-automatically importing external data into beancount](https://github.com/jbms/beancount-import)
+- [jbms/finance-dl: Tools for automatically downloading/scraping personal financial data.](https://github.com/jbms/finance-dl)
+- [siddhantgoel/awesome-beancount: Awesome Beancount Resources](https://github.com/siddhantgoel/awesome-beancount)
 
 ### Resources
 
@@ -20,3 +23,5 @@
 - [beancount 起步](https://morefreeze.github.io/2016/10/beancount-thinking.html)
 - [beancount 进阶](https://morefreeze.github.io/2016/10/beancount-advance.html#fnref:1)
 - [把自己当做一家公司：使用 beancount 记账](https://lyric.im/c/beancount-tutorial/)
+- [Beancount - BYVoid](https://www.byvoid.com/zhs/blog/tag/Beancount)
+- [mckelvin/beancount-boilerplate-cn](https://github.com/mckelvin/beancount-boilerplate-cn)

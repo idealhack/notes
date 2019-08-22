@@ -2,11 +2,14 @@
 
 ## Opensouce
 
+### Prometheus
+
+- [prometheus/blackbox_exporter: Blackbox prober exporter](https://github.com/prometheus/blackbox_exporter)
+
 ### Terminal
 
 - [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
 - [Xfennec/progress: Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)](https://github.com/Xfennec/progress)
-- [lebinh/ngxtop: Real-time metrics for nginx server](https://github.com/lebinh/ngxtop)
 - [nicolargo/glances: Glances an Eye on your system. A top/htop alternative.](https://github.com/nicolargo/glances)
 
 ### Framework
@@ -20,8 +23,6 @@
 - [Sensu | Full-stack monitoring for today's business.](https://sensuapp.org/)
 - [Netflix/vector: Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.](https://github.com/netflix/vector)
 - [Shinken Monitoring - Index](http://www.shinken-monitoring.org/)
-- [afaqurk/linux-dash: A beautiful web dashboard for Linux](https://github.com/afaqurk/linux-dash)
-- [Jahaja/psdash: A linux system information web dashboard using psutils and flask](https://github.com/Jahaja/psdash)
 - [Log.io - Real-time log monitoring in your browser](http://logio.org/)
 - [sourcegraph/checkup: Distributed, lock-free, self-hosted health checks and status pages](https://github.com/sourcegraph/checkup)
 - [Snap A powerful open telemetry framework](http://snap-telemetry.io/)
@@ -35,7 +36,6 @@
 ### Graph
 
 - [Grafana - The open platform for analytics and monitoring](http://grafana.org/)
-- [scobal/seyren: An alerting dashboard for Graphite](https://github.com/scobal/seyren)
 - [tessera-metrics/tessera: A dashboard front-end for graphite.](https://github.com/tessera-metrics/tessera)
 
 ### Others

@@ -5,6 +5,10 @@
 - [Kubernetes Security | Operating Kubernetes Clusters and Applications Safely](https://kubernetes-security.info/)
 - [freach/kubernetes-security-best-practice: Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
 
+### Secrets
+
+- [bitnami-labs/sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets](https://github.com/bitnami-labs/sealed-secrets)
+
 ### Auditing
 
 - [Auditing - Kubernetes](https://kubernetes.io/docs/tasks/debug-application-cluster/audit/)
