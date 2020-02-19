@@ -4,6 +4,7 @@
 
 - [kubernetes-incubator/metrics-server](https://github.com/kubernetes-incubator/metrics-server)
 - [weaveworks/scope: Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)
+- [salesforce/sloop: Kubernetes History Visualization](https://github.com/salesforce/sloop)
 
 ## Prometheus
 

@@ -33,3 +33,4 @@
 ## Resources
 
 - [Travel Guides CN](https://cn.green-pass.eu/cn/)
+- [欧萌客 欧洲旅游攻略](http://www.oumengke.com/index.php)

@@ -26,7 +26,6 @@
 
 ## South America
 
-
 ## Africa
 
 ## Antarctica

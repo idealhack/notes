@@ -4,6 +4,10 @@
 
 - [防火长城 - 维基百科](https://zh.wikipedia.org/wiki/%E9%98%B2%E7%81%AB%E9%95%BF%E5%9F%8E)
 
+### Resources
+
+- [GFW.Report](https://gfw.report/)
+
 ### Tools
 
 - [Shadowsocks](https://shadowsocks.org/en/index.html)

@@ -50,6 +50,8 @@
     ん
     ン
 
+- [五十音圖學習法 @mkpoli_ja_note](https://t.me/mkpoli_ja_note/159)
+
 ## Frequent sentences
 
 - 1, 2, 3, 4    いち、に、さん、よん
@@ -57,6 +59,7 @@
 
 ##  语法
 
+- [日语语法指南 | Learn Japanese](http://res.wokanxing.info/jpgramma/)
 - [活用V1.03 (例子) - MindMeister](https://www.mindmeister.com/zh/467920500/v1-03)
 
 ## Books
@@ -68,6 +71,7 @@
 ## Lessons
 
 - [《简明日语》- 免费音频 & 教材 | NHK WORLD RADIO JAPAN](https://www.nhk.or.jp/lesson/chinese/)
+- [Learn Japanese – Tae Kim's Guide to Learning Japanese](http://www.guidetojapanese.org/learn/)
 
 ## Search Engines
 
@@ -92,3 +96,4 @@
 - [日語.io](https://riyu.io/)
 - [最最日语 - 学习日语有乐趣](http://www.xuewujing.com/)
 - [yudataguy/Awesome-Japanese: Awesome Japanese learning resource](https://github.com/yudataguy/Awesome-Japanese)
+- [日語學習常見問題 – Telegraph](https://telegra.ph/%E6%97%A5%E8%AA%9E%E5%AD%B8%E7%BF%92%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C-05-03)

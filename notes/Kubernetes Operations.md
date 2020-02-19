@@ -16,8 +16,8 @@
 
 ## aws
 
-- [Kubernetes on Amazon Web Services · kubernetes/community](https://github.com/kubernetes/community/blob/master/sig-aws/kubernetes-on-aws.md)
 - [kubernetes-incubator/kube-aws: A command-line tool to declaratively manage Kubernetes clusters on AWS](https://github.com/kubernetes-incubator/kube-aws)
+- [weaveworks/eksctl: The official CLI for Amazon EKS](https://github.com/weaveworks/eksctl)
 
 ## Manage
 

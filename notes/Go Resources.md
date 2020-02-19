@@ -29,6 +29,7 @@
 - [Go Language CookBook With Examples - Ednsquare](https://ednsquare.com/publisher/view/Go-Language-CookBook-With-Examples------xOhLZaZVGG)
 - [ffhelicopter/Go42: 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。](https://github.com/ffhelicopter/Go42)
 - [Go2编程指南](https://chai2010.cn/go2-book/)
+- [changkun/go-under-the-hood: 📚 Go Under The Hood: A Source Code Study of Go](https://github.com/changkun/go-under-the-hood)
 
 ## Blogs
 
