@@ -43,6 +43,7 @@ Manual get a certificate:
 - [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 - [SteveLTN/https-portal: A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.](https://github.com/SteveLTN/https-portal)
 - [square/certstrap: Tools to bootstrap CAs, certificate requests, and signed certificates.](https://github.com/square/certstrap)
+- [SSLMate/certspotter: Certificate Transparency Log Monitor](https://github.com/SSLMate/certspotter)
 
 ## Resources
 

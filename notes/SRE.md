@@ -32,3 +32,4 @@
 - [Site Reliability Engineer HandBook](https://s905060.gitbooks.io/site-reliability-engineer-handbook/)
 - [binhnguyennus/awesome-scalability: An up-to-date and curated reading list for designing high scalability, high availability, high stability back-end systems](https://github.com/binhnguyennus/awesome-scalability)
 - [Site Reliability Engineering: Measuring and Managing Reliability | Coursera](https://www.coursera.org/learn/site-reliability-engineering-slos)
+- [cross-community/study-area-docs: SRE 讀書會 導讀文件 原始檔](https://github.com/cross-community/study-area-docs)

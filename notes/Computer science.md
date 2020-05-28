@@ -30,3 +30,5 @@
 - [1c7/crash-course-computer-science-chinese: 计算机科学速成课 | Crash Course Computer Science](https://github.com/1c7/crash-course-computer-science-chinese)
 - [ustcwpz/USTC-CS-Courses-Resource: USTC计算机学院课程资源](https://github.com/ustcwpz/USTC-CS-Courses-Resource)
 - [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [keithnull/TeachYourselfCS-CN: TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS](https://github.com/keithnull/TeachYourselfCS-CN)

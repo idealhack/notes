@@ -66,6 +66,7 @@
 - [SICP 解题集 — SICP 解题集](http://sicp.readthedocs.io/en/latest/)
 - [Algorithms to Go - yourbasic.org](https://yourbasic.org/)
 - [dreddsa5dies/algorithm: The repository algorithms implemented on the Go](https://github.com/dreddsa5dies/algorithm)
+- [wangzheng0822/algo: 数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
 
 #### Leetcode
 

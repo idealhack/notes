@@ -31,6 +31,10 @@
     ssh -A host-a
     ssh host-b
 
+### Generate public key from private key
+
+    ssh-keygen -y -f ~/.ssh/id_rsa > ~/.ssh/id_rsa.pub
+
 ## Key management
 
 - [On SSH Key Management](https://gravitational.com/blog/ssh-key-management/)

@@ -23,10 +23,14 @@
 - [assemble/assemble: Get the rocks out of your socks! Assemble makes you fast at creating code projects. Gulp- and grunt-friendly.  Used by thousands of projects for rapid prototyping, creating themes, scaffolds, boilerplates, e-books, UI components, API documentation, blogs, building websites/static site generator, an alternative to Jekyll for gh-pages and more!](https://github.com/assemble/assemble)
 - [InkProject/ink: An elegant static blog generator](https://github.com/InkProject/ink)
 - [GitbookIO/gitbook: 📝 Modern documentation format and toolchain using Git and Markdown](https://github.com/GitbookIO/gitbook)
-- [gohugoio/hugo: The world’s fastest framework for building websites.](https://github.com/gohugoio/hugo)
 - [rstudio/blogdown: Create Blogs and Websites with R Markdown](https://github.com/rstudio/blogdown)
 - [gatsbyjs/gatsby: ⚛️📄🚀 Blazing fast static site generator for React](https://github.com/gatsbyjs/gatsby)
 - [vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator](https://github.com/vuejs/vuepress)
+
+### Hugo
+
+- [gohugoio/hugo: The world’s fastest framework for building websites.](https://github.com/gohugoio/hugo)
+- [google/docsy: A set of Hugo doc templates for launching open source content.](https://github.com/google/docsy)
 
 ### Jekyll
 

@@ -70,7 +70,7 @@
 
 ## Lessons
 
-- [《简明日语》- 免费音频 & 教材 | NHK WORLD RADIO JAPAN](https://www.nhk.or.jp/lesson/chinese/)
+- [NHK WORLD-JAPAN Learn Japanese](https://www3.nhk.or.jp/nhkworld/zh/learnjapanese/)
 - [Learn Japanese – Tae Kim's Guide to Learning Japanese](http://www.guidetojapanese.org/learn/)
 
 ## Search Engines
@@ -97,3 +97,4 @@
 - [最最日语 - 学习日语有乐趣](http://www.xuewujing.com/)
 - [yudataguy/Awesome-Japanese: Awesome Japanese learning resource](https://github.com/yudataguy/Awesome-Japanese)
 - [日語學習常見問題 – Telegraph](https://telegra.ph/%E6%97%A5%E8%AA%9E%E5%AD%B8%E7%BF%92%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C-05-03)
+- [Just a little Japanese | Even some Japanese might not know it, either.](https://justalittlejapanese.com/)

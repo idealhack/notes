@@ -3,7 +3,11 @@
 ## Softwares
 
 - [OpenVPN - Open Source VPN](https://openvpn.net/)
+
+### WireGuard
+
 - [WireGuard: fast, modern, secure VPN tunnel](https://www.wireguard.com/)
+- [pirate/wireguard-docs: 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.](https://github.com/pirate/wireguard-docs)
 
 ## Tools
 

@@ -4,6 +4,10 @@
 
 - [数据可视化 - 维基百科](https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96)
 
+## Tools
+
+- [Flourish | Data Visualization & Storytelling](https://flourish.studio/)
+
 ## Libraries
 
 - [Data visualization · GitHub](https://github.com/showcases/data-visualization)
