@@ -16,10 +16,12 @@
 - [databricks/click: The "Command Line Interactive Controller for Kubernetes"](https://github.com/databricks/click)
 - [garethr/kubeval: Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/garethr/kubeval)
 - [Azure/brigade: Event-based Scripting for Kubernetes.](https://github.com/Azure/brigade)
+- [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
+- [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt)
 
 ### kubectl
 
-- [The Kubectl Book](https://pwittrock-kubectl.firebaseapp.com/)
+- [The Kubectl Book](https://kubectl.docs.kubernetes.io/)
 - [GoogleContainerTools/krew: 📦 The package manager for "kubectl plugins"](https://github.com/GoogleContainerTools/krew)
 - [cloudnativelabs/kube-shell: Kubernetes shell: An integrated shell for working with the Kubernetes CLI](https://github.com/cloudnativelabs/kube-shell)
 

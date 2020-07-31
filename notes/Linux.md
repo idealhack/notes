@@ -3,9 +3,8 @@
 ## Installation
 
 - [[System Installation]]
-- [[Ubuntu on Macbook]]
 
-## Distributionss
+## Distributions
 
 - [[Ubuntu]]
 - [[CentOS]]

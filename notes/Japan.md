@@ -11,6 +11,7 @@
 - [Wantedly（ウォンテッドリー）「はたらく」を面白くするビジネスSNS](https://www.wantedly.com/)
 - [Startup jobs in Japan | Justa](https://justa.io/)
 - [uiur/remote-in-japan](https://github.com/uiur/remote-in-japan/blob/master/README.en.md)
+- [ソフトウェアエンジニアの年収 | OpenSalary](https://opensalary.jp/)
 
 - [入國管理局](http://www.immi-moj.go.jp/chinese/index.html)
 - [东京都](http://www.metro.tokyo.jp/chinese/index.html)

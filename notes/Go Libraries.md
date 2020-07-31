@@ -10,6 +10,7 @@
 ### Microservice
 
 - [go-kit/kit: A standard library for microservices.](https://github.com/go-kit/kit)
+- [micro/go-micro: A distributed systems development framework](https://github.com/micro/go-micro)
 - [TykTechnologies/tyk: Tyk Open Source API Gateway written in Go](https://github.com/TykTechnologies/tyk)
 - [goadesign/goa: Design-based APIs and microservices in Go](https://github.com/goadesign/goa)
 - [hashicorp/serf: Service orchestration and management tool.](https://github.com/hashicorp/serf)

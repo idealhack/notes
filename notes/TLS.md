@@ -40,6 +40,7 @@ Manual get a certificate:
 ## Tools
 
 - [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/analyze.html)
+- [ssllabs/ssllabs-scan: A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.](https://github.com/ssllabs/ssllabs-scan)
 - [Generate Mozilla Security Recommended Web Server Configuration Files](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 - [SteveLTN/https-portal: A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.](https://github.com/SteveLTN/https-portal)
 - [square/certstrap: Tools to bootstrap CAs, certificate requests, and signed certificates.](https://github.com/square/certstrap)

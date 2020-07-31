@@ -17,6 +17,7 @@
 - [Urinx/Books: 无它术，唯勤读书而多为之，自工](https://github.com/Urinx/Books)
 - [KeKe-Li/book: All programming languages books](https://github.com/KeKe-Li/book)
 - [learn-anything/books: Awesome Books](https://github.com/learn-anything/books)
+- [greyireland/awesome-programming-books-1: 计算机经典书籍📚，保留书单](https://github.com/greyireland/awesome-programming-books-1)
 
 ## Websites
 

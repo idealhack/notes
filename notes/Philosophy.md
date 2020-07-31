@@ -7,3 +7,4 @@
 ## Resources
 
 - [The History Of Philosophy](https://www.denizcemonduygu.com/philo/browse/)
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)

@@ -27,5 +27,6 @@
 - [bradleyjkemp/memviz: Visualize your data structures using graphviz](https://github.com/bradleyjkemp/memviz)
 - [TrueFurby/go-callvis: Visualize call graph of your Go program using dot format.](https://github.com/TrueFurby/go-callvis)
 - [google/gops: A tool to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
+- [gotestyourself/gotestsum: `go test` runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results.](https://github.com/gotestyourself/gotestsum)
 
 ## [[Go Resources]]

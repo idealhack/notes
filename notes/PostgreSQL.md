@@ -11,6 +11,12 @@ Dump tables:
 
     pg_dump -t 'aschema.atable' --schema-only database-name
 
+Create users and databases:
+
+    CREATE DATABASE db_name;
+    CREATE USER user_name WITH ENCRYPTED PASSWORD 'your_password';
+    GRANT ALL PRIVILEGES ON DATABASE db_name TO user_name;
+
 ## Resources
 
 - [dhamaniasad/awesome-postgres: A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql](https://github.com/dhamaniasad/awesome-postgres)
