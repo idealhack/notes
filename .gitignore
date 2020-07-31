@@ -1,4 +1,12 @@
+# nvALT
 Notes & Settings
 database.sqlite
 
+# Obsidian
+.obsidian
+
+# Zettlr
+.ztr-directory
+
+# publish
 public
