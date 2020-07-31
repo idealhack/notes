@@ -29,6 +29,13 @@
 <pre><code>pg_dump -t 'aschema.atable' --schema-only database-name
 </code></pre>
 
+<p>Create users and databases:</p>
+
+<pre><code>CREATE DATABASE db_name;
+CREATE USER user_name WITH ENCRYPTED PASSWORD 'your_password';
+GRANT ALL PRIVILEGES ON DATABASE db_name TO user_name;
+</code></pre>
+
 <h2>Resources</h2>
 
 <ul>
