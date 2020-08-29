@@ -11,6 +11,10 @@
 - [[Design Tools]]
 - [[Design Resources]]
 
+## User Experience
+
+- [Laws of UX](https://lawsofux.com/)
+
 ## Mobile Apps
 
 - [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)

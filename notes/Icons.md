@@ -11,3 +11,4 @@
 - [reduxframework/elusive-iconfont: Open-Source Iconfont.](https://github.com/reduxframework/elusive-iconfont)
 - [Feather – Simply beautiful open source icons](https://feathericons.com/)
 - [CSS ICON -- project by Wenting Zhang](http://cssicon.space/)
+- [astrit/css.gg: 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API](https://github.com/astrit/css.gg)

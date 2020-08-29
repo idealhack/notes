@@ -16,6 +16,14 @@
 - [入國管理局](http://www.immi-moj.go.jp/chinese/index.html)
 - [东京都](http://www.metro.tokyo.jp/chinese/index.html)
 
+#### Status
+
+- [Points-based Preferential Immigration Control and Residency Management Treatment for Highly-Skilled Foreign Professionals](http://www.immi-moj.go.jp/newimmiact_3/en/index.html)
+- [法務省：出入国管理及び難民認定法第七条第一項第二号の基準を定める省令の技術・人文知識・国際業務の在留資格に係る基準の特例を定める件](http://www.moj.go.jp/nyuukokukanri/kouhou/nyukan_hourei_h09.html)
+- [全国计算机技术与软件专业技术资格（水平）考试 - 维基百科](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E4%B8%8E%E8%BD%AF%E4%BB%B6%E4%B8%93%E4%B8%9A%E6%8A%80%E6%9C%AF%E8%B5%84%E6%A0%BC%EF%BC%88%E6%B0%B4%E5%B9%B3%EF%BC%89%E8%80%83%E8%AF%95)
+- [“中日信息技术考试”考试标准互认范围进一步扩大_工业和信息化部教育与考试中心](https://www.miiteec.org.cn/plus/view.php?aid=97)
+- [中国计算机技术职业资格网](http://www.ruankao.org.cn/introduction/zgsz)
+
 ### Apartment
 
 - [【R-STORE / 賃貸・売買】東京・神奈川・千葉・埼玉・福岡のデザイナーズ・リノベーション・おしゃれな物件探しはR-STORE](https://www.r-store.jp/)
@@ -47,6 +55,11 @@
 ### Finance
 
 - [Japan Tax Calculator](https://japantaxcalculator.com/)
+- [所得税と住民税の計算方法](https://gist.github.com/jmblog/6077993)
+- [Income Tax in Japan](https://gist.github.com/jmblog/6077992)
+- [厚生年金保険料の計算 - 高精度計算サイト](https://keisan.casio.jp/exec/system/1324270485)
+- [健康保険料の計算 - 高精度計算サイト](https://keisan.casio.jp/exec/system/1324355661)
+- [税金計算機 | 所得税・住民税簡易計算機](https://www.zeikin5.com/calc/)
 
 ## Resources
 

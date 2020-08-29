@@ -39,3 +39,4 @@
 - [xitu/front-end-handbook-2017: 2017 edition of our front-end development guide](https://github.com/xitu/front-end-handbook-2017)
 - [前端性能优化最佳实践](https://csspod.com/frontend-performance-best-practices/)
 - [dexteryy/spellbook-of-modern-webdev: A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development](https://github.com/dexteryy/spellbook-of-modern-webdev)
+- [The Open Graph protocol](https://ogp.me/)

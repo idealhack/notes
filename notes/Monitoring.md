@@ -41,7 +41,7 @@
 ### Others
 
 - [allinurl/goaccess: GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.](https://github.com/allinurl/goaccess)
-- [facebook/osquery: SQL powered operating system instrumentation, monitoring, and analytics.](https://github.com/facebook/osquery)
+- [osquery/osquery: SQL powered operating system instrumentation, monitoring, and analytics.](https://github.com/osquery/osquery)
 
 ## SaaS
 

@@ -14,3 +14,4 @@
 ## Resources
 
 - [rxin/db-readings: Readings in Databases](https://github.com/rxin/db-readings)
+- [设计数据密集型应用](https://vonng.gitbooks.io/ddia-cn/content/)

@@ -1,14 +1,20 @@
 # Kubernetes Application
 
+## API
+
+- [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
+- [kubernetes/client-go: Go client for Kubernetes.](https://github.com/kubernetes/client-go)
+
 ## Operators
 
 - [operator-framework/awesome-operators: A resource tracking a number of Operators out in the wild.](https://github.com/operator-framework/awesome-operators)
 - [OperatorHub.io | The registry for Kubernetes Operators](https://operatorhub.io/)
+- [kudobuilder/kudo: Kubernetes Universal Declarative Operator (KUDO)](https://github.com/kudobuilder/kudo)
 
 ## Tools
 
 - [Kubeapps, deploy your applications in Kubernetes](https://kubeapps.com/)
-- [kubernetes/kompose: Go from Docker Compose to Kubernetes](https://github.com/kubernetes-incubator/kompose)
+- [kubernetes/kompose: Go from Docker Compose to Kubernetes](https://github.com/kubernetes/kompose)
 - [weaveworks/kubediff: Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.](https://github.com/weaveworks/kubediff)
 - [hasura/gitkube: Gitkube: Build and deploy docker images to Kubernetes using git push.](https://github.com/hasura/gitkube)
 - [kubed-sh | The Kubernetes distributed shell, for the casual cluster user](http://kubed.sh/)
@@ -19,20 +25,12 @@
 - [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 - [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt)
 
-### kubectl
-
-- [The Kubectl Book](https://kubectl.docs.kubernetes.io/)
-- [GoogleContainerTools/krew: 📦 The package manager for "kubectl plugins"](https://github.com/GoogleContainerTools/krew)
-- [cloudnativelabs/kube-shell: Kubernetes shell: An integrated shell for working with the Kubernetes CLI](https://github.com/cloudnativelabs/kube-shell)
-
 ### Kustomize
 
 - [kubernetes-sigs/kustomize: Customization of kubernetes YAML configurations](https://github.com/kubernetes-sigs/kustomize)
 
-### ksonnet
+### Jsonnet
 
-- [ksonnet](https://ksonnet.io/)
-- [ksonnet/ksonnet: A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.](https://github.com/ksonnet/ksonnet)
 - [Jsonnet - The Data Templating Language](https://jsonnet.org/)
 - [jsonnet-bundler/jsonnet-bundler: A jsonnet package manager.](https://github.com/jsonnet-bundler/jsonnet-bundler)
 
@@ -41,11 +39,6 @@
 - [Helm - The Kubernetes Package Manager](https://helm.sh/)
 - [helm/helm: The Kubernetes Package Manager](https://github.com/helm/helm)
 - [Azure/draft: A tool for developers to create cloud-native applications on Kubernetes.](https://github.com/Azure/draft)
-
-## client-go
-
-- [kubernetes/client-go: Go client for Kubernetes.](https://github.com/kubernetes/client-go)
-- [如何在GO语言中使用Kubernetes API？](https://mp.weixin.qq.com/s/MHjuS21iIyV99-o5hESWCw)
 
 ## Real world
 

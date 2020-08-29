@@ -2,7 +2,7 @@
 
 ## Monitoring
 
-- [kubernetes-incubator/metrics-server](https://github.com/kubernetes-incubator/metrics-server)
+- [kubernetes-sigs/metrics-server: Cluster-wide aggregator of resource usage data.](https://github.com/kubernetes-sigs/metrics-server)
 - [weaveworks/scope: Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)
 - [salesforce/sloop: Kubernetes History Visualization](https://github.com/salesforce/sloop)
 
