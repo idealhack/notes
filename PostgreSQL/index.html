@@ -24,6 +24,20 @@
 
 <h2>Common Tasks</h2>
 
+<p>Connecting:</p>
+
+<pre><code>psql -h localhost -U username databasename
+</code></pre>
+
+<p>See running queries:</p>
+
+<pre><code>SELECT * FROM pg_stat_activity;
+-- Cancel
+SELECT pg_cancel_backend(PID);
+-- Kill the hard way
+SELECT pg_terminate_backend(PID);
+</code></pre>
+
 <p>Dump tables:</p>
 
 <pre><code>pg_dump -t 'aschema.atable' --schema-only database-name
