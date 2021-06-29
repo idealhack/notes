@@ -22,7 +22,6 @@
 - [databricks/click: The "Command Line Interactive Controller for Kubernetes"](https://github.com/databricks/click)
 - [garethr/kubeval: Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/garethr/kubeval)
 - [Azure/brigade: Event-based Scripting for Kubernetes.](https://github.com/Azure/brigade)
-- [GoogleContainerTools/kaniko: Build Container Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 - [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt)
 
 ### Kustomize

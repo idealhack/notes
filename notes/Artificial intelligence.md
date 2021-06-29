@@ -4,11 +4,8 @@
 
 - [人工智能 - 维基百科](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD)
 
-- [[Neural Network]]
 - [[Machine Learning]]
 - [[Face Detection]]
-- [[Pedestrian Detection]]
-- [[Pornographic Detection]]
 
 ## Services
 

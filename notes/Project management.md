@@ -16,6 +16,7 @@
 - [sdelements/lets-chat: Self-hosted chat app for small teams](https://github.com/sdelements/lets-chat)
 - [一連の業務の拠点となるデジタルワークスペース | Slack](https://slack.com/)
 - [rauchg/slackin: Public Slack organizations made easy](https://github.com/rauchg/slackin)
+- [google/triage-party: 🎉 Triage Party: massively multi-player GitHub triage 🎉](https://github.com/google/triage-party)
 
 ## Resources
 

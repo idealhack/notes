@@ -55,6 +55,7 @@
 - [matryer/moq: Interface mocking tool for go generate](https://github.com/matryer/moq)
 - [matryer/is: Professional lightweight testing mini-framework for Go.](https://github.com/matryer/is)
 - [dvyukov/go-fuzz: Randomized testing for Go](https://github.com/dvyukov/go-fuzz)
+- [google/gofuzz: Fuzz testing for go.](https://github.com/google/gofuzz)
 
 ### Utils
 

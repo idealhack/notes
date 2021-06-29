@@ -12,3 +12,4 @@
 - [Feather – Simply beautiful open source icons](https://feathericons.com/)
 - [CSS ICON -- project by Wenting Zhang](http://cssicon.space/)
 - [astrit/css.gg: 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API](https://github.com/astrit/css.gg)
+- [Noun Project: Free Icons & Stock Photos for Everything](https://thenounproject.com/)

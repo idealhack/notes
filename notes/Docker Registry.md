@@ -6,6 +6,10 @@
 
 ## Tools
 
+### ECR
+
+- [awslabs/amazon-ecr-credential-helper: Automatically gets credentials for Amazon ECR on docker push/docker pull](https://github.com/awslabs/amazon-ecr-credential-helper)
+
 ### GitLab
 
 - [GitLab Container Registry - GitLab Documentation](https://docs.gitlab.com/ce/user/project/container_registry.html)

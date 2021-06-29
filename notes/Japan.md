@@ -26,14 +26,12 @@
 
 ### Apartment
 
-- [【R-STORE / 賃貸・売買】東京・神奈川・千葉・埼玉・福岡のデザイナーズ・リノベーション・おしゃれな物件探しはR-STORE](https://www.r-store.jp/)
-- [リノベーション・デザイナーズ賃貸ならグッドルーム［goodroom］](https://www.goodrooms.jp/)
-- [Real Estate Japan︱专为外国人设计的日本房地产网站| 日本租房日本买房日本房屋 - Real Estate Japan](https://realestate.co.jp/zh_CN/)
-- [【SUUMO】不動産売買・住宅購入・賃貸情報ならリクルートの不動産ポータルサイト](https://suumo.jp/)
-- [【LIFULL HOME'S】不動産売買・賃貸・住宅情報サイト](https://www.homes.co.jp/)
-- [不動産のことなら【アットホーム】物件探しから住宅情報まで！](https://www.athome.co.jp/)
-- [中国語サイトのご案内｜賃貸のレオパレス21｜賃貸アパートやマンスリーマンション、一人暮らしの物件情報](https://www.leopalace21.com/cn/)
-- [Best-Estate(ベストエステート)｜在日外国人专用的不动产网站](https://www.best-estate.jp/cn/)
+- [HOME'S](https://www.homes.co.jp/)
+- [athome](https://www.athome.co.jp/)
+- [SUUMO](https://suumo.jp/)
+- [R-STORE](https://www.r-store.jp/)
+- [goodroom](https://www.goodrooms.jp/)
+- [大島てる](https://www.oshimaland.co.jp/)
 
 ### Mobile phone
 
@@ -61,6 +59,10 @@
 - [健康保険料の計算 - 高精度計算サイト](https://keisan.casio.jp/exec/system/1324355661)
 - [税金計算機 | 所得税・住民税簡易計算機](https://www.zeikin5.com/calc/)
 
+### Medical
+
+- [COVID-19 Vaccination Info](https://www.findadoc.jp/)
+
 ## Resources
 
 ### English
@@ -71,7 +73,9 @@
 - [JapanVisitor Japan Travel Guide](https://www.japanvisitor.com/)
 - [Live and Study in Japan - Go! Go! Nihon](https://gogonihon.com/en/)
 - [Time Out Tokyo | The best things to do in Tokyo](https://www.timeout.com/tokyo)
-- [GaijinPot - Work, Study, Travel in Japan](https://blog.gaijinpot.com/)
+- [GaijinPot](https://gaijinpot.com/)
+- [The Expat's Guide to Japan](https://expatsguide.jp/)
+- [Tokyo Life by Apts.jp](https://apts.jp/tokyo-life/)
 
 ### Chinese
 
@@ -83,6 +87,7 @@
 - [日息 - 一起了解不一样的日本](https://www.rixi.me/)
 - [日本打工度假&留學網](https://japanlifesupport.com/ch/index.html)
 - [在日本40岁退休 | 接地气，有态度的日本生活信息！](http://www.tuixiu40.com/)
+- [在東京](https://www.zai.tokyo/)
 - [MATCHA -日本旅游网络杂志](https://matcha-jp.com/cn)
 - [东京攻略](http://www.dongjinggonglue.com/)
 - [GURUNAVI -日本美食餐厅指南](https://gurunavi.com/zh-hans)

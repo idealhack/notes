@@ -13,6 +13,7 @@
 - [concurrencylabs/aws-pricing-tools: Lambda functions and scripts designed to simplify AWS pricing calculations. Includes a Lambda function that calculates near real-time price.](https://github.com/concurrencylabs/aws-pricing-tools)
 - [localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud apps offline!](https://github.com/localstack/localstack)
 - [AWS Training & Certification](https://www.aws.training/)
+- [Endgame](https://endgame.readthedocs.io/en/latest/)
 
 ## Tools
 

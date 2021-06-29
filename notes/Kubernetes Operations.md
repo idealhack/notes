@@ -24,6 +24,7 @@
 ## Distributions
 
 - [weaveworks/eksctl: The official CLI for Amazon EKS](https://github.com/weaveworks/eksctl)
+- [kubernetes-sigs/aws-iam-authenticator: A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster](https://github.com/kubernetes-sigs/aws-iam-authenticator)
 
 ## Platforms
 

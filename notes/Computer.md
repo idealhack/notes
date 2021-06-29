@@ -10,3 +10,4 @@
 ## Resources
 
 - [What every programmer should know about memory, Part 1](http://lwn.net/Articles/250967/?rss=1)
+- [Computing History Hub](https://www.notion.so/Computing-History-Hub-be72f307fc2e4b05abe3dc67eb937521)

@@ -18,5 +18,5 @@
 
 ## Resources
 
-- [论爱](http://nature-of-love.com/)
+- [让陌生人迅速相爱的36个问题 - 纽约时报中文网](https://cn.nytimes.com/culture/20150123/t23questions/)
 - [怎样决定是否要结束一段恋爱关系](https://www.douban.com/group/topic/38769888/)

@@ -28,12 +28,12 @@
 
 ### How can it be used
 
-You don’t need a block chain, if
+You don't need a blockchain if one of these is true:
 
-- you don’t need a database
+- you don't need a database
 - not many people need to write to it
 - those people trust each other
-- they have on person in common they trust
+- they have one person in common they trust
 
 ## Applications
 

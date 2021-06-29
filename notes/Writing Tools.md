@@ -26,6 +26,7 @@
 - [rstudio/blogdown: Create Blogs and Websites with R Markdown](https://github.com/rstudio/blogdown)
 - [gatsbyjs/gatsby: ⚛️📄🚀 Blazing fast static site generator for React](https://github.com/gatsbyjs/gatsby)
 - [vuejs/vuepress: 📝 Minimalistic Vue-powered static site generator](https://github.com/vuejs/vuepress)
+- [11ty/eleventy: A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.](https://github.com/11ty/eleventy/)
 
 ### Hugo
 

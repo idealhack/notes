@@ -7,6 +7,18 @@
 
 ## Common Tasks
 
+Connecting:
+
+    psql -h localhost -U username databasename
+
+See running queries:
+
+    SELECT * FROM pg_stat_activity;
+    -- Cancel
+    SELECT pg_cancel_backend(PID);
+    -- Kill the hard way
+    SELECT pg_terminate_backend(PID);
+
 Dump tables:
 
     pg_dump -t 'aschema.atable' --schema-only database-name
