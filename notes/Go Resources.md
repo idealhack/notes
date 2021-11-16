@@ -11,6 +11,7 @@
 - [Go知识图谱](https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0)
 - [developer-learning/learning-golang: Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）](https://github.com/developer-learning/learning-golang)
 - [hoanhan101/ultimate-go: The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)
+- [golang-standards/project-layout: Standard Go Project Layout](https://github.com/golang-standards/project-layout)
 
 ## Books
 

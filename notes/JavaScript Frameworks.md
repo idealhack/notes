@@ -5,7 +5,6 @@
 [TodoMVC](http://todomvc.com/)
 
 - [[jQuery]]
-- [[AngularJS]]
 - [[React]]
 - [[React Native]]
 - [[Vue.js]]
@@ -43,7 +42,6 @@
 - [jasmine/jasmine: Simple JavaScript testing framework for browsers and node.js](https://github.com/jasmine/jasmine)
 - [mochajs/mocha: ☕️ simple, flexible, fun javascript test framework for node.js & the browser](https://github.com/mochajs/mocha)
 - [chaijs/chai: BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.](https://github.com/chaijs/chai)
-- [casperjs/casperjs: Navigation scripting and testing utility for PhantomJS and SlimerJS](https://github.com/casperjs/casperjs)
 - [assaf/zombie: Insanely fast, full-stack, headless browser testing using node.js](https://github.com/assaf/zombie)
 - [sinonjs/sinon: Test spies, stubs and mocks for JavaScript.](https://github.com/sinonjs/sinon)
 - [facebook/jest: 🃏 Delightful JavaScript Testing.](https://github.com/facebook/jest)

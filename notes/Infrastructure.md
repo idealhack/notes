@@ -5,6 +5,13 @@
 - [Topic: infrastructure-as-code](https://github.com/topics/infrastructure-as-code)
 - [philpep/testinfra: Testinfra test your infrastructures](https://github.com/philpep/testinfra);
 - [github/octodns: Tools for managing DNS across multiple providers](https://github.com/github/octodns)
+- [[Ansible]]
+- [SaltStack](http://saltstack.com/)
+- [Puppet](https://puppet.com/)
+- [Chef](https://www.chef.io/chef/)
+- [Superviso](http://supervisord.org/)
+- [Shipit](https://github.com/shipitjs/shipit)
+- [Habitat](https://www.habitat.sh/)
 
 ### Terraform
 

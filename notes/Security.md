@@ -2,8 +2,6 @@
 
 ## [[Web Security]]
 
-## [[Linux Security]]
-
 ## [[Network Security]]
 
 ## [[Reverse Engineering]]

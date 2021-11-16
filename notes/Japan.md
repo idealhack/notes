@@ -95,6 +95,10 @@
 - [這裡才知道的日本流行情報 | Japaholic](https://www.japaholic.com/cn/)
 - [旅遊 | Tokyo Creative 日玩客](https://cn.tokyocreative.com/travel)
 
+### Japanese
+
+- [日本の歴史を分かりやすく解説!! | 時代の流れを簡潔にまとめました。1分でまとめた動画や、ちょっと面白い雑学などもあります!!](https://xn--u9j228h2jmngbv0k.com/)
+
 #### Books
 
 - [孤独星球 Lonely planet：日本（2016年版） (豆瓣)](https://book.douban.com/subject/26841390/)

@@ -9,11 +9,14 @@
 
 - [ariya/phantomjs: Scriptable Headless WebKit](https://github.com/ariya/phantomjs)
 - [laurentj/slimerjs: A scriptable browser like PhantomJS, based on Firefox](https://github.com/laurentj/slimerjs)
-- [mozilla/chromeless: Build desktop applications with web technologies.](https://github.com/mozilla/chromeless)
 
 ## Libraries
 
 - [es-shims/es5-shim: ECMAScript 5 compatibility shims for legacy (and modern) JavaScript engines](https://github.com/es-shims/es5-shim)
+
+## Testing
+
+- [Browserling – Online cross-browser testing](https://www.browserling.com/)
 
 ## Resources
 

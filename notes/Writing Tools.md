@@ -52,6 +52,8 @@
 - [ryan-roemer/sphinx-bootstrap-theme: Sphinx Bootstrap Theme](https://github.com/ryan-roemer/sphinx-bootstrap-theme)
 - [Bootswatch: Free themes for Bootstrap](http://bootswatch.com/)
 
+### [[LaTeX]]
+
 ## Wiki
 
 - [TiddlyWiki — a non-linear personal web notebook](http://tiddlywiki.com/)

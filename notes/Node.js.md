@@ -16,7 +16,6 @@
 - [NetEase/pomelo: A fast,scalable,distributed game server framework for Node.js.](https://github.com/NetEase/pomelo)
 - [socketio/socket.io: Realtime application framework (Node.JS server)](https://github.com/socketio/socket.io)
 - [hoodiehq/hoodie: The Offline First JavaScript Backend](https://github.com/hoodiehq/hoodie)
-- [laktek/punch: A fun and easy way to build modern websites](https://github.com/laktek/punch)
 - [socketstream/socketstream: A framework for Realtime Web Apps](https://github.com/socketstream/socketstream)
 
 ## Libraries
@@ -96,7 +95,6 @@
 - [caolan/forms: An easy way to create, parse and validate forms in node.js](https://github.com/caolan/forms)
 - [strophe/strophejs: Strophe.js is an XMPP library for JavaScript](https://github.com/strophe/strophejs)
 - [mikedeboer/jsDAV: jsDAV allows you to easily add WebDAV support to a NodeJS application. jsDAV is meant to cover the entire standard, and attempts to allow integration using an easy to understand API.](https://github.com/mikedeboer/jsDAV)
-- [fzaninotto/screenshot-as-a-service: Website screenshot service powered by node.js and phantomjs](https://github.com/fzaninotto/screenshot-as-a-service)
 - [brenden/node-webshot: Easy website screenshots in Node.js](https://github.com/brenden/node-webshot)
 - [ruipgil/scraperjs: A complete and versatile web scraper.](https://github.com/ruipgil/scraperjs)
 

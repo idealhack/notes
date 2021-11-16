@@ -6,7 +6,7 @@
 - [[Go]]
 - [[Database]]
 - [[Nginx]]
-- [[Linux Load Blancing]]
+- [[Linux Load Balancing]]
 - [[Web Crawling]]
 - [[Backend Best Practises]]
 - [[Backend Performance]]

@@ -25,3 +25,4 @@
 
 - [ZeroTier](https://www.zerotier.com/)
 - [TeamViewer](https://www.teamviewer.com/)
+- [[Netcat]]

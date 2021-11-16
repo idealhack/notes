@@ -8,7 +8,6 @@
 
 - [open-guides/og-aws: 📙 Amazon Web Services — a practical guide](https://github.com/open-guides/og-aws)
 - [donnemartin/awesome-aws: A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.](https://github.com/donnemartin/awesome-aws)
-- [Amazon EC2 Instance Comparison](https://www.ec2instances.info/)
 - [Amazon Web Services Simple Monthly Calculator](https://calculator.s3.amazonaws.com/index.html?lng=zh_CN)
 - [concurrencylabs/aws-pricing-tools: Lambda functions and scripts designed to simplify AWS pricing calculations. Includes a Lambda function that calculates near real-time price.](https://github.com/concurrencylabs/aws-pricing-tools)
 - [localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud apps offline!](https://github.com/localstack/localstack)
@@ -19,6 +18,12 @@
 
 - [aelsabbahy/goss: Quick and Easy server testing/validation](https://github.com/aelsabbahy/goss)
 - [cznewt/infra-scraper: Infrastructure metadata scraper with support for K8S, AWS, OpenStack, Terraform and SaltStack for further relational analysis and visualization (which is also included).](https://github.com/cznewt/infra-scraper)
+
+## Cost
+
+- [Cloud Cost Handbook](https://handbook.vantage.sh/)
+- [Amazon Instances Comparison](https://instances.vantage.sh/)
+- [GCP Compute Engine Instance Comparison](https://gcpinstances.info/)
 
 ## Cloud Native
 

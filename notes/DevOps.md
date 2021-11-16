@@ -4,16 +4,7 @@
 
 - [DevOps - 维基百科](https://zh.wikipedia.org/zh-hans/DevOps)
 
-## Tools
-
-- [[Ansible]]
-- [[Terraform]]
-- [SaltStack](http://saltstack.com/)
-- [Puppet](https://puppet.com/)
-- [Chef](https://www.chef.io/chef/)
-- [Superviso](http://supervisord.org/)
-- [Shipit](https://github.com/shipitjs/shipit)
-- [Habitat](https://www.habitat.sh/)
+## [[Infrastructure]]
 
 ## Resources
 

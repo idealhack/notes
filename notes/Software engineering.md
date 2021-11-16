@@ -19,6 +19,8 @@
 ## Career
 
 - [jorgef/engineeringladders: A framework for Engineering Managers](https://github.com/jorgef/engineeringladders)
+- [Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+- [Square’s Growth Framework for Engineers and Engineering Managers | Square Corner Blog](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/)
 - [Levels.fyi | Salaries & Tools to Level Up Your Career](https://www.levels.fyi/)
 - [职级对标](https://duibiao.info/)
 

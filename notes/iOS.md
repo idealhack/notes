@@ -1,7 +1,5 @@
 # iOS
 
-## [[iOS Apps]]
-
 ## [[iOS Libraries]]
 
 ## Develop Guide
