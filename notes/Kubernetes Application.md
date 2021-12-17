@@ -2,12 +2,11 @@
 
 ## API
 
-- [Kubernetes API Reference Docs](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/)
+- [API Overview | Kubernetes](https://kubernetes.io/docs/reference/using-api/)
 - [kubernetes/client-go: Go client for Kubernetes.](https://github.com/kubernetes/client-go)
 
 ## Operators
 
-- [operator-framework/awesome-operators: A resource tracking a number of Operators out in the wild.](https://github.com/operator-framework/awesome-operators)
 - [OperatorHub.io | The registry for Kubernetes Operators](https://operatorhub.io/)
 - [kudobuilder/kudo: Kubernetes Universal Declarative Operator (KUDO)](https://github.com/kudobuilder/kudo)
 
@@ -16,8 +15,6 @@
 - [Kubeapps, deploy your applications in Kubernetes](https://kubeapps.com/)
 - [kubernetes/kompose: Go from Docker Compose to Kubernetes](https://github.com/kubernetes/kompose)
 - [weaveworks/kubediff: Kubediff: a tool for Kubernetes to show differences between running state and version controlled configuration.](https://github.com/weaveworks/kubediff)
-- [hasura/gitkube: Gitkube: Build and deploy docker images to Kubernetes using git push.](https://github.com/hasura/gitkube)
-- [kubed-sh | The Kubernetes distributed shell, for the casual cluster user](http://kubed.sh/)
 - [GoogleContainerTools/skaffold: Easy and Repeatable Kubernetes Development](https://github.com/GoogleContainerTools/skaffold)
 - [databricks/click: The "Command Line Interactive Controller for Kubernetes"](https://github.com/databricks/click)
 - [garethr/kubeval: Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/garethr/kubeval)
@@ -37,7 +34,6 @@
 
 - [Helm - The Kubernetes Package Manager](https://helm.sh/)
 - [helm/helm: The Kubernetes Package Manager](https://github.com/helm/helm)
-- [Azure/draft: A tool for developers to create cloud-native applications on Kubernetes.](https://github.com/Azure/draft)
 
 ## Real world
 

@@ -28,8 +28,7 @@
 ## Tools
 
 - [docker-slim/docker-slim: DockerSlim (docker-slim): Optimize and secure your Docker containers (free and open source)](https://github.com/docker-slim/docker-slim)
-- [coreos/clair: Vulnerability Static Analysis for Containers](https://github.com/coreos/clair)
-- [spotify/docker-gc: Docker garbage collection of containers and images](https://github.com/spotify/docker-gc)
+- [quay/clair: Vulnerability Static Analysis for Containers](https://github.com/quay/clair)
 
 ## [[Docker Resources]]
 

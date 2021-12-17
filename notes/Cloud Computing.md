@@ -40,6 +40,10 @@
 - [kubeless/kubeless: Kubernetes Native Serverless Framework](https://github.com/kubeless/kubeless)
 - [anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless)
 
+## Security
+
+- [aquasecurity/cloudsploit: Cloud Security Posture Management (CSPM)](https://github.com/aquasecurity/cloudsploit)
+
 ## Resources
 
 - [解读 | 你真正理解什么是Cloud Native吗？ - DockOne.io](http://www.dockone.io/article/688)

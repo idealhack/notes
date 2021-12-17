@@ -3,7 +3,7 @@
 ## Overview
 
 - [Linkerd](https://linkerd.io/)
-- [linkerd/linkerd: Resilient service mesh for cloud native apps](https://github.com/linkerd/linkerd)
+- [linkerd/linkerd2: Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.](https://github.com/linkerd/linkerd2)
 - [linkerd官方文档中文版](https://doczhcn.gitbooks.io/linkerd/content/)
 
 ## Resources

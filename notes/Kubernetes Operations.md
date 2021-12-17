@@ -34,8 +34,8 @@
 
 ## Manage
 
-- [heptio/sonobuoy: Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests in an accessible and non-destructive manner.](https://github.com/heptio/sonobuoy)
-- [heptio/velero: Backup and migrate Kubernetes applications and their persistent volumes](https://github.com/heptio/velero)
+- [vmware-tanzu/sonobuoy: Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.](https://github.com/vmware-tanzu/sonobuoy)
+- [vmware-tanzu/velero: Backup and migrate Kubernetes applications and their persistent volumes](https://github.com/vmware-tanzu/velero)
 
 ## Others
 
