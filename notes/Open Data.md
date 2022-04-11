@@ -7,6 +7,8 @@
 ## Public APIs
 
 - [Public APIs UI](https://public-apis.xyz/)
+- [public-apis/public-apis: A collective list of free APIs](https://github.com/public-apis/public-apis)
+- [The fastest way to integrate APIs into any product | M3O](https://m3o.com/)
 
 ### Environment
 

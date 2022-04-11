@@ -26,4 +26,4 @@
 
 ## Study
 
-- [美国留学就业规划|Warald咨询](https://www.1point3acres.com/)
+- [一亩三分地社区](https://www.1point3acres.com/)

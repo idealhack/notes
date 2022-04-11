@@ -5,6 +5,7 @@
 - [[Shopping]]
 - [[Chained-brand Hotels]]
 - [[Credit card]]
+- [[Drink]]
 
 ## Resources
 

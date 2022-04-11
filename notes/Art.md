@@ -6,6 +6,7 @@
 
 ## Type
 
+- [[Photography]]
 - [[Music]]
 - [[Movie]]
 - [[Game]]

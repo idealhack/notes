@@ -6,7 +6,7 @@
 - [weaveworks/scope: Monitoring, visualisation & management for Docker & Kubernetes](https://github.com/weaveworks/scope)
 - [salesforce/sloop: Kubernetes History Visualization](https://github.com/salesforce/sloop)
 
-## Prometheus
+### Prometheus
 
 - [prometheus/prometheus: The Prometheus monitoring system and time series database.](https://github.com/prometheus/prometheus)
 - [prometheus-operator/prometheus-operator: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes](https://github.com/prometheus-operator/prometheus-operator)
@@ -20,6 +20,12 @@
 - [Standing Up a ZOP Stack in Kubernetes - {code}](https://blog.codedellemc.com/2017/07/25/standing-zop-stack-kubernetes/?cmp=soc-cor-glbl-us-sprinklr-TWITTER--codeDellEMC-1001768203)
 - [使用 Prometheus + Grafana 对 Kubernetes 进行性能监控的实践](https://mp.weixin.qq.com/s?__biz=MzA4OTMxODQwNA==&mid=2650979194&idx=1&sn=7be1a3db2bebdf2ca7a69cefc2d8d26f)
 - [DockOne微信分享（一七三）：全面学习Prometheus - DockOne.io](http://dockone.io/article/5716)
+
+## Events
+
+- [opsgenie/kubernetes-event-exporter: Export Kubernetes events to multiple destinations with routing and filtering](https://github.com/opsgenie/kubernetes-event-exporter)
+- [AliyunContainerService/kube-eventer: kube-eventer emit kubernetes events to sinks](https://github.com/AliyunContainerService/kube-eventer)
+- [bitnami-labs/kubewatch: Watch k8s events and trigger Handlers](https://github.com/bitnami-labs/kubewatch)
 
 ## Logging
 

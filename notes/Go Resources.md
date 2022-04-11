@@ -32,11 +32,16 @@
 - [ffhelicopter/Go42: 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。](https://github.com/ffhelicopter/Go42)
 - [Go2编程指南](https://chai2010.cn/go2-book/)
 - [changkun/go-under-the-hood: 📚 Go Under The Hood: A Source Code Study of Go](https://github.com/changkun/go-under-the-hood)
+- [Let's Go! A start-to-finish guide to building web apps with Go](https://lets-go.alexedwards.net/)
 
 ## Blogs
 
 - [golangspec – Medium](https://medium.com/golangspec)
 - [Go, the unwritten parts](https://rakyll.org/)
+
+## Style guides
+
+- [uber-go/guide: The Uber Go Style Guide.](https://github.com/uber-go/guide)
 
 ## Articles
 

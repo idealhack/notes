@@ -16,10 +16,6 @@
 - [Starwood Hotels & Resorts](http://www.starwoodhotels.com/)
 - [喜達屋酒店及度假酒店國際集團 - 维基百科](https://zh.wikipedia.org/wiki/%E5%96%9C%E9%81%94%E5%B1%8B%E9%85%92%E5%BA%97%E5%8F%8A%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97%E5%9C%8B%E9%9A%9B%E9%9B%86%E5%9C%98)
 
-#### Offers
-
-- [酒店入门：也谈SPG一夜升金及各种回血套路-51信用卡社区](https://credit.u51.com/post/159886.html)
-
 ### Hyatt
 
 - [Hyatt.com](https://www.hyatt.com/zh-CN/home)

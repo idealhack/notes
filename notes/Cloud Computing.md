@@ -24,6 +24,8 @@
 - [Cloud Cost Handbook](https://handbook.vantage.sh/)
 - [Amazon Instances Comparison](https://instances.vantage.sh/)
 - [GCP Compute Engine Instance Comparison](https://gcpinstances.info/)
+- [Cloud cost estimates for Terraform in pull requests | Infracost](https://www.infracost.io/)
+- [Kubecost | Kubernetes cost monitoring and management](https://www.kubecost.com/)
 
 ## Cloud Native
 

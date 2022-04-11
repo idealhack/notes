@@ -47,7 +47,3 @@
 ### 上海银行
 
 ### 渣打银行
-
-## Resources
-
-- [招行玩卡汇总 | 入门 or 升级白金，看这一篇就够了](https://mp.weixin.qq.com/s?__biz=MzI3MDE3MTg0OQ==&mid=2743454960&idx=1&sn=157df2bcdb66e4ec402db61bf5fd4aad)

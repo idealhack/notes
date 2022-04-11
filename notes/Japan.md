@@ -46,9 +46,12 @@
 
 - [日本的免稅制度 - LIVE JAPAN (日本的旅行·旅游·体验向导)](https://livejapan.com/zh-cn/article-a0000238/)
 
-### Hotel
+### Travel
 
+- [【トラベルコ】旅行比較サイト｜格安航空券・ホテル・ツアー](https://www.tour.ne.jp/)
 - [Jalan : 日本酒店和日式旅馆的预订网站](http://www.jalan.net/cn/japan_hotels_ryokan/)
+
+#### [[Japan Ski]]
 
 ### Finance
 

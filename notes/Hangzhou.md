@@ -15,8 +15,6 @@
 - [Lonely Planet:浙江(2013年全新版) (豆瓣)](https://book.douban.com/subject/25796927/)
 - [Lonely Planet “IN”系列：杭州 (豆瓣)](https://book.douban.com/subject/26266981/)
 
-## Places to go
-
 ### 西湖南线
 
 - 雷峰塔 P52
@@ -74,7 +72,7 @@
 - 青芝坞 P183
 - 西溪湿地 P208
 
-## Food
+### Food
 
 - 东坡肉 P107、P137
 - 西湖醋鱼 P140
@@ -86,8 +84,3 @@
 - 外婆家 P141
 - 绿茶 P107
 - 新白鹿 P140
-
-## Resources
-
-- [有氧慢旅行：12小时玩杭州|休闲户外|大粤社区|广东城市生活社区](http://mygd.qq.com/forum.php?mod=viewthread&tid=559549)
-- [杭州地铁1-10号线通车时间来了！还有城际铁路最新进展！](https://mp.weixin.qq.com/s/jA002Tm_uUICl_Xx1OQ0lw)

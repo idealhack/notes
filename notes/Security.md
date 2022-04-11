@@ -12,6 +12,10 @@
 - [A New Kind of Instant Messaging](https://tox.chat/)
 - [caffix/amass: Subdomain Enumeration in Go](https://github.com/caffix/amass)
 
+### Access
+
+- [hashicorp/boundary: Boundary enables identity-based access management for dynamic infrastructure.](https://github.com/hashicorp/boundary)
+
 ### Penetration
 
 - [Metasploit](https://www.metasploit.com/)

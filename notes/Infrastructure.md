@@ -24,3 +24,7 @@
 
 - [cloudposse/terraform-aws-vpc-peering: Terraform module to create a peering connection between two VPCs in the same AWS account.](https://github.com/cloudposse/terraform-aws-vpc-peering)
 - [cloudposse/terraform-aws-vpc-peering-multi-account: Terraform module to provision a VPC peering across multiple VPCs in different accounts by using multiple providers](https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account)
+
+### tools
+
+- [weaveworks/tf-controller: A GitOps Terraform controller for Kubernetes](https://github.com/weaveworks/tf-controller)

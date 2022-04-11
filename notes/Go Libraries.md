@@ -68,6 +68,7 @@
 - [tidwall/gjson: Get JSON values quickly - JSON Parser for Go](https://github.com/tidwall/gjson)
 - [robfig/cron: a cron library for go](https://github.com/robfig/cron)
 - [kelseyhightower/envconfig: Golang library for managing configuration data from environment variables](https://github.com/kelseyhightower/envconfig)
+- [samber/lo: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)](https://github.com/samber/lo)
 
 ### Data
 

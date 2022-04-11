@@ -20,6 +20,8 @@
 - [garethr/kubeval: Validate your Kubernetes configuration files, supports multiple Kubernetes versions](https://github.com/garethr/kubeval)
 - [Azure/brigade: Event-based Scripting for Kubernetes.](https://github.com/Azure/brigade)
 - [GoogleContainerTools/kpt](https://github.com/GoogleContainerTools/kpt)
+- [datreeio/datree: Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io](https://github.com/datreeio/datree)
+- [hashicorp/waypoint: A tool to build, deploy, and release any application on any platform.](https://github.com/hashicorp/waypoint)
 
 ### Kustomize
 

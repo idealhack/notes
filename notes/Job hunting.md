@@ -28,3 +28,5 @@
 - [Bridge The Right Way to Accept a Job Offer - Bridge](https://designerfund.com/bridge/right-way-accept-job-offer/)
 - [lietoumai/Hunter: 关于职位/面试/谈Offer/程序员职场生涯等](https://github.com/lietoumai/Hunter)
 - [英國打工度假－尋找軟體工程師工作，倫敦求職面試經驗分享](https://blog.twsiyuan.com/2018/08/find-a-software-developer-job-in-london.html)
+- [Ebazhanov/linkedin-skill-assessments-quizzes: Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+
