@@ -91,6 +91,11 @@
 
 > 日英·英日辞典，非常重要的工具，有很多表达不会的时候，请将英语当作桥梁，由于英语为世界第一语言的关系，日英辞典的质量肯定比日汉词典要好
 
+## Tests
+
+- [JLPT Japanese-Language Proficiency Test](https://www.jlpt.jp/e/index.html)
+- [JEES Japanese Language Proficiency Test Home](https://info.jees-jlpt.jp/)
+
 ## Resources
 
 - [日語.io](https://riyu.io/)
@@ -98,3 +103,5 @@
 - [yudataguy/Awesome-Japanese: Awesome Japanese learning resource](https://github.com/yudataguy/Awesome-Japanese)
 - [日語學習常見問題 – Telegraph](https://telegra.ph/%E6%97%A5%E8%AA%9E%E5%AD%B8%E7%BF%92%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C-05-03)
 - [Just a little Japanese | Even some Japanese might not know it, either.](https://justalittlejapanese.com/)
+- [JICE 一般財団法人 日本国際協力センター](https://www.jice.org/)
+- [Japanese Tactics - Strategies for Learning Japanese](https://japanesetactics.com/)

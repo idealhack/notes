@@ -32,3 +32,8 @@
 - [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [keithnull/TeachYourselfCS-CN: TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS](https://github.com/keithnull/TeachYourselfCS-CN)
+
+### Books
+
+- [mhadidg/software-architecture-books: A comprehensive list of books on Software Architecture.](https://github.com/mhadidg/software-architecture-books)
+- [weartist/computer-book-list: 一个综合了豆瓣，goodreads综合评分的计算机书籍书单](https://github.com/weartist/computer-book-list)

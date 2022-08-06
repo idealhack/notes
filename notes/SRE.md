@@ -34,3 +34,4 @@
 - [Site Reliability Engineering: Measuring and Managing Reliability | Coursera](https://www.coursera.org/learn/site-reliability-engineering-slos)
 - [cross-community/study-area-docs: SRE 讀書會 導讀文件 原始檔](https://github.com/cross-community/study-area-docs)
 - [Runbooks](https://containersolutions.github.io/runbooks/)
+- [endoflife.date](https://endoflife.date/)

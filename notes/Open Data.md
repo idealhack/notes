@@ -9,6 +9,7 @@
 - [Public APIs UI](https://public-apis.xyz/)
 - [public-apis/public-apis: A collective list of free APIs](https://github.com/public-apis/public-apis)
 - [The fastest way to integrate APIs into any product | M3O](https://m3o.com/)
+- [wanglin2/douban_api: 豆瓣API服务](https://github.com/wanglin2/douban_api)
 
 ### Environment
 
@@ -41,3 +42,4 @@
 - [awesomedata/awesome-public-datasets: A topic-centric list of high-quality open datasets in public domains.](https://github.com/awesomedata/awesome-public-datasets)
 - [imhuster/Enterprise-Registration-Data-of-Chinese-Mainland: 中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland)
 - [OpenSpending](https://openspending.org/)
+- [Version Museum: A Visual History of Your Favorite Technology](https://www.versionmuseum.com/)

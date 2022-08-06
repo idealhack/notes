@@ -60,7 +60,7 @@
 - [alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
 - [kdn251/interviews: Everything you need to know to get the job.](https://github.com/kdn251/interviews)
 - [Google Interview University 一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
-- [yangshun/tech-interview-handbook: 💯 Algorithms study materials, behavioral content and tips for rocking your coding interview](https://github.com/yangshun/tech-interview-handbook)
+- [yangshun/tech-interview-handbook: 💯 Curated interview preparation materials for busy engineers](https://github.com/yangshun/tech-interview-handbook)
 - [笔试面试知识整理](https://hit-alibaba.github.io/interview/)
 - [如何准备法国IT技术面试 | Zhenyi's Blog](http://zhangzhenyi.com/2017/05/15/technical-interview-preparation-in-france/)
 - [程序员面试金典--笔记(精华篇) | SWF's Hacking Dream](http://codeshold.me/2017/01/cracking_interview.html)

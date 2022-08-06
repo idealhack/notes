@@ -17,7 +17,12 @@
 ## Tools
 
 - [aelsabbahy/goss: Quick and Easy server testing/validation](https://github.com/aelsabbahy/goss)
-- [cznewt/infra-scraper: Infrastructure metadata scraper with support for K8S, AWS, OpenStack, Terraform and SaltStack for further relational analysis and visualization (which is also included).](https://github.com/cznewt/infra-scraper)
+- [awslabs/aws-perspective: AWS Perspective is a solution to visualize AWS Cloud workloads. Using Perspective you can build, customize, and share detailed architecture diagrams of your workloads based on live data from AWS. Perspective works by maintaining an inventory of the AWS resources across your accounts and regions, mapping relationships between them and displaying them in the Web User Interface (Web UI). When you need to make changes to a resource, Perspective saves time by providing a link to the resource in the AWS Console.](https://github.com/awslabs/aws-perspective)
+- [lyft/cartography: Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database.](https://github.com/lyft/cartography)
+- [anaynayak/aws-security-viz: Visualize your aws security groups.](https://github.com/anaynayak/aws-security-viz)
+- [duo-labs/cloudmapper: CloudMapper helps you analyze your Amazon Web Services (AWS) environments.](https://github.com/duo-labs/cloudmapper)
+- [Cloudcraft – Draw AWS diagrams](https://www.cloudcraft.co/)
+- [Cloud-Architects/cloudiscovery: The tool to help you discover resources in the cloud environment](https://github.com/Cloud-Architects/cloudiscovery)
 
 ## Cost
 

@@ -19,6 +19,8 @@
 - [hashicorp/terraform: Terraform is a tool for building, changing, and combining infrastructure safely and efficiently.](https://github.com/hashicorp/terraform)
 - [dtan4/terraforming: Export existing AWS resources to Terraform style (tf, tfstate)](https://github.com/dtan4/terraforming)
 - [aquasecurity/tfsec: Security scanner for your Terraform code](https://github.com/aquasecurity/tfsec)
+- [cycloidio/terracognita: Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration](https://github.com/cycloidio/terracognita)
+- [cycloidio/inframap: Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.](https://github.com/cycloidio/inframap)
 
 #### modules
 

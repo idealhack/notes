@@ -79,3 +79,5 @@
 - [AlgoCasts 用心做好每一个算法视频](https://algocasts.io/)
 - [greyireland/algorithm-pattern: 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~](https://github.com/greyireland/algorithm-pattern)
 - [halfrost/LeetCode-Go: ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解](https://github.com/halfrost/LeetCode-Go)
+- [New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time - Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Neetcode](https://neetcode.io/)

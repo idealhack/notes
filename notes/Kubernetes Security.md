@@ -14,6 +14,7 @@
 
 - [Auditing - Kubernetes](https://kubernetes.io/docs/tasks/debug-application-cluster/audit/)
 - [Kubernetes Audit Logging Tutorial | Benji Visser](http://www.noqcks.io/notes/2018/03/31/kubernetes-audit-logging-tutorial/)
+- [infrahq/infra: Manage infrastructure access](https://github.com/infrahq/infra)
 
 ### RBAC
 

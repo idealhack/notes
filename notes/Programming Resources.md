@@ -38,6 +38,7 @@
 - [wxyyxc1992/Awesome-CheatSheet: Overview of syntax, features and practical tips, collection of useful code snippets, go from zero to hero at fly. 语法速览, 实践备忘，从零到一，上手即用](https://github.com/wxyyxc1992/Awesome-CheatSheet)
 - [Devhints — TL;DR for developer documentation](https://devhints.io/)
 - [tldr-pages/tldr: Simplified and community-driven man pages](https://github.com/tldr-pages/tldr)
+- [cheat/cheat: cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.](https://github.com/cheat/cheat)
 - [chubin/cheat.sh: the only cheat sheet you need](https://github.com/chubin/cheat.sh)
 - [Cheatography: Cheat Sheets For Every Occasion](https://www.cheatography.com/)
 

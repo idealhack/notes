@@ -53,6 +53,8 @@
 
 #### [[Japan Ski]]
 
+#### [[Japan Camping]]
+
 ### Finance
 
 - [Japan Tax Calculator](https://japantaxcalculator.com/)
