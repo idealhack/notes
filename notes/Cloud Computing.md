@@ -13,6 +13,7 @@
 - [localstack/localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud apps offline!](https://github.com/localstack/localstack)
 - [AWS Training & Certification](https://www.aws.training/)
 - [Endgame](https://endgame.readthedocs.io/en/latest/)
+- [spulec/moto: A library that allows you to easily mock out tests based on AWS infrastructure.](https://github.com/spulec/moto)
 
 ## Tools
 
@@ -23,6 +24,7 @@
 - [duo-labs/cloudmapper: CloudMapper helps you analyze your Amazon Web Services (AWS) environments.](https://github.com/duo-labs/cloudmapper)
 - [Cloudcraft – Draw AWS diagrams](https://www.cloudcraft.co/)
 - [Cloud-Architects/cloudiscovery: The tool to help you discover resources in the cloud environment](https://github.com/Cloud-Architects/cloudiscovery)
+- [turbot/steampipe: Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.](https://github.com/turbot/steampipe)
 
 ## Cost
 

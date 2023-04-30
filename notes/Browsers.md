@@ -7,8 +7,7 @@
 
 ## Scriptable browsers
 
-- [ariya/phantomjs: Scriptable Headless WebKit](https://github.com/ariya/phantomjs)
-- [laurentj/slimerjs: A scriptable browser like PhantomJS, based on Firefox](https://github.com/laurentj/slimerjs)
+- [puppeteer/puppeteer: Headless Chrome Node.js API](https://github.com/puppeteer/puppeteer)
 
 ## Libraries
 

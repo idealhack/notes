@@ -38,4 +38,5 @@
 
 ## Resources
 
+- [The R Graph Gallery – Help and inspiration for R charts](https://r-graph-gallery.com/)
 - [Matplotlib 画图教程系列 | 莫烦Python](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)

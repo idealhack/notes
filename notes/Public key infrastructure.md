@@ -42,7 +42,7 @@
 
 ### Certificate Pinning
 
-- [Certificate and Public Key Pinning - OWASP](https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning)
+- [Certificate and Public Key Pinning | OWASP Foundation](https://owasp.org/www-community/controls/Certificate_and_Public_Key_Pinning)
 - [Certificate pinning for Android and iOS: Man-in-the-middle attack prevention | NowSecure Blog](https://www.nowsecure.com/blog/2017/06/15/certificate-pinning-for-android-and-ios-mobile-man-in-the-middle-attack-prevention/)
 - [Bypassing OpenSSL Certificate Pinning in iOS Apps](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2015/january/bypassing-openssl-certificate-pinning-in-ios-apps/)
 - [iphone - How to pin the Public key of a certificate on iOS - Stack Overflow](https://stackoverflow.com/questions/15728636/how-to-pin-the-public-key-of-a-certificate-on-ios?answertab=votes)

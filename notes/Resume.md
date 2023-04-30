@@ -8,6 +8,7 @@
 - [mwhite/resume: Markdown -> PDF/HTML resumé generator](https://github.com/mwhite/resume)
 - [dnl-blkv/mcdowell-cv: A Nice-looking CV template made into LaTeX](https://github.com/dnl-blkv/mcdowell-cv)
 - [posquit0/Awesome-CV: Awesome CV is LaTeX template for your outstanding job application](https://github.com/posquit0/Awesome-CV)
+- [Standard Resume: Build an Impressive Resume in 5 Minutes](https://standardresume.co/)
 
 ## Resources
 

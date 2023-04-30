@@ -6,4 +6,4 @@
 
 ## Steps
 
-- [[Interview]]]
+- [[Technical Interview]]

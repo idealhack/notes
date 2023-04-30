@@ -35,7 +35,6 @@
 #### Gargoyle
 
 - [Gargoyle Router Management Utility](https://www.gargoyle-router.com/)
-- [石像鬼gargoyle固件 R51 使用教程](http://gygy.github.io/)
 
 ## DNS
 

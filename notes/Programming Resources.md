@@ -23,7 +23,8 @@
 ## Websites
 
 - [The Tech Terms Computer Dictionary](https://techterms.com/)
-- [Technology Radar | ThoughtWorks](https://www.thoughtworks.com/radar)
+- [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
+- [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/)
 - [Learn Anything](https://learn-anything.xyz/)
 - [Programming.Guide](http://programming.guide/)
 - [OI Wiki](https://oi-wiki.org/)

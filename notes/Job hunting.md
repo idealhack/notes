@@ -7,7 +7,7 @@
 ## Steps
 
 - [[Resume]]
-- [[Interview]]]
+- [[Technical Interview]]
 
 ## Positions
 

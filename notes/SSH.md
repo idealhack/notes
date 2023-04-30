@@ -41,6 +41,7 @@
 
 ## Tools
 
+- [maxgoedjen/secretive: Store SSH keys in the Secure Enclave](https://github.com/maxgoedjen/secretive)
 - [emre/storm: Manage your SSH like a boss.](https://github.com/emre/storm)
 - [Shuttle | A simple SSH shortcut menu for OS X](http://fitztrev.github.io/shuttle/)
 - [Gate One ✈ Web Terminal Emulator and SSH Client | Liftoff Software](http://liftoffsoftware.com/Products/GateOne)

@@ -81,3 +81,4 @@
 - [halfrost/LeetCode-Go: ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解](https://github.com/halfrost/LeetCode-Go)
 - [New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time - Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - [Neetcode](https://neetcode.io/)
+- [Algorithms | Computer science | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)

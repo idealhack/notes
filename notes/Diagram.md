@@ -7,10 +7,12 @@
 ## Tools
 
 - [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
-- [mermaid](https://mermaidjs.github.io/)
+- [Mermaid | Diagramming and charting tool](https://mermaid.js.org/)
+- [terrastruct/d2: D2 is a modern diagram scripting language that turns text to diagrams.](https://github.com/terrastruct/d2)
 - [flowchart.js](http://flowchart.js.org/)
 - [js-sequence-diagrams by bramp](https://bramp.github.io/js-sequence-diagrams/)
 - [Simple Collaborative Mind Maps - Coggle](https://coggle.it/)
+- [Insight Maker | Build simulations and models for free](https://insightmaker.com/)
 
 ## Resources
 

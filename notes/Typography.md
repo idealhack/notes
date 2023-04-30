@@ -1,5 +1,11 @@
 # Typography
 
+## Overview
+
+- [Horizontal and vertical writing in East Asian scripts - Wikipedia](https://en.wikipedia.org/wiki/Horizontal_and_vertical_writing_in_East_Asian_scripts)
+- [纵书与横书 - 维基百科](https://zh.wikipedia.org/zh-hans/%E7%B8%B1%E6%9B%B8%E8%88%87%E6%A9%AB%E6%9B%B8)
+
+
 ## [[Fonts]]
 
 ## Style guides

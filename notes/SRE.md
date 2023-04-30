@@ -3,9 +3,7 @@
 ## Overview
 
 - [Site reliability engineering - Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-- [Google - Site Reliability Engineering](https://landing.google.com/sre/)
-- [SRE: Google运维解密 (豆瓣)](https://book.douban.com/subject/26875239/)
-- [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/)
+- [Google - Site Reliability Engineering](https://sre.google/)
 
 ## Section
 
@@ -21,8 +19,9 @@
 
 ## Methodology
 
+- SLO, SLI, SLA
 - On call log
-- Postmortems
+- Incident reports
 
 ## Resources
 

@@ -28,6 +28,10 @@
 - [EPSG.io: Coordinate Systems Worldwide](https://epsg.io/)
 - [googollee/eviltransform: Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).](https://github.com/googollee/eviltransform)
 
+### IPTV
+
+- [iptv-org/awesome-iptv: A curated list of resources related to IPTV](https://github.com/iptv-org/awesome-iptv)
+
 ## Resources
 
 - [The Open Definition - Open Definition - Defining Open in Open Data, Open Content and Open Knowledge](http://opendefinition.org/)

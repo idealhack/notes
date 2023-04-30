@@ -16,6 +16,10 @@
 - [Kubernetes Audit Logging Tutorial | Benji Visser](http://www.noqcks.io/notes/2018/03/31/kubernetes-audit-logging-tutorial/)
 - [infrahq/infra: Manage infrastructure access](https://github.com/infrahq/infra)
 
+### Authentication
+
+- [vmware-tanzu/pinniped: Pinniped is the easy, secure way to log in to your Kubernetes clusters.](https://github.com/vmware-tanzu/pinniped)
+
 ### RBAC
 
 - [Using RBAC Authorization - Kubernetes](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
